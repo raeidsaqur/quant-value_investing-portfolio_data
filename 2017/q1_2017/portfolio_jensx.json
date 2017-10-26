@@ -1,0 +1,227 @@
+{
+    "company":"Jensen",
+    "investor":"Robert Zagunis",
+    "num_stocks":"27",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"jensx",
+    "portfolio_value":"$5,898,245,000",
+    "stocks":[
+        {
+            "name":"Becton Dickinson",
+            "num_shares":"1,979,000",
+            "portfolio_weight":"6.55",
+            "recent_activity":" ",
+            "reported_price":"$195.11",
+            "ticker":"BDX"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"3,015,000",
+            "portfolio_weight":"5.90",
+            "recent_activity":" ",
+            "reported_price":"$115.49",
+            "ticker":"PEP"
+        },
+        {
+            "name":"3M Co.",
+            "num_shares":"1,577,000",
+            "portfolio_weight":"5.57",
+            "recent_activity":" ",
+            "reported_price":"$208.19",
+            "ticker":"MMM"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"2,609,000",
+            "portfolio_weight":"5.40",
+            "recent_activity":" ",
+            "reported_price":"$122.11",
+            "ticker":"UTX"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"4,453,000",
+            "portfolio_weight":"5.20",
+            "recent_activity":"Reduce 4.75%",
+            "reported_price":"$68.93",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"1,564,000",
+            "portfolio_weight":"4.92",
+            "recent_activity":" ",
+            "reported_price":"$185.42",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Ecolab Inc.",
+            "num_shares":"2,080,000",
+            "portfolio_weight":"4.68",
+            "recent_activity":" ",
+            "reported_price":"$132.75",
+            "ticker":"ECL"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"2,078,000",
+            "portfolio_weight":"4.66",
+            "recent_activity":"Reduce 5.20%",
+            "reported_price":"$132.29",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Praxair Inc.",
+            "num_shares":"2,069,000",
+            "portfolio_weight":"4.65",
+            "recent_activity":" ",
+            "reported_price":"$132.55",
+            "ticker":"PX"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"5,170,000",
+            "portfolio_weight":"4.39",
+            "recent_activity":"Reduce 5.97%",
+            "reported_price":"$50.14",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Stryker Corp.",
+            "num_shares":"1,782,000",
+            "portfolio_weight":"4.19",
+            "recent_activity":"Add 14.08%",
+            "reported_price":"$138.78",
+            "ticker":"SYK"
+        },
+        {
+            "name":"Omnicom Group",
+            "num_shares":"2,816,000",
+            "portfolio_weight":"3.96",
+            "recent_activity":"Add 15.65%",
+            "reported_price":"$82.90",
+            "ticker":"OMC"
+        },
+        {
+            "name":"Accenture",
+            "num_shares":"1,860,000",
+            "portfolio_weight":"3.90",
+            "recent_activity":"Reduce 6.25%",
+            "reported_price":"$123.68",
+            "ticker":"ACN"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"2,434,000",
+            "portfolio_weight":"3.60",
+            "recent_activity":" ",
+            "reported_price":"$87.15",
+            "ticker":"PG"
+        },
+        {
+            "name":"TJX Companies Inc.",
+            "num_shares":"2,712,000",
+            "portfolio_weight":"3.32",
+            "recent_activity":" ",
+            "reported_price":"$72.17",
+            "ticker":"TJX"
+        },
+        {
+            "name":"NIKE Inc.",
+            "num_shares":"3,135,000",
+            "portfolio_weight":"3.14",
+            "recent_activity":"Add 22.27%",
+            "reported_price":"$59.00",
+            "ticker":"NKE"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"191,000",
+            "portfolio_weight":"3.01",
+            "recent_activity":" ",
+            "reported_price":"$929.68",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Waters Corp.",
+            "num_shares":"953,300",
+            "portfolio_weight":"2.97",
+            "recent_activity":" ",
+            "reported_price":"$183.84",
+            "ticker":"WAT"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"1,087,000",
+            "portfolio_weight":"2.65",
+            "recent_activity":"Reduce 22.36%",
+            "reported_price":"$144.02",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"1,287,000",
+            "portfolio_weight":"2.65",
+            "recent_activity":" ",
+            "reported_price":"$121.45",
+            "ticker":"MA"
+        },
+        {
+            "name":"Automatic Data Processing Inc.",
+            "num_shares":"1,487,000",
+            "portfolio_weight":"2.58",
+            "recent_activity":"Reduce 17.02%",
+            "reported_price":"$102.46",
+            "ticker":"ADP"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"1,326,000",
+            "portfolio_weight":"2.49",
+            "recent_activity":" ",
+            "reported_price":"$110.59",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Amphenol Corp.",
+            "num_shares":"1,892,000",
+            "portfolio_weight":"2.37",
+            "recent_activity":" ",
+            "reported_price":"$73.82",
+            "ticker":"APH"
+        },
+        {
+            "name":"Emerson Electric",
+            "num_shares":"2,187,000",
+            "portfolio_weight":"2.21",
+            "recent_activity":" ",
+            "reported_price":"$59.62",
+            "ticker":"EMR"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"1,901,000",
+            "portfolio_weight":"2.14",
+            "recent_activity":" ",
+            "reported_price":"$66.40",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Coca Cola Co.",
+            "num_shares":"2,344,000",
+            "portfolio_weight":"1.78",
+            "recent_activity":" ",
+            "reported_price":"$44.85",
+            "ticker":"KO"
+        },
+        {
+            "name":"Broadridge Financial Solutions",
+            "num_shares":"872,000",
+            "portfolio_weight":"1.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$75.56",
+            "ticker":"BR"
+        }
+    ]
+}

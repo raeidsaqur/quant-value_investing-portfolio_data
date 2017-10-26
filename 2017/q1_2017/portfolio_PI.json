@@ -1,0 +1,67 @@
+{
+    "company":"Pabrai Investments",
+    "investor":"Mohnish Pabrai",
+    "num_stocks":"7",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"PI",
+    "portfolio_value":"$388,956,000",
+    "stocks":[
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"12,922,130",
+            "portfolio_weight":"36.31",
+            "recent_activity":"Add 7.94%",
+            "reported_price":"$10.93",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"6,053,822",
+            "portfolio_weight":"27.79",
+            "recent_activity":"Add 8.51%",
+            "reported_price":"$17.85",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"66,228",
+            "portfolio_weight":"14.12",
+            "recent_activity":"Reduce 4.28%",
+            "reported_price":"$829.56",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"819,185",
+            "portfolio_weight":"9.68",
+            "recent_activity":"Add 21.96%",
+            "reported_price":"$45.97",
+            "ticker":"AER"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"398,138",
+            "portfolio_weight":"7.64",
+            "recent_activity":" ",
+            "reported_price":"$74.60",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"300,975",
+            "portfolio_weight":"4.16",
+            "recent_activity":" ",
+            "reported_price":"$53.76",
+            "ticker":"LUV"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"27,002",
+            "portfolio_weight":"0.30",
+            "recent_activity":"Reduce 94.90%",
+            "reported_price":"$43.14",
+            "ticker":"SRG"
+        }
+    ]
+}

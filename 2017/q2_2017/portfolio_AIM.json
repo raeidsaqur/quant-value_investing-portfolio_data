@@ -1,0 +1,163 @@
+{
+    "company":"Atlantic Investment Management",
+    "investor":"Alex Roepers",
+    "num_stocks":"19",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"AIM",
+    "portfolio_value":"$973,131,000",
+    "stocks":[
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"8,381,360",
+            "portfolio_weight":"20.60",
+            "recent_activity":"Reduce 14.48%",
+            "reported_price":"$23.92",
+            "ticker":"OI"
+        },
+        {
+            "name":"Diebold Inc.",
+            "num_shares":"6,000,000",
+            "portfolio_weight":"17.26",
+            "recent_activity":"Add 17.45%",
+            "reported_price":"$28.00",
+            "ticker":"DBD"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"4,265,989",
+            "portfolio_weight":"16.67",
+            "recent_activity":"Add 13.04%",
+            "reported_price":"$38.03",
+            "ticker":"COMM"
+        },
+        {
+            "name":"Eastman Chemical",
+            "num_shares":"1,701,345",
+            "portfolio_weight":"14.68",
+            "recent_activity":"Add 8.82%",
+            "reported_price":"$83.99",
+            "ticker":"EMN"
+        },
+        {
+            "name":"ARRIS International plc",
+            "num_shares":"4,280,759",
+            "portfolio_weight":"12.33",
+            "recent_activity":"Add 56.38%",
+            "reported_price":"$28.02",
+            "ticker":"ARRS"
+        },
+        {
+            "name":"Huntsman Corp.",
+            "num_shares":"4,330,700",
+            "portfolio_weight":"11.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$25.84",
+            "ticker":"HUN"
+        },
+        {
+            "name":"Magna International Inc.",
+            "num_shares":"173,356",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Reduce 46.15%",
+            "reported_price":"$46.33",
+            "ticker":"MGA"
+        },
+        {
+            "name":"International Game Technology",
+            "num_shares":"412,247",
+            "portfolio_weight":"0.78",
+            "recent_activity":"Add 258.48%",
+            "reported_price":"$18.30",
+            "ticker":"IGT"
+        },
+        {
+            "name":"LSC Communications Inc.",
+            "num_shares":"355,388",
+            "portfolio_weight":"0.78",
+            "recent_activity":"Add 138.38%",
+            "reported_price":"$21.40",
+            "ticker":"LSKD"
+        },
+        {
+            "name":"Triumph Group Inc.",
+            "num_shares":"233,993",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Reduce 86.39%",
+            "reported_price":"$31.60",
+            "ticker":"TGI"
+        },
+        {
+            "name":"Steelcase Inc.",
+            "num_shares":"487,643",
+            "portfolio_weight":"0.70",
+            "recent_activity":"Reduce 4.78%",
+            "reported_price":"$14.00",
+            "ticker":"SCS"
+        },
+        {
+            "name":"Avnet Inc.",
+            "num_shares":"158,000",
+            "portfolio_weight":"0.63",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.88",
+            "ticker":"AVT"
+        },
+        {
+            "name":"DXC Technology Co.",
+            "num_shares":"61,117",
+            "portfolio_weight":"0.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$76.72",
+            "ticker":"DXC"
+        },
+        {
+            "name":"Babcock & Wilcox Enterprises",
+            "num_shares":"386,056",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Reduce 62.88%",
+            "reported_price":"$11.76",
+            "ticker":"BW"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"312,368",
+            "portfolio_weight":"0.45",
+            "recent_activity":"Add 26.07%",
+            "reported_price":"$14.11",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Adient plc",
+            "num_shares":"50,000",
+            "portfolio_weight":"0.34",
+            "recent_activity":"Buy ",
+            "reported_price":"$65.38",
+            "ticker":"ADNT"
+        },
+        {
+            "name":"KapStone Paper and Packaging Corp.",
+            "num_shares":"150,000",
+            "portfolio_weight":"0.32",
+            "recent_activity":"Buy ",
+            "reported_price":"$20.63",
+            "ticker":"KS"
+        },
+        {
+            "name":"American Axle & Manufacturing Holdings",
+            "num_shares":"150,000",
+            "portfolio_weight":"0.24",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.60",
+            "ticker":"AXL"
+        },
+        {
+            "name":"ZTO Express",
+            "num_shares":"127,400",
+            "portfolio_weight":"0.18",
+            "recent_activity":"Add 154.80%",
+            "reported_price":"$13.96",
+            "ticker":"ZTO"
+        }
+    ]
+}

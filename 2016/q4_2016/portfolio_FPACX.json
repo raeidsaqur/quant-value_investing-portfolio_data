@@ -1,0 +1,339 @@
+{
+    "company":"FPA Crescent Fund",
+    "investor":"Steven Romick",
+    "num_stocks":"41",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"FPACX",
+    "portfolio_value":"$10,118,105,000",
+    "stocks":[
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"15,945,530",
+            "portfolio_weight":"6.06",
+            "recent_activity":" ",
+            "reported_price":"$38.45",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"4,868,590",
+            "portfolio_weight":"5.27",
+            "recent_activity":"Reduce 3.04%",
+            "reported_price":"$109.62",
+            "ticker":"UTX"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"8,092,730",
+            "portfolio_weight":"5.22",
+            "recent_activity":"Reduce 5.92%",
+            "reported_price":"$65.31",
+            "ticker":"AIG"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"8,308,010",
+            "portfolio_weight":"4.88",
+            "recent_activity":"Reduce 19.61%",
+            "reported_price":"$59.43",
+            "ticker":"C"
+        },
+        {
+            "name":"Naspers Ltd",
+            "num_shares":"3,281,487",
+            "portfolio_weight":"4.76",
+            "recent_activity":"Add 0.39%",
+            "reported_price":"$146.65",
+            "ticker":"NPSNY"
+        },
+        {
+            "name":"CIT Group",
+            "num_shares":"11,225,440",
+            "portfolio_weight":"4.74",
+            "recent_activity":"Reduce 6.49%",
+            "reported_price":"$42.68",
+            "ticker":"CIT"
+        },
+        {
+            "name":"Aon Corp.",
+            "num_shares":"4,164,700",
+            "portfolio_weight":"4.59",
+            "recent_activity":" ",
+            "reported_price":"$111.53",
+            "ticker":"AON"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"20,202,520",
+            "portfolio_weight":"4.41",
+            "recent_activity":"Reduce 18.64%",
+            "reported_price":"$22.10",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"17,107,960",
+            "portfolio_weight":"3.93",
+            "recent_activity":"Reduce 4.08%",
+            "reported_price":"$23.25",
+            "ticker":"LUK"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"6,327,480",
+            "portfolio_weight":"3.89",
+            "recent_activity":" ",
+            "reported_price":"$62.14",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"11,780,410",
+            "portfolio_weight":"3.52",
+            "recent_activity":"Reduce 8.93%",
+            "reported_price":"$30.22",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"TE Connectivity",
+            "num_shares":"4,875,610",
+            "portfolio_weight":"3.34",
+            "recent_activity":"Reduce 6.83%",
+            "reported_price":"$69.28",
+            "ticker":"TEL"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"4,479,810",
+            "portfolio_weight":"3.28",
+            "recent_activity":"Reduce 2.52%",
+            "reported_price":"$74.08",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Arconic Inc.",
+            "num_shares":"15,228,573",
+            "portfolio_weight":"2.79",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.54",
+            "ticker":"ARNC"
+        },
+        {
+            "name":"Analog Devices",
+            "num_shares":"3,731,890",
+            "portfolio_weight":"2.68",
+            "recent_activity":" ",
+            "reported_price":"$72.62",
+            "ticker":"ADI"
+        },
+        {
+            "name":"Esterline Technologies",
+            "num_shares":"2,863,871",
+            "portfolio_weight":"2.52",
+            "recent_activity":" ",
+            "reported_price":"$89.20",
+            "ticker":"ESL"
+        },
+        {
+            "name":"Groupe Bruxelles Lambert S.A.",
+            "num_shares":"2,851,023",
+            "portfolio_weight":"2.36",
+            "recent_activity":" ",
+            "reported_price":"$83.92",
+            "ticker":"GBLBF"
+        },
+        {
+            "name":"Meggitt PLC",
+            "num_shares":"41,729,847",
+            "portfolio_weight":"2.33",
+            "recent_activity":"Reduce 1.72%",
+            "reported_price":"$5.65",
+            "ticker":"MEGGF"
+        },
+        {
+            "name":"WPP Group plc",
+            "num_shares":"10,389,420",
+            "portfolio_weight":"2.30",
+            "recent_activity":" ",
+            "reported_price":"$22.38",
+            "ticker":"WPPGY"
+        },
+        {
+            "name":"Baidu Inc.",
+            "num_shares":"1,282,010",
+            "portfolio_weight":"2.08",
+            "recent_activity":"Add 79.34%",
+            "reported_price":"$164.41",
+            "ticker":"BIDU"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"6,349,230",
+            "portfolio_weight":"1.98",
+            "recent_activity":"Reduce 14.34%",
+            "reported_price":"$31.60",
+            "ticker":"GE"
+        },
+        {
+            "name":"Ally Financial Inc.",
+            "num_shares":"9,942,850",
+            "portfolio_weight":"1.87",
+            "recent_activity":" ",
+            "reported_price":"$19.02",
+            "ticker":"ALLY"
+        },
+        {
+            "name":"Yahoo Inc.",
+            "num_shares":"4,847,270",
+            "portfolio_weight":"1.85",
+            "recent_activity":"Add 42.04%",
+            "reported_price":"$38.67",
+            "ticker":"YHOO"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"220,277",
+            "portfolio_weight":"1.73",
+            "recent_activity":" ",
+            "reported_price":"$792.45",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"220,881",
+            "portfolio_weight":"1.68",
+            "recent_activity":" ",
+            "reported_price":"$771.82",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Nexeo Solutions Inc.",
+            "num_shares":"17,691,717",
+            "portfolio_weight":"1.63",
+            "recent_activity":" ",
+            "reported_price":"$9.31",
+            "ticker":"NXEO"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"1,134,900",
+            "portfolio_weight":"1.58",
+            "recent_activity":"Reduce 13.13%",
+            "reported_price":"$141.10",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"8,912,900",
+            "portfolio_weight":"1.53",
+            "recent_activity":" ",
+            "reported_price":"$17.41",
+            "ticker":"OI"
+        },
+        {
+            "name":"LPL Investment Holdings Inc.",
+            "num_shares":"4,165,970",
+            "portfolio_weight":"1.45",
+            "recent_activity":" ",
+            "reported_price":"$35.21",
+            "ticker":"LPLA"
+        },
+        {
+            "name":"Alcoa Corp.",
+            "num_shares":"4,810,740",
+            "portfolio_weight":"1.34",
+            "recent_activity":"Reduce 89.47%",
+            "reported_price":"$28.08",
+            "ticker":"AA"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"1,815,560",
+            "portfolio_weight":"1.17",
+            "recent_activity":" ",
+            "reported_price":"$65.20",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Legg Mason",
+            "num_shares":"3,669,319",
+            "portfolio_weight":"1.08",
+            "recent_activity":" ",
+            "reported_price":"$29.91",
+            "ticker":"LM"
+        },
+        {
+            "name":"Alleghany Corp.",
+            "num_shares":"153,351",
+            "portfolio_weight":"0.92",
+            "recent_activity":" ",
+            "reported_price":"$608.12",
+            "ticker":"Y"
+        },
+        {
+            "name":"Jardine Strategic Holdings",
+            "num_shares":"2,674,240",
+            "portfolio_weight":"0.88",
+            "recent_activity":" ",
+            "reported_price":"$33.20",
+            "ticker":"JDSHF"
+        },
+        {
+            "name":"LUKOIL",
+            "num_shares":"1,455,100",
+            "portfolio_weight":"0.81",
+            "recent_activity":" ",
+            "reported_price":"$56.10",
+            "ticker":"LUKOY"
+        },
+        {
+            "name":"MMC Norilsk SP",
+            "num_shares":"4,377,920",
+            "portfolio_weight":"0.73",
+            "recent_activity":" ",
+            "reported_price":"$16.79",
+            "ticker":"MNOD.IL"
+        },
+        {
+            "name":"Unilever NV",
+            "num_shares":"1,756,570",
+            "portfolio_weight":"0.71",
+            "recent_activity":" ",
+            "reported_price":"$41.17",
+            "ticker":"UN"
+        },
+        {
+            "name":"Lenta Ltd.",
+            "num_shares":"8,153,870",
+            "portfolio_weight":"0.66",
+            "recent_activity":" ",
+            "reported_price":"$8.20",
+            "ticker":"LNTR,L"
+        },
+        {
+            "name":"Gazprom",
+            "num_shares":"12,690,400",
+            "portfolio_weight":"0.63",
+            "recent_activity":" ",
+            "reported_price":"$5.05",
+            "ticker":"OGZPY"
+        },
+        {
+            "name":"Occidental Petroleum",
+            "num_shares":"620,540",
+            "portfolio_weight":"0.44",
+            "recent_activity":" ",
+            "reported_price":"$71.23",
+            "ticker":"OXY"
+        },
+        {
+            "name":"Rosneft Oil",
+            "num_shares":"5,711,200",
+            "portfolio_weight":"0.37",
+            "recent_activity":" ",
+            "reported_price":"$6.50",
+            "ticker":"RNFTF"
+        }
+    ]
+}

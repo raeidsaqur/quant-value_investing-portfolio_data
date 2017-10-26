@@ -1,0 +1,67 @@
+{
+    "company":"Pabrai Investments",
+    "investor":"Mohnish Pabrai",
+    "num_stocks":"7",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"PI",
+    "portfolio_value":"$296,267,000",
+    "stocks":[
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"13,784,930",
+            "portfolio_weight":"28.48",
+            "recent_activity":"Reduce 0.01%",
+            "reported_price":"$6.12",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"5,984,447",
+            "portfolio_weight":"21.15",
+            "recent_activity":"Reduce 0.03%",
+            "reported_price":"$10.47",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"69,188",
+            "portfolio_weight":"16.16",
+            "recent_activity":" ",
+            "reported_price":"$692.10",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"1,069,038",
+            "portfolio_weight":"14.69",
+            "recent_activity":"Reduce 16.30%",
+            "reported_price":"$40.72",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"529,113",
+            "portfolio_weight":"8.90",
+            "recent_activity":"Reduce 0.29%",
+            "reported_price":"$49.84",
+            "ticker":"SRG"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"624,160",
+            "portfolio_weight":"7.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$33.59",
+            "ticker":"AER"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"72,500",
+            "portfolio_weight":"3.54",
+            "recent_activity":"Reduce 0.01%",
+            "reported_price":"$144.79",
+            "ticker":"BRK.B"
+        }
+    ]
+}

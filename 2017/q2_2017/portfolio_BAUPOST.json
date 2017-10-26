@@ -1,0 +1,323 @@
+{
+    "company":"Baupost Group",
+    "investor":"Seth Klarman",
+    "num_stocks":"39",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"BAUPOST",
+    "portfolio_value":"$8,696,933,000",
+    "stocks":[
+        {
+            "name":"Cheniere Energy Inc.",
+            "num_shares":"20,726,340",
+            "portfolio_weight":"11.61",
+            "recent_activity":"Reduce 4.60%",
+            "reported_price":"$48.71",
+            "ticker":"LNG"
+        },
+        {
+            "name":"Synchrony Financial",
+            "num_shares":"29,295,030",
+            "portfolio_weight":"10.04",
+            "recent_activity":"Add 65.84%",
+            "reported_price":"$29.82",
+            "ticker":"SYF"
+        },
+        {
+            "name":"Viasat Inc.",
+            "num_shares":"13,158,137",
+            "portfolio_weight":"10.02",
+            "recent_activity":" ",
+            "reported_price":"$66.20",
+            "ticker":"VSAT"
+        },
+        {
+            "name":"Colony NorthStar Inc.",
+            "num_shares":"47,905,461",
+            "portfolio_weight":"7.76",
+            "recent_activity":" ",
+            "reported_price":"$14.09",
+            "ticker":"CLNS"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"2,432,603",
+            "portfolio_weight":"6.80",
+            "recent_activity":" ",
+            "reported_price":"$243.09",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Qorvo Inc.",
+            "num_shares":"9,000,000",
+            "portfolio_weight":"6.55",
+            "recent_activity":"Add 25.25%",
+            "reported_price":"$63.32",
+            "ticker":"QRVO"
+        },
+        {
+            "name":"Twenty-First Century Fox",
+            "num_shares":"19,137,469",
+            "portfolio_weight":"6.24",
+            "recent_activity":" ",
+            "reported_price":"$28.34",
+            "ticker":"FOXA"
+        },
+        {
+            "name":"Antero Resources",
+            "num_shares":"21,170,996",
+            "portfolio_weight":"5.26",
+            "recent_activity":"Add 45.95%",
+            "reported_price":"$21.61",
+            "ticker":"AR"
+        },
+        {
+            "name":"Theravance Biopharma Inc.",
+            "num_shares":"9,273,991",
+            "portfolio_weight":"4.25",
+            "recent_activity":" ",
+            "reported_price":"$39.84",
+            "ticker":"TBPH"
+        },
+        {
+            "name":"PBF Energy Inc.",
+            "num_shares":"15,724,175",
+            "portfolio_weight":"4.02",
+            "recent_activity":" ",
+            "reported_price":"$22.26",
+            "ticker":"PBF"
+        },
+        {
+            "name":"Dell Technologies Inc.",
+            "num_shares":"5,652,459",
+            "portfolio_weight":"3.97",
+            "recent_activity":" ",
+            "reported_price":"$61.11",
+            "ticker":"DVMT"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"5,216,000",
+            "portfolio_weight":"3.31",
+            "recent_activity":" ",
+            "reported_price":"$55.22",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Twenty-First Century Fox CL B",
+            "num_shares":"7,278,100",
+            "portfolio_weight":"2.33",
+            "recent_activity":" ",
+            "reported_price":"$27.87",
+            "ticker":"FOX"
+        },
+        {
+            "name":"Keryx Biopharmaceuticals Inc.",
+            "num_shares":"25,791,678",
+            "portfolio_weight":"2.14",
+            "recent_activity":" ",
+            "reported_price":"$7.23",
+            "ticker":"KERX"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"2,556,891",
+            "portfolio_weight":"1.88",
+            "recent_activity":"Add 108.11%",
+            "reported_price":"$63.84",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"Cardinal Health Inc.",
+            "num_shares":"2,030,000",
+            "portfolio_weight":"1.82",
+            "recent_activity":"Add 97.09%",
+            "reported_price":"$77.92",
+            "ticker":"CAH"
+        },
+        {
+            "name":"Veritiv Corp.",
+            "num_shares":"3,044,385",
+            "portfolio_weight":"1.58",
+            "recent_activity":" ",
+            "reported_price":"$45.00",
+            "ticker":"VRTV"
+        },
+        {
+            "name":"Forward Pharma A/S",
+            "num_shares":"6,364,059",
+            "portfolio_weight":"1.49",
+            "recent_activity":"Add 14.15%",
+            "reported_price":"$20.33",
+            "ticker":"FWP"
+        },
+        {
+            "name":"Avis Budget Group Inc.",
+            "num_shares":"4,000,000",
+            "portfolio_weight":"1.25",
+            "recent_activity":"Buy ",
+            "reported_price":"$27.27",
+            "ticker":"CAR"
+        },
+        {
+            "name":"Atara Biotherapeutics Inc.",
+            "num_shares":"5,359,632",
+            "portfolio_weight":"0.86",
+            "recent_activity":" ",
+            "reported_price":"$14.00",
+            "ticker":"ATRA"
+        },
+        {
+            "name":"ChipMOS TECH",
+            "num_shares":"3,509,858",
+            "portfolio_weight":"0.80",
+            "recent_activity":" ",
+            "reported_price":"$19.77",
+            "ticker":"IMOS"
+        },
+        {
+            "name":"Spirit Realty Capital Inc.",
+            "num_shares":"9,000,000",
+            "portfolio_weight":"0.77",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.41",
+            "ticker":"SRC"
+        },
+        {
+            "name":"Silver Run Acquisition Corp.",
+            "num_shares":"6,615,552",
+            "portfolio_weight":"0.77",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.13",
+            "ticker":"SRAQ"
+        },
+        {
+            "name":"Paratek Pharmaceuticals",
+            "num_shares":"2,394,498",
+            "portfolio_weight":"0.66",
+            "recent_activity":"Add 17.12%",
+            "reported_price":"$24.10",
+            "ticker":"PRTK"
+        },
+        {
+            "name":"Gty Technology Hldgs Inc. Unit",
+            "num_shares":"4,400,000",
+            "portfolio_weight":"0.53",
+            "recent_activity":" ",
+            "reported_price":"$10.46",
+            "ticker":"GTYHU"
+        },
+        {
+            "name":"NovaGold Resources",
+            "num_shares":"9,500,000",
+            "portfolio_weight":"0.50",
+            "recent_activity":" ",
+            "reported_price":"$4.56",
+            "ticker":"NG"
+        },
+        {
+            "name":"Conyers Park Acquisition Corp.",
+            "num_shares":"3,712,500",
+            "portfolio_weight":"0.50",
+            "recent_activity":" ",
+            "reported_price":"$11.78",
+            "ticker":"CPAA"
+        },
+        {
+            "name":"Centennial Resource Dev. Inc.",
+            "num_shares":"2,407,153",
+            "portfolio_weight":"0.42",
+            "recent_activity":" ",
+            "reported_price":"$15.26",
+            "ticker":"CDEV"
+        },
+        {
+            "name":"Cascadian Therapeutics Inc.",
+            "num_shares":"8,721,079",
+            "portfolio_weight":"0.37",
+            "recent_activity":" ",
+            "reported_price":"$3.72",
+            "ticker":"CASC"
+        },
+        {
+            "name":"Liberty Braves Group C",
+            "num_shares":"1,303,482",
+            "portfolio_weight":"0.36",
+            "recent_activity":"Reduce 34.63%",
+            "reported_price":"$23.97",
+            "ticker":"BATRK"
+        },
+        {
+            "name":"Credit Acceptance Corp.",
+            "num_shares":"98,700",
+            "portfolio_weight":"0.29",
+            "recent_activity":"Reduce 59.62%",
+            "reported_price":"$257.14",
+            "ticker":"CACC"
+        },
+        {
+            "name":"Saban Capital Acquisition Corp.",
+            "num_shares":"2,326,500",
+            "portfolio_weight":"0.27",
+            "recent_activity":" ",
+            "reported_price":"$10.00",
+            "ticker":"SCAC"
+        },
+        {
+            "name":"Sunrun Inc.",
+            "num_shares":"2,848,082",
+            "portfolio_weight":"0.23",
+            "recent_activity":" ",
+            "reported_price":"$7.12",
+            "ticker":"RUN"
+        },
+        {
+            "name":"American Intl. Grp. WTS",
+            "num_shares":"354,812",
+            "portfolio_weight":"0.09",
+            "recent_activity":"Reduce 71.82%",
+            "reported_price":"$21.08",
+            "ticker":"AIG.WS"
+        },
+        {
+            "name":"Trilogy Metals Inc.",
+            "num_shares":"10,600,758",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$0.63",
+            "ticker":"TMQ"
+        },
+        {
+            "name":"Orexigen Therapeutics Inc.",
+            "num_shares":"2,226,839",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$2.90",
+            "ticker":"OREX"
+        },
+        {
+            "name":"Silver Run Acquisition Corp. WTS",
+            "num_shares":"2,205,184",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$1.79",
+            "ticker":"SRAQ.WS"
+        },
+        {
+            "name":"Conyers Park Acquisition Corp. WTS",
+            "num_shares":"1,237,500",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$2.62",
+            "ticker":"CPAAW"
+        },
+        {
+            "name":"Saban Capital Acquisition Corp. WTS",
+            "num_shares":"1,163,250",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$1.25",
+            "ticker":"SCACW"
+        }
+    ]
+}

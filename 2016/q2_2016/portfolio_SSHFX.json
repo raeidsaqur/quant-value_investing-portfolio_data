@@ -1,0 +1,307 @@
+{
+    "company":"Sound Shore",
+    "investor":"Harry Burn",
+    "num_stocks":"37",
+    "period":"Q1 2016",
+    "portfolio_date":"31 Mar 2016",
+    "portfolio_id":"SSHFX",
+    "portfolio_value":"$1,822,982,000",
+    "stocks":[
+        {
+            "name":"Merck & Co.",
+            "num_shares":"1,222,500",
+            "portfolio_weight":"3.55",
+            "recent_activity":"Add 6.02%",
+            "reported_price":"$52.91",
+            "ticker":"MRK"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"1,543,700",
+            "portfolio_weight":"3.46",
+            "recent_activity":"Reduce 7.59%",
+            "reported_price":"$40.91",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"1,115,200",
+            "portfolio_weight":"3.38",
+            "recent_activity":" ",
+            "reported_price":"$55.23",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"International Paper",
+            "num_shares":"1,430,500",
+            "portfolio_weight":"3.22",
+            "recent_activity":"Add 2.83%",
+            "reported_price":"$41.04",
+            "ticker":"IP"
+        },
+        {
+            "name":"Flextronics International Ltd.",
+            "num_shares":"4,820,800",
+            "portfolio_weight":"3.19",
+            "recent_activity":" ",
+            "reported_price":"$12.06",
+            "ticker":"FLEX"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"812,700",
+            "portfolio_weight":"3.09",
+            "recent_activity":"Add 4.17%",
+            "reported_price":"$69.31",
+            "ticker":"COF"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"1,011,400",
+            "portfolio_weight":"3.06",
+            "recent_activity":"Reduce 11.71%",
+            "reported_price":"$55.09",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Analog Devices",
+            "num_shares":"902,400",
+            "portfolio_weight":"2.93",
+            "recent_activity":"Add 3.80%",
+            "reported_price":"$59.19",
+            "ticker":"ADI"
+        },
+        {
+            "name":"CIT Group",
+            "num_shares":"1,717,600",
+            "portfolio_weight":"2.92",
+            "recent_activity":"Add 7.79%",
+            "reported_price":"$31.03",
+            "ticker":"CIT"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"1,376,700",
+            "portfolio_weight":"2.84",
+            "recent_activity":"Add 7.65%",
+            "reported_price":"$37.56",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Invesco Plc",
+            "num_shares":"1,658,200",
+            "portfolio_weight":"2.80",
+            "recent_activity":"Add 1.54%",
+            "reported_price":"$30.77",
+            "ticker":"IVZ"
+        },
+        {
+            "name":"Applied Materials",
+            "num_shares":"2,389,600",
+            "portfolio_weight":"2.78",
+            "recent_activity":"Reduce 25.22%",
+            "reported_price":"$21.18",
+            "ticker":"AMAT"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"825,000",
+            "portfolio_weight":"2.76",
+            "recent_activity":"Reduce 14.97%",
+            "reported_price":"$61.08",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Exelon Corp.",
+            "num_shares":"1,398,900",
+            "portfolio_weight":"2.75",
+            "recent_activity":"Reduce 22.43%",
+            "reported_price":"$35.86",
+            "ticker":"EXC"
+        },
+        {
+            "name":"Keysight Technologies Inc.",
+            "num_shares":"1,801,800",
+            "portfolio_weight":"2.74",
+            "recent_activity":"Add 3.45%",
+            "reported_price":"$27.74",
+            "ticker":"KEYS"
+        },
+        {
+            "name":"Texas Instruments",
+            "num_shares":"866,700",
+            "portfolio_weight":"2.73",
+            "recent_activity":" ",
+            "reported_price":"$57.42",
+            "ticker":"TXN"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"64,945",
+            "portfolio_weight":"2.72",
+            "recent_activity":" ",
+            "reported_price":"$762.91",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"1,182,800",
+            "portfolio_weight":"2.71",
+            "recent_activity":" ",
+            "reported_price":"$41.75",
+            "ticker":"C"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"676,700",
+            "portfolio_weight":"2.69",
+            "recent_activity":"Add 15.87%",
+            "reported_price":"$72.55",
+            "ticker":"TWX"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"3,611,500",
+            "portfolio_weight":"2.68",
+            "recent_activity":"Add 4.91%",
+            "reported_price":"$13.52",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Agilent Technologies",
+            "num_shares":"1,210,800",
+            "portfolio_weight":"2.65",
+            "recent_activity":"Reduce 10.22%",
+            "reported_price":"$39.85",
+            "ticker":"A"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"1,521,900",
+            "portfolio_weight":"2.65",
+            "recent_activity":"Reduce 10.08%",
+            "reported_price":"$31.79",
+            "ticker":"GE"
+        },
+        {
+            "name":"Marsh & McLennan",
+            "num_shares":"790,000",
+            "portfolio_weight":"2.63",
+            "recent_activity":"Reduce 14.15%",
+            "reported_price":"$60.79",
+            "ticker":"MMC"
+        },
+        {
+            "name":"Aon Corp.",
+            "num_shares":"456,500",
+            "portfolio_weight":"2.62",
+            "recent_activity":"Reduce 28.47%",
+            "reported_price":"$104.45",
+            "ticker":"AON"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"331,800",
+            "portfolio_weight":"2.58",
+            "recent_activity":"Buy ",
+            "reported_price":"$141.88",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"EQT Corp.",
+            "num_shares":"697,800",
+            "portfolio_weight":"2.57",
+            "recent_activity":"Reduce 32.15%",
+            "reported_price":"$67.26",
+            "ticker":"EQT"
+        },
+        {
+            "name":"Total SA",
+            "num_shares":"1,025,500",
+            "portfolio_weight":"2.56",
+            "recent_activity":"Buy ",
+            "reported_price":"$45.42",
+            "ticker":"TOT"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"323,800",
+            "portfolio_weight":"2.51",
+            "recent_activity":"Reduce 30.44%",
+            "reported_price":"$141.59",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"548,300",
+            "portfolio_weight":"2.48",
+            "recent_activity":"Reduce 12.19%",
+            "reported_price":"$82.31",
+            "ticker":"PG"
+        },
+        {
+            "name":"BP plc",
+            "num_shares":"1,493,600",
+            "portfolio_weight":"2.47",
+            "recent_activity":"Reduce 13.13%",
+            "reported_price":"$30.18",
+            "ticker":"BP"
+        },
+        {
+            "name":"Citizens Financial Group Inc.",
+            "num_shares":"2,127,700",
+            "portfolio_weight":"2.45",
+            "recent_activity":"Reduce 0.49%",
+            "reported_price":"$20.95",
+            "ticker":"CFG"
+        },
+        {
+            "name":"Vodafone Group PLC",
+            "num_shares":"1,303,400",
+            "portfolio_weight":"2.29",
+            "recent_activity":"Reduce 19.74%",
+            "reported_price":"$32.05",
+            "ticker":"VOD"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"1,403,000",
+            "portfolio_weight":"2.28",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.64",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Realogy Holdings Corp.",
+            "num_shares":"1,078,300",
+            "portfolio_weight":"2.14",
+            "recent_activity":" ",
+            "reported_price":"$36.11",
+            "ticker":"RLGY"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"2,119,100",
+            "portfolio_weight":"2.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$17.73",
+            "ticker":"HPE"
+        },
+        {
+            "name":"Lowe's Cos.",
+            "num_shares":"488,600",
+            "portfolio_weight":"2.03",
+            "recent_activity":"Reduce 7.20%",
+            "reported_price":"$75.75",
+            "ticker":"LOW"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"955,100",
+            "portfolio_weight":"2.03",
+            "recent_activity":"Reduce 23.25%",
+            "reported_price":"$38.76",
+            "ticker":"AER"
+        }
+    ]
+}

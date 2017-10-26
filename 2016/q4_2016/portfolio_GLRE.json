@@ -1,0 +1,259 @@
+{
+    "company":"Greenlight Capital",
+    "investor":"David Einhorn",
+    "num_stocks":"31",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"GLRE",
+    "portfolio_value":"$4,781,677,000",
+    "stocks":[
+        {
+            "name":"Apple Inc.",
+            "num_shares":"5,807,740",
+            "portfolio_weight":"14.07",
+            "recent_activity":"Add 11.81%",
+            "reported_price":"$115.85",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"12,621,325",
+            "portfolio_weight":"10.98",
+            "recent_activity":"Reduce 1.14%",
+            "reported_price":"$41.61",
+            "ticker":"AER"
+        },
+        {
+            "name":"General Motors",
+            "num_shares":"13,167,964",
+            "portfolio_weight":"9.59",
+            "recent_activity":"Reduce 22.54%",
+            "reported_price":"$34.84",
+            "ticker":"GM"
+        },
+        {
+            "name":"Mylan NV",
+            "num_shares":"8,670,307",
+            "portfolio_weight":"6.92",
+            "recent_activity":"Add 35.47%",
+            "reported_price":"$38.15",
+            "ticker":"MYL"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"3,310,409",
+            "portfolio_weight":"6.68",
+            "recent_activity":"Reduce 14.31%",
+            "reported_price":"$96.53",
+            "ticker":"TWX"
+        },
+        {
+            "name":"CONSOL Energy Inc.",
+            "num_shares":"15,403,173",
+            "portfolio_weight":"5.87",
+            "recent_activity":"Reduce 13.82%",
+            "reported_price":"$18.23",
+            "ticker":"CNX"
+        },
+        {
+            "name":"Green Brick Partners",
+            "num_shares":"24,118,668",
+            "portfolio_weight":"5.07",
+            "recent_activity":" ",
+            "reported_price":"$10.05",
+            "ticker":"GRBK"
+        },
+        {
+            "name":"Voya Financial Inc.",
+            "num_shares":"5,920,853",
+            "portfolio_weight":"4.86",
+            "recent_activity":"Add 14.56%",
+            "reported_price":"$39.22",
+            "ticker":"VOYA"
+        },
+        {
+            "name":"Chemours Co.",
+            "num_shares":"8,945,144",
+            "portfolio_weight":"4.13",
+            "recent_activity":"Reduce 45.35%",
+            "reported_price":"$22.09",
+            "ticker":"CC"
+        },
+        {
+            "name":"Rite Aid Corp.",
+            "num_shares":"20,462,962",
+            "portfolio_weight":"3.53",
+            "recent_activity":"Add 52.22%",
+            "reported_price":"$8.24",
+            "ticker":"RAD"
+        },
+        {
+            "name":"Yahoo Inc.",
+            "num_shares":"4,282,100",
+            "portfolio_weight":"3.46",
+            "recent_activity":"Reduce 2.30%",
+            "reported_price":"$38.67",
+            "ticker":"YHOO"
+        },
+        {
+            "name":"Calpine Corp.",
+            "num_shares":"10,961,000",
+            "portfolio_weight":"2.62",
+            "recent_activity":"Reduce 2.48%",
+            "reported_price":"$11.43",
+            "ticker":"CPN"
+        },
+        {
+            "name":"Dillard Inc.",
+            "num_shares":"1,766,672",
+            "portfolio_weight":"2.32",
+            "recent_activity":"Reduce 8.54%",
+            "reported_price":"$62.69",
+            "ticker":"DDS"
+        },
+        {
+            "name":"CNX Coal Resources LP",
+            "num_shares":"5,488,438",
+            "portfolio_weight":"2.09",
+            "recent_activity":" ",
+            "reported_price":"$18.25",
+            "ticker":"CNXC"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"3,294,780",
+            "portfolio_weight":"2.05",
+            "recent_activity":" ",
+            "reported_price":"$29.70",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"AMERCO",
+            "num_shares":"220,000",
+            "portfolio_weight":"1.70",
+            "recent_activity":" ",
+            "reported_price":"$369.60",
+            "ticker":"UHAL"
+        },
+        {
+            "name":"Syngenta",
+            "num_shares":"925,000",
+            "portfolio_weight":"1.53",
+            "recent_activity":"Buy ",
+            "reported_price":"$79.05",
+            "ticker":"SYT"
+        },
+        {
+            "name":"IAC/InterActive Corp.",
+            "num_shares":"937,496",
+            "portfolio_weight":"1.27",
+            "recent_activity":"Reduce 8.26%",
+            "reported_price":"$64.79",
+            "ticker":"IAC"
+        },
+        {
+            "name":"Avangrid Inc.",
+            "num_shares":"1,572,591",
+            "portfolio_weight":"1.25",
+            "recent_activity":"Reduce 49.19%",
+            "reported_price":"$37.88",
+            "ticker":"AGR"
+        },
+        {
+            "name":"CIGNA Corp.",
+            "num_shares":"435,000",
+            "portfolio_weight":"1.21",
+            "recent_activity":" ",
+            "reported_price":"$133.39",
+            "ticker":"CI"
+        },
+        {
+            "name":"Amaya Inc.",
+            "num_shares":"3,962,684",
+            "portfolio_weight":"1.17",
+            "recent_activity":" ",
+            "reported_price":"$14.15",
+            "ticker":"AYA"
+        },
+        {
+            "name":"PVH Corp.",
+            "num_shares":"614,770",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Add 16.18%",
+            "reported_price":"$90.24",
+            "ticker":"PVH"
+        },
+        {
+            "name":"DSW Inc.",
+            "num_shares":"2,141,206",
+            "portfolio_weight":"1.01",
+            "recent_activity":"Reduce 40.09%",
+            "reported_price":"$22.65",
+            "ticker":"DSW"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"410,000",
+            "portfolio_weight":"0.90",
+            "recent_activity":"Buy ",
+            "reported_price":"$105.21",
+            "ticker":"MON"
+        },
+        {
+            "name":"FMC Corp.",
+            "num_shares":"719,600",
+            "portfolio_weight":"0.85",
+            "recent_activity":" ",
+            "reported_price":"$56.56",
+            "ticker":"FMC"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"1,243,018",
+            "portfolio_weight":"0.80",
+            "recent_activity":" ",
+            "reported_price":"$30.59",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"Alcoa Corp.",
+            "num_shares":"1,275,000",
+            "portfolio_weight":"0.75",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.08",
+            "ticker":"AA"
+        },
+        {
+            "name":"Yelp",
+            "num_shares":"865,300",
+            "portfolio_weight":"0.69",
+            "recent_activity":"Reduce 62.38%",
+            "reported_price":"$38.13",
+            "ticker":"YELP"
+        },
+        {
+            "name":"Fred's Inc.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.56",
+            "ticker":"FRED"
+        },
+        {
+            "name":"TRI Pointe Group",
+            "num_shares":"2,073,482",
+            "portfolio_weight":"0.50",
+            "recent_activity":" ",
+            "reported_price":"$11.48",
+            "ticker":"TPH"
+        },
+        {
+            "name":"Quorum Health Corp.",
+            "num_shares":"2,501,800",
+            "portfolio_weight":"0.38",
+            "recent_activity":" ",
+            "reported_price":"$7.27",
+            "ticker":"QHC"
+        }
+    ]
+}

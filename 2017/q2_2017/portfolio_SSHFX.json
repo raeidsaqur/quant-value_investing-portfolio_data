@@ -1,0 +1,299 @@
+{
+    "company":"Sound Shore",
+    "investor":"Harry Burn",
+    "num_stocks":"36",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"SSHFX",
+    "portfolio_value":"$1,965,403,000",
+    "stocks":[
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"1,124,800",
+            "portfolio_weight":"3.83",
+            "recent_activity":" ",
+            "reported_price":"$66.88",
+            "ticker":"C"
+        },
+        {
+            "name":"First Data Corp.",
+            "num_shares":"4,104,600",
+            "portfolio_weight":"3.80",
+            "recent_activity":" ",
+            "reported_price":"$18.20",
+            "ticker":"FDC"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"881,000",
+            "portfolio_weight":"3.70",
+            "recent_activity":"Add 16.91%",
+            "reported_price":"$82.62",
+            "ticker":"COF"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"2,869,400",
+            "portfolio_weight":"3.54",
+            "recent_activity":"Add 9.30%",
+            "reported_price":"$24.26",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Total SA",
+            "num_shares":"1,320,050",
+            "portfolio_weight":"3.33",
+            "recent_activity":"Add 19.12%",
+            "reported_price":"$49.59",
+            "ticker":"TOT"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"267,350",
+            "portfolio_weight":"3.31",
+            "recent_activity":"Add 11.70%",
+            "reported_price":"$243.09",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Antero Resources",
+            "num_shares":"3,008,500",
+            "portfolio_weight":"3.31",
+            "recent_activity":"Add 21.80%",
+            "reported_price":"$21.61",
+            "ticker":"AR"
+        },
+        {
+            "name":"Occidental Petroleum",
+            "num_shares":"1,080,350",
+            "portfolio_weight":"3.29",
+            "recent_activity":"Add 4.87%",
+            "reported_price":"$59.87",
+            "ticker":"OXY"
+        },
+        {
+            "name":"Merck & Co.",
+            "num_shares":"1,004,400",
+            "portfolio_weight":"3.28",
+            "recent_activity":"Reduce 8.78%",
+            "reported_price":"$64.09",
+            "ticker":"MRK"
+        },
+        {
+            "name":"International Paper",
+            "num_shares":"1,080,800",
+            "portfolio_weight":"3.11",
+            "recent_activity":" ",
+            "reported_price":"$56.61",
+            "ticker":"IP"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"348,550",
+            "portfolio_weight":"3.09",
+            "recent_activity":"Reduce 0.16%",
+            "reported_price":"$174.47",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"870,800",
+            "portfolio_weight":"3.05",
+            "recent_activity":"Reduce 7.80%",
+            "reported_price":"$68.93",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Analog Devices",
+            "num_shares":"758,050",
+            "portfolio_weight":"3.00",
+            "recent_activity":"Add 14.26%",
+            "reported_price":"$77.80",
+            "ticker":"ADI"
+        },
+        {
+            "name":"Flex Ltd.",
+            "num_shares":"3,517,550",
+            "portfolio_weight":"2.92",
+            "recent_activity":"Add 19.77%",
+            "reported_price":"$16.31",
+            "ticker":"FLEX"
+        },
+        {
+            "name":"Walgreens Boots Alliance",
+            "num_shares":"725,900",
+            "portfolio_weight":"2.89",
+            "recent_activity":"Add 9.92%",
+            "reported_price":"$78.31",
+            "ticker":"WBA"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"1,121,000",
+            "portfolio_weight":"2.86",
+            "recent_activity":"Reduce 27.58%",
+            "reported_price":"$50.14",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"331,800",
+            "portfolio_weight":"2.86",
+            "recent_activity":" ",
+            "reported_price":"$169.37",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Keysight Technologies Inc.",
+            "num_shares":"1,430,100",
+            "portfolio_weight":"2.83",
+            "recent_activity":" ",
+            "reported_price":"$38.93",
+            "ticker":"KEYS"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"724,000",
+            "portfolio_weight":"2.79",
+            "recent_activity":" ",
+            "reported_price":"$75.68",
+            "ticker":"WMT"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"2,029,900",
+            "portfolio_weight":"2.79",
+            "recent_activity":" ",
+            "reported_price":"$27.01",
+            "ticker":"GE"
+        },
+        {
+            "name":"Pentair plc",
+            "num_shares":"779,000",
+            "portfolio_weight":"2.64",
+            "recent_activity":"Add 8.63%",
+            "reported_price":"$66.54",
+            "ticker":"PNR"
+        },
+        {
+            "name":"Invesco Plc",
+            "num_shares":"1,461,600",
+            "portfolio_weight":"2.62",
+            "recent_activity":"Reduce 16.07%",
+            "reported_price":"$35.19",
+            "ticker":"IVZ"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"3,064,350",
+            "portfolio_weight":"2.59",
+            "recent_activity":"Add 14.91%",
+            "reported_price":"$16.59",
+            "ticker":"HPE"
+        },
+        {
+            "name":"Vodafone Group PLC",
+            "num_shares":"1,755,150",
+            "portfolio_weight":"2.57",
+            "recent_activity":"Reduce 21.41%",
+            "reported_price":"$28.73",
+            "ticker":"VOD"
+        },
+        {
+            "name":"Delta Air Lines Inc.",
+            "num_shares":"936,750",
+            "portfolio_weight":"2.56",
+            "recent_activity":"Buy ",
+            "reported_price":"$53.74",
+            "ticker":"DAL"
+        },
+        {
+            "name":"Aon Corp.",
+            "num_shares":"376,150",
+            "portfolio_weight":"2.54",
+            "recent_activity":"Reduce 19.45%",
+            "reported_price":"$132.95",
+            "ticker":"AON"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"1,460,150",
+            "portfolio_weight":"2.50",
+            "recent_activity":"Reduce 16.35%",
+            "reported_price":"$33.59",
+            "ticker":"PFE"
+        },
+        {
+            "name":"BP plc",
+            "num_shares":"1,356,950",
+            "portfolio_weight":"2.39",
+            "recent_activity":" ",
+            "reported_price":"$34.65",
+            "ticker":"BP"
+        },
+        {
+            "name":"Applied Materials",
+            "num_shares":"1,080,000",
+            "portfolio_weight":"2.27",
+            "recent_activity":"Reduce 15.38%",
+            "reported_price":"$41.31",
+            "ticker":"AMAT"
+        },
+        {
+            "name":"Exelon Corp.",
+            "num_shares":"1,238,850",
+            "portfolio_weight":"2.27",
+            "recent_activity":" ",
+            "reported_price":"$36.07",
+            "ticker":"EXC"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"1,138,900",
+            "portfolio_weight":"2.26",
+            "recent_activity":"Reduce 13.10%",
+            "reported_price":"$38.92",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"46,025",
+            "portfolio_weight":"2.18",
+            "recent_activity":"Reduce 21.12%",
+            "reported_price":"$929.69",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Marsh & McLennan",
+            "num_shares":"542,600",
+            "portfolio_weight":"2.15",
+            "recent_activity":"Reduce 17.95%",
+            "reported_price":"$77.96",
+            "ticker":"MMC"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"585,550",
+            "portfolio_weight":"1.90",
+            "recent_activity":"Reduce 24.67%",
+            "reported_price":"$63.78",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Goodyear Tire & Rubber",
+            "num_shares":"942,500",
+            "portfolio_weight":"1.68",
+            "recent_activity":"Buy ",
+            "reported_price":"$34.96",
+            "ticker":"GT"
+        },
+        {
+            "name":"Calpine Corp.",
+            "num_shares":"1,898,450",
+            "portfolio_weight":"1.31",
+            "recent_activity":"Reduce 46.46%",
+            "reported_price":"$13.53",
+            "ticker":"CPN"
+        }
+    ]
+}

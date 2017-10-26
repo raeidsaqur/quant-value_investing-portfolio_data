@@ -1,0 +1,291 @@
+{
+    "company":"Wedgewood Partners",
+    "investor":"David Rolfe",
+    "num_stocks":"35",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"WP",
+    "portfolio_value":"$4,935,205,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"3,376,990",
+            "portfolio_weight":"9.91",
+            "recent_activity":"Reduce 10.24%",
+            "reported_price":"$144.79",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"4,932,995",
+            "portfolio_weight":"9.56",
+            "recent_activity":"Reduce 0.79%",
+            "reported_price":"$95.60",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Kraft Heinz Co.",
+            "num_shares":"3,918,756",
+            "portfolio_weight":"7.03",
+            "recent_activity":"Reduce 3.29%",
+            "reported_price":"$88.48",
+            "ticker":"KHC"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"5,624,679",
+            "portfolio_weight":"6.52",
+            "recent_activity":"Reduce 6.54%",
+            "reported_price":"$57.24",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"3,991,924",
+            "portfolio_weight":"6.40",
+            "recent_activity":"Reduce 8.75%",
+            "reported_price":"$79.08",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Priceline Group Inc.",
+            "num_shares":"253,186",
+            "portfolio_weight":"6.40",
+            "recent_activity":"Reduce 9.76%",
+            "reported_price":"$1248.41",
+            "ticker":"PCLN"
+        },
+        {
+            "name":"Stericycle Inc.",
+            "num_shares":"2,700,590",
+            "portfolio_weight":"5.70",
+            "recent_activity":"Add 0.13%",
+            "reported_price":"$104.12",
+            "ticker":"SRCL"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"3,251,358",
+            "portfolio_weight":"4.99",
+            "recent_activity":"Reduce 18.45%",
+            "reported_price":"$75.80",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"Mead Johnson Nutrition Co.",
+            "num_shares":"2,583,720",
+            "portfolio_weight":"4.75",
+            "recent_activity":"Reduce 9.66%",
+            "reported_price":"$90.75",
+            "ticker":"MJN"
+        },
+        {
+            "name":"Verisk Analytics Inc.",
+            "num_shares":"2,878,154",
+            "portfolio_weight":"4.73",
+            "recent_activity":"Reduce 16.24%",
+            "reported_price":"$81.08",
+            "ticker":"VRSK"
+        },
+        {
+            "name":"LKQ Corp.",
+            "num_shares":"7,198,689",
+            "portfolio_weight":"4.62",
+            "recent_activity":"Reduce 16.43%",
+            "reported_price":"$31.70",
+            "ticker":"LKQ"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"2,990,879",
+            "portfolio_weight":"4.49",
+            "recent_activity":"Reduce 2.90%",
+            "reported_price":"$74.17",
+            "ticker":"V"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"4,013,697",
+            "portfolio_weight":"4.36",
+            "recent_activity":"Reduce 32.54%",
+            "reported_price":"$53.57",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Core Laboratories NV",
+            "num_shares":"1,687,427",
+            "portfolio_weight":"4.24",
+            "recent_activity":"Reduce 13.61%",
+            "reported_price":"$123.89",
+            "ticker":"CLB"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"268,489",
+            "portfolio_weight":"3.83",
+            "recent_activity":"Reduce 7.89%",
+            "reported_price":"$703.53",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"PayPal Holdings Inc.",
+            "num_shares":"4,743,985",
+            "portfolio_weight":"3.51",
+            "recent_activity":"Reduce 0.43%",
+            "reported_price":"$36.51",
+            "ticker":"PYPL"
+        },
+        {
+            "name":"Ross Stores",
+            "num_shares":"2,487,764",
+            "portfolio_weight":"2.86",
+            "recent_activity":"Buy ",
+            "reported_price":"$56.69",
+            "ticker":"ROST"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"5,528,510",
+            "portfolio_weight":"2.84",
+            "recent_activity":"Reduce 3.78%",
+            "reported_price":"$25.31",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"TJX Companies Inc.",
+            "num_shares":"1,429,281",
+            "portfolio_weight":"2.24",
+            "recent_activity":"Buy ",
+            "reported_price":"$77.23",
+            "ticker":"TJX"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"47,538",
+            "portfolio_weight":"0.67",
+            "recent_activity":"Reduce 10.64%",
+            "reported_price":"$692.10",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"113,235",
+            "portfolio_weight":"0.09",
+            "recent_activity":"Reduce 0.46%",
+            "reported_price":"$40.32",
+            "ticker":"USB"
+        },
+        {
+            "name":"Coach Inc.",
+            "num_shares":"58,125",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 9.07%",
+            "reported_price":"$40.74",
+            "ticker":"COH"
+        },
+        {
+            "name":"National Oilwell Varco Inc.",
+            "num_shares":"53,750",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 18.10%",
+            "reported_price":"$33.64",
+            "ticker":"NOV"
+        },
+        {
+            "name":"Ameren Corp.",
+            "num_shares":"32,537",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 0.02%",
+            "reported_price":"$53.57",
+            "ticker":"AEE"
+        },
+        {
+            "name":"Verizon Communications",
+            "num_shares":"19,200",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$55.83",
+            "ticker":"VZ"
+        },
+        {
+            "name":"The Blackstone Group",
+            "num_shares":"41,850",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 4.82%",
+            "reported_price":"$24.52",
+            "ticker":"BX"
+        },
+        {
+            "name":"Paychex Inc.",
+            "num_shares":"18,150",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$59.45",
+            "ticker":"PAYX"
+        },
+        {
+            "name":"Annaly Capital Management Inc.",
+            "num_shares":"75,875",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 0.17%",
+            "reported_price":"$11.06",
+            "ticker":"NLY"
+        },
+        {
+            "name":"Consolidated Edison",
+            "num_shares":"14,250",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$80.42",
+            "ticker":"ED"
+        },
+        {
+            "name":"Ecolab Inc.",
+            "num_shares":"5,671",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 0.37%",
+            "reported_price":"$118.50",
+            "ticker":"ECL"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"5,250",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$121.14",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"AT&T Inc.",
+            "num_shares":"11,444",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 0.25%",
+            "reported_price":"$43.17",
+            "ticker":"T"
+        },
+        {
+            "name":"Manning & Napier",
+            "num_shares":"34,125",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 1.11%",
+            "reported_price":"$9.49",
+            "ticker":"MN"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"3,145",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 4.70%",
+            "reported_price":"$105.88",
+            "ticker":"PEP"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"2,400",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Buy ",
+            "reported_price":"$84.58",
+            "ticker":"PG"
+        }
+    ]
+}

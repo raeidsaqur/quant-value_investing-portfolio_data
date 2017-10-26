@@ -1,0 +1,1003 @@
+{
+    "company":"Maverick Capital",
+    "investor":"Lee Ainslie",
+    "num_stocks":"124",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"mc",
+    "portfolio_value":"$7,687,103,000",
+    "stocks":[
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"22,851,570",
+            "portfolio_weight":"9.66",
+            "recent_activity":"Add 6.88%",
+            "reported_price":"$32.48",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Universal Health Services Inc.",
+            "num_shares":"6,130,994",
+            "portfolio_weight":"8.48",
+            "recent_activity":"Add 33.74%",
+            "reported_price":"$106.38",
+            "ticker":"UHS"
+        },
+        {
+            "name":"Sabre Corp.",
+            "num_shares":"20,751,854",
+            "portfolio_weight":"6.74",
+            "recent_activity":"Reduce 2.89%",
+            "reported_price":"$24.95",
+            "ticker":"SABR"
+        },
+        {
+            "name":"Priceline Group Inc.",
+            "num_shares":"317,852",
+            "portfolio_weight":"6.06",
+            "recent_activity":"Reduce 22.23%",
+            "reported_price":"$1466.06",
+            "ticker":"PCLN"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"3,778,048",
+            "portfolio_weight":"5.65",
+            "recent_activity":"Add 120.14%",
+            "reported_price":"$115.05",
+            "ticker":"FB"
+        },
+        {
+            "name":"Adobe Systems",
+            "num_shares":"3,790,095",
+            "portfolio_weight":"5.08",
+            "recent_activity":"Add 245.97%",
+            "reported_price":"$102.95",
+            "ticker":"ADBE"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"10,031,988",
+            "portfolio_weight":"4.85",
+            "recent_activity":"Reduce 39.20%",
+            "reported_price":"$37.20",
+            "ticker":"COMM"
+        },
+        {
+            "name":"Waste Connections",
+            "num_shares":"4,685,396",
+            "portfolio_weight":"4.79",
+            "recent_activity":"Reduce 20.44%",
+            "reported_price":"$78.59",
+            "ticker":"WCN"
+        },
+        {
+            "name":"Newell Brands Inc.",
+            "num_shares":"6,394,236",
+            "portfolio_weight":"3.71",
+            "recent_activity":"Add 241.24%",
+            "reported_price":"$44.65",
+            "ticker":"NWL"
+        },
+        {
+            "name":"Aetna Inc.",
+            "num_shares":"2,229,816",
+            "portfolio_weight":"3.60",
+            "recent_activity":"Add 41735.20%",
+            "reported_price":"$124.01",
+            "ticker":"AET"
+        },
+        {
+            "name":"Dollar Tree Inc.",
+            "num_shares":"3,498,887",
+            "portfolio_weight":"3.51",
+            "recent_activity":"Add 9127.02%",
+            "reported_price":"$77.18",
+            "ticker":"DLTR"
+        },
+        {
+            "name":"CIGNA Corp.",
+            "num_shares":"2,013,625",
+            "portfolio_weight":"3.49",
+            "recent_activity":"Add 341.31%",
+            "reported_price":"$133.39",
+            "ticker":"CI"
+        },
+        {
+            "name":"Vulcan Materials",
+            "num_shares":"2,046,710",
+            "portfolio_weight":"3.33",
+            "recent_activity":"Add 504.03%",
+            "reported_price":"$125.15",
+            "ticker":"VMC"
+        },
+        {
+            "name":"FleetCor Technologies Inc.",
+            "num_shares":"1,739,049",
+            "portfolio_weight":"3.20",
+            "recent_activity":"Buy ",
+            "reported_price":"$141.52",
+            "ticker":"FLT"
+        },
+        {
+            "name":"Shire plc",
+            "num_shares":"1,425,420",
+            "portfolio_weight":"3.16",
+            "recent_activity":"Add 149.68%",
+            "reported_price":"$170.38",
+            "ticker":"SHPG"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"269,121",
+            "portfolio_weight":"2.70",
+            "recent_activity":"Reduce 10.15%",
+            "reported_price":"$771.82",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"TransDigm Group Inc.",
+            "num_shares":"777,086",
+            "portfolio_weight":"2.52",
+            "recent_activity":"Add 7.77%",
+            "reported_price":"$248.96",
+            "ticker":"TDG"
+        },
+        {
+            "name":"Lam Research",
+            "num_shares":"1,802,257",
+            "portfolio_weight":"2.48",
+            "recent_activity":"Reduce 60.35%",
+            "reported_price":"$105.73",
+            "ticker":"LRCX"
+        },
+        {
+            "name":"Computer Sciences Corp.",
+            "num_shares":"3,078,365",
+            "portfolio_weight":"2.38",
+            "recent_activity":"Reduce 11.30%",
+            "reported_price":"$59.42",
+            "ticker":"CSC"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"2,340,629",
+            "portfolio_weight":"2.26",
+            "recent_activity":"Reduce 34.22%",
+            "reported_price":"$74.08",
+            "ticker":"AXP"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"595,156",
+            "portfolio_weight":"2.16",
+            "recent_activity":"Reduce 39.10%",
+            "reported_price":"$278.41",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Mylan NV",
+            "num_shares":"3,799,281",
+            "portfolio_weight":"1.89",
+            "recent_activity":"Add 184.28%",
+            "reported_price":"$38.15",
+            "ticker":"MYL"
+        },
+        {
+            "name":"Martin Marietta",
+            "num_shares":"452,712",
+            "portfolio_weight":"1.30",
+            "recent_activity":"Buy ",
+            "reported_price":"$221.53",
+            "ticker":"MLM"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"1,215,967",
+            "portfolio_weight":"1.09",
+            "recent_activity":"Reduce 56.36%",
+            "reported_price":"$69.05",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Centene Corp.",
+            "num_shares":"1,399,062",
+            "portfolio_weight":"1.03",
+            "recent_activity":"Buy ",
+            "reported_price":"$56.51",
+            "ticker":"CNC"
+        },
+        {
+            "name":"T-Mobile US Inc.",
+            "num_shares":"806,411",
+            "portfolio_weight":"0.60",
+            "recent_activity":"Reduce 15.39%",
+            "reported_price":"$57.51",
+            "ticker":"TMUS"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"865,533",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Reduce 68.11%",
+            "reported_price":"$51.37",
+            "ticker":"USB"
+        },
+        {
+            "name":"Pacific Biosciences of California",
+            "num_shares":"9,073,874",
+            "portfolio_weight":"0.45",
+            "recent_activity":"Reduce 0.24%",
+            "reported_price":"$3.80",
+            "ticker":"PACB"
+        },
+        {
+            "name":"Anheuser-Busch InBev",
+            "num_shares":"205,550",
+            "portfolio_weight":"0.28",
+            "recent_activity":"Reduce 87.56%",
+            "reported_price":"$105.44",
+            "ticker":"BUD"
+        },
+        {
+            "name":"Castlight Health Inc.",
+            "num_shares":"1,188,074",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$4.95",
+            "ticker":"CSLT"
+        },
+        {
+            "name":"Edwards Lifesciences Corp.",
+            "num_shares":"38,440",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 42.90%",
+            "reported_price":"$93.70",
+            "ticker":"EW"
+        },
+        {
+            "name":"Lululemon Athletica Inc.",
+            "num_shares":"55,710",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 35.91%",
+            "reported_price":"$65.00",
+            "ticker":"LULU"
+        },
+        {
+            "name":"NVIDIA Corp.",
+            "num_shares":"35,470",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 29.68%",
+            "reported_price":"$106.74",
+            "ticker":"NVDA"
+        },
+        {
+            "name":"Tesoro Corp.",
+            "num_shares":"39,650",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 2.96%",
+            "reported_price":"$87.44",
+            "ticker":"TSO"
+        },
+        {
+            "name":"United Therapeutics Corp.",
+            "num_shares":"26,210",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 1.16%",
+            "reported_price":"$143.42",
+            "ticker":"UTHR"
+        },
+        {
+            "name":"Valero Energy",
+            "num_shares":"52,330",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 7.66%",
+            "reported_price":"$68.32",
+            "ticker":"VLO"
+        },
+        {
+            "name":"Xilinx Inc.",
+            "num_shares":"57,840",
+            "portfolio_weight":"0.05",
+            "recent_activity":" ",
+            "reported_price":"$60.37",
+            "ticker":"XLNX"
+        },
+        {
+            "name":"Alleghany Corp.",
+            "num_shares":"5,810",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 4.28%",
+            "reported_price":"$608.09",
+            "ticker":"Y"
+        },
+        {
+            "name":"AbbVie Inc.",
+            "num_shares":"50,920",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 2.66%",
+            "reported_price":"$62.63",
+            "ticker":"ABBV"
+        },
+        {
+            "name":"Akorn Inc.",
+            "num_shares":"151,370",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 30.45%",
+            "reported_price":"$21.83",
+            "ticker":"AKRX"
+        },
+        {
+            "name":"Applied Materials",
+            "num_shares":"101,310",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 3.61%",
+            "reported_price":"$32.27",
+            "ticker":"AMAT"
+        },
+        {
+            "name":"Smith (A.O.)",
+            "num_shares":"66,080",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$47.35",
+            "ticker":"AOS"
+        },
+        {
+            "name":"Baxter International Inc.",
+            "num_shares":"71,400",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 6.00%",
+            "reported_price":"$44.34",
+            "ticker":"BAX"
+        },
+        {
+            "name":"Best Buy Co. Inc.",
+            "num_shares":"69,940",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 14.17%",
+            "reported_price":"$42.67",
+            "ticker":"BBY"
+        },
+        {
+            "name":"BIOGEN IDEC Inc.",
+            "num_shares":"10,880",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 4.82%",
+            "reported_price":"$283.55",
+            "ticker":"BIIB"
+        },
+        {
+            "name":"Blue Buffalo Pet Products",
+            "num_shares":"135,160",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 11.11%",
+            "reported_price":"$24.04",
+            "ticker":"BUFF"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"52,820",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 14.09%",
+            "reported_price":"$63.61",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Chemours Co.",
+            "num_shares":"133,410",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$22.09",
+            "ticker":"CC"
+        },
+        {
+            "name":"Copart Inc.",
+            "num_shares":"58,570",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$55.40",
+            "ticker":"CPRT"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"58,180",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 9.65%",
+            "reported_price":"$56.03",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Dominos Pizza Inc.",
+            "num_shares":"18,930",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$159.22",
+            "ticker":"DPZ"
+        },
+        {
+            "name":"Electronic Arts",
+            "num_shares":"40,320",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$78.77",
+            "ticker":"EA"
+        },
+        {
+            "name":"eBay Inc.",
+            "num_shares":"93,080",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 17.32%",
+            "reported_price":"$29.69",
+            "ticker":"EBAY"
+        },
+        {
+            "name":"F5 Networks",
+            "num_shares":"22,670",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$144.73",
+            "ticker":"FFIV"
+        },
+        {
+            "name":"Fair Isaac Corp.",
+            "num_shares":"28,290",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 16.52%",
+            "reported_price":"$119.23",
+            "ticker":"FIC"
+        },
+        {
+            "name":"Foot Locker Inc.",
+            "num_shares":"44,390",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$70.89",
+            "ticker":"FL"
+        },
+        {
+            "name":"FMC Technologies",
+            "num_shares":"94,420",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 17.39%",
+            "reported_price":"$35.53",
+            "ticker":"FTI"
+        },
+        {
+            "name":"HCA Inc",
+            "num_shares":"44,730",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$74.02",
+            "ticker":"HCA"
+        },
+        {
+            "name":"Isle of Capri Casinos",
+            "num_shares":"129,550",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$24.69",
+            "ticker":"ISLE"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"28,530",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 8.40%",
+            "reported_price":"$115.21",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"KLA-Tencor Corp.",
+            "num_shares":"40,180",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 10.61%",
+            "reported_price":"$78.67",
+            "ticker":"KLAC"
+        },
+        {
+            "name":"Lear Corp.",
+            "num_shares":"24,890",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 8.32%",
+            "reported_price":"$132.38",
+            "ticker":"LEA"
+        },
+        {
+            "name":"Linear Technology Corp.",
+            "num_shares":"52,070",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 3.31%",
+            "reported_price":"$62.36",
+            "ticker":"LLTC"
+        },
+        {
+            "name":"McDonald's Corp.",
+            "num_shares":"26,270",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$121.74",
+            "ticker":"MCD"
+        },
+        {
+            "name":"Mercadolibre Inc.",
+            "num_shares":"20,470",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$156.13",
+            "ticker":"MELI"
+        },
+        {
+            "name":"Myriad Genetics Inc.",
+            "num_shares":"190,720",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 25.43%",
+            "reported_price":"$16.67",
+            "ticker":"MYGN"
+        },
+        {
+            "name":"Navient Corp.",
+            "num_shares":"189,750",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 13.07%",
+            "reported_price":"$16.43",
+            "ticker":"NAVI"
+        },
+        {
+            "name":"NCR Corp.",
+            "num_shares":"84,300",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$40.56",
+            "ticker":"NCR"
+        },
+        {
+            "name":"Northrop Grumman Corp.",
+            "num_shares":"12,800",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 98.84%",
+            "reported_price":"$232.58",
+            "ticker":"NOC"
+        },
+        {
+            "name":"Nexstar Broadcasting Group",
+            "num_shares":"54,570",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 7.45%",
+            "reported_price":"$63.29",
+            "ticker":"NXST"
+        },
+        {
+            "name":"Philip Morris Intl.",
+            "num_shares":"35,850",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 99.50%",
+            "reported_price":"$91.49",
+            "ticker":"PM"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"47,900",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 3.66%",
+            "reported_price":"$65.20",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Regions Financial Corp.",
+            "num_shares":"238,180",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$14.36",
+            "ticker":"RF"
+        },
+        {
+            "name":"Santander Consumer USA Hldgs",
+            "num_shares":"237,340",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$13.50",
+            "ticker":"SC"
+        },
+        {
+            "name":"Sealed Air Corp.",
+            "num_shares":"69,980",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 2.10%",
+            "reported_price":"$45.34",
+            "ticker":"SEE"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"27,000",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$107.56",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"Spirit AeroSystems Holdings Inc.",
+            "num_shares":"54,860",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$58.35",
+            "ticker":"SPR"
+        },
+        {
+            "name":"Swift Transportation Co.",
+            "num_shares":"129,730",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 20.21%",
+            "reported_price":"$24.36",
+            "ticker":"SWFT"
+        },
+        {
+            "name":"Skyworks Solutions Inc.",
+            "num_shares":"42,310",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$74.66",
+            "ticker":"SWKS"
+        },
+        {
+            "name":"TJX Companies Inc.",
+            "num_shares":"40,490",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$75.13",
+            "ticker":"TJX"
+        },
+        {
+            "name":"Texas Instruments",
+            "num_shares":"43,580",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$72.97",
+            "ticker":"TXN"
+        },
+        {
+            "name":"United Continental Holdings",
+            "num_shares":"37,800",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 25.31%",
+            "reported_price":"$72.88",
+            "ticker":"UAL"
+        },
+        {
+            "name":"Ulta Salon Cosmetics & Fragrance",
+            "num_shares":"12,700",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$254.96",
+            "ticker":"ULTA"
+        },
+        {
+            "name":"VMware Inc.",
+            "num_shares":"39,140",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 8.47%",
+            "reported_price":"$78.72",
+            "ticker":"VMW"
+        },
+        {
+            "name":"WebMD Health Corp.",
+            "num_shares":"55,742",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 8.33%",
+            "reported_price":"$49.57",
+            "ticker":"WBMD"
+        },
+        {
+            "name":"Wellcare Health Plans Inc.",
+            "num_shares":"23,320",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 16.18%",
+            "reported_price":"$137.09",
+            "ticker":"WCG"
+        },
+        {
+            "name":"Xencor Inc.",
+            "num_shares":"127,380",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.32",
+            "ticker":"XNCR"
+        },
+        {
+            "name":"Expeditors Int'l",
+            "num_shares":"49,890",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 1.29%",
+            "reported_price":"$52.96",
+            "ticker":"EXPD"
+        },
+        {
+            "name":"INSYS Therapeutics",
+            "num_shares":"274,211",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Add 34.51%",
+            "reported_price":"$9.20",
+            "ticker":"INSY"
+        },
+        {
+            "name":"MicroStrategy Inc.",
+            "num_shares":"13,520",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 11.58%",
+            "reported_price":"$197.41",
+            "ticker":"MSTR"
+        },
+        {
+            "name":"Anthem Inc.",
+            "num_shares":"8,530",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 10.02%",
+            "reported_price":"$143.73",
+            "ticker":"ANTM"
+        },
+        {
+            "name":"Cadence Design Systems",
+            "num_shares":"46,530",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 2.47%",
+            "reported_price":"$25.21",
+            "ticker":"CDNS"
+        },
+        {
+            "name":"Citrix Systems",
+            "num_shares":"14,080",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 1.29%",
+            "reported_price":"$89.28",
+            "ticker":"CTXS"
+        },
+        {
+            "name":"Express Inc.",
+            "num_shares":"114,100",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 12.26%",
+            "reported_price":"$10.76",
+            "ticker":"EXPR"
+        },
+        {
+            "name":"Jazz Technologies Inc.",
+            "num_shares":"12,240",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 26.06%",
+            "reported_price":"$109.07",
+            "ticker":"JAZ"
+        },
+        {
+            "name":"ManpowerGroup",
+            "num_shares":"14,700",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 11.12%",
+            "reported_price":"$88.84",
+            "ticker":"MAN"
+        },
+        {
+            "name":"NetEase.com Inc.",
+            "num_shares":"5,610",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 8.09%",
+            "reported_price":"$215.33",
+            "ticker":"NTES"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"22,650",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$58.15",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Taiwan Semiconductor S.A.",
+            "num_shares":"42,100",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.74",
+            "ticker":"TSM"
+        },
+        {
+            "name":"American Airlines Group Inc.",
+            "num_shares":"14,160",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 16.75%",
+            "reported_price":"$46.68",
+            "ticker":"AAL"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"5,790",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 99.71%",
+            "reported_price":"$115.89",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Alaska Air Group",
+            "num_shares":"7,740",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 15.87%",
+            "reported_price":"$88.76",
+            "ticker":"ALK"
+        },
+        {
+            "name":"Allstate Corp.",
+            "num_shares":"8,570",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 5.09%",
+            "reported_price":"$74.10",
+            "ticker":"ALL"
+        },
+        {
+            "name":"Ambarella Inc.",
+            "num_shares":"20,950",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$54.13",
+            "ticker":"AMBA"
+        },
+        {
+            "name":"Amgen",
+            "num_shares":"4,570",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 25.90%",
+            "reported_price":"$146.17",
+            "ticker":"AMGN"
+        },
+        {
+            "name":"Ameriprise Financial Inc.",
+            "num_shares":"6,010",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$110.98",
+            "ticker":"AMP"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"21,860",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 11.25%",
+            "reported_price":"$30.24",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Delta Air Lines Inc.",
+            "num_shares":"13,240",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 21.24%",
+            "reported_price":"$49.17",
+            "ticker":"DAL"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"8,520",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 8.12%",
+            "reported_price":"$71.60",
+            "ticker":"GILD"
+        },
+        {
+            "name":"Home Depot",
+            "num_shares":"4,820",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 3.88%",
+            "reported_price":"$134.02",
+            "ticker":"HD"
+        },
+        {
+            "name":"Intuitive Surgical Inc.",
+            "num_shares":"1,750",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$634.29",
+            "ticker":"ISRG"
+        },
+        {
+            "name":"Michael Kors Holdings",
+            "num_shares":"26,160",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 6.51%",
+            "reported_price":"$42.97",
+            "ticker":"KORS"
+        },
+        {
+            "name":"Lions Gate Ent. Corp.",
+            "num_shares":"45,106",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$24.54",
+            "ticker":"LGF"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"13,570",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 18.99%",
+            "reported_price":"$49.82",
+            "ticker":"LUV"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"6,170",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 3.44%",
+            "reported_price":"$103.24",
+            "ticker":"MA"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"6,540",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 15.14%",
+            "reported_price":"$94.34",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Momo Inc.",
+            "num_shares":"58,690",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.38",
+            "ticker":"MOMO"
+        },
+        {
+            "name":"Transocean Inc.",
+            "num_shares":"33,230",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 8.88%",
+            "reported_price":"$14.75",
+            "ticker":"RIG"
+        },
+        {
+            "name":"Weibo Corp.",
+            "num_shares":"24,950",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 1.67%",
+            "reported_price":"$40.60",
+            "ticker":"WB"
+        },
+        {
+            "name":"TAL Education Group",
+            "num_shares":"16,000",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 13.19%",
+            "reported_price":"$70.13",
+            "ticker":"XRS"
+        },
+        {
+            "name":"YY Inc.",
+            "num_shares":"28,510",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$39.42",
+            "ticker":"YY"
+        },
+        {
+            "name":"Check Point Software Technologies",
+            "num_shares":"4,080",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Reduce 11.50%",
+            "reported_price":"$84.56",
+            "ticker":"CHKP"
+        },
+        {
+            "name":"Herbalife Ltd.",
+            "num_shares":"7,120",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Add 22.13%",
+            "reported_price":"$48.17",
+            "ticker":"HLF"
+        },
+        {
+            "name":"Weight Watchers International Inc.",
+            "num_shares":"2,186",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.44",
+            "ticker":"WTW"
+        }
+    ]
+}

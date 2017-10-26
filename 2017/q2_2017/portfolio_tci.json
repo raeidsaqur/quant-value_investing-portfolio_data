@@ -1,0 +1,83 @@
+{
+    "company":"TCI Fund Management",
+    "investor":"Chris Hohn",
+    "num_stocks":"9",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"tci",
+    "portfolio_value":"$13,276,507,000",
+    "stocks":[
+        {
+            "name":"Altaba Inc.",
+            "num_shares":"85,923,952",
+            "portfolio_weight":"35.26",
+            "recent_activity":"Buy ",
+            "reported_price":"$54.48",
+            "ticker":"AABA"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"13,849,812",
+            "portfolio_weight":"35.14",
+            "recent_activity":"Add 9.23%",
+            "reported_price":"$336.85",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"91,565,333",
+            "portfolio_weight":"26.84",
+            "recent_activity":"Add 0.79%",
+            "reported_price":"$38.92",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"1,507,939",
+            "portfolio_weight":"1.38",
+            "recent_activity":"Add 126.22%",
+            "reported_price":"$121.68",
+            "ticker":"MCO"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"490,729",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Add 168.26%",
+            "reported_price":"$145.99",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"Ambac Financial Group",
+            "num_shares":"1,985,785",
+            "portfolio_weight":"0.26",
+            "recent_activity":" ",
+            "reported_price":"$17.35",
+            "ticker":"ABKFQ"
+        },
+        {
+            "name":"Norfolk Southern Corp.",
+            "num_shares":"283,000",
+            "portfolio_weight":"0.26",
+            "recent_activity":"Buy ",
+            "reported_price":"$121.70",
+            "ticker":"NSC"
+        },
+        {
+            "name":"Union Pacific",
+            "num_shares":"200,000",
+            "portfolio_weight":"0.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$108.91",
+            "ticker":"UNP"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"204,500",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Add 293.27%",
+            "reported_price":"$100.41",
+            "ticker":"TWX"
+        }
+    ]
+}

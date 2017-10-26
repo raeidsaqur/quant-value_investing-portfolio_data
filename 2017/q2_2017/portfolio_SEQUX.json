@@ -1,0 +1,243 @@
+{
+    "company":"Sequoia",
+    "investor":"David Poppe",
+    "num_stocks":"29",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"SEQUX",
+    "portfolio_value":"$3,765,898,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"1,477",
+            "portfolio_weight":"9.80",
+            "recent_activity":"Reduce 6.34%",
+            "reported_price":"$249849.70",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"2,673,766",
+            "portfolio_weight":"7.99",
+            "recent_activity":" ",
+            "reported_price":"$112.47",
+            "ticker":"MA"
+        },
+        {
+            "name":"TJX Companies Inc.",
+            "num_shares":"3,456,803",
+            "portfolio_weight":"7.26",
+            "recent_activity":"Reduce 0.72%",
+            "reported_price":"$79.08",
+            "ticker":"TJX"
+        },
+        {
+            "name":"DENTSPLY International Inc.",
+            "num_shares":"3,435,757",
+            "portfolio_weight":"5.70",
+            "recent_activity":" ",
+            "reported_price":"$62.44",
+            "ticker":"XRAY"
+        },
+        {
+            "name":"CarMax Inc.",
+            "num_shares":"3,364,893",
+            "portfolio_weight":"5.29",
+            "recent_activity":" ",
+            "reported_price":"$59.22",
+            "ticker":"KMX"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"736,697",
+            "portfolio_weight":"5.28",
+            "recent_activity":"Reduce 1.05%",
+            "reported_price":"$269.84",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Constellation Software Inc.",
+            "num_shares":"388,766",
+            "portfolio_weight":"5.07",
+            "recent_activity":" ",
+            "reported_price":"$491.41",
+            "ticker":"CNSWF"
+        },
+        {
+            "name":"Rolls Royce Holdings plc",
+            "num_shares":"17,196,077",
+            "portfolio_weight":"4.31",
+            "recent_activity":" ",
+            "reported_price":"$9.45",
+            "ticker":"RYCEF"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"967,754",
+            "portfolio_weight":"4.28",
+            "recent_activity":"Reduce 48.47%",
+            "reported_price":"$166.68",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Liberty Media Corp Formula One Series C",
+            "num_shares":"4,693,543",
+            "portfolio_weight":"4.05",
+            "recent_activity":"Add 390053.20%",
+            "reported_price":"$32.51",
+            "ticker":"FWONK"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"3,246,316",
+            "portfolio_weight":"3.52",
+            "recent_activity":" ",
+            "reported_price":"$40.81",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"148,518",
+            "portfolio_weight":"3.34",
+            "recent_activity":" ",
+            "reported_price":"$847.80",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"148,928",
+            "portfolio_weight":"3.28",
+            "recent_activity":" ",
+            "reported_price":"$829.56",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Mohawk Industries",
+            "num_shares":"530,213",
+            "portfolio_weight":"3.23",
+            "recent_activity":" ",
+            "reported_price":"$229.49",
+            "ticker":"MHK"
+        },
+        {
+            "name":"Waters Corp.",
+            "num_shares":"770,699",
+            "portfolio_weight":"3.20",
+            "recent_activity":" ",
+            "reported_price":"$156.31",
+            "ticker":"WAT"
+        },
+        {
+            "name":"Jacobs Engineering Group",
+            "num_shares":"2,043,163",
+            "portfolio_weight":"3.00",
+            "recent_activity":" ",
+            "reported_price":"$55.28",
+            "ticker":"JEC"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"1,864,956",
+            "portfolio_weight":"2.76",
+            "recent_activity":" ",
+            "reported_price":"$55.66",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Chipotle Mexican Grill Inc.",
+            "num_shares":"209,996",
+            "portfolio_weight":"2.48",
+            "recent_activity":" ",
+            "reported_price":"$445.52",
+            "ticker":"CMG"
+        },
+        {
+            "name":"Fastenal",
+            "num_shares":"1,674,003",
+            "portfolio_weight":"2.29",
+            "recent_activity":"Reduce 44.10%",
+            "reported_price":"$51.50",
+            "ticker":"FAST"
+        },
+        {
+            "name":"Priceline Group Inc.",
+            "num_shares":"46,423",
+            "portfolio_weight":"2.19",
+            "recent_activity":"Buy ",
+            "reported_price":"$1779.98",
+            "ticker":"PCLN"
+        },
+        {
+            "name":"Omnicom Group",
+            "num_shares":"854,302",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$86.21",
+            "ticker":"OMC"
+        },
+        {
+            "name":"Credit Acceptance Corp.",
+            "num_shares":"363,020",
+            "portfolio_weight":"1.92",
+            "recent_activity":"Buy ",
+            "reported_price":"$199.41",
+            "ticker":"CACC"
+        },
+        {
+            "name":"Hiscox Ltd.",
+            "num_shares":"4,620,562",
+            "portfolio_weight":"1.68",
+            "recent_activity":"Add 15.47%",
+            "reported_price":"$13.71",
+            "ticker":"HCXLF"
+        },
+        {
+            "name":"Croda International",
+            "num_shares":"1,356,950",
+            "portfolio_weight":"1.61",
+            "recent_activity":" ",
+            "reported_price":"$44.65",
+            "ticker":"COIHF"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"699,145",
+            "portfolio_weight":"1.59",
+            "recent_activity":" ",
+            "reported_price":"$85.53",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"57,681",
+            "portfolio_weight":"1.36",
+            "recent_activity":" ",
+            "reported_price":"$886.55",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Emcor Group",
+            "num_shares":"710,252",
+            "portfolio_weight":"1.19",
+            "recent_activity":" ",
+            "reported_price":"$62.95",
+            "ticker":"EME"
+        },
+        {
+            "name":"Perrigo Co.",
+            "num_shares":"185,274",
+            "portfolio_weight":"0.33",
+            "recent_activity":"Reduce 51.14%",
+            "reported_price":"$66.39",
+            "ticker":"PRGO"
+        },
+        {
+            "name":"Liberty Media Corp Formula One Series A",
+            "num_shares":"51,019",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$32.69",
+            "ticker":"FWONA"
+        }
+    ]
+}

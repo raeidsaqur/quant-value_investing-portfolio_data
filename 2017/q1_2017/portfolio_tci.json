@@ -1,0 +1,67 @@
+{
+    "company":"TCI Fund Management",
+    "investor":"Chris Hohn",
+    "num_stocks":"7",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"tci",
+    "portfolio_value":"$11,707,952,000",
+    "stocks":[
+        {
+            "name":"Charter Communications",
+            "num_shares":"12,679,234",
+            "portfolio_weight":"35.45",
+            "recent_activity":" ",
+            "reported_price":"$327.32",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Yahoo Inc.",
+            "num_shares":"86,224,273",
+            "portfolio_weight":"34.18",
+            "recent_activity":" ",
+            "reported_price":"$46.41",
+            "ticker":"YHOO"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"90,848,233",
+            "portfolio_weight":"29.17",
+            "recent_activity":"Add 26.95%",
+            "reported_price":"$37.59",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"666,569",
+            "portfolio_weight":"0.64",
+            "recent_activity":"Add 6292.11%",
+            "reported_price":"$112.04",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Ambac Financial Group",
+            "num_shares":"1,985,785",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$18.86",
+            "ticker":"ABKFQ"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"182,929",
+            "portfolio_weight":"0.20",
+            "recent_activity":"Buy ",
+            "reported_price":"$130.74",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"52,000",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$97.71",
+            "ticker":"TWX"
+        }
+    ]
+}

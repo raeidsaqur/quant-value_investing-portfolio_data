@@ -1,0 +1,163 @@
+{
+    "company":"Oakmark Select",
+    "investor":"Bill Nygren",
+    "num_stocks":"19",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"oaklx",
+    "portfolio_value":"$4,339,060,000",
+    "stocks":[
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"532,000",
+            "portfolio_weight":"8.48",
+            "recent_activity":"Reduce 11.92%",
+            "reported_price":"$691.64",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"10,718,000",
+            "portfolio_weight":"7.78",
+            "recent_activity":"Reduce 24.72%",
+            "reported_price":"$31.48",
+            "ticker":"GE"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"5,295,000",
+            "portfolio_weight":"6.45",
+            "recent_activity":"Reduce 11.45%",
+            "reported_price":"$52.89",
+            "ticker":"AIG"
+        },
+        {
+            "name":"Fidelity National Financial Inc.",
+            "num_shares":"7,446,000",
+            "portfolio_weight":"6.44",
+            "recent_activity":"Reduce 4.79%",
+            "reported_price":"$37.50",
+            "ticker":"FNF"
+        },
+        {
+            "name":"TE Connectivity",
+            "num_shares":"4,723,000",
+            "portfolio_weight":"6.22",
+            "recent_activity":"Reduce 10.43%",
+            "reported_price":"$57.11",
+            "ticker":"TEL"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"6,262,000",
+            "portfolio_weight":"6.12",
+            "recent_activity":"Reduce 4.79%",
+            "reported_price":"$42.39",
+            "ticker":"C"
+        },
+        {
+            "name":"LinkedIn Corp.",
+            "num_shares":"1,375,000",
+            "portfolio_weight":"6.00",
+            "recent_activity":"Buy ",
+            "reported_price":"$189.25",
+            "ticker":"LNKD"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"4,131,000",
+            "portfolio_weight":"5.92",
+            "recent_activity":"Reduce 17.40%",
+            "reported_price":"$62.14",
+            "ticker":"JPM"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"9,664,000",
+            "portfolio_weight":"5.90",
+            "recent_activity":"Reduce 1.53%",
+            "reported_price":"$26.48",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"4,501,000",
+            "portfolio_weight":"5.77",
+            "recent_activity":"Reduce 14.28%",
+            "reported_price":"$55.67",
+            "ticker":"APA"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"18,779,000",
+            "portfolio_weight":"5.74",
+            "recent_activity":"Reduce 8.30%",
+            "reported_price":"$13.27",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"2,659,000",
+            "portfolio_weight":"5.40",
+            "recent_activity":"Reduce 12.79%",
+            "reported_price":"$88.06",
+            "ticker":"MA"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"5,567,000",
+            "portfolio_weight":"5.25",
+            "recent_activity":"Reduce 12.70%",
+            "reported_price":"$40.93",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"QVC Group",
+            "num_shares":"8,459,000",
+            "portfolio_weight":"4.95",
+            "recent_activity":"Reduce 8.19%",
+            "reported_price":"$25.37",
+            "ticker":"QVCA"
+        },
+        {
+            "name":"Harley-Davidson",
+            "num_shares":"4,300,000",
+            "portfolio_weight":"4.49",
+            "recent_activity":"Buy ",
+            "reported_price":"$45.30",
+            "ticker":"HOG"
+        },
+        {
+            "name":"Intel Corp.",
+            "num_shares":"5,737,000",
+            "portfolio_weight":"4.34",
+            "recent_activity":"Reduce 11.01%",
+            "reported_price":"$32.80",
+            "ticker":"INTC"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"2,801,000",
+            "portfolio_weight":"4.10",
+            "recent_activity":"Reduce 6.97%",
+            "reported_price":"$63.51",
+            "ticker":"COF"
+        },
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"2,663,000",
+            "portfolio_weight":"0.38",
+            "recent_activity":"Reduce 63.76%",
+            "reported_price":"$6.12",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"Chesapeake Energy",
+            "num_shares":"3,010,000",
+            "portfolio_weight":"0.30",
+            "recent_activity":"Reduce 52.67%",
+            "reported_price":"$4.28",
+            "ticker":"CHK"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "company":"Abrams Capital Management",
+    "investor":"David Abrams",
+    "num_stocks":"17",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"abc",
+    "portfolio_value":"$1,914,212,000",
+    "stocks":[
+        {
+            "name":"Western Union Co.",
+            "num_shares":"21,608,707",
+            "portfolio_weight":"21.65",
+            "recent_activity":" ",
+            "reported_price":"$19.18",
+            "ticker":"WU"
+        },
+        {
+            "name":"Franklin Resources",
+            "num_shares":"7,945,023",
+            "portfolio_weight":"13.85",
+            "recent_activity":" ",
+            "reported_price":"$33.37",
+            "ticker":"BEN"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"4,980,000",
+            "portfolio_weight":"13.31",
+            "recent_activity":" ",
+            "reported_price":"$51.17",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Manitowoc Foodservice Inc.",
+            "num_shares":"11,255,323",
+            "portfolio_weight":"10.36",
+            "recent_activity":" ",
+            "reported_price":"$17.62",
+            "ticker":"MFS"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"2,770,000",
+            "portfolio_weight":"6.85",
+            "recent_activity":" ",
+            "reported_price":"$47.33",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Barnes & Noble",
+            "num_shares":"10,418,774",
+            "portfolio_weight":"6.18",
+            "recent_activity":" ",
+            "reported_price":"$11.35",
+            "ticker":"BKS"
+        },
+        {
+            "name":"Northstar Asset Management Grp",
+            "num_shares":"10,908,145",
+            "portfolio_weight":"5.82",
+            "recent_activity":"Add 37.94%",
+            "reported_price":"$10.21",
+            "ticker":"NSAM"
+        },
+        {
+            "name":"Barnes & Noble Education Inc.",
+            "num_shares":"8,771,492",
+            "portfolio_weight":"4.65",
+            "recent_activity":"Add 0.11%",
+            "reported_price":"$10.15",
+            "ticker":"BNED"
+        },
+        {
+            "name":"VimpelCom Ltd.",
+            "num_shares":"18,770,950",
+            "portfolio_weight":"3.80",
+            "recent_activity":" ",
+            "reported_price":"$3.88",
+            "ticker":"VIP"
+        },
+        {
+            "name":"Och Ziff Capital Mgmt Grp LLC",
+            "num_shares":"15,384,269",
+            "portfolio_weight":"3.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$3.80",
+            "ticker":"OZM"
+        },
+        {
+            "name":"Keryx Biopharmaceuticals Inc.",
+            "num_shares":"5,719,176",
+            "portfolio_weight":"1.98",
+            "recent_activity":" ",
+            "reported_price":"$6.62",
+            "ticker":"KERX"
+        },
+        {
+            "name":"NorthStar Realty Finance Corp.",
+            "num_shares":"3,279,651",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$11.43",
+            "ticker":"NRF"
+        },
+        {
+            "name":"Opus Bank",
+            "num_shares":"1,052,433",
+            "portfolio_weight":"1.86",
+            "recent_activity":"Reduce 34.07%",
+            "reported_price":"$33.80",
+            "ticker":"OPB"
+        },
+        {
+            "name":"MoneyGram International",
+            "num_shares":"5,130,000",
+            "portfolio_weight":"1.84",
+            "recent_activity":" ",
+            "reported_price":"$6.85",
+            "ticker":"MGI"
+        },
+        {
+            "name":"Global Eagle Entertainment",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"1.73",
+            "recent_activity":" ",
+            "reported_price":"$6.64",
+            "ticker":"ENT"
+        },
+        {
+            "name":"Clear Channel Outdoor Holdings",
+            "num_shares":"3,354,390",
+            "portfolio_weight":"1.09",
+            "recent_activity":" ",
+            "reported_price":"$6.22",
+            "ticker":"CCO"
+        },
+        {
+            "name":"TICC Capital Corp.",
+            "num_shares":"59,105",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$5.26",
+            "ticker":"TICC"
+        }
+    ]
+}

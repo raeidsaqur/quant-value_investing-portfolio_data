@@ -1,0 +1,219 @@
+{
+    "company":"Cantillon Capital Management",
+    "investor":"William Von Mueffling",
+    "num_stocks":"26",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"cc",
+    "portfolio_value":"$5,938,258,000",
+    "stocks":[
+        {
+            "name":"Fidelity National Information Services",
+            "num_shares":"7,544,509",
+            "portfolio_weight":"9.36",
+            "recent_activity":"Reduce 2.65%",
+            "reported_price":"$73.68",
+            "ticker":"FIS"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"3,884,258",
+            "portfolio_weight":"7.02",
+            "recent_activity":"Reduce 2.44%",
+            "reported_price":"$107.26",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"Analog Devices",
+            "num_shares":"7,020,997",
+            "portfolio_weight":"6.70",
+            "recent_activity":"Reduce 2.59%",
+            "reported_price":"$56.64",
+            "ticker":"ADI"
+        },
+        {
+            "name":"Ecolab Inc.",
+            "num_shares":"3,105,151",
+            "portfolio_weight":"6.20",
+            "recent_activity":"Reduce 2.56%",
+            "reported_price":"$118.60",
+            "ticker":"ECL"
+        },
+        {
+            "name":"Willis Towers Watson Public Ltd",
+            "num_shares":"2,951,891",
+            "portfolio_weight":"6.18",
+            "recent_activity":"Reduce 2.86%",
+            "reported_price":"$124.31",
+            "ticker":"WLTW"
+        },
+        {
+            "name":"Baidu Inc.",
+            "num_shares":"2,080,972",
+            "portfolio_weight":"5.79",
+            "recent_activity":"Reduce 2.49%",
+            "reported_price":"$165.15",
+            "ticker":"BIDU"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"472,961",
+            "portfolio_weight":"5.60",
+            "recent_activity":"Reduce 2.66%",
+            "reported_price":"$703.53",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Zoetis Inc.",
+            "num_shares":"5,999,986",
+            "portfolio_weight":"4.80",
+            "recent_activity":"Reduce 2.34%",
+            "reported_price":"$47.46",
+            "ticker":"ZTS"
+        },
+        {
+            "name":"Intercontinental Exchange Inc.",
+            "num_shares":"1,038,882",
+            "portfolio_weight":"4.48",
+            "recent_activity":"Add 2.11%",
+            "reported_price":"$255.96",
+            "ticker":"ICE"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"373,672",
+            "portfolio_weight":"4.36",
+            "recent_activity":"Reduce 2.49%",
+            "reported_price":"$692.10",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Harley-Davidson",
+            "num_shares":"5,674,770",
+            "portfolio_weight":"4.33",
+            "recent_activity":"Reduce 2.59%",
+            "reported_price":"$45.30",
+            "ticker":"HOG"
+        },
+        {
+            "name":"CME Group",
+            "num_shares":"2,576,838",
+            "portfolio_weight":"4.23",
+            "recent_activity":"Add 4.59%",
+            "reported_price":"$97.40",
+            "ticker":"CME"
+        },
+        {
+            "name":"ServiceMaster Global Holdings",
+            "num_shares":"5,729,323",
+            "portfolio_weight":"3.84",
+            "recent_activity":"Add 25.01%",
+            "reported_price":"$39.80",
+            "ticker":"SERV"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"6,085,127",
+            "portfolio_weight":"3.58",
+            "recent_activity":"Reduce 2.49%",
+            "reported_price":"$34.89",
+            "ticker":"ST"
+        },
+        {
+            "name":"Agilent Technologies",
+            "num_shares":"4,507,394",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Reduce 2.53%",
+            "reported_price":"$44.36",
+            "ticker":"A"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"7,374,944",
+            "portfolio_weight":"3.29",
+            "recent_activity":"Add 93.82%",
+            "reported_price":"$26.48",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"736,010",
+            "portfolio_weight":"2.86",
+            "recent_activity":"Buy ",
+            "reported_price":"$231.09",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"2,270,028",
+            "portfolio_weight":"2.84",
+            "recent_activity":"Reduce 2.62%",
+            "reported_price":"$74.17",
+            "ticker":"V"
+        },
+        {
+            "name":"Cimpress N.V.",
+            "num_shares":"1,599,905",
+            "portfolio_weight":"2.49",
+            "recent_activity":"Add 6.22%",
+            "reported_price":"$92.48",
+            "ticker":"CMPR"
+        },
+        {
+            "name":"American Tower Corp.",
+            "num_shares":"1,138,260",
+            "portfolio_weight":"2.18",
+            "recent_activity":"Add 50.58%",
+            "reported_price":"$113.61",
+            "ticker":"AMT"
+        },
+        {
+            "name":"MSC Industrial Direct",
+            "num_shares":"1,532,523",
+            "portfolio_weight":"1.82",
+            "recent_activity":"Reduce 29.65%",
+            "reported_price":"$70.56",
+            "ticker":"MSM"
+        },
+        {
+            "name":"Credit Acceptance Corp.",
+            "num_shares":"413,651",
+            "portfolio_weight":"1.29",
+            "recent_activity":"Reduce 2.66%",
+            "reported_price":"$185.08",
+            "ticker":"CACC"
+        },
+        {
+            "name":"Ambev S.A.",
+            "num_shares":"11,536,973",
+            "portfolio_weight":"1.15",
+            "recent_activity":"Reduce 2.65%",
+            "reported_price":"$5.91",
+            "ticker":"ABEV"
+        },
+        {
+            "name":"Primerica, Inc.",
+            "num_shares":"1,110,739",
+            "portfolio_weight":"1.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$57.24",
+            "ticker":"PRI"
+        },
+        {
+            "name":"Bitauto Holdings Ltd.",
+            "num_shares":"2,309,124",
+            "portfolio_weight":"1.05",
+            "recent_activity":"Reduce 2.14%",
+            "reported_price":"$26.96",
+            "ticker":"BITA"
+        },
+        {
+            "name":"TriNet Group",
+            "num_shares":"437,507",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Buy ",
+            "reported_price":"$20.79",
+            "ticker":"TNET"
+        }
+    ]
+}

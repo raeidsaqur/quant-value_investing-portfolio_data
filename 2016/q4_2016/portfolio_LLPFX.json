@@ -1,0 +1,131 @@
+{
+    "company":"Longleaf Partners",
+    "investor":"Mason Hawkins",
+    "num_stocks":"15",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"LLPFX",
+    "portfolio_value":"$2,823,526,000",
+    "stocks":[
+        {
+            "name":"Level 3 Communications Inc.",
+            "num_shares":"5,958,138",
+            "portfolio_weight":"11.89",
+            "recent_activity":"Add 21.16%",
+            "reported_price":"$56.36",
+            "ticker":"LVLT"
+        },
+        {
+            "name":"FedEx Corp.",
+            "num_shares":"1,752,682",
+            "portfolio_weight":"11.56",
+            "recent_activity":" ",
+            "reported_price":"$186.20",
+            "ticker":"FDX"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"287,304",
+            "portfolio_weight":"7.85",
+            "recent_activity":" ",
+            "reported_price":"$771.82",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"CONSOL Energy Inc.",
+            "num_shares":"11,536,742",
+            "portfolio_weight":"7.45",
+            "recent_activity":" ",
+            "reported_price":"$18.23",
+            "ticker":"CNX"
+        },
+        {
+            "name":"CK Hutchison Hldgs Ltd.",
+            "num_shares":"18,489,500",
+            "portfolio_weight":"7.42",
+            "recent_activity":" ",
+            "reported_price":"$11.34",
+            "ticker":"CKHUY"
+        },
+        {
+            "name":"Wynn Resorts Ltd.",
+            "num_shares":"2,356,836",
+            "portfolio_weight":"7.22",
+            "recent_activity":"Add 2.41%",
+            "reported_price":"$86.51",
+            "ticker":"WYNN"
+        },
+        {
+            "name":"CNH Industrial NV",
+            "num_shares":"22,777,274",
+            "portfolio_weight":"7.02",
+            "recent_activity":" ",
+            "reported_price":"$8.70",
+            "ticker":"CNHI"
+        },
+        {
+            "name":"Scripps Networks Interactive Inc.",
+            "num_shares":"2,325,355",
+            "portfolio_weight":"5.88",
+            "recent_activity":"Reduce 11.89%",
+            "reported_price":"$71.37",
+            "ticker":"SNI"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"1,510,327",
+            "portfolio_weight":"5.86",
+            "recent_activity":"Reduce 6.36%",
+            "reported_price":"$109.62",
+            "ticker":"UTX"
+        },
+        {
+            "name":"LafargeHolcim Ltd.",
+            "num_shares":"3,125,741",
+            "portfolio_weight":"5.82",
+            "recent_activity":"Reduce 2.21%",
+            "reported_price":"$52.54",
+            "ticker":"HCMLF"
+        },
+        {
+            "name":"Chesapeake Energy",
+            "num_shares":"21,824,451",
+            "portfolio_weight":"5.43",
+            "recent_activity":"Reduce 28.73%",
+            "reported_price":"$7.02",
+            "ticker":"CHK"
+        },
+        {
+            "name":"Cheung Kong Property Hldgs",
+            "num_shares":"23,164,000",
+            "portfolio_weight":"5.03",
+            "recent_activity":" ",
+            "reported_price":"$6.13",
+            "ticker":"CHKGF"
+        },
+        {
+            "name":"Polo Ralph Lauren Corp.",
+            "num_shares":"1,348,742",
+            "portfolio_weight":"4.31",
+            "recent_activity":"Add 15.78%",
+            "reported_price":"$90.32",
+            "ticker":"RL"
+        },
+        {
+            "name":"Du Pont (E.I.)",
+            "num_shares":"1,607,158",
+            "portfolio_weight":"4.18",
+            "recent_activity":" ",
+            "reported_price":"$73.40",
+            "ticker":"DD"
+        },
+        {
+            "name":"T. Rowe Price Group",
+            "num_shares":"1,155,251",
+            "portfolio_weight":"3.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$75.26",
+            "ticker":"TROW"
+        }
+    ]
+}

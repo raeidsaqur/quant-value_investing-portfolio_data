@@ -1,0 +1,243 @@
+{
+    "company":"Weitz Value",
+    "investor":"Wallace Weitz",
+    "num_stocks":"29",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"WVALX",
+    "portfolio_value":"$678,945,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"360,000",
+            "portfolio_weight":"8.64",
+            "recent_activity":"Reduce 7.69%",
+            "reported_price":"$162.98",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Liberty Broadband Corp. CL C",
+            "num_shares":"725,000",
+            "portfolio_weight":"7.91",
+            "recent_activity":" ",
+            "reported_price":"$74.07",
+            "ticker":"LBRDK"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"240,000",
+            "portfolio_weight":"7.42",
+            "recent_activity":"Add 8.11%",
+            "reported_price":"$210.01",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Twenty-First Century Fox",
+            "num_shares":"1,470,000",
+            "portfolio_weight":"6.07",
+            "recent_activity":"Reduce 25.00%",
+            "reported_price":"$28.04",
+            "ticker":"FOXA"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"1,370,000",
+            "portfolio_weight":"5.99",
+            "recent_activity":" ",
+            "reported_price":"$29.70",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"38,563",
+            "portfolio_weight":"4.38",
+            "recent_activity":" ",
+            "reported_price":"$771.83",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"278,000",
+            "portfolio_weight":"4.23",
+            "recent_activity":" ",
+            "reported_price":"$103.25",
+            "ticker":"MA"
+        },
+        {
+            "name":"QVC Group",
+            "num_shares":"1,415,000",
+            "portfolio_weight":"4.16",
+            "recent_activity":" ",
+            "reported_price":"$19.98",
+            "ticker":"QVCA"
+        },
+        {
+            "name":"Laboratory Corp. of America Hldgs",
+            "num_shares":"215,000",
+            "portfolio_weight":"4.07",
+            "recent_activity":"Add 7.50%",
+            "reported_price":"$128.38",
+            "ticker":"LH"
+        },
+        {
+            "name":"Aon Corp.",
+            "num_shares":"224,000",
+            "portfolio_weight":"3.68",
+            "recent_activity":"Reduce 8.57%",
+            "reported_price":"$111.53",
+            "ticker":"AON"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"635,000",
+            "portfolio_weight":"3.60",
+            "recent_activity":"Add 8.55%",
+            "reported_price":"$38.45",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Liberty SiriusXM Series C",
+            "num_shares":"650,753",
+            "portfolio_weight":"3.25",
+            "recent_activity":"Reduce 36.82%",
+            "reported_price":"$33.92",
+            "ticker":"LSXMK"
+        },
+        {
+            "name":"Praxair Inc.",
+            "num_shares":"180,000",
+            "portfolio_weight":"3.11",
+            "recent_activity":" ",
+            "reported_price":"$117.19",
+            "ticker":"PX"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"275,000",
+            "portfolio_weight":"2.80",
+            "recent_activity":" ",
+            "reported_price":"$69.05",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"175,000",
+            "portfolio_weight":"2.71",
+            "recent_activity":"Reduce 2.78%",
+            "reported_price":"$105.21",
+            "ticker":"MON"
+        },
+        {
+            "name":"Discovery Communications Inc. CL C",
+            "num_shares":"675,000",
+            "portfolio_weight":"2.66",
+            "recent_activity":" ",
+            "reported_price":"$26.78",
+            "ticker":"DISCK"
+        },
+        {
+            "name":"Accenture",
+            "num_shares":"150,000",
+            "portfolio_weight":"2.59",
+            "recent_activity":"Reduce 11.24%",
+            "reported_price":"$117.13",
+            "ticker":"ACN"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"215,000",
+            "portfolio_weight":"2.47",
+            "recent_activity":"Buy ",
+            "reported_price":"$78.02",
+            "ticker":"V"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"145,000",
+            "portfolio_weight":"2.45",
+            "recent_activity":"Reduce 21.62%",
+            "reported_price":"$114.64",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"118,000",
+            "portfolio_weight":"2.45",
+            "recent_activity":"Buy ",
+            "reported_price":"$141.10",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"295,000",
+            "portfolio_weight":"2.39",
+            "recent_activity":"Reduce 21.33%",
+            "reported_price":"$55.11",
+            "ticker":"WFC"
+        },
+        {
+            "name":"TransDigm Group Inc.",
+            "num_shares":"60,000",
+            "portfolio_weight":"2.20",
+            "recent_activity":" ",
+            "reported_price":"$248.97",
+            "ticker":"TDG"
+        },
+        {
+            "name":"Motorola Solutions Inc.",
+            "num_shares":"164,458",
+            "portfolio_weight":"2.01",
+            "recent_activity":"Reduce 28.50%",
+            "reported_price":"$82.89",
+            "ticker":"MSI"
+        },
+        {
+            "name":"Pioneer Natural Resources",
+            "num_shares":"68,000",
+            "portfolio_weight":"1.80",
+            "recent_activity":"Reduce 2.86%",
+            "reported_price":"$180.07",
+            "ticker":"PXD"
+        },
+        {
+            "name":"Diageo plc",
+            "num_shares":"115,000",
+            "portfolio_weight":"1.76",
+            "recent_activity":" ",
+            "reported_price":"$103.94",
+            "ticker":"DEO"
+        },
+        {
+            "name":"Range Resources Corp.",
+            "num_shares":"325,000",
+            "portfolio_weight":"1.64",
+            "recent_activity":" ",
+            "reported_price":"$34.36",
+            "ticker":"RRC"
+        },
+        {
+            "name":"CVS Health Corp.",
+            "num_shares":"110,000",
+            "portfolio_weight":"1.28",
+            "recent_activity":"Buy ",
+            "reported_price":"$78.91",
+            "ticker":"CVS"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"11,500",
+            "portfolio_weight":"1.27",
+            "recent_activity":"Buy ",
+            "reported_price":"$749.91",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"125,000",
+            "portfolio_weight":"1.00",
+            "recent_activity":"Reduce 37.50%",
+            "reported_price":"$54.09",
+            "ticker":"HAL"
+        }
+    ]
+}

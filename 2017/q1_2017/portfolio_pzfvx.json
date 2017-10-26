@@ -1,0 +1,347 @@
+{
+    "company":"Hancock Classic Value",
+    "investor":"Richard Pzena",
+    "num_stocks":"42",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"pzfvx",
+    "portfolio_value":"$1,969,358,000",
+    "stocks":[
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"1,220,973",
+            "portfolio_weight":"4.15",
+            "recent_activity":"Reduce 5.81%",
+            "reported_price":"$66.88",
+            "ticker":"C"
+        },
+        {
+            "name":"Royal Dutch Shell PLC",
+            "num_shares":"1,426,706",
+            "portfolio_weight":"3.85",
+            "recent_activity":"Add 1.71%",
+            "reported_price":"$53.19",
+            "ticker":"RDS.A"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"2,972,988",
+            "portfolio_weight":"3.66",
+            "recent_activity":" ",
+            "reported_price":"$24.26",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"878,812",
+            "portfolio_weight":"3.60",
+            "recent_activity":" ",
+            "reported_price":"$80.73",
+            "ticker":"XOM"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"1,373,452",
+            "portfolio_weight":"3.50",
+            "recent_activity":"Reduce 4.52%",
+            "reported_price":"$50.14",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"1,030,906",
+            "portfolio_weight":"3.48",
+            "recent_activity":" ",
+            "reported_price":"$66.40",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"1,429,596",
+            "portfolio_weight":"3.23",
+            "recent_activity":" ",
+            "reported_price":"$44.56",
+            "ticker":"MS"
+        },
+        {
+            "name":"Dover Corp.",
+            "num_shares":"765,185",
+            "portfolio_weight":"3.12",
+            "recent_activity":" ",
+            "reported_price":"$80.22",
+            "ticker":"DOV"
+        },
+        {
+            "name":"Franklin Resources",
+            "num_shares":"1,364,649",
+            "portfolio_weight":"3.10",
+            "recent_activity":"Reduce 4.40%",
+            "reported_price":"$44.79",
+            "ticker":"BEN"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"274,028",
+            "portfolio_weight":"3.09",
+            "recent_activity":" ",
+            "reported_price":"$221.90",
+            "ticker":"GS"
+        },
+        {
+            "name":"Omnicom Group",
+            "num_shares":"727,198",
+            "portfolio_weight":"3.06",
+            "recent_activity":"Add 22.44%",
+            "reported_price":"$82.90",
+            "ticker":"OMC"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"959,709",
+            "portfolio_weight":"3.05",
+            "recent_activity":" ",
+            "reported_price":"$62.52",
+            "ticker":"AIG"
+        },
+        {
+            "name":"State Street Corp.",
+            "num_shares":"646,187",
+            "portfolio_weight":"2.94",
+            "recent_activity":" ",
+            "reported_price":"$89.73",
+            "ticker":"STT"
+        },
+        {
+            "name":"Voya Financial Inc.",
+            "num_shares":"1,562,843",
+            "portfolio_weight":"2.93",
+            "recent_activity":" ",
+            "reported_price":"$36.89",
+            "ticker":"VOYA"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"655,791",
+            "portfolio_weight":"2.75",
+            "recent_activity":" ",
+            "reported_price":"$82.62",
+            "ticker":"COF"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"713,472",
+            "portfolio_weight":"2.74",
+            "recent_activity":" ",
+            "reported_price":"$75.68",
+            "ticker":"WMT"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"586,661",
+            "portfolio_weight":"2.72",
+            "recent_activity":" ",
+            "reported_price":"$91.40",
+            "ticker":"JPM"
+        },
+        {
+            "name":"McKesson Corp.",
+            "num_shares":"322,993",
+            "portfolio_weight":"2.70",
+            "recent_activity":"Reduce 3.36%",
+            "reported_price":"$164.54",
+            "ticker":"MCK"
+        },
+        {
+            "name":"Ford Motor",
+            "num_shares":"4,549,391",
+            "portfolio_weight":"2.59",
+            "recent_activity":"Add 43.10%",
+            "reported_price":"$11.19",
+            "ticker":"F"
+        },
+        {
+            "name":"Mylan NV",
+            "num_shares":"1,286,720",
+            "portfolio_weight":"2.54",
+            "recent_activity":"Add 32.36%",
+            "reported_price":"$38.82",
+            "ticker":"MYL"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"3,010,591",
+            "portfolio_weight":"2.54",
+            "recent_activity":"Add 31.22%",
+            "reported_price":"$16.59",
+            "ticker":"HPE"
+        },
+        {
+            "name":"MetLife Inc.",
+            "num_shares":"877,693",
+            "portfolio_weight":"2.45",
+            "recent_activity":" ",
+            "reported_price":"$54.94",
+            "ticker":"MET"
+        },
+        {
+            "name":"Axis Capital Holdings Ltd.",
+            "num_shares":"746,892",
+            "portfolio_weight":"2.45",
+            "recent_activity":" ",
+            "reported_price":"$64.66",
+            "ticker":"AXS"
+        },
+        {
+            "name":"Regions Financial Corp.",
+            "num_shares":"3,237,950",
+            "portfolio_weight":"2.41",
+            "recent_activity":" ",
+            "reported_price":"$14.64",
+            "ticker":"RF"
+        },
+        {
+            "name":"Intel Corp.",
+            "num_shares":"1,401,931",
+            "portfolio_weight":"2.40",
+            "recent_activity":" ",
+            "reported_price":"$33.74",
+            "ticker":"INTC"
+        },
+        {
+            "name":"UBS AG",
+            "num_shares":"2,577,126",
+            "portfolio_weight":"2.22",
+            "recent_activity":" ",
+            "reported_price":"$16.98",
+            "ticker":"UBS"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"631,722",
+            "portfolio_weight":"2.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$63.84",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"Hilton Worldwide Holdings",
+            "num_shares":"623,715",
+            "portfolio_weight":"1.96",
+            "recent_activity":"Reduce 7.47%",
+            "reported_price":"$61.85",
+            "ticker":"HLT"
+        },
+        {
+            "name":"CIGNA Corp.",
+            "num_shares":"228,977",
+            "portfolio_weight":"1.95",
+            "recent_activity":"Reduce 31.38%",
+            "reported_price":"$167.39",
+            "ticker":"CI"
+        },
+        {
+            "name":"BP plc",
+            "num_shares":"1,083,645",
+            "portfolio_weight":"1.91",
+            "recent_activity":" ",
+            "reported_price":"$34.65",
+            "ticker":"BP"
+        },
+        {
+            "name":"Staples Inc.",
+            "num_shares":"3,466,580",
+            "portfolio_weight":"1.77",
+            "recent_activity":" ",
+            "reported_price":"$10.07",
+            "ticker":"SPLS"
+        },
+        {
+            "name":"Cenovus Energy Inc.",
+            "num_shares":"4,193,126",
+            "portfolio_weight":"1.57",
+            "recent_activity":" ",
+            "reported_price":"$7.37",
+            "ticker":"CVE"
+        },
+        {
+            "name":"Interpublic Group",
+            "num_shares":"1,250,945",
+            "portfolio_weight":"1.56",
+            "recent_activity":" ",
+            "reported_price":"$24.60",
+            "ticker":"IPG"
+        },
+        {
+            "name":"Parker-Hannifin",
+            "num_shares":"190,664",
+            "portfolio_weight":"1.55",
+            "recent_activity":"Reduce 23.07%",
+            "reported_price":"$159.82",
+            "ticker":"PH"
+        },
+        {
+            "name":"News Corp.",
+            "num_shares":"2,160,052",
+            "portfolio_weight":"1.50",
+            "recent_activity":"Reduce 6.39%",
+            "reported_price":"$13.70",
+            "ticker":"NWSA"
+        },
+        {
+            "name":"Murphy Oil",
+            "num_shares":"1,103,276",
+            "portfolio_weight":"1.44",
+            "recent_activity":" ",
+            "reported_price":"$25.63",
+            "ticker":"MUR"
+        },
+        {
+            "name":"HP Inc.",
+            "num_shares":"1,550,226",
+            "portfolio_weight":"1.38",
+            "recent_activity":" ",
+            "reported_price":"$17.48",
+            "ticker":"HPQ"
+        },
+        {
+            "name":"Corning Inc.",
+            "num_shares":"696,483",
+            "portfolio_weight":"1.06",
+            "recent_activity":" ",
+            "reported_price":"$30.05",
+            "ticker":"GLW"
+        },
+        {
+            "name":"Stanley Black & Decker Inc.",
+            "num_shares":"142,572",
+            "portfolio_weight":"1.02",
+            "recent_activity":"Reduce 44.15%",
+            "reported_price":"$140.73",
+            "ticker":"SWK"
+        },
+        {
+            "name":"Abbott Labs",
+            "num_shares":"401,146",
+            "portfolio_weight":"0.99",
+            "recent_activity":"Reduce 10.09%",
+            "reported_price":"$48.61",
+            "ticker":"ABT"
+        },
+        {
+            "name":"Seagate Technology",
+            "num_shares":"402,021",
+            "portfolio_weight":"0.79",
+            "recent_activity":" ",
+            "reported_price":"$38.75",
+            "ticker":"STX"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"114,367",
+            "portfolio_weight":"0.25",
+            "recent_activity":" ",
+            "reported_price":"$42.71",
+            "ticker":"HAL"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "company":"Baupost Group",
+    "investor":"Seth Klarman",
+    "num_stocks":"38",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"BAUPOST",
+    "portfolio_value":"$7,328,233,000",
+    "stocks":[
+        {
+            "name":"EMC Corp.",
+            "num_shares":"56,961,725",
+            "portfolio_weight":"21.12",
+            "recent_activity":"Add 9.86%",
+            "reported_price":"$27.17",
+            "ticker":"EMC"
+        },
+        {
+            "name":"Cheniere Energy Inc.",
+            "num_shares":"29,841,174",
+            "portfolio_weight":"15.29",
+            "recent_activity":" ",
+            "reported_price":"$37.55",
+            "ticker":"LNG"
+        },
+        {
+            "name":"Viasat Inc.",
+            "num_shares":"11,533,137",
+            "portfolio_weight":"11.24",
+            "recent_activity":" ",
+            "reported_price":"$71.40",
+            "ticker":"VSAT"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"2,001,978",
+            "portfolio_weight":"6.31",
+            "recent_activity":"Add 16.29%",
+            "reported_price":"$231.09",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Antero Resources",
+            "num_shares":"14,505,881",
+            "portfolio_weight":"5.14",
+            "recent_activity":"Reduce 32.55%",
+            "reported_price":"$25.98",
+            "ticker":"AR"
+        },
+        {
+            "name":"Olin Corp.",
+            "num_shares":"10,739,202",
+            "portfolio_weight":"3.64",
+            "recent_activity":" ",
+            "reported_price":"$24.84",
+            "ticker":"OLN"
+        },
+        {
+            "name":"PBF Energy Inc.",
+            "num_shares":"10,641,175",
+            "portfolio_weight":"3.45",
+            "recent_activity":" ",
+            "reported_price":"$23.78",
+            "ticker":"PBF"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"5,167,000",
+            "portfolio_weight":"2.99",
+            "recent_activity":"Buy ",
+            "reported_price":"$42.39",
+            "ticker":"C"
+        },
+        {
+            "name":"Twenty-First Century Fox",
+            "num_shares":"7,696,922",
+            "portfolio_weight":"2.84",
+            "recent_activity":" ",
+            "reported_price":"$27.05",
+            "ticker":"FOXA"
+        },
+        {
+            "name":"PayPal Holdings Inc.",
+            "num_shares":"5,664,087",
+            "portfolio_weight":"2.82",
+            "recent_activity":"Reduce 19.77%",
+            "reported_price":"$36.51",
+            "ticker":"PYPL"
+        },
+        {
+            "name":"Twenty-First Century Fox CL B",
+            "num_shares":"7,278,100",
+            "portfolio_weight":"2.71",
+            "recent_activity":" ",
+            "reported_price":"$27.25",
+            "ticker":"FOX"
+        },
+        {
+            "name":"Innoviva Inc.",
+            "num_shares":"17,610,091",
+            "portfolio_weight":"2.53",
+            "recent_activity":"Reduce 11.13%",
+            "reported_price":"$10.53",
+            "ticker":"INVA"
+        },
+        {
+            "name":"Keryx Biopharmaceuticals Inc.",
+            "num_shares":"25,791,678",
+            "portfolio_weight":"2.33",
+            "recent_activity":" ",
+            "reported_price":"$6.62",
+            "ticker":"KERX"
+        },
+        {
+            "name":"Theravance Biopharma Inc.",
+            "num_shares":"7,350,991",
+            "portfolio_weight":"2.28",
+            "recent_activity":"Add 13.07%",
+            "reported_price":"$22.69",
+            "ticker":"TBPH"
+        },
+        {
+            "name":"VMware Inc.",
+            "num_shares":"2,252,694",
+            "portfolio_weight":"1.76",
+            "recent_activity":" ",
+            "reported_price":"$57.22",
+            "ticker":"VMW"
+        },
+        {
+            "name":"Atara Biotherapeutics Inc.",
+            "num_shares":"5,359,632",
+            "portfolio_weight":"1.65",
+            "recent_activity":" ",
+            "reported_price":"$22.51",
+            "ticker":"ATRA"
+        },
+        {
+            "name":"Veritiv Corp.",
+            "num_shares":"3,044,385",
+            "portfolio_weight":"1.56",
+            "recent_activity":" ",
+            "reported_price":"$37.58",
+            "ticker":"VRTV"
+        },
+        {
+            "name":"Forward Pharma A/S",
+            "num_shares":"5,367,300",
+            "portfolio_weight":"1.33",
+            "recent_activity":" ",
+            "reported_price":"$18.17",
+            "ticker":"FWP"
+        },
+        {
+            "name":"Liberty Ventures",
+            "num_shares":"2,469,533",
+            "portfolio_weight":"1.25",
+            "recent_activity":"Buy ",
+            "reported_price":"$37.07",
+            "ticker":"LVNTA"
+        },
+        {
+            "name":"ChipMOS TECH",
+            "num_shares":"3,751,853",
+            "portfolio_weight":"0.93",
+            "recent_activity":" ",
+            "reported_price":"$18.11",
+            "ticker":"IMOS"
+        },
+        {
+            "name":"KLX Inc.",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"0.85",
+            "recent_activity":" ",
+            "reported_price":"$31.00",
+            "ticker":"KLXI"
+        },
+        {
+            "name":"Avis Budget Group Inc.",
+            "num_shares":"1,787,227",
+            "portfolio_weight":"0.79",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.23",
+            "ticker":"CAR"
+        },
+        {
+            "name":"NovaGold Resources",
+            "num_shares":"9,500,000",
+            "portfolio_weight":"0.79",
+            "recent_activity":"Reduce 36.67%",
+            "reported_price":"$6.12",
+            "ticker":"NG"
+        },
+        {
+            "name":"SunEdison Semiconductor Ltd.",
+            "num_shares":"8,372,979",
+            "portfolio_weight":"0.68",
+            "recent_activity":" ",
+            "reported_price":"$5.93",
+            "ticker":"SEMI"
+        },
+        {
+            "name":"American Intl. Grp. WTS",
+            "num_shares":"2,550,917",
+            "portfolio_weight":"0.65",
+            "recent_activity":"Add 20.07%",
+            "reported_price":"$18.69",
+            "ticker":"AIG.WS"
+        },
+        {
+            "name":"Liberty Braves Group C",
+            "num_shares":"2,994,010",
+            "portfolio_weight":"0.60",
+            "recent_activity":"Buy ",
+            "reported_price":"$14.66",
+            "ticker":"BATRK"
+        },
+        {
+            "name":"Silver Run Acquisition Corp.",
+            "num_shares":"3,750,000",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$9.80",
+            "ticker":"SRAQ"
+        },
+        {
+            "name":"Paratek Pharmaceuticals",
+            "num_shares":"2,044,498",
+            "portfolio_weight":"0.39",
+            "recent_activity":"Add 32.37%",
+            "reported_price":"$13.91",
+            "ticker":"PRTK"
+        },
+        {
+            "name":"Cascadian Therapeutics Inc.",
+            "num_shares":"25,000,000",
+            "portfolio_weight":"0.32",
+            "recent_activity":"Buy ",
+            "reported_price":"$0.94",
+            "ticker":"CASC"
+        },
+        {
+            "name":"Credit Acceptance Corp.",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.25",
+            "recent_activity":"Buy ",
+            "reported_price":"$185.08",
+            "ticker":"CACC"
+        },
+        {
+            "name":"Sunrun Inc.",
+            "num_shares":"2,848,082",
+            "portfolio_weight":"0.23",
+            "recent_activity":" ",
+            "reported_price":"$5.93",
+            "ticker":"RUN"
+        },
+        {
+            "name":"Och Ziff Capital Mgmt Grp LLC",
+            "num_shares":"3,373,891",
+            "portfolio_weight":"0.17",
+            "recent_activity":"Buy ",
+            "reported_price":"$3.80",
+            "ticker":"OZM"
+        },
+        {
+            "name":"Liberty Braves Group A",
+            "num_shares":"800,000",
+            "portfolio_weight":"0.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.04",
+            "ticker":"BATRA"
+        },
+        {
+            "name":"Kindred Biosciences Inc.",
+            "num_shares":"3,013,848",
+            "portfolio_weight":"0.15",
+            "recent_activity":" ",
+            "reported_price":"$3.54",
+            "ticker":"KIN"
+        },
+        {
+            "name":"Orexigen Therapeutics Inc.",
+            "num_shares":"2,226,840",
+            "portfolio_weight":"0.13",
+            "recent_activity":"Add 0.00%",
+            "reported_price":"$4.30",
+            "ticker":"OREX"
+        },
+        {
+            "name":"Citigroup WTS A",
+            "num_shares":"102,553,207",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$0.06",
+            "ticker":"C.WS.A"
+        },
+        {
+            "name":"NovaCopper Inc.",
+            "num_shares":"10,600,758",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$0.50",
+            "ticker":"NCQ"
+        },
+        {
+            "name":"Silver Run Acquisition Corp. WTS",
+            "num_shares":"1,250,000",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$1.14",
+            "ticker":"SRAQ.WS"
+        }
+    ]
+}

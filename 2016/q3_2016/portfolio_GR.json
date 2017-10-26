@@ -1,0 +1,755 @@
+{
+    "company":"Gardner Russo & Gardner",
+    "investor":"Thomas Russo",
+    "num_stocks":"93",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"GR",
+    "portfolio_value":"$12,018,952,000",
+    "stocks":[
+        {
+            "name":"Nestle",
+            "num_shares":"15,857,911",
+            "portfolio_weight":"10.42",
+            "recent_activity":"Reduce 0.14%",
+            "reported_price":"$78.97",
+            "ticker":"NSRGY"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"4,984",
+            "portfolio_weight":"8.97",
+            "recent_activity":"Reduce 0.30%",
+            "reported_price":"$216219.90",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Philip Morris Intl.",
+            "num_shares":"10,314,013",
+            "portfolio_weight":"8.34",
+            "recent_activity":"Reduce 1.69%",
+            "reported_price":"$97.22",
+            "ticker":"PM"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"9,775,132",
+            "portfolio_weight":"8.28",
+            "recent_activity":"Add 0.37%",
+            "reported_price":"$101.77",
+            "ticker":"MA"
+        },
+        {
+            "name":"Anheuser-Busch InBev",
+            "num_shares":"6,668,425",
+            "portfolio_weight":"7.29",
+            "recent_activity":"Add 1.92%",
+            "reported_price":"$131.41",
+            "ticker":"BUD"
+        },
+        {
+            "name":"Heineken Holding NV",
+            "num_shares":"10,808,907",
+            "portfolio_weight":"7.21",
+            "recent_activity":"Reduce 0.07%",
+            "reported_price":"$80.22",
+            "ticker":"HKHHF"
+        },
+        {
+            "name":"Pernod Ricard",
+            "num_shares":"6,296,414",
+            "portfolio_weight":"6.20",
+            "recent_activity":"Reduce 0.10%",
+            "reported_price":"$118.39",
+            "ticker":"PDRDF"
+        },
+        {
+            "name":"Compagnie Financiere Richemont SA",
+            "num_shares":"11,931,897",
+            "portfolio_weight":"6.06",
+            "recent_activity":"Add 2.22%",
+            "reported_price":"$61.07",
+            "ticker":"CFRHF"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"15,808,558",
+            "portfolio_weight":"5.82",
+            "recent_activity":"Add 4.11%",
+            "reported_price":"$44.28",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Unilever NV",
+            "num_shares":"14,360,160",
+            "portfolio_weight":"5.51",
+            "recent_activity":"Add 0.01%",
+            "reported_price":"$46.10",
+            "ticker":"UN"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"2,591,501",
+            "portfolio_weight":"3.12",
+            "recent_activity":"Add 0.27%",
+            "reported_price":"$144.47",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Altria Group Inc.",
+            "num_shares":"5,893,334",
+            "portfolio_weight":"3.10",
+            "recent_activity":"Reduce 0.56%",
+            "reported_price":"$63.23",
+            "ticker":"MO"
+        },
+        {
+            "name":"Martin Marietta",
+            "num_shares":"2,069,336",
+            "portfolio_weight":"3.08",
+            "recent_activity":"Reduce 0.78%",
+            "reported_price":"$179.11",
+            "ticker":"MLM"
+        },
+        {
+            "name":"Diageo plc",
+            "num_shares":"9,833,050",
+            "portfolio_weight":"2.70",
+            "recent_activity":"Add 0.30%",
+            "reported_price":"$33.00",
+            "ticker":"DEO"
+        },
+        {
+            "name":"British American Tobacco plc",
+            "num_shares":"5,063,445",
+            "portfolio_weight":"2.70",
+            "recent_activity":"Reduce 0.58%",
+            "reported_price":"$64.11",
+            "ticker":"BTI"
+        },
+        {
+            "name":"Swatch Group AG-D",
+            "num_shares":"1,014,224",
+            "portfolio_weight":"2.31",
+            "recent_activity":"Add 1.27%",
+            "reported_price":"$273.64",
+            "ticker":"UHR-D"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"3,780,163",
+            "portfolio_weight":"2.09",
+            "recent_activity":"Reduce 0.92%",
+            "reported_price":"$66.34",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"BROWN FORMAN Inc. A",
+            "num_shares":"4,729,714",
+            "portfolio_weight":"1.96",
+            "recent_activity":"Reduce 1.79%",
+            "reported_price":"$49.75",
+            "ticker":"BF.A"
+        },
+        {
+            "name":"JC Decaux SA ACT",
+            "num_shares":"6,291,096",
+            "portfolio_weight":"1.69",
+            "recent_activity":"Add 4.17%",
+            "reported_price":"$32.34",
+            "ticker":"JCDXF"
+        },
+        {
+            "name":"Scripps Networks Interactive Inc.",
+            "num_shares":"1,178,056",
+            "portfolio_weight":"0.62",
+            "recent_activity":"Reduce 0.19%",
+            "reported_price":"$63.49",
+            "ticker":"SNI"
+        },
+        {
+            "name":"Brown-Forman Corp.",
+            "num_shares":"1,255,769",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Add 6.54%",
+            "reported_price":"$47.44",
+            "ticker":"BF.B"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"542,014",
+            "portfolio_weight":"0.37",
+            "recent_activity":"Add 0.17%",
+            "reported_price":"$82.70",
+            "ticker":"V"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"163,315",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Reduce 2.27%",
+            "reported_price":"$87.28",
+            "ticker":"XOM"
+        },
+        {
+            "name":"Fomento Economico Mexicano",
+            "num_shares":"124,665",
+            "portfolio_weight":"0.10",
+            "recent_activity":"Add 0.75%",
+            "reported_price":"$92.04",
+            "ticker":"FMX"
+        },
+        {
+            "name":"Swedish Match AB",
+            "num_shares":"300,938",
+            "portfolio_weight":"0.09",
+            "recent_activity":"Reduce 0.89%",
+            "reported_price":"$36.75",
+            "ticker":"SWMAF"
+        },
+        {
+            "name":"Markel Corp.",
+            "num_shares":"11,987",
+            "portfolio_weight":"0.09",
+            "recent_activity":"Reduce 2.32%",
+            "reported_price":"$928.76",
+            "ticker":"MKL"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"155,638",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Add 1.16%",
+            "reported_price":"$64.04",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Crane Co.",
+            "num_shares":"153,741",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Reduce 1.66%",
+            "reported_price":"$63.01",
+            "ticker":"CR"
+        },
+        {
+            "name":"Danone",
+            "num_shares":"665,770",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Reduce 0.18%",
+            "reported_price":"$14.85",
+            "ticker":"DANOY"
+        },
+        {
+            "name":"Coca Cola Co.",
+            "num_shares":"185,892",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Reduce 5.69%",
+            "reported_price":"$42.32",
+            "ticker":"KO"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"78,792",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Reduce 1.59%",
+            "reported_price":"$89.76",
+            "ticker":"PG"
+        },
+        {
+            "name":"JJPMorgan Chase WTS",
+            "num_shares":"234,750",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 0.64%",
+            "reported_price":"$24.63",
+            "ticker":"JPM.WS"
+        },
+        {
+            "name":"Miller (Herman)",
+            "num_shares":"223,543",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 1.54%",
+            "reported_price":"$28.60",
+            "ticker":"MLHR"
+        },
+        {
+            "name":"Outfront Media Inc.",
+            "num_shares":"250,700",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 0.43%",
+            "reported_price":"$23.65",
+            "ticker":"OUT"
+        },
+        {
+            "name":"Hormel Foods Corp.",
+            "num_shares":"163,849",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 1.21%",
+            "reported_price":"$37.93",
+            "ticker":"HRL"
+        },
+        {
+            "name":"Heineken NV",
+            "num_shares":"88,590",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 0.50%",
+            "reported_price":"$68.73",
+            "ticker":"HINKY"
+        },
+        {
+            "name":"Dover Corp.",
+            "num_shares":"62,326",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Add 3.75%",
+            "reported_price":"$73.65",
+            "ticker":"DOV"
+        },
+        {
+            "name":"Wells Fargo WTS",
+            "num_shares":"268,000",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Add 3.88%",
+            "reported_price":"$12.48",
+            "ticker":"WFC.WS"
+        },
+        {
+            "name":"Chevron Corp.",
+            "num_shares":"35,542",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 7.78%",
+            "reported_price":"$102.92",
+            "ticker":"CVX"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"37,062",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Add 5.45%",
+            "reported_price":"$108.76",
+            "ticker":"PEP"
+        },
+        {
+            "name":"McCormick & Co.",
+            "num_shares":"35,005",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 6.54%",
+            "reported_price":"$99.93",
+            "ticker":"MKC"
+        },
+        {
+            "name":"M&T Bank WTS",
+            "num_shares":"82,139",
+            "portfolio_weight":"0.03",
+            "recent_activity":" ",
+            "reported_price":"$42.29",
+            "ticker":"MTB.WS"
+        },
+        {
+            "name":"SABMiller Plc",
+            "num_shares":"65,760",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 2.73%",
+            "reported_price":"$58.39",
+            "ticker":"SBMRY"
+        },
+        {
+            "name":"BIC SA",
+            "num_shares":"21,725",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 1.14%",
+            "reported_price":"$147.94",
+            "ticker":"BICEF"
+        },
+        {
+            "name":"PNC Financial Services",
+            "num_shares":"23,810",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 46.88%",
+            "reported_price":"$90.09",
+            "ticker":"PNC"
+        },
+        {
+            "name":"Royal Dutch Shell PLC",
+            "num_shares":"57,920",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 1.07%",
+            "reported_price":"$50.07",
+            "ticker":"RDS.A"
+        },
+        {
+            "name":"Lindt & Spruengli AG",
+            "num_shares":"34",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$68411.76",
+            "ticker":"COCXF"
+        },
+        {
+            "name":"Du Pont (E.I.)",
+            "num_shares":"37,687",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 0.08%",
+            "reported_price":"$66.97",
+            "ticker":"DD"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"50,550",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Add 0.80%",
+            "reported_price":"$57.61",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Reckitt Benckiser Group Plc",
+            "num_shares":"29,537",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 1.01%",
+            "reported_price":"$94.36",
+            "ticker":"RBGPF"
+        },
+        {
+            "name":"Kraft Heinz Co.",
+            "num_shares":"21,450",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$89.51",
+            "ticker":"KHC"
+        },
+        {
+            "name":"Eaton Vance Senior Income Trust",
+            "num_shares":"286,696",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 0.54%",
+            "reported_price":"$6.44",
+            "ticker":"EVF"
+        },
+        {
+            "name":"L'Oreal SA",
+            "num_shares":"6,675",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 0.74%",
+            "reported_price":"$188.91",
+            "ticker":"LRLCF"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"9,393",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$161.29",
+            "ticker":"GS"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"51,100",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$15.66",
+            "ticker":"BAC"
+        },
+        {
+            "name":"BB&T Corp.",
+            "num_shares":"37,787",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 8.90%",
+            "reported_price":"$37.71",
+            "ticker":"BBT"
+        },
+        {
+            "name":"Fulton Financial Corp.",
+            "num_shares":"93,443",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 167.52%",
+            "reported_price":"$14.52",
+            "ticker":"FUTL"
+        },
+        {
+            "name":"Pernod-Ricard SA",
+            "num_shares":"56,225",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 0.71%",
+            "reported_price":"$23.67",
+            "ticker":"PDRDY"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"10,749",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 4.66%",
+            "reported_price":"$158.81",
+            "ticker":"IBM"
+        },
+        {
+            "name":"AP Moller-Maersk A S",
+            "num_shares":"559",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 2.95%",
+            "reported_price":"$1404.29",
+            "ticker":"AMKAF"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"1,587",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$804.03",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Pargesa Holding SA",
+            "num_shares":"17,401",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$68.67",
+            "ticker":"PRGAF"
+        },
+        {
+            "name":"Abbott Labs",
+            "num_shares":"16,400",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$42.32",
+            "ticker":"ABT"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"22,775",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 14.62%",
+            "reported_price":"$72.14",
+            "ticker":"WMT"
+        },
+        {
+            "name":"Lamar Advertising Co.",
+            "num_shares":"13,985",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 4.60%",
+            "reported_price":"$65.28",
+            "ticker":"LAMR"
+        },
+        {
+            "name":"AbbVie Inc.",
+            "num_shares":"17,106",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$63.08",
+            "ticker":"ABBV"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"1,704",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$777.58",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Costco Co.",
+            "num_shares":"6,516",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$152.55",
+            "ticker":"COST"
+        },
+        {
+            "name":"Cie Financiere Richemont SA",
+            "num_shares":"218,125",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Add 1.22%",
+            "reported_price":"$6.11",
+            "ticker":"CFRUY"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"5,300",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Buy ",
+            "reported_price":"$78.68",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Groupe Danone",
+            "num_shares":"3,575",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$74.13",
+            "ticker":"GPDNF"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"9,246",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$29.63",
+            "ticker":"GE"
+        },
+        {
+            "name":"Union Pacific",
+            "num_shares":"2,510",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$97.61",
+            "ticker":"UNP"
+        },
+        {
+            "name":"Vulcan Materials",
+            "num_shares":"4,900",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Buy ",
+            "reported_price":"$113.67",
+            "ticker":"VMC"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"6,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$59.33",
+            "ticker":"AIG"
+        },
+        {
+            "name":"Alleghany Corp.",
+            "num_shares":"421",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$524.94",
+            "ticker":"Y"
+        },
+        {
+            "name":"Walt Disney Co.",
+            "num_shares":"4,903",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$92.80",
+            "ticker":"DIS"
+        },
+        {
+            "name":"PZ Cussons PLC",
+            "num_shares":"15,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$4.73",
+            "ticker":"PZCUF"
+        },
+        {
+            "name":"CenterState Banks",
+            "num_shares":"10,004",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$17.69",
+            "ticker":"CSFL"
+        },
+        {
+            "name":"Mattel Inc.",
+            "num_shares":"6,625",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$30.34",
+            "ticker":"MAT"
+        },
+        {
+            "name":"McDonald's Corp.",
+            "num_shares":"3,630",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Reduce 0.27%",
+            "reported_price":"$115.43",
+            "ticker":"MCD"
+        },
+        {
+            "name":"3M Co.",
+            "num_shares":"1,525",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$176.39",
+            "ticker":"MMM"
+        },
+        {
+            "name":"ConocoPhillips",
+            "num_shares":"4,888",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$43.37",
+            "ticker":"COP"
+        },
+        {
+            "name":"Carlisle Companies",
+            "num_shares":"2,500",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Reduce 7.41%",
+            "reported_price":"$102.40",
+            "ticker":"CSL"
+        },
+        {
+            "name":"Nielsen NV",
+            "num_shares":"10,986",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$53.61",
+            "ticker":"NLSN"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"1,100",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$280.00",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Indivior PLC",
+            "num_shares":"27,527",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$4.00",
+            "ticker":"IZQVF"
+        },
+        {
+            "name":"Cir SPA",
+            "num_shares":"125,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$1.02",
+            "ticker":"CIRPF"
+        },
+        {
+            "name":"Hanjaya Mandala Sampoerna",
+            "num_shares":"687,500",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$0.30",
+            "ticker":"PHJMF"
+        },
+        {
+            "name":"Bollore",
+            "num_shares":"30,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$3.47",
+            "ticker":"BOIVF"
+        },
+        {
+            "name":"Heartland Express",
+            "num_shares":"12,499",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$18.88",
+            "ticker":"HTLD"
+        },
+        {
+            "name":"Pioneer Natural Resources",
+            "num_shares":"2,700",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$185.56",
+            "ticker":"PXD"
+        },
+        {
+            "name":"LT Group Inc.",
+            "num_shares":"150,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$0.31",
+            "ticker":"LTG-PS"
+        }
+    ]
+}

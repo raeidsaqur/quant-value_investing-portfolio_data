@@ -1,0 +1,419 @@
+{
+    "company":"Appaloosa Management",
+    "investor":"David Tepper",
+    "num_stocks":"51",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"AM",
+    "portfolio_value":"$5,706,773,000",
+    "stocks":[
+        {
+            "name":"Allergan Plc",
+            "num_shares":"2,937,121",
+            "portfolio_weight":"12.30",
+            "recent_activity":"Reduce 31.08%",
+            "reported_price":"$238.92",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Energy Transfer Partners LP",
+            "num_shares":"11,961,842",
+            "portfolio_weight":"7.65",
+            "recent_activity":" ",
+            "reported_price":"$36.52",
+            "ticker":"ETP"
+        },
+        {
+            "name":"Williams Partners LP",
+            "num_shares":"9,966,502",
+            "portfolio_weight":"7.13",
+            "recent_activity":"Add 5.05%",
+            "reported_price":"$40.83",
+            "ticker":"WPZ"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"475,000",
+            "portfolio_weight":"6.90",
+            "recent_activity":"Reduce 1.66%",
+            "reported_price":"$829.56",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"1,907,350",
+            "portfolio_weight":"4.75",
+            "recent_activity":"Reduce 12.60%",
+            "reported_price":"$142.05",
+            "ticker":"FB"
+        },
+        {
+            "name":"PNC Financial Services",
+            "num_shares":"1,950,973",
+            "portfolio_weight":"4.11",
+            "recent_activity":" ",
+            "reported_price":"$120.24",
+            "ticker":"PNC"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"8,782,641",
+            "portfolio_weight":"3.63",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.59",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Micron Technology",
+            "num_shares":"6,690,000",
+            "portfolio_weight":"3.39",
+            "recent_activity":"Add 105.85%",
+            "reported_price":"$28.90",
+            "ticker":"MU"
+        },
+        {
+            "name":"General Motors",
+            "num_shares":"5,181,277",
+            "portfolio_weight":"3.21",
+            "recent_activity":"Buy ",
+            "reported_price":"$35.36",
+            "ticker":"GM"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"3,088,076",
+            "portfolio_weight":"2.91",
+            "recent_activity":"Add 159.41%",
+            "reported_price":"$53.76",
+            "ticker":"LUV"
+        },
+        {
+            "name":"Owens Corning",
+            "num_shares":"2,610,486",
+            "portfolio_weight":"2.81",
+            "recent_activity":"Reduce 3.90%",
+            "reported_price":"$61.37",
+            "ticker":"OC"
+        },
+        {
+            "name":"Allstate Corp.",
+            "num_shares":"1,856,203",
+            "portfolio_weight":"2.65",
+            "recent_activity":"Reduce 28.47%",
+            "reported_price":"$81.49",
+            "ticker":"ALL"
+        },
+        {
+            "name":"Huntsman Corp.",
+            "num_shares":"5,565,360",
+            "portfolio_weight":"2.39",
+            "recent_activity":"Reduce 2.62%",
+            "reported_price":"$24.54",
+            "ticker":"HUN"
+        },
+        {
+            "name":"Mohawk Industries",
+            "num_shares":"563,596",
+            "portfolio_weight":"2.27",
+            "recent_activity":"Reduce 10.85%",
+            "reported_price":"$229.49",
+            "ticker":"MHK"
+        },
+        {
+            "name":"Regions Financial Corp.",
+            "num_shares":"8,811,564",
+            "portfolio_weight":"2.24",
+            "recent_activity":"Add 20.05%",
+            "reported_price":"$14.53",
+            "ticker":"RF"
+        },
+        {
+            "name":"Kinder Morgan",
+            "num_shares":"5,267,996",
+            "portfolio_weight":"2.01",
+            "recent_activity":"Add 29.66%",
+            "reported_price":"$21.74",
+            "ticker":"KMI"
+        },
+        {
+            "name":"Atlantica Yield plc",
+            "num_shares":"5,189,866",
+            "portfolio_weight":"1.91",
+            "recent_activity":"Reduce 10.83%",
+            "reported_price":"$20.96",
+            "ticker":"ABY"
+        },
+        {
+            "name":"TerraForm Power Inc.",
+            "num_shares":"8,708,708",
+            "portfolio_weight":"1.89",
+            "recent_activity":" ",
+            "reported_price":"$12.37",
+            "ticker":"TERP"
+        },
+        {
+            "name":"Western Digital",
+            "num_shares":"1,300,000",
+            "portfolio_weight":"1.88",
+            "recent_activity":"Add 16.07%",
+            "reported_price":"$82.53",
+            "ticker":"WDC"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"3,021,000",
+            "portfolio_weight":"1.81",
+            "recent_activity":"Reduce 37.19%",
+            "reported_price":"$34.21",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Yahoo Inc.",
+            "num_shares":"2,200,000",
+            "portfolio_weight":"1.79",
+            "recent_activity":"Add 62.96%",
+            "reported_price":"$46.41",
+            "ticker":"YHOO"
+        },
+        {
+            "name":"United Rentals",
+            "num_shares":"703,117",
+            "portfolio_weight":"1.54",
+            "recent_activity":"Add 7.04%",
+            "reported_price":"$125.05",
+            "ticker":"URI"
+        },
+        {
+            "name":"Centene Corp.",
+            "num_shares":"1,174,597",
+            "portfolio_weight":"1.47",
+            "recent_activity":"Add 49.63%",
+            "reported_price":"$71.26",
+            "ticker":"CNC"
+        },
+        {
+            "name":"Boston Scientific",
+            "num_shares":"3,340,000",
+            "portfolio_weight":"1.46",
+            "recent_activity":"Add 507.27%",
+            "reported_price":"$24.87",
+            "ticker":"BSX"
+        },
+        {
+            "name":"Whirlpool Corp.",
+            "num_shares":"481,938",
+            "portfolio_weight":"1.45",
+            "recent_activity":"Reduce 14.99%",
+            "reported_price":"$171.33",
+            "ticker":"WHR"
+        },
+        {
+            "name":"Mylan NV",
+            "num_shares":"1,900,000",
+            "portfolio_weight":"1.30",
+            "recent_activity":"Reduce 41.98%",
+            "reported_price":"$38.99",
+            "ticker":"MYL"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"1,044,381",
+            "portfolio_weight":"1.27",
+            "recent_activity":"Buy ",
+            "reported_price":"$69.36",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Teva Pharmaceutical Industries Ltd.",
+            "num_shares":"2,175,000",
+            "portfolio_weight":"1.22",
+            "recent_activity":"Reduce 56.96%",
+            "reported_price":"$32.09",
+            "ticker":"TEVA"
+        },
+        {
+            "name":"Summit Materials Inc.",
+            "num_shares":"2,566,546",
+            "portfolio_weight":"1.11",
+            "recent_activity":"Add 51.46%",
+            "reported_price":"$24.71",
+            "ticker":"SUM"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"300,000",
+            "portfolio_weight":"0.86",
+            "recent_activity":"Buy ",
+            "reported_price":"$164.01",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Symantec Corp.",
+            "num_shares":"1,550,000",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$30.68",
+            "ticker":"SYMC"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"300,000",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Reduce 33.33%",
+            "reported_price":"$143.66",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"HCA Inc",
+            "num_shares":"487,711",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Reduce 57.41%",
+            "reported_price":"$88.99",
+            "ticker":"HCA"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"129,784",
+            "portfolio_weight":"0.74",
+            "recent_activity":"Buy ",
+            "reported_price":"$327.32",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"ArcelorMittal",
+            "num_shares":"1,661,818",
+            "portfolio_weight":"0.73",
+            "recent_activity":"Add 410.50%",
+            "reported_price":"$25.05",
+            "ticker":"MT"
+        },
+        {
+            "name":"Kennametal Inc.",
+            "num_shares":"1,005,758",
+            "portfolio_weight":"0.69",
+            "recent_activity":"Reduce 0.38%",
+            "reported_price":"$39.23",
+            "ticker":"KMT"
+        },
+        {
+            "name":"Nucor Corp.",
+            "num_shares":"542,714",
+            "portfolio_weight":"0.57",
+            "recent_activity":"Buy ",
+            "reported_price":"$59.72",
+            "ticker":"NUE"
+        },
+        {
+            "name":"Delta Air Lines Inc.",
+            "num_shares":"639,000",
+            "portfolio_weight":"0.51",
+            "recent_activity":"Add 168.49%",
+            "reported_price":"$45.96",
+            "ticker":"DAL"
+        },
+        {
+            "name":"Hain Celestial Group",
+            "num_shares":"774,169",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Reduce 23.84%",
+            "reported_price":"$37.20",
+            "ticker":"HAIN"
+        },
+        {
+            "name":"United Continental Holdings",
+            "num_shares":"364,615",
+            "portfolio_weight":"0.45",
+            "recent_activity":"Add 127.88%",
+            "reported_price":"$70.64",
+            "ticker":"UAL"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"160,000",
+            "portfolio_weight":"0.43",
+            "recent_activity":"Buy ",
+            "reported_price":"$153.60",
+            "ticker":"TMO"
+        },
+        {
+            "name":"TerraForm Global Inc.",
+            "num_shares":"3,847,657",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$4.80",
+            "ticker":"GLBL"
+        },
+        {
+            "name":"Rio Tinto plc",
+            "num_shares":"395,143",
+            "portfolio_weight":"0.28",
+            "recent_activity":"Add 334.02%",
+            "reported_price":"$40.68",
+            "ticker":"RIO"
+        },
+        {
+            "name":"United States Steel Corp.",
+            "num_shares":"453,339",
+            "portfolio_weight":"0.27",
+            "recent_activity":"Add 25.93%",
+            "reported_price":"$33.81",
+            "ticker":"X"
+        },
+        {
+            "name":"McKesson Corp.",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.26",
+            "recent_activity":"Reduce 63.64%",
+            "reported_price":"$148.26",
+            "ticker":"MCK"
+        },
+        {
+            "name":"Kayne Anderson MLP Inv Co",
+            "num_shares":"641,989",
+            "portfolio_weight":"0.24",
+            "recent_activity":"Reduce 17.82%",
+            "reported_price":"$21.00",
+            "ticker":"KYN"
+        },
+        {
+            "name":"WMIH Corp.",
+            "num_shares":"7,600,000",
+            "portfolio_weight":"0.19",
+            "recent_activity":" ",
+            "reported_price":"$1.45",
+            "ticker":"WMIH"
+        },
+        {
+            "name":"AK Steel Holding Corp.",
+            "num_shares":"534,327",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.19",
+            "ticker":"AKS"
+        },
+        {
+            "name":"Goodyear Tire & Rubber",
+            "num_shares":"75,951",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 67.95%",
+            "reported_price":"$36.00",
+            "ticker":"GT"
+        },
+        {
+            "name":"Snap Inc.",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$22.53",
+            "ticker":"SNAP"
+        },
+        {
+            "name":"Kinder Morgan Inc. WTS",
+            "num_shares":"793,836",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$0.00",
+            "ticker":"KMI.WS"
+        }
+    ]
+}

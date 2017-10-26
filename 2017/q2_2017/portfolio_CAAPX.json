@@ -1,0 +1,347 @@
+{
+    "company":"Ariel Appreciation",
+    "investor":"John Rogers",
+    "num_stocks":"42",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"CAAPX",
+    "portfolio_value":"$1,689,405,000",
+    "stocks":[
+        {
+            "name":"Laboratory Corp. of America Hldgs",
+            "num_shares":"544,000",
+            "portfolio_weight":"4.96",
+            "recent_activity":" ",
+            "reported_price":"$154.14",
+            "ticker":"LH"
+        },
+        {
+            "name":"Zimmer Biomet Holdings",
+            "num_shares":"644,700",
+            "portfolio_weight":"4.90",
+            "recent_activity":" ",
+            "reported_price":"$128.40",
+            "ticker":"ZBH"
+        },
+        {
+            "name":"AFLAC Inc.",
+            "num_shares":"1,049,600",
+            "portfolio_weight":"4.83",
+            "recent_activity":" ",
+            "reported_price":"$77.68",
+            "ticker":"AFL"
+        },
+        {
+            "name":"First Amer'n Corp.",
+            "num_shares":"1,559,800",
+            "portfolio_weight":"4.13",
+            "recent_activity":"Reduce 4.86%",
+            "reported_price":"$44.69",
+            "ticker":"FAF"
+        },
+        {
+            "name":"Northern Trust Corp.",
+            "num_shares":"717,300",
+            "portfolio_weight":"4.13",
+            "recent_activity":"Reduce 13.68%",
+            "reported_price":"$97.21",
+            "ticker":"NTRS"
+        },
+        {
+            "name":"Interpublic Group",
+            "num_shares":"2,779,430",
+            "portfolio_weight":"4.05",
+            "recent_activity":" ",
+            "reported_price":"$24.60",
+            "ticker":"IPG"
+        },
+        {
+            "name":"Omnicom Group",
+            "num_shares":"727,400",
+            "portfolio_weight":"3.57",
+            "recent_activity":" ",
+            "reported_price":"$82.90",
+            "ticker":"OMC"
+        },
+        {
+            "name":"Stanley Black & Decker Inc.",
+            "num_shares":"428,899",
+            "portfolio_weight":"3.57",
+            "recent_activity":"Reduce 10.52%",
+            "reported_price":"$140.73",
+            "ticker":"SWK"
+        },
+        {
+            "name":"Lazard Ltd.",
+            "num_shares":"1,256,720",
+            "portfolio_weight":"3.45",
+            "recent_activity":"Reduce 16.18%",
+            "reported_price":"$46.33",
+            "ticker":"LAZ"
+        },
+        {
+            "name":"Keysight Technologies Inc.",
+            "num_shares":"1,415,115",
+            "portfolio_weight":"3.26",
+            "recent_activity":"Add 51.88%",
+            "reported_price":"$38.93",
+            "ticker":"KEYS"
+        },
+        {
+            "name":"Smucker (J.M.)",
+            "num_shares":"427,575",
+            "portfolio_weight":"2.99",
+            "recent_activity":" ",
+            "reported_price":"$118.33",
+            "ticker":"SJM"
+        },
+        {
+            "name":"Kennametal Inc.",
+            "num_shares":"1,334,400",
+            "portfolio_weight":"2.96",
+            "recent_activity":" ",
+            "reported_price":"$37.42",
+            "ticker":"KMT"
+        },
+        {
+            "name":"Willis Towers Watson Public Ltd",
+            "num_shares":"324,800",
+            "portfolio_weight":"2.80",
+            "recent_activity":" ",
+            "reported_price":"$145.46",
+            "ticker":"WLTW"
+        },
+        {
+            "name":"Illinois Tool Works",
+            "num_shares":"315,650",
+            "portfolio_weight":"2.68",
+            "recent_activity":"Reduce 27.81%",
+            "reported_price":"$143.25",
+            "ticker":"ITW"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"251,354",
+            "portfolio_weight":"2.60",
+            "recent_activity":"Reduce 16.29%",
+            "reported_price":"$174.47",
+            "ticker":"TMO"
+        },
+        {
+            "name":"National Oilwell Varco Inc.",
+            "num_shares":"1,303,600",
+            "portfolio_weight":"2.54",
+            "recent_activity":"Add 43.52%",
+            "reported_price":"$32.94",
+            "ticker":"NOV"
+        },
+        {
+            "name":"Borg Warner Inc.",
+            "num_shares":"994,700",
+            "portfolio_weight":"2.49",
+            "recent_activity":" ",
+            "reported_price":"$42.36",
+            "ticker":"BWA"
+        },
+        {
+            "name":"Mattel Inc.",
+            "num_shares":"1,895,500",
+            "portfolio_weight":"2.42",
+            "recent_activity":"Add 12.81%",
+            "reported_price":"$21.53",
+            "ticker":"MAT"
+        },
+        {
+            "name":"Viacom Inc.",
+            "num_shares":"1,177,800",
+            "portfolio_weight":"2.34",
+            "recent_activity":"Add 20.42%",
+            "reported_price":"$33.57",
+            "ticker":"VIAB"
+        },
+        {
+            "name":"Charles River Labs",
+            "num_shares":"390,980",
+            "portfolio_weight":"2.34",
+            "recent_activity":" ",
+            "reported_price":"$101.15",
+            "ticker":"CRL"
+        },
+        {
+            "name":"Nordstrom",
+            "num_shares":"782,900",
+            "portfolio_weight":"2.22",
+            "recent_activity":" ",
+            "reported_price":"$47.83",
+            "ticker":"JWN"
+        },
+        {
+            "name":"Snap-On Inc.",
+            "num_shares":"236,000",
+            "portfolio_weight":"2.21",
+            "recent_activity":" ",
+            "reported_price":"$158.00",
+            "ticker":"SNA"
+        },
+        {
+            "name":"Progressive Corp.",
+            "num_shares":"779,400",
+            "portfolio_weight":"2.03",
+            "recent_activity":"Reduce 17.09%",
+            "reported_price":"$44.09",
+            "ticker":"PGR"
+        },
+        {
+            "name":"Cardinal Health Inc.",
+            "num_shares":"431,000",
+            "portfolio_weight":"1.99",
+            "recent_activity":" ",
+            "reported_price":"$77.92",
+            "ticker":"CAH"
+        },
+        {
+            "name":"Houlihan Lokey Inc.",
+            "num_shares":"961,952",
+            "portfolio_weight":"1.99",
+            "recent_activity":" ",
+            "reported_price":"$34.90",
+            "ticker":"HLI"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"519,900",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$63.78",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Western Union Co.",
+            "num_shares":"1,723,100",
+            "portfolio_weight":"1.94",
+            "recent_activity":" ",
+            "reported_price":"$19.05",
+            "ticker":"WU"
+        },
+        {
+            "name":"U.S. Silica Holdings Inc.",
+            "num_shares":"911,280",
+            "portfolio_weight":"1.91",
+            "recent_activity":"Buy ",
+            "reported_price":"$35.49",
+            "ticker":"SLCA"
+        },
+        {
+            "name":"Nielsen NV",
+            "num_shares":"798,500",
+            "portfolio_weight":"1.83",
+            "recent_activity":" ",
+            "reported_price":"$38.66",
+            "ticker":"NLSN"
+        },
+        {
+            "name":"MSG Networks Inc.",
+            "num_shares":"1,236,037",
+            "portfolio_weight":"1.64",
+            "recent_activity":" ",
+            "reported_price":"$22.45",
+            "ticker":"MSGN"
+        },
+        {
+            "name":"KKR & Co. L.P.",
+            "num_shares":"1,474,768",
+            "portfolio_weight":"1.62",
+            "recent_activity":" ",
+            "reported_price":"$18.60",
+            "ticker":"KKR"
+        },
+        {
+            "name":"The Blackstone Group",
+            "num_shares":"793,500",
+            "portfolio_weight":"1.57",
+            "recent_activity":"Reduce 9.67%",
+            "reported_price":"$33.35",
+            "ticker":"BX"
+        },
+        {
+            "name":"Jones Lang Lasalle Inc.",
+            "num_shares":"200,080",
+            "portfolio_weight":"1.48",
+            "recent_activity":" ",
+            "reported_price":"$125.00",
+            "ticker":"JLL"
+        },
+        {
+            "name":"Franklin Resources",
+            "num_shares":"419,300",
+            "portfolio_weight":"1.11",
+            "recent_activity":"Reduce 32.20%",
+            "reported_price":"$44.79",
+            "ticker":"BEN"
+        },
+        {
+            "name":"Bristow Group Inc.",
+            "num_shares":"2,426,964",
+            "portfolio_weight":"1.10",
+            "recent_activity":" ",
+            "reported_price":"$7.65",
+            "ticker":"BRS"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"501,850",
+            "portfolio_weight":"1.08",
+            "recent_activity":" ",
+            "reported_price":"$36.40",
+            "ticker":"CBG"
+        },
+        {
+            "name":"BOK Financial Corp.",
+            "num_shares":"214,489",
+            "portfolio_weight":"1.07",
+            "recent_activity":"Add 241.06%",
+            "reported_price":"$84.13",
+            "ticker":"BOKF"
+        },
+        {
+            "name":"T. Rowe Price Group",
+            "num_shares":"240,650",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Add 28.11%",
+            "reported_price":"$74.21",
+            "ticker":"TROW"
+        },
+        {
+            "name":"International Speedway",
+            "num_shares":"474,858",
+            "portfolio_weight":"1.06",
+            "recent_activity":" ",
+            "reported_price":"$37.55",
+            "ticker":"ISCA"
+        },
+        {
+            "name":"Anixter International",
+            "num_shares":"208,289",
+            "portfolio_weight":"0.96",
+            "recent_activity":" ",
+            "reported_price":"$78.20",
+            "ticker":"AXE"
+        },
+        {
+            "name":"The Madison Square Garden Co.",
+            "num_shares":"56,566",
+            "portfolio_weight":"0.66",
+            "recent_activity":" ",
+            "reported_price":"$196.90",
+            "ticker":"MSG"
+        },
+        {
+            "name":"Bio-Rad Laboratories Inc.",
+            "num_shares":"38,725",
+            "portfolio_weight":"0.52",
+            "recent_activity":"Reduce 39.23%",
+            "reported_price":"$226.31",
+            "ticker":"BIO"
+        }
+    ]
+}

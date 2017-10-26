@@ -1,0 +1,235 @@
+{
+    "company":"Ariel Focus",
+    "investor":"Charles Bobrinskoy",
+    "num_stocks":"28",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"ARFFX",
+    "portfolio_value":"$44,167,000",
+    "stocks":[
+        {
+            "name":"Stanley Black & Decker Inc.",
+            "num_shares":"22,600",
+            "portfolio_weight":"5.69",
+            "recent_activity":" ",
+            "reported_price":"$111.24",
+            "ticker":"SWK"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"59,100",
+            "portfolio_weight":"5.48",
+            "recent_activity":" ",
+            "reported_price":"$40.93",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"15,900",
+            "portfolio_weight":"5.46",
+            "recent_activity":" ",
+            "reported_price":"$151.76",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Lockheed Martin Corp.",
+            "num_shares":"9,400",
+            "portfolio_weight":"5.28",
+            "recent_activity":"Reduce 5.05%",
+            "reported_price":"$248.19",
+            "ticker":"LMT"
+        },
+        {
+            "name":"Western Union Co.",
+            "num_shares":"121,200",
+            "portfolio_weight":"5.26",
+            "recent_activity":"Reduce 4.87%",
+            "reported_price":"$19.18",
+            "ticker":"WU"
+        },
+        {
+            "name":"Zimmer Biomet Holdings",
+            "num_shares":"19,000",
+            "portfolio_weight":"5.18",
+            "recent_activity":"Add 5.56%",
+            "reported_price":"$120.37",
+            "ticker":"ZBH"
+        },
+        {
+            "name":"Laboratory Corp. of America Hldgs",
+            "num_shares":"16,900",
+            "portfolio_weight":"4.99",
+            "recent_activity":"Add 5.63%",
+            "reported_price":"$130.30",
+            "ticker":"LH"
+        },
+        {
+            "name":"St Jude Medical",
+            "num_shares":"24,000",
+            "portfolio_weight":"4.24",
+            "recent_activity":"Add 20.00%",
+            "reported_price":"$78.00",
+            "ticker":"STJ"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"70,050",
+            "portfolio_weight":"4.12",
+            "recent_activity":"Add 23.87%",
+            "reported_price":"$25.98",
+            "ticker":"MS"
+        },
+        {
+            "name":"Barrick Gold Corp.",
+            "num_shares":"85,082",
+            "portfolio_weight":"4.11",
+            "recent_activity":"Reduce 28.97%",
+            "reported_price":"$21.36",
+            "ticker":"ABX"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"19,000",
+            "portfolio_weight":"4.03",
+            "recent_activity":"Reduce 5.94%",
+            "reported_price":"$93.74",
+            "ticker":"XOM"
+        },
+        {
+            "name":"KKR & Co. L.P.",
+            "num_shares":"132,300",
+            "portfolio_weight":"3.70",
+            "recent_activity":"Add 21.49%",
+            "reported_price":"$12.34",
+            "ticker":"KKR"
+        },
+        {
+            "name":"National Oilwell Varco Inc.",
+            "num_shares":"48,600",
+            "portfolio_weight":"3.70",
+            "recent_activity":" ",
+            "reported_price":"$33.64",
+            "ticker":"NOV"
+        },
+        {
+            "name":"Mosaic Co.",
+            "num_shares":"61,000",
+            "portfolio_weight":"3.62",
+            "recent_activity":" ",
+            "reported_price":"$26.18",
+            "ticker":"MOS"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"9,800",
+            "portfolio_weight":"3.30",
+            "recent_activity":" ",
+            "reported_price":"$148.57",
+            "ticker":"GS"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"23,200",
+            "portfolio_weight":"3.26",
+            "recent_activity":" ",
+            "reported_price":"$62.16",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Borg Warner Inc.",
+            "num_shares":"45,300",
+            "portfolio_weight":"3.03",
+            "recent_activity":"Add 38.96%",
+            "reported_price":"$29.51",
+            "ticker":"BWA"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"10,700",
+            "portfolio_weight":"2.94",
+            "recent_activity":"Reduce 28.19%",
+            "reported_price":"$121.31",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"32,700",
+            "portfolio_weight":"2.88",
+            "recent_activity":" ",
+            "reported_price":"$38.84",
+            "ticker":"BK"
+        },
+        {
+            "name":"Progressive Corp.",
+            "num_shares":"36,800",
+            "portfolio_weight":"2.79",
+            "recent_activity":" ",
+            "reported_price":"$33.51",
+            "ticker":"PGR"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"21,900",
+            "portfolio_weight":"2.76",
+            "recent_activity":"Add 8.42%",
+            "reported_price":"$55.66",
+            "ticker":"APA"
+        },
+        {
+            "name":"Bed Bath & Beyond",
+            "num_shares":"27,800",
+            "portfolio_weight":"2.72",
+            "recent_activity":" ",
+            "reported_price":"$43.24",
+            "ticker":"BBBY"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"22,400",
+            "portfolio_weight":"2.59",
+            "recent_activity":" ",
+            "reported_price":"$51.16",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Kennametal Inc.",
+            "num_shares":"46,500",
+            "portfolio_weight":"2.33",
+            "recent_activity":"Reduce 9.00%",
+            "reported_price":"$22.11",
+            "ticker":"KMT"
+        },
+        {
+            "name":"Anixter International",
+            "num_shares":"19,100",
+            "portfolio_weight":"2.30",
+            "recent_activity":" ",
+            "reported_price":"$53.30",
+            "ticker":"AXE"
+        },
+        {
+            "name":"Pier 1 Imports",
+            "num_shares":"139,000",
+            "portfolio_weight":"1.62",
+            "recent_activity":" ",
+            "reported_price":"$5.14",
+            "ticker":"PIR"
+        },
+        {
+            "name":"Zebra Technologies'A'",
+            "num_shares":"12,900",
+            "portfolio_weight":"1.46",
+            "recent_activity":"Add 37.23%",
+            "reported_price":"$50.08",
+            "ticker":"ZBRA"
+        },
+        {
+            "name":"Hanger Inc.",
+            "num_shares":"68,600",
+            "portfolio_weight":"1.15",
+            "recent_activity":" ",
+            "reported_price":"$7.43",
+            "ticker":"HGR"
+        }
+    ]
+}

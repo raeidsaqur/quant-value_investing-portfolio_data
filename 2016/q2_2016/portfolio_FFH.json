@@ -1,0 +1,227 @@
+{
+    "company":"Fairfax Financial Holdings",
+    "investor":"Prem Watsa",
+    "num_stocks":"27",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"FFH",
+    "portfolio_value":"$1,031,524,000",
+    "stocks":[
+        {
+            "name":"BlackBerry Ltd.",
+            "num_shares":"46,724,700",
+            "portfolio_weight":"30.36",
+            "recent_activity":" ",
+            "reported_price":"$6.70",
+            "ticker":"BBRY"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"1,362,500",
+            "portfolio_weight":"20.05",
+            "recent_activity":" ",
+            "reported_price":"$151.78",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Kennedy Wilson Holdings Inc.",
+            "num_shares":"8,954,948",
+            "portfolio_weight":"16.46",
+            "recent_activity":" ",
+            "reported_price":"$18.96",
+            "ticker":"KW"
+        },
+        {
+            "name":"Resolute Forest Products",
+            "num_shares":"30,548,190",
+            "portfolio_weight":"15.67",
+            "recent_activity":"Add 5.16%",
+            "reported_price":"$5.29",
+            "ticker":"RFP"
+        },
+        {
+            "name":"Overstock.com Inc.",
+            "num_shares":"3,184,677",
+            "portfolio_weight":"4.97",
+            "recent_activity":" ",
+            "reported_price":"$16.09",
+            "ticker":"OSTK"
+        },
+        {
+            "name":"EXCO Resources Inc.",
+            "num_shares":"25,538,912",
+            "portfolio_weight":"3.22",
+            "recent_activity":" ",
+            "reported_price":"$1.30",
+            "ticker":"XCO"
+        },
+        {
+            "name":"Baldwin & Lyons Inc. CL B",
+            "num_shares":"969,875",
+            "portfolio_weight":"2.32",
+            "recent_activity":" ",
+            "reported_price":"$24.66",
+            "ticker":"BWINB"
+        },
+        {
+            "name":"Helmerich & Payne",
+            "num_shares":"349,974",
+            "portfolio_weight":"2.28",
+            "recent_activity":" ",
+            "reported_price":"$67.12",
+            "ticker":"HP"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"82,850",
+            "portfolio_weight":"0.97",
+            "recent_activity":" ",
+            "reported_price":"$121.28",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"POSCO",
+            "num_shares":"191,879",
+            "portfolio_weight":"0.83",
+            "recent_activity":" ",
+            "reported_price":"$44.48",
+            "ticker":"PKX"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"210,000",
+            "portfolio_weight":"0.72",
+            "recent_activity":" ",
+            "reported_price":"$35.20",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"300,000",
+            "portfolio_weight":"0.50",
+            "recent_activity":" ",
+            "reported_price":"$17.32",
+            "ticker":"LUK"
+        },
+        {
+            "name":"Turquoise Hill Resources Ltd.",
+            "num_shares":"1,150,400",
+            "portfolio_weight":"0.38",
+            "recent_activity":" ",
+            "reported_price":"$3.37",
+            "ticker":"TRQ"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"69,300",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$47.34",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"19,500",
+            "portfolio_weight":"0.27",
+            "recent_activity":" ",
+            "reported_price":"$144.77",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"6",
+            "portfolio_weight":"0.13",
+            "recent_activity":" ",
+            "reported_price":"$217000.00",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Rayonier Advanced Materials Inc.",
+            "num_shares":"70,000",
+            "portfolio_weight":"0.09",
+            "recent_activity":" ",
+            "reported_price":"$13.59",
+            "ticker":"RYAM"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"23,200",
+            "portfolio_weight":"0.09",
+            "recent_activity":" ",
+            "reported_price":"$40.34",
+            "ticker":"USB"
+        },
+        {
+            "name":"USG Corp.",
+            "num_shares":"32,800",
+            "portfolio_weight":"0.09",
+            "recent_activity":" ",
+            "reported_price":"$26.95",
+            "ticker":"USG"
+        },
+        {
+            "name":"Lexmark Int'l Inc.",
+            "num_shares":"16,200",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$37.72",
+            "ticker":"LXK"
+        },
+        {
+            "name":"New Oriental Education & Technology",
+            "num_shares":"11,100",
+            "portfolio_weight":"0.05",
+            "recent_activity":" ",
+            "reported_price":"$41.89",
+            "ticker":"EDU"
+        },
+        {
+            "name":"Cvent Inc.",
+            "num_shares":"14,500",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$35.72",
+            "ticker":"CVT"
+        },
+        {
+            "name":"K12 Inc.",
+            "num_shares":"33,133",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$12.46",
+            "ticker":"LRN"
+        },
+        {
+            "name":"Colfax Corp.",
+            "num_shares":"16,300",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$26.44",
+            "ticker":"CFX"
+        },
+        {
+            "name":"CSX Corp.",
+            "num_shares":"9,800",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$26.02",
+            "ticker":"CSX"
+        },
+        {
+            "name":"General Dynamics",
+            "num_shares":"1,500",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$139.33",
+            "ticker":"GD"
+        },
+        {
+            "name":"National Oilwell Varco Inc.",
+            "num_shares":"6,400",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$33.59",
+            "ticker":"NOV"
+        }
+    ]
+}

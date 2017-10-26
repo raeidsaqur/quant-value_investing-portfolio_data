@@ -1,0 +1,83 @@
+{
+    "company":"Fairholme Capital",
+    "investor":"Bruce Berkowitz",
+    "num_stocks":"9",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"fairx",
+    "portfolio_value":"$981,752,000",
+    "stocks":[
+        {
+            "name":"St. Joe Co.",
+            "num_shares":"25,484,557",
+            "portfolio_weight":"48.67",
+            "recent_activity":"Add 4.44%",
+            "reported_price":"$18.75",
+            "ticker":"JOE"
+        },
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"28,864,348",
+            "portfolio_weight":"26.05",
+            "recent_activity":"Reduce 0.18%",
+            "reported_price":"$8.86",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"3,807,150",
+            "portfolio_weight":"16.27",
+            "recent_activity":"Add 3.82%",
+            "reported_price":"$41.95",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Lands End Inc.",
+            "num_shares":"2,855,900",
+            "portfolio_weight":"4.33",
+            "recent_activity":"Reduce 12.86%",
+            "reported_price":"$14.90",
+            "ticker":"LE"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"21,562,974",
+            "portfolio_weight":"1.76",
+            "recent_activity":"Add 3.78%",
+            "reported_price":"$0.80",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"Sears Hldgs WTS",
+            "num_shares":"6,693,474",
+            "portfolio_weight":"1.39",
+            "recent_activity":"Reduce 0.10%",
+            "reported_price":"$2.04",
+            "ticker":"SHLD.WS"
+        },
+        {
+            "name":"Washington Prime Group Inc.",
+            "num_shares":"1,331,300",
+            "portfolio_weight":"1.14",
+            "recent_activity":"Add 290.98%",
+            "reported_price":"$8.37",
+            "ticker":"WPG"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"776,850",
+            "portfolio_weight":"0.21",
+            "recent_activity":" ",
+            "reported_price":"$2.70",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"66,000",
+            "portfolio_weight":"0.18",
+            "recent_activity":" ",
+            "reported_price":"$26.17",
+            "ticker":"LUK"
+        }
+    ]
+}

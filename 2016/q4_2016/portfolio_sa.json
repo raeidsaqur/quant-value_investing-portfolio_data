@@ -1,0 +1,43 @@
+{
+    "company":"Scion Asset Management",
+    "investor":"Michael Burry",
+    "num_stocks":"4",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"sa",
+    "portfolio_value":"$35,387,000",
+    "stocks":[
+        {
+            "name":"Coty Inc.",
+            "num_shares":"550,000",
+            "portfolio_weight":"36.52",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.50",
+            "ticker":"COTY"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"15,000",
+            "portfolio_weight":"32.95",
+            "recent_activity":" ",
+            "reported_price":"$777.27",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"HCA Inc",
+            "num_shares":"100,000",
+            "portfolio_weight":"21.37",
+            "recent_activity":" ",
+            "reported_price":"$75.63",
+            "ticker":"HCA"
+        },
+        {
+            "name":"Hostess Brands Inc.",
+            "num_shares":"300,000",
+            "portfolio_weight":"9.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.80",
+            "ticker":"TWNK"
+        }
+    ]
+}

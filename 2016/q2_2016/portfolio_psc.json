@@ -1,0 +1,83 @@
+{
+    "company":"Pershing Square Capital Management",
+    "investor":"Bill Ackman",
+    "num_stocks":"9",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"psc",
+    "portfolio_value":"$7,512,967,000",
+    "stocks":[
+        {
+            "name":"Restaurant Brands International",
+            "num_shares":"39,150,551",
+            "portfolio_weight":"21.68",
+            "recent_activity":" ",
+            "reported_price":"$41.60",
+            "ticker":"QSR"
+        },
+        {
+            "name":"Canadian Pacific Railway",
+            "num_shares":"9,840,890",
+            "portfolio_weight":"16.87",
+            "recent_activity":"Reduce 29.41%",
+            "reported_price":"$128.79",
+            "ticker":"CP"
+        },
+        {
+            "name":"Air Products & Chemicals",
+            "num_shares":"7,601,140",
+            "portfolio_weight":"14.37",
+            "recent_activity":" ",
+            "reported_price":"$142.04",
+            "ticker":"APD"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"22,942,225",
+            "portfolio_weight":"13.90",
+            "recent_activity":" ",
+            "reported_price":"$45.51",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Zoetis Inc.",
+            "num_shares":"21,173,188",
+            "portfolio_weight":"13.38",
+            "recent_activity":"Reduce 49.37%",
+            "reported_price":"$47.46",
+            "ticker":"ZTS"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"21,591,122",
+            "portfolio_weight":"5.79",
+            "recent_activity":" ",
+            "reported_price":"$20.14",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Howard Hughes Corp.",
+            "num_shares":"3,568,017",
+            "portfolio_weight":"5.43",
+            "recent_activity":" ",
+            "reported_price":"$114.32",
+            "ticker":"HHC"
+        },
+        {
+            "name":"Platform Specialty Products Corp.",
+            "num_shares":"42,737,394",
+            "portfolio_weight":"5.05",
+            "recent_activity":" ",
+            "reported_price":"$8.88",
+            "ticker":"PAH"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"33,333,334",
+            "portfolio_weight":"3.54",
+            "recent_activity":" ",
+            "reported_price":"$7.98",
+            "ticker":"NOMD"
+        }
+    ]
+}

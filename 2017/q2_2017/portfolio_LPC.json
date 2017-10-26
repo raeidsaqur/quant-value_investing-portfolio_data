@@ -1,0 +1,267 @@
+{
+    "company":"Lone Pine Capital",
+    "investor":"Stephen Mandel",
+    "num_stocks":"32",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"LPC",
+    "portfolio_value":"$19,660,220,000",
+    "stocks":[
+        {
+            "name":"Alibaba Group Holdings",
+            "num_shares":"11,666,798",
+            "portfolio_weight":"8.36",
+            "recent_activity":"Add 17.89%",
+            "reported_price":"$140.90",
+            "ticker":"BABA"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"4,353,832",
+            "portfolio_weight":"7.46",
+            "recent_activity":"Reduce 23.22%",
+            "reported_price":"$336.85",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Constellation Brands",
+            "num_shares":"6,576,776",
+            "portfolio_weight":"6.48",
+            "recent_activity":"Reduce 9.43%",
+            "reported_price":"$193.73",
+            "ticker":"STZ"
+        },
+        {
+            "name":"Broadcom Ltd",
+            "num_shares":"5,319,591",
+            "portfolio_weight":"6.31",
+            "recent_activity":" ",
+            "reported_price":"$233.05",
+            "ticker":"AVGO"
+        },
+        {
+            "name":"Activision Blizzard Inc.",
+            "num_shares":"21,535,165",
+            "portfolio_weight":"6.31",
+            "recent_activity":"Reduce 13.17%",
+            "reported_price":"$57.57",
+            "ticker":"ATVI"
+        },
+        {
+            "name":"FleetCor Technologies Inc.",
+            "num_shares":"6,555,504",
+            "portfolio_weight":"4.81",
+            "recent_activity":"Add 45.62%",
+            "reported_price":"$144.21",
+            "ticker":"FLT"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"6,168,049",
+            "portfolio_weight":"4.74",
+            "recent_activity":"Add 20.79%",
+            "reported_price":"$150.98",
+            "ticker":"FB"
+        },
+        {
+            "name":"Quintiles IMS Holdings",
+            "num_shares":"10,055,780",
+            "portfolio_weight":"4.58",
+            "recent_activity":"Add 68.27%",
+            "reported_price":"$89.50",
+            "ticker":"Q"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"20,438,394",
+            "portfolio_weight":"4.05",
+            "recent_activity":"Add 48.75%",
+            "reported_price":"$38.92",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Expedia Inc.",
+            "num_shares":"4,523,614",
+            "portfolio_weight":"3.43",
+            "recent_activity":"Add 113.19%",
+            "reported_price":"$148.95",
+            "ticker":"EXPE"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"9,687,742",
+            "portfolio_weight":"3.40",
+            "recent_activity":"Buy ",
+            "reported_price":"$68.93",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"2,841,170",
+            "portfolio_weight":"3.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$218.74",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Symantec Corp.",
+            "num_shares":"21,085,032",
+            "portfolio_weight":"3.03",
+            "recent_activity":"Reduce 20.29%",
+            "reported_price":"$28.25",
+            "ticker":"SYMC"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"4,641,369",
+            "portfolio_weight":"2.87",
+            "recent_activity":"Buy ",
+            "reported_price":"$121.45",
+            "ticker":"MA"
+        },
+        {
+            "name":"CSX Corp.",
+            "num_shares":"10,314,868",
+            "portfolio_weight":"2.86",
+            "recent_activity":"Reduce 28.26%",
+            "reported_price":"$54.56",
+            "ticker":"CSX"
+        },
+        {
+            "name":"Adobe Systems",
+            "num_shares":"3,931,896",
+            "portfolio_weight":"2.83",
+            "recent_activity":"Reduce 18.33%",
+            "reported_price":"$141.44",
+            "ticker":"ADBE"
+        },
+        {
+            "name":"Equinix Inc.",
+            "num_shares":"1,273,652",
+            "portfolio_weight":"2.78",
+            "recent_activity":"Reduce 11.02%",
+            "reported_price":"$429.16",
+            "ticker":"EQIX"
+        },
+        {
+            "name":"Grupo Televisa SA",
+            "num_shares":"20,535,367",
+            "portfolio_weight":"2.55",
+            "recent_activity":"Add 11.37%",
+            "reported_price":"$24.37",
+            "ticker":"TV"
+        },
+        {
+            "name":"T-Mobile US Inc.",
+            "num_shares":"7,123,517",
+            "portfolio_weight":"2.20",
+            "recent_activity":"Add 19.16%",
+            "reported_price":"$60.62",
+            "ticker":"TMUS"
+        },
+        {
+            "name":"Intercontinental Exchange Inc.",
+            "num_shares":"6,356,905",
+            "portfolio_weight":"2.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$65.92",
+            "ticker":"ICE"
+        },
+        {
+            "name":"Ulta Beauty Inc.",
+            "num_shares":"1,438,673",
+            "portfolio_weight":"2.10",
+            "recent_activity":"Reduce 5.59%",
+            "reported_price":"$287.34",
+            "ticker":"ULTA"
+        },
+        {
+            "name":"TransUnion",
+            "num_shares":"8,905,062",
+            "portfolio_weight":"1.96",
+            "recent_activity":"Buy ",
+            "reported_price":"$43.31",
+            "ticker":"TRU"
+        },
+        {
+            "name":"ServiceNow Inc.",
+            "num_shares":"3,220,940",
+            "portfolio_weight":"1.74",
+            "recent_activity":"Buy ",
+            "reported_price":"$106.00",
+            "ticker":"NOW"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"1,705,353",
+            "portfolio_weight":"1.61",
+            "recent_activity":"Buy ",
+            "reported_price":"$185.42",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Arista Networks Inc.",
+            "num_shares":"1,845,638",
+            "portfolio_weight":"1.41",
+            "recent_activity":"Add 45.56%",
+            "reported_price":"$149.79",
+            "ticker":"ANET"
+        },
+        {
+            "name":"Altice USA, Inc.",
+            "num_shares":"8,395,511",
+            "portfolio_weight":"1.38",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.30",
+            "ticker":"ATUS"
+        },
+        {
+            "name":"Cheniere Energy Inc.",
+            "num_shares":"5,186,332",
+            "portfolio_weight":"1.28",
+            "recent_activity":" ",
+            "reported_price":"$48.71",
+            "ticker":"LNG"
+        },
+        {
+            "name":"Advance Auto Parts",
+            "num_shares":"2,048,852",
+            "portfolio_weight":"1.22",
+            "recent_activity":"Buy ",
+            "reported_price":"$116.59",
+            "ticker":"AAP"
+        },
+        {
+            "name":"Salesforce.com",
+            "num_shares":"2,648,428",
+            "portfolio_weight":"1.17",
+            "recent_activity":"Buy ",
+            "reported_price":"$86.60",
+            "ticker":"CRM"
+        },
+        {
+            "name":"Snap Inc.",
+            "num_shares":"7,599,408",
+            "portfolio_weight":"0.66",
+            "recent_activity":"Add 324.46%",
+            "reported_price":"$17.17",
+            "ticker":"SNAP"
+        },
+        {
+            "name":"Albemarle Corp.",
+            "num_shares":"1,158,452",
+            "portfolio_weight":"0.62",
+            "recent_activity":"Reduce 41.28%",
+            "reported_price":"$105.54",
+            "ticker":"ALB"
+        },
+        {
+            "name":"Liberty Media Corp Formula One Series C",
+            "num_shares":"2,919,817",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Buy ",
+            "reported_price":"$36.62",
+            "ticker":"FWONK"
+        }
+    ]
+}

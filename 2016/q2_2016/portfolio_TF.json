@@ -1,0 +1,67 @@
+{
+    "company":"Trian Fund Management",
+    "investor":"Nelson Peltz",
+    "num_stocks":"7",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"TF",
+    "portfolio_value":"$10,497,015,000",
+    "stocks":[
+        {
+            "name":"General Electric",
+            "num_shares":"74,766,576",
+            "portfolio_weight":"22.42",
+            "recent_activity":"Add 0.70%",
+            "reported_price":"$31.48",
+            "ticker":"GE"
+        },
+        {
+            "name":"Sysco Corp.",
+            "num_shares":"43,965,695",
+            "portfolio_weight":"21.25",
+            "recent_activity":"Add 1.60%",
+            "reported_price":"$50.74",
+            "ticker":"SYY"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"48,031,904",
+            "portfolio_weight":"20.82",
+            "recent_activity":"Add 0.01%",
+            "reported_price":"$45.51",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"32,220,599",
+            "portfolio_weight":"11.93",
+            "recent_activity":"Add 1.24%",
+            "reported_price":"$38.85",
+            "ticker":"BK"
+        },
+        {
+            "name":"Du Pont (E.I.)",
+            "num_shares":"19,239,379",
+            "portfolio_weight":"11.88",
+            "recent_activity":"Reduce 6.08%",
+            "reported_price":"$64.80",
+            "ticker":"DD"
+        },
+        {
+            "name":"Pentair plc",
+            "num_shares":"14,337,040",
+            "portfolio_weight":"7.96",
+            "recent_activity":"Add 0.01%",
+            "reported_price":"$58.29",
+            "ticker":"PNR"
+        },
+        {
+            "name":"Wendy's Co.",
+            "num_shares":"40,792,537",
+            "portfolio_weight":"3.74",
+            "recent_activity":" ",
+            "reported_price":"$9.62",
+            "ticker":"WEN"
+        }
+    ]
+}

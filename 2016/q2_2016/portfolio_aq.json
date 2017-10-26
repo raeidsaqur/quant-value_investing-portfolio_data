@@ -1,0 +1,139 @@
+{
+    "company":"Aquamarine Capital",
+    "investor":"Guy Spier",
+    "num_stocks":"16",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"aq",
+    "portfolio_value":"$110,846,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"140,600",
+            "portfolio_weight":"18.37",
+            "recent_activity":" ",
+            "reported_price":"$144.79",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"272,430",
+            "portfolio_weight":"14.93",
+            "recent_activity":" ",
+            "reported_price":"$60.76",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"11.01",
+            "recent_activity":" ",
+            "reported_price":"$6.10",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"1,000,000",
+            "portfolio_weight":"9.45",
+            "recent_activity":" ",
+            "reported_price":"$10.47",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"200,000",
+            "portfolio_weight":"7.34",
+            "recent_activity":" ",
+            "reported_price":"$40.70",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"590,000",
+            "portfolio_weight":"7.06",
+            "recent_activity":" ",
+            "reported_price":"$13.27",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"30",
+            "portfolio_weight":"5.87",
+            "recent_activity":" ",
+            "reported_price":"$216966.67",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"65,750",
+            "portfolio_weight":"5.22",
+            "recent_activity":" ",
+            "reported_price":"$88.06",
+            "ticker":"MA"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"115,000",
+            "portfolio_weight":"4.91",
+            "recent_activity":" ",
+            "reported_price":"$47.33",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"100,000",
+            "portfolio_weight":"4.50",
+            "recent_activity":"Add 33.33%",
+            "reported_price":"$49.84",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"106,000",
+            "portfolio_weight":"4.05",
+            "recent_activity":" ",
+            "reported_price":"$42.39",
+            "ticker":"C"
+        },
+        {
+            "name":"POSCO",
+            "num_shares":"70,000",
+            "portfolio_weight":"2.81",
+            "recent_activity":" ",
+            "reported_price":"$44.50",
+            "ticker":"PKX"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"25,000",
+            "portfolio_weight":"2.11",
+            "recent_activity":" ",
+            "reported_price":"$93.72",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Wells Fargo WTS",
+            "num_shares":"110,000",
+            "portfolio_weight":"1.35",
+            "recent_activity":" ",
+            "reported_price":"$13.58",
+            "ticker":"WFC.WS"
+        },
+        {
+            "name":"Bank of America WTS A",
+            "num_shares":"320,000",
+            "portfolio_weight":"1.00",
+            "recent_activity":" ",
+            "reported_price":"$3.48",
+            "ticker":"BAC.WS.A"
+        },
+        {
+            "name":"EnLink Midstream LLC",
+            "num_shares":"719",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$15.30",
+            "ticker":"ENLC"
+        }
+    ]
+}

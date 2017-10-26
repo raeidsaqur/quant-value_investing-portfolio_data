@@ -1,0 +1,67 @@
+{
+    "company":"Pershing Square Capital Management",
+    "investor":"Bill Ackman",
+    "num_stocks":"7",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"psc",
+    "portfolio_value":"$6,014,517,000",
+    "stocks":[
+        {
+            "name":"Restaurant Brands International",
+            "num_shares":"39,150,551",
+            "portfolio_weight":"40.71",
+            "recent_activity":" ",
+            "reported_price":"$62.54",
+            "ticker":"QSR"
+        },
+        {
+            "name":"Chipotle Mexican Grill Inc.",
+            "num_shares":"2,882,463",
+            "portfolio_weight":"19.94",
+            "recent_activity":" ",
+            "reported_price":"$416.10",
+            "ticker":"CMG"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"14,496,225",
+            "portfolio_weight":"10.41",
+            "recent_activity":"Reduce 27.31%",
+            "reported_price":"$43.19",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Howard Hughes Corp.",
+            "num_shares":"4,704,534",
+            "portfolio_weight":"9.61",
+            "recent_activity":"Add 31.85%",
+            "reported_price":"$122.84",
+            "ticker":"HHC"
+        },
+        {
+            "name":"Platform Specialty Products Corp.",
+            "num_shares":"40,451,506",
+            "portfolio_weight":"8.53",
+            "recent_activity":" ",
+            "reported_price":"$12.68",
+            "ticker":"PAH"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"33,333,334",
+            "portfolio_weight":"7.82",
+            "recent_activity":" ",
+            "reported_price":"$14.11",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Automatic Data Processing Inc.",
+            "num_shares":"1,750,867",
+            "portfolio_weight":"2.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$102.46",
+            "ticker":"ADP"
+        }
+    ]
+}

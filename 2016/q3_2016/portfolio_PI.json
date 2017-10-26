@@ -1,0 +1,75 @@
+{
+    "company":"Pabrai Investments",
+    "investor":"Mohnish Pabrai",
+    "num_stocks":"8",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"PI",
+    "portfolio_value":"$338,144,000",
+    "stocks":[
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"13,771,930",
+            "portfolio_weight":"26.07",
+            "recent_activity":"Reduce 0.09%",
+            "reported_price":"$6.40",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"5,984,447",
+            "portfolio_weight":"24.71",
+            "recent_activity":" ",
+            "reported_price":"$13.96",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"69,188",
+            "portfolio_weight":"15.90",
+            "recent_activity":" ",
+            "reported_price":"$777.29",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"675,138",
+            "portfolio_weight":"10.37",
+            "recent_activity":"Reduce 36.85%",
+            "reported_price":"$51.95",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"529,113",
+            "portfolio_weight":"7.93",
+            "recent_activity":" ",
+            "reported_price":"$50.68",
+            "ticker":"SRG"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"624,160",
+            "portfolio_weight":"7.10",
+            "recent_activity":" ",
+            "reported_price":"$38.49",
+            "ticker":"AER"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"512,220",
+            "portfolio_weight":"5.89",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.89",
+            "ticker":"LUV"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"47,400",
+            "portfolio_weight":"2.03",
+            "recent_activity":"Reduce 34.62%",
+            "reported_price":"$144.47",
+            "ticker":"BRK.B"
+        }
+    ]
+}

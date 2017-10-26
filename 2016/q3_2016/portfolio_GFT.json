@@ -1,0 +1,155 @@
+{
+    "company":"Bill & Melinda Gates Foundation Trust",
+    "investor":"Michael Larson",
+    "num_stocks":"18",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"GFT",
+    "portfolio_value":"$18,452,427,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"74,349,971",
+            "portfolio_weight":"58.21",
+            "recent_activity":"Add 15.48%",
+            "reported_price":"$144.47",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Waste Management Inc.",
+            "num_shares":"18,633,672",
+            "portfolio_weight":"6.44",
+            "recent_activity":" ",
+            "reported_price":"$63.76",
+            "ticker":"WM"
+        },
+        {
+            "name":"Canadian Natl Railway Co.",
+            "num_shares":"17,126,874",
+            "portfolio_weight":"6.07",
+            "recent_activity":" ",
+            "reported_price":"$65.40",
+            "ticker":"CNI"
+        },
+        {
+            "name":"Caterpillar Inc.",
+            "num_shares":"11,260,857",
+            "portfolio_weight":"5.42",
+            "recent_activity":" ",
+            "reported_price":"$88.77",
+            "ticker":"CAT"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"11,603,000",
+            "portfolio_weight":"4.53",
+            "recent_activity":" ",
+            "reported_price":"$72.12",
+            "ticker":"WMT"
+        },
+        {
+            "name":"Ecolab Inc.",
+            "num_shares":"4,366,426",
+            "portfolio_weight":"2.88",
+            "recent_activity":" ",
+            "reported_price":"$121.72",
+            "ticker":"ECL"
+        },
+        {
+            "name":"FedEx Corp.",
+            "num_shares":"3,024,999",
+            "portfolio_weight":"2.86",
+            "recent_activity":" ",
+            "reported_price":"$174.68",
+            "ticker":"FDX"
+        },
+        {
+            "name":"Crown Castle International Corp.",
+            "num_shares":"5,332,900",
+            "portfolio_weight":"2.72",
+            "recent_activity":" ",
+            "reported_price":"$94.21",
+            "ticker":"CCI"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"4,525,329",
+            "portfolio_weight":"2.68",
+            "recent_activity":" ",
+            "reported_price":"$109.36",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Coca-Cola FEMSA S A CV",
+            "num_shares":"6,214,719",
+            "portfolio_weight":"2.53",
+            "recent_activity":" ",
+            "reported_price":"$75.00",
+            "ticker":"KOF"
+        },
+        {
+            "name":"Grupo Televisa SA",
+            "num_shares":"16,879,104",
+            "portfolio_weight":"2.35",
+            "recent_activity":" ",
+            "reported_price":"$25.69",
+            "ticker":"TV"
+        },
+        {
+            "name":"Walgreens Boots Alliance",
+            "num_shares":"3,475,398",
+            "portfolio_weight":"1.52",
+            "recent_activity":" ",
+            "reported_price":"$80.62",
+            "ticker":"WBA"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"3,639,349",
+            "portfolio_weight":"0.65",
+            "recent_activity":" ",
+            "reported_price":"$33.04",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"AutoNation Inc.",
+            "num_shares":"1,898,717",
+            "portfolio_weight":"0.50",
+            "recent_activity":" ",
+            "reported_price":"$48.71",
+            "ticker":"AN"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"2,119,515",
+            "portfolio_weight":"0.39",
+            "recent_activity":" ",
+            "reported_price":"$34.18",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"636,044",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$28.05",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"Arcos Dorados Holdings Inc.",
+            "num_shares":"3,060,500",
+            "portfolio_weight":"0.09",
+            "recent_activity":" ",
+            "reported_price":"$5.27",
+            "ticker":"ARCO"
+        },
+        {
+            "name":"Liberty LiLAC Group A",
+            "num_shares":"370,424",
+            "portfolio_weight":"0.06",
+            "recent_activity":" ",
+            "reported_price":"$27.59",
+            "ticker":"LILA"
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "company":"Hillman Focused",
+    "investor":"Mark Hillman",
+    "num_stocks":"34",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"hcmax",
+    "portfolio_value":"$30,816,000",
+    "stocks":[
+        {
+            "name":"Starbucks Corp.",
+            "num_shares":"25,000",
+            "portfolio_weight":"4.39",
+            "recent_activity":" ",
+            "reported_price":"$54.16",
+            "ticker":"SBUX"
+        },
+        {
+            "name":"Nordstrom",
+            "num_shares":"25,000",
+            "portfolio_weight":"4.21",
+            "recent_activity":" ",
+            "reported_price":"$51.88",
+            "ticker":"JWN"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"1,500",
+            "portfolio_weight":"4.08",
+            "recent_activity":" ",
+            "reported_price":"$837.33",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Hershey Co.",
+            "num_shares":"12,800",
+            "portfolio_weight":"3.97",
+            "recent_activity":" ",
+            "reported_price":"$95.63",
+            "ticker":"HSY"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"13,200",
+            "portfolio_weight":"3.74",
+            "recent_activity":" ",
+            "reported_price":"$87.27",
+            "ticker":"XOM"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"20,000",
+            "portfolio_weight":"3.74",
+            "recent_activity":" ",
+            "reported_price":"$57.60",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Intel Corp.",
+            "num_shares":"30,000",
+            "portfolio_weight":"3.68",
+            "recent_activity":" ",
+            "reported_price":"$37.77",
+            "ticker":"INTC"
+        },
+        {
+            "name":"Amgen",
+            "num_shares":"6,600",
+            "portfolio_weight":"3.57",
+            "recent_activity":" ",
+            "reported_price":"$166.82",
+            "ticker":"AMGN"
+        },
+        {
+            "name":"Tiffany & Co.",
+            "num_shares":"15,000",
+            "portfolio_weight":"3.53",
+            "recent_activity":" ",
+            "reported_price":"$72.60",
+            "ticker":"TIF"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"26,000",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Buy ",
+            "reported_price":"$39.88",
+            "ticker":"BK"
+        },
+        {
+            "name":"Target Corp.",
+            "num_shares":"15,000",
+            "portfolio_weight":"3.34",
+            "recent_activity":"Buy ",
+            "reported_price":"$68.67",
+            "ticker":"TGT"
+        },
+        {
+            "name":"Corning Inc.",
+            "num_shares":"42,900",
+            "portfolio_weight":"3.29",
+            "recent_activity":" ",
+            "reported_price":"$23.66",
+            "ticker":"GLW"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"15,000",
+            "portfolio_weight":"3.12",
+            "recent_activity":" ",
+            "reported_price":"$64.07",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Stericycle Inc.",
+            "num_shares":"12,000",
+            "portfolio_weight":"3.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$80.17",
+            "ticker":"SRCL"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"6,000",
+            "portfolio_weight":"3.09",
+            "recent_activity":" ",
+            "reported_price":"$158.83",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Merck & Co.",
+            "num_shares":"15,000",
+            "portfolio_weight":"3.04",
+            "recent_activity":" ",
+            "reported_price":"$62.40",
+            "ticker":"MRK"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"21,000",
+            "portfolio_weight":"3.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$44.29",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Walt Disney Co.",
+            "num_shares":"10,000",
+            "portfolio_weight":"3.01",
+            "recent_activity":" ",
+            "reported_price":"$92.90",
+            "ticker":"DIS"
+        },
+        {
+            "name":"Bristol-Myers Squibb",
+            "num_shares":"17,000",
+            "portfolio_weight":"2.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$53.94",
+            "ticker":"BMY"
+        },
+        {
+            "name":"Yum! Brands Inc.",
+            "num_shares":"10,000",
+            "portfolio_weight":"2.95",
+            "recent_activity":" ",
+            "reported_price":"$90.80",
+            "ticker":"YUM"
+        },
+        {
+            "name":"Whole Foods Market",
+            "num_shares":"31,900",
+            "portfolio_weight":"2.93",
+            "recent_activity":" ",
+            "reported_price":"$28.34",
+            "ticker":"WFM"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"8,000",
+            "portfolio_weight":"2.93",
+            "recent_activity":" ",
+            "reported_price":"$113.00",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Alcoa Inc.",
+            "num_shares":"86,000",
+            "portfolio_weight":"2.83",
+            "recent_activity":" ",
+            "reported_price":"$10.14",
+            "ticker":"AA"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"22,000",
+            "portfolio_weight":"2.80",
+            "recent_activity":" ",
+            "reported_price":"$39.27",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"55,000",
+            "portfolio_weight":"2.79",
+            "recent_activity":" ",
+            "reported_price":"$15.65",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Laboratory Corp. of America Hldgs",
+            "num_shares":"6,000",
+            "portfolio_weight":"2.68",
+            "recent_activity":" ",
+            "reported_price":"$137.50",
+            "ticker":"LH"
+        },
+        {
+            "name":"Office Depot",
+            "num_shares":"200,000",
+            "portfolio_weight":"2.32",
+            "recent_activity":" ",
+            "reported_price":"$3.57",
+            "ticker":"ODP"
+        },
+        {
+            "name":"Gap Inc.",
+            "num_shares":"30,000",
+            "portfolio_weight":"2.16",
+            "recent_activity":" ",
+            "reported_price":"$22.23",
+            "ticker":"GPS"
+        },
+        {
+            "name":"Western Union Co.",
+            "num_shares":"30,000",
+            "portfolio_weight":"2.03",
+            "recent_activity":" ",
+            "reported_price":"$20.83",
+            "ticker":"WU"
+        },
+        {
+            "name":"Boeing Co.",
+            "num_shares":"4,700",
+            "portfolio_weight":"2.01",
+            "recent_activity":" ",
+            "reported_price":"$131.70",
+            "ticker":"BA"
+        },
+        {
+            "name":"Transocean Inc.",
+            "num_shares":"55,000",
+            "portfolio_weight":"1.90",
+            "recent_activity":" ",
+            "reported_price":"$10.65",
+            "ticker":"RIG"
+        },
+        {
+            "name":"Dunkin Brands Group",
+            "num_shares":"10,000",
+            "portfolio_weight":"1.69",
+            "recent_activity":" ",
+            "reported_price":"$52.10",
+            "ticker":"DNKN"
+        },
+        {
+            "name":"Staples Inc.",
+            "num_shares":"60,000",
+            "portfolio_weight":"1.66",
+            "recent_activity":" ",
+            "reported_price":"$8.55",
+            "ticker":"SPLS"
+        },
+        {
+            "name":"Verizon Communications",
+            "num_shares":"100",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$50.00",
+            "ticker":"VZ"
+        }
+    ]
+}

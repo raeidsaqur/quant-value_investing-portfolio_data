@@ -1,0 +1,27 @@
+{
+    "company":"Hayman Capital Management",
+    "investor":"Kyle Bass",
+    "num_stocks":"2",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"hc",
+    "portfolio_value":"$35,290,000",
+    "stocks":[
+        {
+            "name":"NMI Holdings",
+            "num_shares":"5,312,652",
+            "portfolio_weight":"82.50",
+            "recent_activity":"Reduce 27.93%",
+            "reported_price":"$5.48",
+            "ticker":"NMIH"
+        },
+        {
+            "name":"Eco-Stim Energy Solutions",
+            "num_shares":"2,130,000",
+            "portfolio_weight":"17.50",
+            "recent_activity":" ",
+            "reported_price":"$2.90",
+            "ticker":"ESES"
+        }
+    ]
+}

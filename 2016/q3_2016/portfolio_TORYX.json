@@ -1,0 +1,259 @@
+{
+    "company":"Torray",
+    "investor":"Robert Torray",
+    "num_stocks":"31",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"TORYX",
+    "portfolio_value":"$345,099,000",
+    "stocks":[
+        {
+            "name":"AT&T Inc.",
+            "num_shares":"407,372",
+            "portfolio_weight":"5.10",
+            "recent_activity":" ",
+            "reported_price":"$43.21",
+            "ticker":"T"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"527,097",
+            "portfolio_weight":"4.81",
+            "recent_activity":" ",
+            "reported_price":"$31.48",
+            "ticker":"GE"
+        },
+        {
+            "name":"Boardwalk Pipeline Partners LP",
+            "num_shares":"872,900",
+            "portfolio_weight":"4.41",
+            "recent_activity":"Reduce 16.47%",
+            "reported_price":"$17.45",
+            "ticker":"BWP"
+        },
+        {
+            "name":"EMC Corp.",
+            "num_shares":"508,000",
+            "portfolio_weight":"4.00",
+            "recent_activity":" ",
+            "reported_price":"$27.17",
+            "ticker":"EMC"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"465,300",
+            "portfolio_weight":"3.87",
+            "recent_activity":" ",
+            "reported_price":"$28.69",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"87,650",
+            "portfolio_weight":"3.86",
+            "recent_activity":" ",
+            "reported_price":"$151.79",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"108,924",
+            "portfolio_weight":"3.83",
+            "recent_activity":" ",
+            "reported_price":"$121.30",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Loews Corp.",
+            "num_shares":"314,300",
+            "portfolio_weight":"3.74",
+            "recent_activity":" ",
+            "reported_price":"$41.09",
+            "ticker":"L"
+        },
+        {
+            "name":"Marsh & McLennan",
+            "num_shares":"183,618",
+            "portfolio_weight":"3.64",
+            "recent_activity":" ",
+            "reported_price":"$68.46",
+            "ticker":"MMC"
+        },
+        {
+            "name":"BP plc",
+            "num_shares":"351,020",
+            "portfolio_weight":"3.61",
+            "recent_activity":"Add 18.58%",
+            "reported_price":"$35.51",
+            "ticker":"BP"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"920,500",
+            "portfolio_weight":"3.54",
+            "recent_activity":"Add 12.06%",
+            "reported_price":"$13.27",
+            "ticker":"BAC"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"200,250",
+            "portfolio_weight":"3.53",
+            "recent_activity":" ",
+            "reported_price":"$60.76",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Chubb Limited",
+            "num_shares":"92,950",
+            "portfolio_weight":"3.52",
+            "recent_activity":"Add 27.42%",
+            "reported_price":"$130.70",
+            "ticker":"CB"
+        },
+        {
+            "name":"Intel Corp.",
+            "num_shares":"366,400",
+            "portfolio_weight":"3.48",
+            "recent_activity":" ",
+            "reported_price":"$32.80",
+            "ticker":"INTC"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"253,400",
+            "portfolio_weight":"3.48",
+            "recent_activity":" ",
+            "reported_price":"$47.33",
+            "ticker":"WFC"
+        },
+        {
+            "name":"General Dynamics",
+            "num_shares":"82,100",
+            "portfolio_weight":"3.31",
+            "recent_activity":" ",
+            "reported_price":"$139.24",
+            "ticker":"GD"
+        },
+        {
+            "name":"Stanley Black & Decker Inc.",
+            "num_shares":"98,900",
+            "portfolio_weight":"3.19",
+            "recent_activity":"Reduce 19.85%",
+            "reported_price":"$111.22",
+            "ticker":"SWK"
+        },
+        {
+            "name":"Tupperware Brands Corp.",
+            "num_shares":"191,300",
+            "portfolio_weight":"3.12",
+            "recent_activity":"Add 18.60%",
+            "reported_price":"$56.28",
+            "ticker":"TUP"
+        },
+        {
+            "name":"Chicago Bridge & Iron Company",
+            "num_shares":"296,500",
+            "portfolio_weight":"2.98",
+            "recent_activity":"Add 26.71%",
+            "reported_price":"$34.63",
+            "ticker":"CBI"
+        },
+        {
+            "name":"Eaton Corp.",
+            "num_shares":"166,350",
+            "portfolio_weight":"2.88",
+            "recent_activity":" ",
+            "reported_price":"$59.73",
+            "ticker":"ETN"
+        },
+        {
+            "name":"Gannett Co.",
+            "num_shares":"716,550",
+            "portfolio_weight":"2.87",
+            "recent_activity":" ",
+            "reported_price":"$13.81",
+            "ticker":"GCI"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"538,700",
+            "portfolio_weight":"2.85",
+            "recent_activity":" ",
+            "reported_price":"$18.27",
+            "ticker":"HPE"
+        },
+        {
+            "name":"VMware Inc.",
+            "num_shares":"162,500",
+            "portfolio_weight":"2.69",
+            "recent_activity":"Add 30.84%",
+            "reported_price":"$57.22",
+            "ticker":"VMW"
+        },
+        {
+            "name":"Western Union Co.",
+            "num_shares":"475,900",
+            "portfolio_weight":"2.65",
+            "recent_activity":" ",
+            "reported_price":"$19.18",
+            "ticker":"WU"
+        },
+        {
+            "name":"Dow Chemical",
+            "num_shares":"176,200",
+            "portfolio_weight":"2.54",
+            "recent_activity":" ",
+            "reported_price":"$49.71",
+            "ticker":"DOW"
+        },
+        {
+            "name":"Becton Dickinson",
+            "num_shares":"49,350",
+            "portfolio_weight":"2.43",
+            "recent_activity":"Reduce 31.22%",
+            "reported_price":"$169.58",
+            "ticker":"BDX"
+        },
+        {
+            "name":"TEGNA Inc.",
+            "num_shares":"343,900",
+            "portfolio_weight":"2.31",
+            "recent_activity":" ",
+            "reported_price":"$23.17",
+            "ticker":"TGNA"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"53,500",
+            "portfolio_weight":"2.19",
+            "recent_activity":" ",
+            "reported_price":"$141.20",
+            "ticker":"UNH"
+        },
+        {
+            "name":"HP Inc.",
+            "num_shares":"569,400",
+            "portfolio_weight":"2.07",
+            "recent_activity":" ",
+            "reported_price":"$12.55",
+            "ticker":"HPQ"
+        },
+        {
+            "name":"Republic Services",
+            "num_shares":"131,600",
+            "portfolio_weight":"1.96",
+            "recent_activity":"Reduce 20.19%",
+            "reported_price":"$51.31",
+            "ticker":"RSG"
+        },
+        {
+            "name":"Anthem Inc.",
+            "num_shares":"41,100",
+            "portfolio_weight":"1.56",
+            "recent_activity":" ",
+            "reported_price":"$131.34",
+            "ticker":"ANTM"
+        }
+    ]
+}

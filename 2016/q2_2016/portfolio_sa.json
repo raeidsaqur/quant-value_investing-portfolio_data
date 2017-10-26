@@ -1,0 +1,59 @@
+{
+    "company":"Scion Asset Management",
+    "investor":"Michael Burry",
+    "num_stocks":"6",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"sa",
+    "portfolio_value":"$45,502,000",
+    "stocks":[
+        {
+            "name":"NexPoint Residential Trust",
+            "num_shares":"609,905",
+            "portfolio_weight":"24.39",
+            "recent_activity":" ",
+            "reported_price":"$18.20",
+            "ticker":"NXRT"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"15,000",
+            "portfolio_weight":"22.82",
+            "recent_activity":"Buy ",
+            "reported_price":"$692.13",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"HCA Inc",
+            "num_shares":"100,000",
+            "portfolio_weight":"16.92",
+            "recent_activity":" ",
+            "reported_price":"$77.01",
+            "ticker":"HCA"
+        },
+        {
+            "name":"Theravance Biopharma Inc.",
+            "num_shares":"325,000",
+            "portfolio_weight":"16.21",
+            "recent_activity":"Add 18.18%",
+            "reported_price":"$22.69",
+            "ticker":"TBPH"
+        },
+        {
+            "name":"Amgen",
+            "num_shares":"40,000",
+            "portfolio_weight":"13.38",
+            "recent_activity":" ",
+            "reported_price":"$152.15",
+            "ticker":"AMGN"
+        },
+        {
+            "name":"NeoPhotonics Corp.",
+            "num_shares":"300,000",
+            "portfolio_weight":"6.28",
+            "recent_activity":"Buy ",
+            "reported_price":"$9.53",
+            "ticker":"NPTN"
+        }
+    ]
+}

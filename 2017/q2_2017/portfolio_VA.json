@@ -1,0 +1,131 @@
+{
+    "company":"ValueAct Capital ",
+    "investor":"Jeffrey Ubben",
+    "num_stocks":"15",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"VA",
+    "portfolio_value":"$11,194,191,000",
+    "stocks":[
+        {
+            "name":"Baker Hughes",
+            "num_shares":"31,407,820",
+            "portfolio_weight":"15.29",
+            "recent_activity":" ",
+            "reported_price":"$54.51",
+            "ticker":"BHI"
+        },
+        {
+            "name":"Alliance Data Systems",
+            "num_shares":"5,877,400",
+            "portfolio_weight":"13.48",
+            "recent_activity":" ",
+            "reported_price":"$256.69",
+            "ticker":"ADS"
+        },
+        {
+            "name":"Twenty-First Century Fox CL B",
+            "num_shares":"53,326,334",
+            "portfolio_weight":"13.28",
+            "recent_activity":" ",
+            "reported_price":"$27.87",
+            "ticker":"FOX"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"34,378,480",
+            "portfolio_weight":"11.18",
+            "recent_activity":"Reduce 17.90%",
+            "reported_price":"$36.40",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"16,012,799",
+            "portfolio_weight":"9.86",
+            "recent_activity":"Reduce 30.42%",
+            "reported_price":"$68.93",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Willis Towers Watson Public Ltd",
+            "num_shares":"6,609,358",
+            "portfolio_weight":"8.59",
+            "recent_activity":"Reduce 18.48%",
+            "reported_price":"$145.46",
+            "ticker":"WLTW"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"17,884,620",
+            "portfolio_weight":"7.12",
+            "recent_activity":" ",
+            "reported_price":"$44.56",
+            "ticker":"MS"
+        },
+        {
+            "name":"Seagate Technology",
+            "num_shares":"13,815,765",
+            "portfolio_weight":"4.78",
+            "recent_activity":"Add 44.83%",
+            "reported_price":"$38.75",
+            "ticker":"STX"
+        },
+        {
+            "name":"Trinity Industries",
+            "num_shares":"15,582,605",
+            "portfolio_weight":"3.90",
+            "recent_activity":" ",
+            "reported_price":"$28.03",
+            "ticker":"TRN"
+        },
+        {
+            "name":"Bioverativ Inc.",
+            "num_shares":"7,163,892",
+            "portfolio_weight":"3.85",
+            "recent_activity":"Reduce 15.49%",
+            "reported_price":"$60.17",
+            "ticker":"BIVV"
+        },
+        {
+            "name":"Armstrong World Industries Inc.",
+            "num_shares":"9,200,000",
+            "portfolio_weight":"3.78",
+            "recent_activity":" ",
+            "reported_price":"$46.00",
+            "ticker":"AWI"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"17,997,224",
+            "portfolio_weight":"2.78",
+            "recent_activity":" ",
+            "reported_price":"$17.30",
+            "ticker":"VRX"
+        },
+        {
+            "name":"KKR & Co. L.P.",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.60",
+            "ticker":"KKR"
+        },
+        {
+            "name":"Armstrong Flooring Inc.",
+            "num_shares":"4,609,071",
+            "portfolio_weight":"0.74",
+            "recent_activity":"Add 0.20%",
+            "reported_price":"$17.97",
+            "ticker":"AFI"
+        },
+        {
+            "name":"NetScout Systems",
+            "num_shares":"1,750,943",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Reduce 23.87%",
+            "reported_price":"$34.40",
+            "ticker":"NTCT"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "company":"Clipper",
+    "investor":"Christopher Davis",
+    "num_stocks":"23",
+    "period":"Q1 2016",
+    "portfolio_date":"31 Mar 2016",
+    "portfolio_id":"cfimx",
+    "portfolio_value":"$1,011,406,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"424",
+            "portfolio_weight":"8.95",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$213450.47",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"151,131",
+            "portfolio_weight":"8.87",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$593.64",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Markel Corp.",
+            "num_shares":"91,300",
+            "portfolio_weight":"8.05",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$891.57",
+            "ticker":"MKL"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"1,035,803",
+            "portfolio_weight":"6.29",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$61.40",
+            "ticker":"AXP"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"589,850",
+            "portfolio_weight":"5.84",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$100.10",
+            "ticker":"UTX"
+        },
+        {
+            "name":"Tyco International",
+            "num_shares":"1,358,000",
+            "portfolio_weight":"4.93",
+            "recent_activity":"Buy ",
+            "reported_price":"$36.71",
+            "ticker":"TYC"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"1,319,419",
+            "portfolio_weight":"4.80",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$36.83",
+            "ticker":"BK"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"814,830",
+            "portfolio_weight":"4.77",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$59.22",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Cabot Oil & Gas",
+            "num_shares":"2,034,810",
+            "portfolio_weight":"4.57",
+            "recent_activity":"Reduce 2.58%",
+            "reported_price":"$22.71",
+            "ticker":"COG"
+        },
+        {
+            "name":"LafargeHolcim Ltd.",
+            "num_shares":"980,385",
+            "portfolio_weight":"4.55",
+            "recent_activity":"Add 33.50%",
+            "reported_price":"$46.97",
+            "ticker":"HCMLF"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"56,110",
+            "portfolio_weight":"4.23",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$762.89",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"866,900",
+            "portfolio_weight":"4.18",
+            "recent_activity":"Add 80.24%",
+            "reported_price":"$48.81",
+            "ticker":"APA"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"56,144",
+            "portfolio_weight":"4.14",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$744.94",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"312,200",
+            "portfolio_weight":"3.98",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$128.90",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"457,210",
+            "portfolio_weight":"3.97",
+            "recent_activity":"Reduce 23.38%",
+            "reported_price":"$87.74",
+            "ticker":"MON"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"1,384,000",
+            "portfolio_weight":"3.83",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$28.02",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"760,480",
+            "portfolio_weight":"3.64",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$48.36",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"849,920",
+            "portfolio_weight":"3.16",
+            "recent_activity":"Reduce 3.86%",
+            "reported_price":"$37.56",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"CarMax Inc.",
+            "num_shares":"477,700",
+            "portfolio_weight":"2.41",
+            "recent_activity":"Buy ",
+            "reported_price":"$51.10",
+            "ticker":"KMX"
+        },
+        {
+            "name":"EnCana Corp.",
+            "num_shares":"3,846,860",
+            "portfolio_weight":"2.32",
+            "recent_activity":"Reduce 2.58%",
+            "reported_price":"$6.09",
+            "ticker":"ECA"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"476,000",
+            "portfolio_weight":"1.24",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.30",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Banner Corp.",
+            "num_shares":"275,413",
+            "portfolio_weight":"1.13",
+            "recent_activity":" ",
+            "reported_price":"$41.52",
+            "ticker":"BANR"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"42,500",
+            "portfolio_weight":"0.16",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$37.88",
+            "ticker":"LILAK"
+        }
+    ]
+}

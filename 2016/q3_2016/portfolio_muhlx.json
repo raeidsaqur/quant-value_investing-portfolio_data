@@ -1,0 +1,379 @@
+{
+    "company":"Muhlenkamp",
+    "investor":"Ronald Muhlenkamp",
+    "num_stocks":"46",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"muhlx",
+    "portfolio_value":"$248,176,000",
+    "stocks":[
+        {
+            "name":"Alliance Data Systems",
+            "num_shares":"120,230",
+            "portfolio_weight":"10.39",
+            "recent_activity":"Reduce 0.52%",
+            "reported_price":"$214.53",
+            "ticker":"ADS"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"150,111",
+            "portfolio_weight":"6.84",
+            "recent_activity":"Reduce 0.34%",
+            "reported_price":"$113.05",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"214,495",
+            "portfolio_weight":"6.84",
+            "recent_activity":"Reduce 1.15%",
+            "reported_price":"$79.12",
+            "ticker":"GILD"
+        },
+        {
+            "name":"ON Semiconductor Corp.",
+            "num_shares":"1,255,265",
+            "portfolio_weight":"6.23",
+            "recent_activity":"Reduce 0.51%",
+            "reported_price":"$12.32",
+            "ticker":"ON"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"234,738",
+            "portfolio_weight":"5.45",
+            "recent_activity":"Reduce 0.34%",
+            "reported_price":"$57.60",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Hanesbrands Inc.",
+            "num_shares":"396,705",
+            "portfolio_weight":"4.04",
+            "recent_activity":"Reduce 0.61%",
+            "reported_price":"$25.25",
+            "ticker":"HBI"
+        },
+        {
+            "name":"WCI Communities Inc.",
+            "num_shares":"410,495",
+            "portfolio_weight":"3.92",
+            "recent_activity":"Add 13.19%",
+            "reported_price":"$23.72",
+            "ticker":"WCIC"
+        },
+        {
+            "name":"Bristol-Myers Squibb",
+            "num_shares":"180,316",
+            "portfolio_weight":"3.92",
+            "recent_activity":"Reduce 0.56%",
+            "reported_price":"$53.92",
+            "ticker":"BMY"
+        },
+        {
+            "name":"Rush Enterprises Inc.",
+            "num_shares":"385,002",
+            "portfolio_weight":"3.80",
+            "recent_activity":" ",
+            "reported_price":"$24.48",
+            "ticker":"RUSHA"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"59,660",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Reduce 0.93%",
+            "reported_price":"$139.99",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Celanese Corp.",
+            "num_shares":"123,720",
+            "portfolio_weight":"3.32",
+            "recent_activity":"Reduce 0.68%",
+            "reported_price":"$66.56",
+            "ticker":"CE"
+        },
+        {
+            "name":"Spirit Airlines",
+            "num_shares":"191,280",
+            "portfolio_weight":"3.28",
+            "recent_activity":"Reduce 0.66%",
+            "reported_price":"$42.53",
+            "ticker":"SAVE"
+        },
+        {
+            "name":"Teva Pharmaceutical Industries Ltd.",
+            "num_shares":"175,770",
+            "portfolio_weight":"3.26",
+            "recent_activity":"Reduce 0.50%",
+            "reported_price":"$46.01",
+            "ticker":"TEVA"
+        },
+        {
+            "name":"Celgene Corp.",
+            "num_shares":"73,515",
+            "portfolio_weight":"3.10",
+            "recent_activity":"Add 271.12%",
+            "reported_price":"$104.54",
+            "ticker":"CELG"
+        },
+        {
+            "name":"McKesson Corp.",
+            "num_shares":"45,753",
+            "portfolio_weight":"3.07",
+            "recent_activity":"Reduce 0.93%",
+            "reported_price":"$166.74",
+            "ticker":"MCK"
+        },
+        {
+            "name":"BIOGEN IDEC Inc.",
+            "num_shares":"23,478",
+            "portfolio_weight":"2.96",
+            "recent_activity":"Reduce 0.95%",
+            "reported_price":"$313.02",
+            "ticker":"BIIB"
+        },
+        {
+            "name":"Lannett Inc.",
+            "num_shares":"270,930",
+            "portfolio_weight":"2.90",
+            "recent_activity":"Reduce 33.01%",
+            "reported_price":"$26.57",
+            "ticker":"LCI"
+        },
+        {
+            "name":"Tencent Holdings Ltd",
+            "num_shares":"252,393",
+            "portfolio_weight":"2.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$27.87",
+            "ticker":"TCEHY"
+        },
+        {
+            "name":"Delta Air Lines Inc.",
+            "num_shares":"134,005",
+            "portfolio_weight":"2.13",
+            "recent_activity":"Add 0.22%",
+            "reported_price":"$39.36",
+            "ticker":"DAL"
+        },
+        {
+            "name":"Golar LNG Partners LP",
+            "num_shares":"264,295",
+            "portfolio_weight":"2.09",
+            "recent_activity":"Reduce 0.42%",
+            "reported_price":"$19.63",
+            "ticker":"GMLP"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"59,985",
+            "portfolio_weight":"1.90",
+            "recent_activity":"Reduce 0.16%",
+            "reported_price":"$78.64",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Allegiant Travel Company",
+            "num_shares":"34,258",
+            "portfolio_weight":"1.82",
+            "recent_activity":"Add 0.76%",
+            "reported_price":"$132.06",
+            "ticker":"ALGT"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"100,000",
+            "portfolio_weight":"1.81",
+            "recent_activity":" ",
+            "reported_price":"$44.88",
+            "ticker":"HAL"
+        },
+        {
+            "name":"Community Health Systems",
+            "num_shares":"375,380",
+            "portfolio_weight":"1.75",
+            "recent_activity":"Reduce 0.49%",
+            "reported_price":"$11.54",
+            "ticker":"CYH"
+        },
+        {
+            "name":"Universal Display Corp.",
+            "num_shares":"75,360",
+            "portfolio_weight":"1.69",
+            "recent_activity":"Add 0.57%",
+            "reported_price":"$55.51",
+            "ticker":"PANL"
+        },
+        {
+            "name":"GasLog Partners LP",
+            "num_shares":"143,750",
+            "portfolio_weight":"1.26",
+            "recent_activity":"Reduce 0.78%",
+            "reported_price":"$21.79",
+            "ticker":"GLOP"
+        },
+        {
+            "name":"Dynagas LNG Partners LP",
+            "num_shares":"198,415",
+            "portfolio_weight":"1.24",
+            "recent_activity":"Reduce 0.93%",
+            "reported_price":"$15.48",
+            "ticker":"DLNG"
+        },
+        {
+            "name":"Annaly Capital Management Inc.",
+            "num_shares":"244,600",
+            "portfolio_weight":"1.03",
+            "recent_activity":"Reduce 3.51%",
+            "reported_price":"$10.50",
+            "ticker":"NLY"
+        },
+        {
+            "name":"Rush Enterprises Inc.",
+            "num_shares":"97,227",
+            "portfolio_weight":"0.95",
+            "recent_activity":"Add 1.36%",
+            "reported_price":"$24.31",
+            "ticker":"RUSHB"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"36,034",
+            "portfolio_weight":"0.49",
+            "recent_activity":"Reduce 2.74%",
+            "reported_price":"$33.86",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Boardwalk Pipeline Partners LP",
+            "num_shares":"52,200",
+            "portfolio_weight":"0.36",
+            "recent_activity":"Reduce 10.31%",
+            "reported_price":"$17.16",
+            "ticker":"BWP"
+        },
+        {
+            "name":"DoubleLine Income Solutions",
+            "num_shares":"33,720",
+            "portfolio_weight":"0.26",
+            "recent_activity":" ",
+            "reported_price":"$19.16",
+            "ticker":"DSL"
+        },
+        {
+            "name":"Bellatrix Exploration Ltd.",
+            "num_shares":"698,265",
+            "portfolio_weight":"0.24",
+            "recent_activity":"Reduce 11.42%",
+            "reported_price":"$0.85",
+            "ticker":"BXE"
+        },
+        {
+            "name":"Quorum Health Corp.",
+            "num_shares":"93,027",
+            "portfolio_weight":"0.23",
+            "recent_activity":"Reduce 0.93%",
+            "reported_price":"$6.27",
+            "ticker":"QHC"
+        },
+        {
+            "name":"American Axle & Manufacturing Holdings",
+            "num_shares":"22,600",
+            "portfolio_weight":"0.16",
+            "recent_activity":" ",
+            "reported_price":"$17.21",
+            "ticker":"AXL"
+        },
+        {
+            "name":"Golar LNG Ltd.",
+            "num_shares":"17,210",
+            "portfolio_weight":"0.15",
+            "recent_activity":" ",
+            "reported_price":"$21.21",
+            "ticker":"GLNG"
+        },
+        {
+            "name":"Rex Energy Corp.",
+            "num_shares":"654,437",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Reduce 2.17%",
+            "reported_price":"$0.58",
+            "ticker":"REX"
+        },
+        {
+            "name":"MacroGenics Inc.",
+            "num_shares":"12,162",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Reduce 23.20%",
+            "reported_price":"$29.93",
+            "ticker":"MGNX"
+        },
+        {
+            "name":"Kinder Morgan",
+            "num_shares":"14,570",
+            "portfolio_weight":"0.14",
+            "recent_activity":" ",
+            "reported_price":"$23.13",
+            "ticker":"KMI"
+        },
+        {
+            "name":"AllianceBernstein Holdings LP",
+            "num_shares":"11,550",
+            "portfolio_weight":"0.11",
+            "recent_activity":" ",
+            "reported_price":"$22.77",
+            "ticker":"AB"
+        },
+        {
+            "name":"LyondellBasell Industries",
+            "num_shares":"3,000",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$80.67",
+            "ticker":"LYB"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"6,505",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.13",
+            "ticker":"MS"
+        },
+        {
+            "name":"Affimed NV",
+            "num_shares":"73,109",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Add 150.77%",
+            "reported_price":"$2.78",
+            "ticker":"AFMD"
+        },
+        {
+            "name":"American Capital Ltd.",
+            "num_shares":"10,600",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$16.89",
+            "ticker":"ACAS"
+        },
+        {
+            "name":"Teekay Tankers Ltd",
+            "num_shares":"50,695",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Add 3.30%",
+            "reported_price":"$2.52",
+            "ticker":"TNK"
+        },
+        {
+            "name":"FLYHT Aerospace Solutions",
+            "num_shares":"22,000",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$0.18",
+            "ticker":"FLYLF"
+        }
+    ]
+}

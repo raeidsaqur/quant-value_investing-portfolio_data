@@ -1,0 +1,155 @@
+{
+    "company":"Arlington Value Capital",
+    "investor":"Allan Mecham",
+    "num_stocks":"18",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"AV",
+    "portfolio_value":"$727,214,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"1,105,618",
+            "portfolio_weight":"24.78",
+            "recent_activity":"Reduce 16.51%",
+            "reported_price":"$162.98",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Cimpress N.V.",
+            "num_shares":"1,474,156",
+            "portfolio_weight":"18.57",
+            "recent_activity":"Reduce 17.55%",
+            "reported_price":"$91.61",
+            "ticker":"CMPR"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"4,051,042",
+            "portfolio_weight":"12.95",
+            "recent_activity":"Reduce 30.59%",
+            "reported_price":"$23.25",
+            "ticker":"LUK"
+        },
+        {
+            "name":"Interactive Brokers Group Inc.",
+            "num_shares":"1,862,419",
+            "portfolio_weight":"9.35",
+            "recent_activity":"Reduce 12.23%",
+            "reported_price":"$36.51",
+            "ticker":"IBKR"
+        },
+        {
+            "name":"NOW Inc.",
+            "num_shares":"2,890,690",
+            "portfolio_weight":"8.14",
+            "recent_activity":"Reduce 18.28%",
+            "reported_price":"$20.47",
+            "ticker":"DNOW"
+        },
+        {
+            "name":"MSC Industrial Direct",
+            "num_shares":"623,151",
+            "portfolio_weight":"7.92",
+            "recent_activity":"Reduce 32.30%",
+            "reported_price":"$92.39",
+            "ticker":"MSM"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"666,568",
+            "portfolio_weight":"4.80",
+            "recent_activity":"Reduce 45.15%",
+            "reported_price":"$52.35",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"1,511,220",
+            "portfolio_weight":"4.59",
+            "recent_activity":"Reduce 56.29%",
+            "reported_price":"$22.10",
+            "ticker":"BAC"
+        },
+        {
+            "name":"AutoNation Inc.",
+            "num_shares":"344,835",
+            "portfolio_weight":"2.31",
+            "recent_activity":"Buy ",
+            "reported_price":"$48.65",
+            "ticker":"AN"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"147,193",
+            "portfolio_weight":"1.91",
+            "recent_activity":"Add 2.15%",
+            "reported_price":"$94.26",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"43",
+            "portfolio_weight":"1.44",
+            "recent_activity":" ",
+            "reported_price":"$244116.28",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Armstrong World Industries Inc.",
+            "num_shares":"164,748",
+            "portfolio_weight":"0.95",
+            "recent_activity":"Add 1.20%",
+            "reported_price":"$41.80",
+            "ticker":"AWI"
+        },
+        {
+            "name":"Copart Inc.",
+            "num_shares":"118,355",
+            "portfolio_weight":"0.90",
+            "recent_activity":"Add 3.09%",
+            "reported_price":"$55.41",
+            "ticker":"CPRT"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"119,522",
+            "portfolio_weight":"0.64",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.95",
+            "ticker":"ST"
+        },
+        {
+            "name":"Valmont Industries",
+            "num_shares":"21,560",
+            "portfolio_weight":"0.37",
+            "recent_activity":"Add 2.37%",
+            "reported_price":"$123.24",
+            "ticker":"VMI"
+        },
+        {
+            "name":"HEICO Corp.",
+            "num_shares":"30,961",
+            "portfolio_weight":"0.29",
+            "recent_activity":" ",
+            "reported_price":"$67.89",
+            "ticker":"HEI"
+        },
+        {
+            "name":"Raven Industries Inc.",
+            "num_shares":"22,739",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$25.20",
+            "ticker":"RAVN"
+        },
+        {
+            "name":"Deswell Industries",
+            "num_shares":"100,981",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$1.77",
+            "ticker":"DSWL"
+        }
+    ]
+}

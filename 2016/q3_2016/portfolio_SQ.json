@@ -1,0 +1,115 @@
+{
+    "company":"SQ Advisors",
+    "investor":"Lou Simpson",
+    "num_stocks":"13",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"SQ",
+    "portfolio_value":"$2,511,721,000",
+    "stocks":[
+        {
+            "name":"Charles Schwab",
+            "num_shares":"11,038,493",
+            "portfolio_weight":"13.87",
+            "recent_activity":"Reduce 4.52%",
+            "reported_price":"$31.57",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Ametek Inc.",
+            "num_shares":"7,215,840",
+            "portfolio_weight":"13.73",
+            "recent_activity":"Reduce 3.23%",
+            "reported_price":"$47.78",
+            "ticker":"AME"
+        },
+        {
+            "name":"Brookfield Asset Management Inc.",
+            "num_shares":"9,788,595",
+            "portfolio_weight":"13.71",
+            "recent_activity":"Reduce 18.17%",
+            "reported_price":"$35.17",
+            "ticker":"BAM"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"2,310,668",
+            "portfolio_weight":"13.29",
+            "recent_activity":"Reduce 5.00%",
+            "reported_price":"$144.47",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"8,217,679",
+            "portfolio_weight":"10.81",
+            "recent_activity":"Reduce 3.02%",
+            "reported_price":"$33.04",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"5,549,293",
+            "portfolio_weight":"9.78",
+            "recent_activity":"Reduce 4.66%",
+            "reported_price":"$44.28",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"5,995,111",
+            "portfolio_weight":"6.85",
+            "recent_activity":"Add 30.65%",
+            "reported_price":"$28.68",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"WABCO Holdings Inc.",
+            "num_shares":"1,360,622",
+            "portfolio_weight":"6.15",
+            "recent_activity":"Reduce 2.76%",
+            "reported_price":"$113.53",
+            "ticker":"WBC"
+        },
+        {
+            "name":"Axalta Coating Systems Ltd.",
+            "num_shares":"5,286,522",
+            "portfolio_weight":"5.95",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.27",
+            "ticker":"AXTA"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"2,284,420",
+            "portfolio_weight":"3.53",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.78",
+            "ticker":"ST"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"1,232,104",
+            "portfolio_weight":"1.38",
+            "recent_activity":"Add 480.83%",
+            "reported_price":"$28.05",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"Cable ONE Inc.",
+            "num_shares":"33,589",
+            "portfolio_weight":"0.78",
+            "recent_activity":"Buy ",
+            "reported_price":"$584.00",
+            "ticker":"CABO"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"21",
+            "portfolio_weight":"0.18",
+            "recent_activity":" ",
+            "reported_price":"$216238.10",
+            "ticker":"BRK.A"
+        }
+    ]
+}

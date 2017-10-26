@@ -1,0 +1,211 @@
+{
+    "company":"Chou Associates",
+    "investor":"Francis Chou",
+    "num_stocks":"25",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"ca",
+    "portfolio_value":"$304,510,000",
+    "stocks":[
+        {
+            "name":"JJPMorgan Chase WTS",
+            "num_shares":"1,126,347",
+            "portfolio_weight":"16.37",
+            "recent_activity":" ",
+            "reported_price":"$44.27",
+            "ticker":"JPM.WS"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"150",
+            "portfolio_weight":"12.03",
+            "recent_activity":" ",
+            "reported_price":"$244120.00",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"1,960,843",
+            "portfolio_weight":"9.35",
+            "recent_activity":"Add 35.53%",
+            "reported_price":"$14.52",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Resolute Forest Products",
+            "num_shares":"4,963,423",
+            "portfolio_weight":"8.72",
+            "recent_activity":"Add 1.20%",
+            "reported_price":"$5.35",
+            "ticker":"RFP"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"410,000",
+            "portfolio_weight":"8.00",
+            "recent_activity":" ",
+            "reported_price":"$59.43",
+            "ticker":"C"
+        },
+        {
+            "name":"Wells Fargo WTS",
+            "num_shares":"997,500",
+            "portfolio_weight":"6.99",
+            "recent_activity":" ",
+            "reported_price":"$21.33",
+            "ticker":"WFC.WS"
+        },
+        {
+            "name":"Nokia Corp.",
+            "num_shares":"3,750,000",
+            "portfolio_weight":"5.92",
+            "recent_activity":" ",
+            "reported_price":"$4.81",
+            "ticker":"NOK"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"75,000",
+            "portfolio_weight":"5.90",
+            "recent_activity":" ",
+            "reported_price":"$239.45",
+            "ticker":"GS"
+        },
+        {
+            "name":"Sanofi Aventis",
+            "num_shares":"410,000",
+            "portfolio_weight":"5.44",
+            "recent_activity":" ",
+            "reported_price":"$40.44",
+            "ticker":"SNY"
+        },
+        {
+            "name":"MBIA Inc.",
+            "num_shares":"1,080,797",
+            "portfolio_weight":"3.80",
+            "recent_activity":" ",
+            "reported_price":"$10.70",
+            "ticker":"MBI"
+        },
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"1,131,610",
+            "portfolio_weight":"3.45",
+            "recent_activity":"Reduce 20.96%",
+            "reported_price":"$9.29",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"Overstock.com Inc.",
+            "num_shares":"582,271",
+            "portfolio_weight":"3.35",
+            "recent_activity":" ",
+            "reported_price":"$17.50",
+            "ticker":"OSTK"
+        },
+        {
+            "name":"Bank of America WTS A",
+            "num_shares":"836,825",
+            "portfolio_weight":"2.73",
+            "recent_activity":" ",
+            "reported_price":"$9.95",
+            "ticker":"BAC.WS.A"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"1,322,209",
+            "portfolio_weight":"2.04",
+            "recent_activity":" ",
+            "reported_price":"$4.70",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Ascent Capital Group",
+            "num_shares":"306,000",
+            "portfolio_weight":"1.63",
+            "recent_activity":"Reduce 10.00%",
+            "reported_price":"$16.26",
+            "ticker":"ASCMA"
+        },
+        {
+            "name":"BlackBerry Ltd.",
+            "num_shares":"529,040",
+            "portfolio_weight":"1.20",
+            "recent_activity":" ",
+            "reported_price":"$6.88",
+            "ticker":"BBRY"
+        },
+        {
+            "name":"Chicago Bridge & Iron Company",
+            "num_shares":"67,446",
+            "portfolio_weight":"0.70",
+            "recent_activity":" ",
+            "reported_price":"$31.74",
+            "ticker":"CBI"
+        },
+        {
+            "name":"Ryanair Holdings PLC",
+            "num_shares":"16,575",
+            "portfolio_weight":"0.45",
+            "recent_activity":" ",
+            "reported_price":"$83.26",
+            "ticker":"RYAAY"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"775,149",
+            "portfolio_weight":"0.43",
+            "recent_activity":" ",
+            "reported_price":"$1.68",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"SandRidge Energy Inc.",
+            "num_shares":"48,240",
+            "portfolio_weight":"0.37",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.55",
+            "ticker":"SD"
+        },
+        {
+            "name":"POSCO",
+            "num_shares":"21,000",
+            "portfolio_weight":"0.36",
+            "recent_activity":" ",
+            "reported_price":"$52.57",
+            "ticker":"PKX"
+        },
+        {
+            "name":"China Yuchai Intl Ltd.",
+            "num_shares":"73,364",
+            "portfolio_weight":"0.33",
+            "recent_activity":" ",
+            "reported_price":"$13.81",
+            "ticker":"CYD"
+        },
+        {
+            "name":"AstraZeneca PLC",
+            "num_shares":"13,000",
+            "portfolio_weight":"0.23",
+            "recent_activity":" ",
+            "reported_price":"$54.69",
+            "ticker":"AZN"
+        },
+        {
+            "name":"GlaxoSmithKline PLC",
+            "num_shares":"18,000",
+            "portfolio_weight":"0.11",
+            "recent_activity":" ",
+            "reported_price":"$19.28",
+            "ticker":"GSK"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"13,019",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$17.13",
+            "ticker":"GM.WS.B"
+        }
+    ]
+}

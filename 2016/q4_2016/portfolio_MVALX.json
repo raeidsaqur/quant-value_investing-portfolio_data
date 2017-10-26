@@ -1,0 +1,459 @@
+{
+    "company":"Meridian Contrarian Fund",
+    "investor":"Meridian Funds",
+    "num_stocks":"56",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"MVALX",
+    "portfolio_value":"$507,588,000",
+    "stocks":[
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"451,200",
+            "portfolio_weight":"5.12",
+            "recent_activity":"Add 7.38%",
+            "reported_price":"$57.60",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"NVIDIA Corp.",
+            "num_shares":"346,955",
+            "portfolio_weight":"4.68",
+            "recent_activity":" ",
+            "reported_price":"$68.52",
+            "ticker":"NVDA"
+        },
+        {
+            "name":"Xylem Inc.",
+            "num_shares":"387,985",
+            "portfolio_weight":"4.01",
+            "recent_activity":"Reduce 2.51%",
+            "reported_price":"$52.45",
+            "ticker":"XYL"
+        },
+        {
+            "name":"CACI International Inc.",
+            "num_shares":"196,800",
+            "portfolio_weight":"3.91",
+            "recent_activity":"Reduce 12.46%",
+            "reported_price":"$100.90",
+            "ticker":"CACI"
+        },
+        {
+            "name":"EOG Resources",
+            "num_shares":"189,826",
+            "portfolio_weight":"3.62",
+            "recent_activity":"Reduce 15.57%",
+            "reported_price":"$96.71",
+            "ticker":"EOG"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"253,000",
+            "portfolio_weight":"3.41",
+            "recent_activity":" ",
+            "reported_price":"$68.50",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Alexander & Baldwin",
+            "num_shares":"426,677",
+            "portfolio_weight":"3.23",
+            "recent_activity":"Reduce 1.16%",
+            "reported_price":"$38.42",
+            "ticker":"ALEX"
+        },
+        {
+            "name":"Celgene Corp.",
+            "num_shares":"151,000",
+            "portfolio_weight":"3.11",
+            "recent_activity":" ",
+            "reported_price":"$104.53",
+            "ticker":"CELG"
+        },
+        {
+            "name":"Citizens Financial Group Inc.",
+            "num_shares":"624,504",
+            "portfolio_weight":"3.04",
+            "recent_activity":" ",
+            "reported_price":"$24.71",
+            "ticker":"CFG"
+        },
+        {
+            "name":"Verint Systems Inc.",
+            "num_shares":"387,000",
+            "portfolio_weight":"2.87",
+            "recent_activity":"Add 5.45%",
+            "reported_price":"$37.63",
+            "ticker":"VRNT"
+        },
+        {
+            "name":"Gildan Activewear Inc.",
+            "num_shares":"483,184",
+            "portfolio_weight":"2.66",
+            "recent_activity":" ",
+            "reported_price":"$27.95",
+            "ticker":"GIL"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"104,943",
+            "portfolio_weight":"2.34",
+            "recent_activity":"Buy ",
+            "reported_price":"$113.05",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Trimble Navigation Ltd.",
+            "num_shares":"394,605",
+            "portfolio_weight":"2.22",
+            "recent_activity":"Reduce 23.82%",
+            "reported_price":"$28.56",
+            "ticker":"TRMB"
+        },
+        {
+            "name":"Bank of Hawaii Corp.",
+            "num_shares":"145,754",
+            "portfolio_weight":"2.09",
+            "recent_activity":" ",
+            "reported_price":"$72.62",
+            "ticker":"BOH"
+        },
+        {
+            "name":"EnerSys",
+            "num_shares":"151,000",
+            "portfolio_weight":"2.06",
+            "recent_activity":" ",
+            "reported_price":"$69.19",
+            "ticker":"ENS"
+        },
+        {
+            "name":"Oaktree Capital Group LLC Cl A",
+            "num_shares":"234,970",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$42.40",
+            "ticker":"OAK"
+        },
+        {
+            "name":"Newmont Mining Corp.",
+            "num_shares":"252,210",
+            "portfolio_weight":"1.95",
+            "recent_activity":" ",
+            "reported_price":"$39.29",
+            "ticker":"NEM"
+        },
+        {
+            "name":"Total SA",
+            "num_shares":"204,000",
+            "portfolio_weight":"1.92",
+            "recent_activity":"Reduce 10.92%",
+            "reported_price":"$47.70",
+            "ticker":"TOT"
+        },
+        {
+            "name":"Rayonier Inc.",
+            "num_shares":"366,080",
+            "portfolio_weight":"1.91",
+            "recent_activity":"Reduce 13.22%",
+            "reported_price":"$26.54",
+            "ticker":"RYN"
+        },
+        {
+            "name":"Zebra Technologies'A'",
+            "num_shares":"134,000",
+            "portfolio_weight":"1.84",
+            "recent_activity":"Reduce 18.29%",
+            "reported_price":"$69.61",
+            "ticker":"ZBRA"
+        },
+        {
+            "name":"Accelerate Diagnostics Inc.",
+            "num_shares":"337,769",
+            "portfolio_weight":"1.81",
+            "recent_activity":" ",
+            "reported_price":"$27.26",
+            "ticker":"AXDX"
+        },
+        {
+            "name":"Las Vegas Sands Corp.",
+            "num_shares":"157,433",
+            "portfolio_weight":"1.78",
+            "recent_activity":"Add 46.54%",
+            "reported_price":"$57.54",
+            "ticker":"LVS"
+        },
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"481,000",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$18.39",
+            "ticker":"OI"
+        },
+        {
+            "name":"Diageo plc",
+            "num_shares":"75,870",
+            "portfolio_weight":"1.73",
+            "recent_activity":" ",
+            "reported_price":"$116.04",
+            "ticker":"DEO"
+        },
+        {
+            "name":"Acxiom Corp.",
+            "num_shares":"317,800",
+            "portfolio_weight":"1.67",
+            "recent_activity":"Add 16.82%",
+            "reported_price":"$26.65",
+            "ticker":"ACXM"
+        },
+        {
+            "name":"Silver Spring Networks",
+            "num_shares":"590,303",
+            "portfolio_weight":"1.65",
+            "recent_activity":" ",
+            "reported_price":"$14.18",
+            "ticker":"SSNI"
+        },
+        {
+            "name":"Dick's Sporting Goods Inc.",
+            "num_shares":"146,252",
+            "portfolio_weight":"1.63",
+            "recent_activity":"Reduce 19.31%",
+            "reported_price":"$56.72",
+            "ticker":"DKS"
+        },
+        {
+            "name":"Micron Technology",
+            "num_shares":"450,772",
+            "portfolio_weight":"1.58",
+            "recent_activity":"Add 60.99%",
+            "reported_price":"$17.78",
+            "ticker":"MU"
+        },
+        {
+            "name":"Mellanox Technologies Ltd.",
+            "num_shares":"181,382",
+            "portfolio_weight":"1.55",
+            "recent_activity":"Add 23.91%",
+            "reported_price":"$43.25",
+            "ticker":"MLNX"
+        },
+        {
+            "name":"Iridium Communications Inc.",
+            "num_shares":"935,515",
+            "portfolio_weight":"1.49",
+            "recent_activity":" ",
+            "reported_price":"$8.11",
+            "ticker":"IRDM"
+        },
+        {
+            "name":"Union Pacific",
+            "num_shares":"76,000",
+            "portfolio_weight":"1.46",
+            "recent_activity":" ",
+            "reported_price":"$97.53",
+            "ticker":"UNP"
+        },
+        {
+            "name":"Nektar Therapeutics",
+            "num_shares":"427,098",
+            "portfolio_weight":"1.45",
+            "recent_activity":"Reduce 9.63%",
+            "reported_price":"$17.18",
+            "ticker":"NKTR"
+        },
+        {
+            "name":"Regis Corp.",
+            "num_shares":"567,601",
+            "portfolio_weight":"1.40",
+            "recent_activity":" ",
+            "reported_price":"$12.55",
+            "ticker":"RGS"
+        },
+        {
+            "name":"Five Below Inc.",
+            "num_shares":"160,702",
+            "portfolio_weight":"1.28",
+            "recent_activity":"Reduce 11.07%",
+            "reported_price":"$40.29",
+            "ticker":"FIVE"
+        },
+        {
+            "name":"Barracuda Networks",
+            "num_shares":"245,239",
+            "portfolio_weight":"1.23",
+            "recent_activity":"Reduce 10.90%",
+            "reported_price":"$25.48",
+            "ticker":"CUDA"
+        },
+        {
+            "name":"Endologix Inc.",
+            "num_shares":"483,378",
+            "portfolio_weight":"1.22",
+            "recent_activity":"Add 11.54%",
+            "reported_price":"$12.80",
+            "ticker":"ELGX"
+        },
+        {
+            "name":"Neurocrine Biosciences Inc.",
+            "num_shares":"119,022",
+            "portfolio_weight":"1.19",
+            "recent_activity":" ",
+            "reported_price":"$50.64",
+            "ticker":"NBIX"
+        },
+        {
+            "name":"Bard (C.R.) Inc.",
+            "num_shares":"26,244",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Reduce 38.68%",
+            "reported_price":"$224.28",
+            "ticker":"BCR"
+        },
+        {
+            "name":"Select Comfort Corp.",
+            "num_shares":"270,878",
+            "portfolio_weight":"1.15",
+            "recent_activity":"Reduce 39.25%",
+            "reported_price":"$21.60",
+            "ticker":"SCSS"
+        },
+        {
+            "name":"KLX Inc.",
+            "num_shares":"165,000",
+            "portfolio_weight":"1.14",
+            "recent_activity":"Add 26.92%",
+            "reported_price":"$35.20",
+            "ticker":"KLXI"
+        },
+        {
+            "name":"Fred's Inc.",
+            "num_shares":"638,338",
+            "portfolio_weight":"1.14",
+            "recent_activity":"Reduce 0.08%",
+            "reported_price":"$9.06",
+            "ticker":"FRED"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"485,366",
+            "portfolio_weight":"1.13",
+            "recent_activity":"Add 155.46%",
+            "reported_price":"$11.82",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Clean Harbors Inc.",
+            "num_shares":"116,080",
+            "portfolio_weight":"1.10",
+            "recent_activity":"Reduce 33.93%",
+            "reported_price":"$47.98",
+            "ticker":"CLH"
+        },
+        {
+            "name":"California Resources Corp.",
+            "num_shares":"440,000",
+            "portfolio_weight":"1.08",
+            "recent_activity":"Add 109.52%",
+            "reported_price":"$12.50",
+            "ticker":"CRC"
+        },
+        {
+            "name":"Agrium Inc.",
+            "num_shares":"59,777",
+            "portfolio_weight":"1.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$90.69",
+            "ticker":"AGU"
+        },
+        {
+            "name":"Childrens Place Inc.",
+            "num_shares":"59,066",
+            "portfolio_weight":"0.93",
+            "recent_activity":"Reduce 63.36%",
+            "reported_price":"$79.88",
+            "ticker":"PLCE"
+        },
+        {
+            "name":"Agios Pharmaceuticals Inc.",
+            "num_shares":"84,500",
+            "portfolio_weight":"0.88",
+            "recent_activity":" ",
+            "reported_price":"$52.82",
+            "ticker":"AGIO"
+        },
+        {
+            "name":"Power Integrations Inc.",
+            "num_shares":"61,386",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Reduce 50.64%",
+            "reported_price":"$63.03",
+            "ticker":"POWI"
+        },
+        {
+            "name":"Pacific Biosciences of California",
+            "num_shares":"423,300",
+            "portfolio_weight":"0.75",
+            "recent_activity":"Buy ",
+            "reported_price":"$8.96",
+            "ticker":"PACB"
+        },
+        {
+            "name":"Twitter Inc.",
+            "num_shares":"147,439",
+            "portfolio_weight":"0.67",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.05",
+            "ticker":"TWTR"
+        },
+        {
+            "name":"Juno Therapeutics Inc.",
+            "num_shares":"102,242",
+            "portfolio_weight":"0.60",
+            "recent_activity":"Buy ",
+            "reported_price":"$30.01",
+            "ticker":"JUNO"
+        },
+        {
+            "name":"Helmerich & Payne",
+            "num_shares":"43,696",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Reduce 1.53%",
+            "reported_price":"$67.31",
+            "ticker":"HP"
+        },
+        {
+            "name":"Flotek Industries Inc.",
+            "num_shares":"195,790",
+            "portfolio_weight":"0.56",
+            "recent_activity":"Reduce 24.92%",
+            "reported_price":"$14.54",
+            "ticker":"FTK"
+        },
+        {
+            "name":"TriNet Group",
+            "num_shares":"126,950",
+            "portfolio_weight":"0.54",
+            "recent_activity":" ",
+            "reported_price":"$21.63",
+            "ticker":"TNET"
+        },
+        {
+            "name":"Polaris Industries",
+            "num_shares":"30,999",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Reduce 44.64%",
+            "reported_price":"$77.45",
+            "ticker":"PII"
+        },
+        {
+            "name":"Lindsay Corp.",
+            "num_shares":"31,503",
+            "portfolio_weight":"0.46",
+            "recent_activity":"Reduce 36.36%",
+            "reported_price":"$73.99",
+            "ticker":"LNN"
+        }
+    ]
+}

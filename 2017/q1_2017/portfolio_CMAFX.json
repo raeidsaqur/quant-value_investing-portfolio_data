@@ -1,0 +1,379 @@
+{
+    "company":"Century Management Advisors",
+    "investor":"Arnold Van Den Berg",
+    "num_stocks":"46",
+    "period":"Q1 2017",
+    "portfolio_date":"28 Feb 2017",
+    "portfolio_id":"CMAFX",
+    "portfolio_value":"$64,757,000",
+    "stocks":[
+        {
+            "name":"Unit Corp.",
+            "num_shares":"165,785",
+            "portfolio_weight":"6.95",
+            "recent_activity":" ",
+            "reported_price":"$27.14",
+            "ticker":"UNT"
+        },
+        {
+            "name":"Colfax Corp.",
+            "num_shares":"91,900",
+            "portfolio_weight":"5.40",
+            "recent_activity":" ",
+            "reported_price":"$38.05",
+            "ticker":"CFX"
+        },
+        {
+            "name":"Allegheny Technologies Inc.",
+            "num_shares":"172,575",
+            "portfolio_weight":"5.12",
+            "recent_activity":" ",
+            "reported_price":"$19.21",
+            "ticker":"ATI"
+        },
+        {
+            "name":"DMC Global Inc.",
+            "num_shares":"215,712",
+            "portfolio_weight":"4.98",
+            "recent_activity":" ",
+            "reported_price":"$14.95",
+            "ticker":"BOOM"
+        },
+        {
+            "name":"Era Group Inc.",
+            "num_shares":"217,617",
+            "portfolio_weight":"4.63",
+            "recent_activity":"Reduce 4.17%",
+            "reported_price":"$13.78",
+            "ticker":"ERA"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"49,847",
+            "portfolio_weight":"4.46",
+            "recent_activity":"Reduce 1.97%",
+            "reported_price":"$57.88",
+            "ticker":"WFC"
+        },
+        {
+            "name":"InterGroup Corp.",
+            "num_shares":"102,044",
+            "portfolio_weight":"4.35",
+            "recent_activity":" ",
+            "reported_price":"$27.60",
+            "ticker":"INTG"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"16,001",
+            "portfolio_weight":"4.24",
+            "recent_activity":" ",
+            "reported_price":"$171.43",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Layne Christensen Co.",
+            "num_shares":"282,874",
+            "portfolio_weight":"4.17",
+            "recent_activity":" ",
+            "reported_price":"$9.55",
+            "ticker":"LAYN"
+        },
+        {
+            "name":"Discovery Communications Inc. CL C",
+            "num_shares":"94,087",
+            "portfolio_weight":"4.08",
+            "recent_activity":"Add 1.44%",
+            "reported_price":"$28.07",
+            "ticker":"DISCK"
+        },
+        {
+            "name":"Enstar Group Ltd.",
+            "num_shares":"12,256",
+            "portfolio_weight":"3.67",
+            "recent_activity":"Add 0.78%",
+            "reported_price":"$193.78",
+            "ticker":"ESGR"
+        },
+        {
+            "name":"PICO Holdings Inc.",
+            "num_shares":"162,952",
+            "portfolio_weight":"3.45",
+            "recent_activity":" ",
+            "reported_price":"$13.70",
+            "ticker":"PICO"
+        },
+        {
+            "name":"Dawson Geophysical Co.",
+            "num_shares":"282,655",
+            "portfolio_weight":"3.37",
+            "recent_activity":" ",
+            "reported_price":"$7.72",
+            "ticker":"DWSN"
+        },
+        {
+            "name":"Atwood Oceanics Inc.",
+            "num_shares":"204,555",
+            "portfolio_weight":"3.32",
+            "recent_activity":"Add 78.87%",
+            "reported_price":"$10.51",
+            "ticker":"ATW"
+        },
+        {
+            "name":"Seabridge Gold Inc.",
+            "num_shares":"169,392",
+            "portfolio_weight":"2.67",
+            "recent_activity":" ",
+            "reported_price":"$10.20",
+            "ticker":"SA"
+        },
+        {
+            "name":"Orion Group Holdings",
+            "num_shares":"163,064",
+            "portfolio_weight":"2.36",
+            "recent_activity":" ",
+            "reported_price":"$9.36",
+            "ticker":"ORN"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"33,825",
+            "portfolio_weight":"2.27",
+            "recent_activity":" ",
+            "reported_price":"$43.37",
+            "ticker":"DVN"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"27,080",
+            "portfolio_weight":"2.24",
+            "recent_activity":" ",
+            "reported_price":"$53.47",
+            "ticker":"HAL"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"24,060",
+            "portfolio_weight":"1.95",
+            "recent_activity":" ",
+            "reported_price":"$52.58",
+            "ticker":"APA"
+        },
+        {
+            "name":"Reading International Inc.",
+            "num_shares":"77,978",
+            "portfolio_weight":"1.92",
+            "recent_activity":" ",
+            "reported_price":"$15.94",
+            "ticker":"RDI"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"6,570",
+            "portfolio_weight":"1.82",
+            "recent_activity":" ",
+            "reported_price":"$179.76",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Atkore International Group Inc.",
+            "num_shares":"44,740",
+            "portfolio_weight":"1.81",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.22",
+            "ticker":"ATKR"
+        },
+        {
+            "name":"Comstock Mining",
+            "num_shares":"4,693,618",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$0.24",
+            "ticker":"LODE"
+        },
+        {
+            "name":"Cloud Peak Energy Inc.",
+            "num_shares":"219,005",
+            "portfolio_weight":"1.69",
+            "recent_activity":" ",
+            "reported_price":"$4.99",
+            "ticker":"CLD"
+        },
+        {
+            "name":"Pioneer Energy Services Corp.",
+            "num_shares":"200,005",
+            "portfolio_weight":"1.62",
+            "recent_activity":" ",
+            "reported_price":"$5.25",
+            "ticker":"PES"
+        },
+        {
+            "name":"Maxwell Technologies Inc.",
+            "num_shares":"205,185",
+            "portfolio_weight":"1.61",
+            "recent_activity":" ",
+            "reported_price":"$5.08",
+            "ticker":"MXWL"
+        },
+        {
+            "name":"McKesson Corp.",
+            "num_shares":"6,720",
+            "portfolio_weight":"1.56",
+            "recent_activity":"Add 6.92%",
+            "reported_price":"$150.15",
+            "ticker":"MCK"
+        },
+        {
+            "name":"Liberty SiriusXM Series C",
+            "num_shares":"24,735",
+            "portfolio_weight":"1.49",
+            "recent_activity":" ",
+            "reported_price":"$38.93",
+            "ticker":"LSXMK"
+        },
+        {
+            "name":"CK Hutchison Hldgs Ltd.",
+            "num_shares":"59,400",
+            "portfolio_weight":"1.13",
+            "recent_activity":" ",
+            "reported_price":"$12.31",
+            "ticker":"CKHUY"
+        },
+        {
+            "name":"AmerisourceBergen Corp.",
+            "num_shares":"7,679",
+            "portfolio_weight":"1.09",
+            "recent_activity":" ",
+            "reported_price":"$91.55",
+            "ticker":"ABC"
+        },
+        {
+            "name":"Agnico-Eagle Mines Ltd.",
+            "num_shares":"15,715",
+            "portfolio_weight":"1.03",
+            "recent_activity":" ",
+            "reported_price":"$42.38",
+            "ticker":"AEM"
+        },
+        {
+            "name":"PHI Inc.",
+            "num_shares":"42,664",
+            "portfolio_weight":"0.95",
+            "recent_activity":" ",
+            "reported_price":"$14.49",
+            "ticker":"PHII"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"6,540",
+            "portfolio_weight":"0.81",
+            "recent_activity":" ",
+            "reported_price":"$80.43",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Manitowoc Co.",
+            "num_shares":"82,703",
+            "portfolio_weight":"0.78",
+            "recent_activity":" ",
+            "reported_price":"$6.08",
+            "ticker":"MTW"
+        },
+        {
+            "name":"MakeMyTrip Ltd",
+            "num_shares":"14,880",
+            "portfolio_weight":"0.75",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.59",
+            "ticker":"MMYT"
+        },
+        {
+            "name":"Inovalon Holdings Inc.",
+            "num_shares":"38,100",
+            "portfolio_weight":"0.71",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.99",
+            "ticker":"INOV"
+        },
+        {
+            "name":"Cerner Corp.",
+            "num_shares":"7,550",
+            "portfolio_weight":"0.64",
+            "recent_activity":"Reduce 35.03%",
+            "reported_price":"$55.10",
+            "ticker":"CERN"
+        },
+        {
+            "name":"Second Sight Medical Products",
+            "num_shares":"240,727",
+            "portfolio_weight":"0.62",
+            "recent_activity":"Add 45.85%",
+            "reported_price":"$1.67",
+            "ticker":"EYES"
+        },
+        {
+            "name":"Alliance Data Systems",
+            "num_shares":"1,529",
+            "portfolio_weight":"0.57",
+            "recent_activity":"Reduce 52.87%",
+            "reported_price":"$243.30",
+            "ticker":"ADS"
+        },
+        {
+            "name":"Powell Industries",
+            "num_shares":"10,296",
+            "portfolio_weight":"0.52",
+            "recent_activity":"Reduce 67.82%",
+            "reported_price":"$32.63",
+            "ticker":"POWL"
+        },
+        {
+            "name":"ENSCO PLC",
+            "num_shares":"33,900",
+            "portfolio_weight":"0.51",
+            "recent_activity":"Buy ",
+            "reported_price":"$9.73",
+            "ticker":"ESV"
+        },
+        {
+            "name":"Denbury Resources Inc.",
+            "num_shares":"76,975",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$2.72",
+            "ticker":"DNR"
+        },
+        {
+            "name":"Key Energy Services Inc.",
+            "num_shares":"4,508",
+            "portfolio_weight":"0.22",
+            "recent_activity":"Reduce 99.49%",
+            "reported_price":"$31.06",
+            "ticker":"KEG"
+        },
+        {
+            "name":"Markel Corp.",
+            "num_shares":"123",
+            "portfolio_weight":"0.19",
+            "recent_activity":"Add 39.77%",
+            "reported_price":"$983.74",
+            "ticker":"MKL"
+        },
+        {
+            "name":"DaVita HealthCare Partners",
+            "num_shares":"1,464",
+            "portfolio_weight":"0.16",
+            "recent_activity":" ",
+            "reported_price":"$69.67",
+            "ticker":"DVA"
+        },
+        {
+            "name":"CVS Health Corp.",
+            "num_shares":"775",
+            "portfolio_weight":"0.10",
+            "recent_activity":"Buy ",
+            "reported_price":"$80.00",
+            "ticker":"CVS"
+        }
+    ]
+}

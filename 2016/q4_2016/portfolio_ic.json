@@ -1,0 +1,155 @@
+{
+    "company":"Icahn Capital Management",
+    "investor":"Carl Icahn",
+    "num_stocks":"18",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"ic",
+    "portfolio_value":"$22,373,522,000",
+    "stocks":[
+        {
+            "name":"Icahn Enterprises",
+            "num_shares":"129,999,050",
+            "portfolio_weight":"34.82",
+            "recent_activity":"Add 2.30%",
+            "reported_price":"$59.92",
+            "ticker":"IEP"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"45,644,982",
+            "portfolio_weight":"13.32",
+            "recent_activity":" ",
+            "reported_price":"$65.31",
+            "ticker":"AIG"
+        },
+        {
+            "name":"CVR Energy Inc.",
+            "num_shares":"71,198,718",
+            "portfolio_weight":"8.08",
+            "recent_activity":" ",
+            "reported_price":"$25.39",
+            "ticker":"CVI"
+        },
+        {
+            "name":"Federal-Mogul Holdings Corp.",
+            "num_shares":"138,590,141",
+            "portfolio_weight":"6.39",
+            "recent_activity":" ",
+            "reported_price":"$10.31",
+            "ticker":"FDML"
+        },
+        {
+            "name":"Cheniere Energy Inc.",
+            "num_shares":"32,680,490",
+            "portfolio_weight":"6.05",
+            "recent_activity":" ",
+            "reported_price":"$41.43",
+            "ticker":"LNG"
+        },
+        {
+            "name":"PayPal Holdings Inc.",
+            "num_shares":"33,397,153",
+            "portfolio_weight":"5.89",
+            "recent_activity":"Reduce 1.48%",
+            "reported_price":"$39.47",
+            "ticker":"PYPL"
+        },
+        {
+            "name":"Freeport-McMoran Inc.",
+            "num_shares":"91,236,296",
+            "portfolio_weight":"5.38",
+            "recent_activity":"Reduce 12.27%",
+            "reported_price":"$13.19",
+            "ticker":"FCX"
+        },
+        {
+            "name":"Herbalife Ltd.",
+            "num_shares":"22,500,000",
+            "portfolio_weight":"4.84",
+            "recent_activity":"Add 14.73%",
+            "reported_price":"$48.14",
+            "ticker":"HLF"
+        },
+        {
+            "name":"Xerox Corp.",
+            "num_shares":"99,030,026",
+            "portfolio_weight":"3.86",
+            "recent_activity":" ",
+            "reported_price":"$8.73",
+            "ticker":"XRX"
+        },
+        {
+            "name":"Hertz Global Hldgs Inc.",
+            "num_shares":"29,263,869",
+            "portfolio_weight":"2.82",
+            "recent_activity":"Add 126.17%",
+            "reported_price":"$21.56",
+            "ticker":"HTZ"
+        },
+        {
+            "name":"American Railcar Ind.",
+            "num_shares":"11,871,268",
+            "portfolio_weight":"2.40",
+            "recent_activity":" ",
+            "reported_price":"$45.29",
+            "ticker":"ARII"
+        },
+        {
+            "name":"Navistar International Corp.",
+            "num_shares":"16,272,524",
+            "portfolio_weight":"2.28",
+            "recent_activity":" ",
+            "reported_price":"$31.37",
+            "ticker":"NAV"
+        },
+        {
+            "name":"Nuance Communications Inc.",
+            "num_shares":"18,378,097",
+            "portfolio_weight":"1.22",
+            "recent_activity":"Reduce 6.60%",
+            "reported_price":"$14.90",
+            "ticker":"NUAN"
+        },
+        {
+            "name":"Manitowoc Foodservice Inc.",
+            "num_shares":"10,582,660",
+            "portfolio_weight":"0.91",
+            "recent_activity":" ",
+            "reported_price":"$19.33",
+            "ticker":"MFS"
+        },
+        {
+            "name":"HERC Holdings Inc.",
+            "num_shares":"4,312,860",
+            "portfolio_weight":"0.77",
+            "recent_activity":" ",
+            "reported_price":"$40.16",
+            "ticker":"HRI"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"425,438",
+            "portfolio_weight":"0.40",
+            "recent_activity":" ",
+            "reported_price":"$210.01",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Manitowoc Co.",
+            "num_shares":"10,582,660",
+            "portfolio_weight":"0.28",
+            "recent_activity":" ",
+            "reported_price":"$5.98",
+            "ticker":"MTW"
+        },
+        {
+            "name":"CVR Refining LP",
+            "num_shares":"5,750,000",
+            "portfolio_weight":"0.27",
+            "recent_activity":" ",
+            "reported_price":"$10.40",
+            "ticker":"CVRR"
+        }
+    ]
+}

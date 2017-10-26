@@ -1,0 +1,139 @@
+{
+    "company":"SQ Advisors",
+    "investor":"Lou Simpson",
+    "num_stocks":"16",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"SQ",
+    "portfolio_value":"$2,372,648,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"1,868,059",
+            "portfolio_weight":"12.83",
+            "recent_activity":"Reduce 19.16%",
+            "reported_price":"$162.98",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Brookfield Asset Management Inc.",
+            "num_shares":"8,252,026",
+            "portfolio_weight":"11.48",
+            "recent_activity":"Reduce 15.70%",
+            "reported_price":"$33.01",
+            "ticker":"BAM"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"6,821,241",
+            "portfolio_weight":"11.35",
+            "recent_activity":"Reduce 38.20%",
+            "reported_price":"$39.47",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"8,486,630",
+            "portfolio_weight":"10.62",
+            "recent_activity":"Add 3.27%",
+            "reported_price":"$29.70",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Ametek Inc.",
+            "num_shares":"5,071,455",
+            "portfolio_weight":"10.39",
+            "recent_activity":"Reduce 29.72%",
+            "reported_price":"$48.60",
+            "ticker":"AME"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"4,975,971",
+            "portfolio_weight":"7.07",
+            "recent_activity":"Reduce 17.00%",
+            "reported_price":"$33.69",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"Axalta Coating Systems Ltd.",
+            "num_shares":"5,451,489",
+            "portfolio_weight":"6.25",
+            "recent_activity":"Add 3.12%",
+            "reported_price":"$27.20",
+            "ticker":"AXTA"
+        },
+        {
+            "name":"Cable ONE Inc.",
+            "num_shares":"220,324",
+            "portfolio_weight":"5.77",
+            "recent_activity":"Add 555.94%",
+            "reported_price":"$621.73",
+            "ticker":"CABO"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"1,153,828",
+            "portfolio_weight":"5.63",
+            "recent_activity":"Buy ",
+            "reported_price":"$115.82",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"WABCO Holdings Inc.",
+            "num_shares":"1,189,107",
+            "portfolio_weight":"5.32",
+            "recent_activity":"Reduce 12.61%",
+            "reported_price":"$106.15",
+            "ticker":"WBC"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"2,718,858",
+            "portfolio_weight":"4.46",
+            "recent_activity":"Add 19.02%",
+            "reported_price":"$38.95",
+            "ticker":"ST"
+        },
+        {
+            "name":"Tyler Technologies Inc.",
+            "num_shares":"700,149",
+            "portfolio_weight":"4.21",
+            "recent_activity":"Buy ",
+            "reported_price":"$142.77",
+            "ticker":"TYL"
+        },
+        {
+            "name":"Hexcel Corp.",
+            "num_shares":"1,610,367",
+            "portfolio_weight":"3.49",
+            "recent_activity":"Buy ",
+            "reported_price":"$51.44",
+            "ticker":"HXL"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"984,804",
+            "portfolio_weight":"0.88",
+            "recent_activity":"Reduce 20.07%",
+            "reported_price":"$21.17",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"21",
+            "portfolio_weight":"0.22",
+            "recent_activity":" ",
+            "reported_price":"$244142.86",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"10,164",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Reduce 99.82%",
+            "reported_price":"$55.10",
+            "ticker":"WFC"
+        }
+    ]
+}

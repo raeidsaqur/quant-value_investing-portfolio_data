@@ -1,0 +1,67 @@
+{
+    "company":"Pershing Square Capital Management",
+    "investor":"Bill Ackman",
+    "num_stocks":"7",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"psc",
+    "portfolio_value":"$5,960,734,000",
+    "stocks":[
+        {
+            "name":"Restaurant Brands International",
+            "num_shares":"39,150,551",
+            "portfolio_weight":"36.61",
+            "recent_activity":" ",
+            "reported_price":"$55.74",
+            "ticker":"QSR"
+        },
+        {
+            "name":"Chipotle Mexican Grill Inc.",
+            "num_shares":"2,882,463",
+            "portfolio_weight":"21.54",
+            "recent_activity":" ",
+            "reported_price":"$445.52",
+            "ticker":"CMG"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"19,942,225",
+            "portfolio_weight":"14.41",
+            "recent_activity":"Reduce 13.08%",
+            "reported_price":"$43.08",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Platform Specialty Products Corp.",
+            "num_shares":"40,451,506",
+            "portfolio_weight":"8.84",
+            "recent_activity":" ",
+            "reported_price":"$13.02",
+            "ticker":"PAH"
+        },
+        {
+            "name":"Howard Hughes Corp.",
+            "num_shares":"3,568,017",
+            "portfolio_weight":"7.02",
+            "recent_activity":" ",
+            "reported_price":"$117.25",
+            "ticker":"HHC"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"33,333,334",
+            "portfolio_weight":"6.40",
+            "recent_activity":" ",
+            "reported_price":"$11.45",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Air Products & Chemicals",
+            "num_shares":"2,280,138",
+            "portfolio_weight":"5.18",
+            "recent_activity":"Reduce 41.09%",
+            "reported_price":"$135.29",
+            "ticker":"APD"
+        }
+    ]
+}

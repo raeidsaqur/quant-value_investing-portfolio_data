@@ -1,0 +1,403 @@
+{
+    "company":"Thornburg Value",
+    "investor":"Thornburg Investment Management",
+    "num_stocks":"49",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"TVAFX",
+    "portfolio_value":"$827,910,000",
+    "stocks":[
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"419,409",
+            "portfolio_weight":"4.45",
+            "recent_activity":"Reduce 10.67%",
+            "reported_price":"$87.84",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"497,651",
+            "portfolio_weight":"4.33",
+            "recent_activity":" ",
+            "reported_price":"$72.08",
+            "ticker":"WMT"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"232,786",
+            "portfolio_weight":"4.32",
+            "recent_activity":"Reduce 11.06%",
+            "reported_price":"$153.60",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"243,800",
+            "portfolio_weight":"4.18",
+            "recent_activity":" ",
+            "reported_price":"$142.05",
+            "ticker":"FB"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"462,370",
+            "portfolio_weight":"3.79",
+            "recent_activity":"Add 96.95%",
+            "reported_price":"$67.92",
+            "ticker":"GILD"
+        },
+        {
+            "name":"Grand Canyon Education",
+            "num_shares":"430,608",
+            "portfolio_weight":"3.72",
+            "recent_activity":" ",
+            "reported_price":"$71.61",
+            "ticker":"LOPE"
+        },
+        {
+            "name":"Activision Blizzard Inc.",
+            "num_shares":"597,977",
+            "portfolio_weight":"3.60",
+            "recent_activity":"Reduce 7.24%",
+            "reported_price":"$49.86",
+            "ticker":"ATVI"
+        },
+        {
+            "name":"Medtronic plc",
+            "num_shares":"365,335",
+            "portfolio_weight":"3.55",
+            "recent_activity":" ",
+            "reported_price":"$80.56",
+            "ticker":"MDT"
+        },
+        {
+            "name":"International Flav/Frag",
+            "num_shares":"214,596",
+            "portfolio_weight":"3.44",
+            "recent_activity":" ",
+            "reported_price":"$132.53",
+            "ticker":"IFF"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"33,858",
+            "portfolio_weight":"3.39",
+            "recent_activity":" ",
+            "reported_price":"$829.55",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"459,400",
+            "portfolio_weight":"3.32",
+            "recent_activity":"Add 19.51%",
+            "reported_price":"$59.82",
+            "ticker":"C"
+        },
+        {
+            "name":"Enterprise Products Partners LP",
+            "num_shares":"985,004",
+            "portfolio_weight":"3.28",
+            "recent_activity":" ",
+            "reported_price":"$27.61",
+            "ticker":"EPD"
+        },
+        {
+            "name":"Apollo Global Management",
+            "num_shares":"1,036,419",
+            "portfolio_weight":"3.04",
+            "recent_activity":" ",
+            "reported_price":"$24.32",
+            "ticker":"APO"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"166,700",
+            "portfolio_weight":"2.89",
+            "recent_activity":" ",
+            "reported_price":"$143.66",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Aramark",
+            "num_shares":"610,976",
+            "portfolio_weight":"2.72",
+            "recent_activity":" ",
+            "reported_price":"$36.87",
+            "ticker":"ARMK"
+        },
+        {
+            "name":"PennyMac Mortgage Investment Trust",
+            "num_shares":"1,207,530",
+            "portfolio_weight":"2.59",
+            "recent_activity":" ",
+            "reported_price":"$17.75",
+            "ticker":"PMT"
+        },
+        {
+            "name":"Assured Guaranty Ltd.",
+            "num_shares":"568,300",
+            "portfolio_weight":"2.55",
+            "recent_activity":" ",
+            "reported_price":"$37.11",
+            "ticker":"AGO"
+        },
+        {
+            "name":"Oaktree Capital Group LLC Cl A",
+            "num_shares":"441,634",
+            "portfolio_weight":"2.42",
+            "recent_activity":" ",
+            "reported_price":"$45.30",
+            "ticker":"OAK"
+        },
+        {
+            "name":"TRI Pointe Group",
+            "num_shares":"1,333,678",
+            "portfolio_weight":"2.02",
+            "recent_activity":" ",
+            "reported_price":"$12.54",
+            "ticker":"TPH"
+        },
+        {
+            "name":"Acushnet Holdings Corp.",
+            "num_shares":"911,800",
+            "portfolio_weight":"1.90",
+            "recent_activity":"Reduce 14.51%",
+            "reported_price":"$17.28",
+            "ticker":"GOLF"
+        },
+        {
+            "name":"HP Inc.",
+            "num_shares":"867,177",
+            "portfolio_weight":"1.87",
+            "recent_activity":" ",
+            "reported_price":"$17.88",
+            "ticker":"HPQ"
+        },
+        {
+            "name":"Mead Johnson Nutrition Co.",
+            "num_shares":"161,839",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$89.08",
+            "ticker":"MJN"
+        },
+        {
+            "name":"Fortis Inc.",
+            "num_shares":"408,853",
+            "portfolio_weight":"1.64",
+            "recent_activity":" ",
+            "reported_price":"$33.16",
+            "ticker":"FTS"
+        },
+        {
+            "name":"China Mobile Ltd.",
+            "num_shares":"1,185,700",
+            "portfolio_weight":"1.57",
+            "recent_activity":" ",
+            "reported_price":"$10.94",
+            "ticker":"CHL"
+        },
+        {
+            "name":"Phibro Animal Health Corp.",
+            "num_shares":"463,763",
+            "portfolio_weight":"1.57",
+            "recent_activity":"Reduce 8.04%",
+            "reported_price":"$28.10",
+            "ticker":"PAHC"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"1,123,935",
+            "portfolio_weight":"1.55",
+            "recent_activity":"Add 374.65%",
+            "reported_price":"$11.45",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Akorn Inc.",
+            "num_shares":"530,900",
+            "portfolio_weight":"1.54",
+            "recent_activity":"Buy ",
+            "reported_price":"$24.08",
+            "ticker":"AKRX"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"306,112",
+            "portfolio_weight":"1.54",
+            "recent_activity":"Add 51.25%",
+            "reported_price":"$41.72",
+            "ticker":"DVN"
+        },
+        {
+            "name":"Expedia Inc.",
+            "num_shares":"100,894",
+            "portfolio_weight":"1.54",
+            "recent_activity":" ",
+            "reported_price":"$126.17",
+            "ticker":"EXPE"
+        },
+        {
+            "name":"Level 3 Communications Inc.",
+            "num_shares":"221,619",
+            "portfolio_weight":"1.53",
+            "recent_activity":" ",
+            "reported_price":"$57.22",
+            "ticker":"LVLT"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"107,667",
+            "portfolio_weight":"1.40",
+            "recent_activity":" ",
+            "reported_price":"$107.30",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"231,738",
+            "portfolio_weight":"1.21",
+            "recent_activity":"Reduce 47.91%",
+            "reported_price":"$43.08",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Nokia Corp.",
+            "num_shares":"1,819,095",
+            "portfolio_weight":"1.18",
+            "recent_activity":" ",
+            "reported_price":"$5.37",
+            "ticker":"NOK"
+        },
+        {
+            "name":"Netflix Inc.",
+            "num_shares":"64,967",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Reduce 19.76%",
+            "reported_price":"$147.81",
+            "ticker":"NFLX"
+        },
+        {
+            "name":"Envision Healthcare Corp.",
+            "num_shares":"152,706",
+            "portfolio_weight":"1.13",
+            "recent_activity":"Reduce 22.78%",
+            "reported_price":"$61.32",
+            "ticker":"EVHC"
+        },
+        {
+            "name":"ARRIS International plc",
+            "num_shares":"352,600",
+            "portfolio_weight":"1.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.45",
+            "ticker":"ARRS"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"153,844",
+            "portfolio_weight":"1.11",
+            "recent_activity":"Reduce 51.67%",
+            "reported_price":"$59.52",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Covanta Holding Corp.",
+            "num_shares":"568,774",
+            "portfolio_weight":"1.08",
+            "recent_activity":"Reduce 20.08%",
+            "reported_price":"$15.70",
+            "ticker":"CVA"
+        },
+        {
+            "name":"Seattle Genetics Inc.",
+            "num_shares":"139,020",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Reduce 16.90%",
+            "reported_price":"$62.86",
+            "ticker":"SGEN"
+        },
+        {
+            "name":"Kraft Heinz Co.",
+            "num_shares":"95,800",
+            "portfolio_weight":"1.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$90.81",
+            "ticker":"KHC"
+        },
+        {
+            "name":"Palo Alto Networks",
+            "num_shares":"76,474",
+            "portfolio_weight":"1.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$112.68",
+            "ticker":"PANW"
+        },
+        {
+            "name":"AutoZone Inc.",
+            "num_shares":"11,178",
+            "portfolio_weight":"0.98",
+            "recent_activity":" ",
+            "reported_price":"$723.03",
+            "ticker":"AZO"
+        },
+        {
+            "name":"Citizens Financial Group Inc.",
+            "num_shares":"225,620",
+            "portfolio_weight":"0.94",
+            "recent_activity":"Reduce 70.79%",
+            "reported_price":"$34.55",
+            "ticker":"CFG"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"207,603",
+            "portfolio_weight":"0.90",
+            "recent_activity":"Reduce 38.32%",
+            "reported_price":"$36.06",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"Callaway Golf Co.",
+            "num_shares":"669,908",
+            "portfolio_weight":"0.90",
+            "recent_activity":"Add 41.15%",
+            "reported_price":"$11.07",
+            "ticker":"ELY"
+        },
+        {
+            "name":"Staples Inc.",
+            "num_shares":"655,979",
+            "portfolio_weight":"0.69",
+            "recent_activity":" ",
+            "reported_price":"$8.77",
+            "ticker":"SPLS"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"153,398",
+            "portfolio_weight":"0.64",
+            "recent_activity":" ",
+            "reported_price":"$34.79",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Office Depot",
+            "num_shares":"1,084,757",
+            "portfolio_weight":"0.61",
+            "recent_activity":" ",
+            "reported_price":"$4.66",
+            "ticker":"ODP"
+        },
+        {
+            "name":"Avinger Inc.",
+            "num_shares":"760,168",
+            "portfolio_weight":"0.17",
+            "recent_activity":"Reduce 39.74%",
+            "reported_price":"$1.90",
+            "ticker":"AVGR"
+        }
+    ]
+}

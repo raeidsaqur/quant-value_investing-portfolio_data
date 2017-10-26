@@ -1,0 +1,67 @@
+{
+    "company":"RBS Partners",
+    "investor":"Eddie Lampert",
+    "num_stocks":"7",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"EL",
+    "portfolio_value":"$662,407,000",
+    "stocks":[
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"20,535,979",
+            "portfolio_weight":"35.62",
+            "recent_activity":"Reduce 8.06%",
+            "reported_price":"$11.49",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"AutoNation Inc.",
+            "num_shares":"4,933,706",
+            "portfolio_weight":"31.50",
+            "recent_activity":" ",
+            "reported_price":"$42.29",
+            "ticker":"AN"
+        },
+        {
+            "name":"Lands End Inc.",
+            "num_shares":"6,153,119",
+            "portfolio_weight":"19.92",
+            "recent_activity":"Reduce 8.42%",
+            "reported_price":"$21.45",
+            "ticker":"LE"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"23,504,516",
+            "portfolio_weight":"4.79",
+            "recent_activity":" ",
+            "reported_price":"$1.35",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"526,095",
+            "portfolio_weight":"3.43",
+            "recent_activity":"Add 49.00%",
+            "reported_price":"$43.15",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"4,771,352",
+            "portfolio_weight":"2.81",
+            "recent_activity":" ",
+            "reported_price":"$3.90",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Sears Hldgs WTS",
+            "num_shares":"4,331,951",
+            "portfolio_weight":"1.93",
+            "recent_activity":" ",
+            "reported_price":"$2.95",
+            "ticker":"SHLD.WS"
+        }
+    ]
+}

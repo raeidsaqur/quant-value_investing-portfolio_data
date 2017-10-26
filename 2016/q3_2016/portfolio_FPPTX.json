@@ -1,0 +1,187 @@
+{
+    "company":"FPA Capital",
+    "investor":"Robert Rodriguez",
+    "num_stocks":"22",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"FPPTX",
+    "portfolio_value":"$543,068,000",
+    "stocks":[
+        {
+            "name":"Western Digital",
+            "num_shares":"926,960",
+            "portfolio_weight":"9.98",
+            "recent_activity":"Reduce 8.88%",
+            "reported_price":"$58.47",
+            "ticker":"WDC"
+        },
+        {
+            "name":"ARRIS International plc",
+            "num_shares":"1,544,814",
+            "portfolio_weight":"8.06",
+            "recent_activity":"Reduce 12.53%",
+            "reported_price":"$28.33",
+            "ticker":"ARRS"
+        },
+        {
+            "name":"Patterson UTI-Energy",
+            "num_shares":"1,544,820",
+            "portfolio_weight":"6.36",
+            "recent_activity":"Reduce 14.73%",
+            "reported_price":"$22.37",
+            "ticker":"PTEN"
+        },
+        {
+            "name":"Noble Energy Inc.",
+            "num_shares":"919,610",
+            "portfolio_weight":"6.05",
+            "recent_activity":" ",
+            "reported_price":"$35.74",
+            "ticker":"NBL"
+        },
+        {
+            "name":"Avnet Inc.",
+            "num_shares":"767,480",
+            "portfolio_weight":"5.80",
+            "recent_activity":"Add 12.20%",
+            "reported_price":"$41.06",
+            "ticker":"AVT"
+        },
+        {
+            "name":"Aaron's Inc.",
+            "num_shares":"1,182,959",
+            "portfolio_weight":"5.54",
+            "recent_activity":" ",
+            "reported_price":"$25.42",
+            "ticker":"AAN"
+        },
+        {
+            "name":"Dana Inc.",
+            "num_shares":"1,903,884",
+            "portfolio_weight":"5.47",
+            "recent_activity":"Reduce 9.92%",
+            "reported_price":"$15.59",
+            "ticker":"DAN"
+        },
+        {
+            "name":"InterDigital Inc.",
+            "num_shares":"353,448",
+            "portfolio_weight":"5.15",
+            "recent_activity":"Reduce 50.43%",
+            "reported_price":"$79.20",
+            "ticker":"IDCC"
+        },
+        {
+            "name":"DeVry Education Group Inc.",
+            "num_shares":"1,180,369",
+            "portfolio_weight":"5.01",
+            "recent_activity":"Reduce 5.00%",
+            "reported_price":"$23.06",
+            "ticker":"DV"
+        },
+        {
+            "name":"Cimarex Energy Co.",
+            "num_shares":"202,110",
+            "portfolio_weight":"5.00",
+            "recent_activity":"Reduce 28.80%",
+            "reported_price":"$134.37",
+            "ticker":"XEC"
+        },
+        {
+            "name":"Helmerich & Payne",
+            "num_shares":"395,818",
+            "portfolio_weight":"4.91",
+            "recent_activity":"Reduce 13.02%",
+            "reported_price":"$67.30",
+            "ticker":"HP"
+        },
+        {
+            "name":"Babcock & Wilcox Enterprises",
+            "num_shares":"1,600,410",
+            "portfolio_weight":"4.86",
+            "recent_activity":"Add 45.62%",
+            "reported_price":"$16.50",
+            "ticker":"BW"
+        },
+        {
+            "name":"Rowan Cos.",
+            "num_shares":"1,436,050",
+            "portfolio_weight":"4.01",
+            "recent_activity":"Add 18.33%",
+            "reported_price":"$15.16",
+            "ticker":"RDC"
+        },
+        {
+            "name":"Arrow Electronics",
+            "num_shares":"305,293",
+            "portfolio_weight":"3.60",
+            "recent_activity":" ",
+            "reported_price":"$63.97",
+            "ticker":"ARW"
+        },
+        {
+            "name":"Veeco Instruments",
+            "num_shares":"979,330",
+            "portfolio_weight":"3.54",
+            "recent_activity":"Add 1.80%",
+            "reported_price":"$19.63",
+            "ticker":"VECO"
+        },
+        {
+            "name":"AGCO Corp.",
+            "num_shares":"365,591",
+            "portfolio_weight":"3.32",
+            "recent_activity":" ",
+            "reported_price":"$49.32",
+            "ticker":"AGCO"
+        },
+        {
+            "name":"Houghton Mifflin Harcourt Co.",
+            "num_shares":"1,303,657",
+            "portfolio_weight":"3.22",
+            "recent_activity":"Add 12.68%",
+            "reported_price":"$13.41",
+            "ticker":"HMHC"
+        },
+        {
+            "name":"SM Energy Co.",
+            "num_shares":"363,133",
+            "portfolio_weight":"2.58",
+            "recent_activity":"Reduce 30.15%",
+            "reported_price":"$38.58",
+            "ticker":"SM"
+        },
+        {
+            "name":"Cubic Corp.",
+            "num_shares":"286,300",
+            "portfolio_weight":"2.47",
+            "recent_activity":" ",
+            "reported_price":"$46.81",
+            "ticker":"CUB"
+        },
+        {
+            "name":"Apollo Education Group Inc.",
+            "num_shares":"1,598,004",
+            "portfolio_weight":"2.34",
+            "recent_activity":"Reduce 34.40%",
+            "reported_price":"$7.95",
+            "ticker":"APOL"
+        },
+        {
+            "name":"Oshkosh Corp.",
+            "num_shares":"172,520",
+            "portfolio_weight":"1.78",
+            "recent_activity":"Reduce 18.26%",
+            "reported_price":"$56.00",
+            "ticker":"OSK"
+        },
+        {
+            "name":"Foot Locker Inc.",
+            "num_shares":"76,520",
+            "portfolio_weight":"0.95",
+            "recent_activity":" ",
+            "reported_price":"$67.72",
+            "ticker":"FL"
+        }
+    ]
+}

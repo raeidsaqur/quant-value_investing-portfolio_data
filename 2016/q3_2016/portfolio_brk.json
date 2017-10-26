@@ -1,0 +1,411 @@
+{
+    "company":"Berkshire Hathaway",
+    "investor":"Warren Buffett",
+    "num_stocks":"50",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"brk",
+    "portfolio_value":"$128,787,110,000",
+    "stocks":[
+        {
+            "name":"Kraft Heinz Co.",
+            "num_shares":"325,634,818",
+            "portfolio_weight":"22.63",
+            "recent_activity":" ",
+            "reported_price":"$89.51",
+            "ticker":"KHC"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"479,704,270",
+            "portfolio_weight":"16.49",
+            "recent_activity":" ",
+            "reported_price":"$44.28",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Coca Cola Co.",
+            "num_shares":"400,000,000",
+            "portfolio_weight":"13.14",
+            "recent_activity":" ",
+            "reported_price":"$42.32",
+            "ticker":"KO"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"81,232,303",
+            "portfolio_weight":"10.02",
+            "recent_activity":" ",
+            "reported_price":"$158.85",
+            "ticker":"IBM"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"151,610,700",
+            "portfolio_weight":"7.54",
+            "recent_activity":" ",
+            "reported_price":"$64.04",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Phillips 66",
+            "num_shares":"80,689,892",
+            "portfolio_weight":"5.05",
+            "recent_activity":"Add 2.42%",
+            "reported_price":"$80.55",
+            "ticker":"PSX"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"85,063,167",
+            "portfolio_weight":"2.83",
+            "recent_activity":" ",
+            "reported_price":"$42.89",
+            "ticker":"USB"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"24,669,778",
+            "portfolio_weight":"2.07",
+            "recent_activity":" ",
+            "reported_price":"$108.28",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"9,443,491",
+            "portfolio_weight":"1.98",
+            "recent_activity":"Add 1.14%",
+            "reported_price":"$269.97",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"DaVita HealthCare Partners",
+            "num_shares":"38,565,570",
+            "portfolio_weight":"1.98",
+            "recent_activity":" ",
+            "reported_price":"$66.07",
+            "ticker":"DVA"
+        },
+        {
+            "name":"Deere & Co.",
+            "num_shares":"21,085,061",
+            "portfolio_weight":"1.40",
+            "recent_activity":"Reduce 3.98%",
+            "reported_price":"$85.35",
+            "ticker":"DE"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"10,959,519",
+            "portfolio_weight":"1.37",
+            "recent_activity":" ",
+            "reported_price":"$161.27",
+            "ticker":"GS"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"15,227,702",
+            "portfolio_weight":"1.34",
+            "recent_activity":" ",
+            "reported_price":"$113.05",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"General Motors",
+            "num_shares":"50,000,000",
+            "portfolio_weight":"1.23",
+            "recent_activity":" ",
+            "reported_price":"$31.77",
+            "ticker":"GM"
+        },
+        {
+            "name":"Verisign Inc.",
+            "num_shares":"12,952,745",
+            "portfolio_weight":"0.79",
+            "recent_activity":" ",
+            "reported_price":"$78.24",
+            "ticker":"VRSN"
+        },
+        {
+            "name":"USG Corp.",
+            "num_shares":"39,002,016",
+            "portfolio_weight":"0.78",
+            "recent_activity":" ",
+            "reported_price":"$25.85",
+            "ticker":"USG"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"12,971,574",
+            "portfolio_weight":"0.73",
+            "recent_activity":"Reduce 67.75%",
+            "reported_price":"$72.12",
+            "ticker":"WMT"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"10,562,460",
+            "portfolio_weight":"0.68",
+            "recent_activity":"Add 3.16%",
+            "reported_price":"$82.70",
+            "ticker":"V"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"21,136,712",
+            "portfolio_weight":"0.65",
+            "recent_activity":"Add 1.49%",
+            "reported_price":"$39.88",
+            "ticker":"BK"
+        },
+        {
+            "name":"American Airlines Group Inc.",
+            "num_shares":"21,770,555",
+            "portfolio_weight":"0.62",
+            "recent_activity":"Buy ",
+            "reported_price":"$36.61",
+            "ticker":"AAL"
+        },
+        {
+            "name":"Verizon Communications",
+            "num_shares":"15,000,928",
+            "portfolio_weight":"0.61",
+            "recent_activity":" ",
+            "reported_price":"$51.98",
+            "ticker":"VZ"
+        },
+        {
+            "name":"Liberty SiriusXM Series C",
+            "num_shares":"22,236,109",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Add 11.18%",
+            "reported_price":"$33.41",
+            "ticker":"LSXMK"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"20,180,897",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Add 4.20%",
+            "reported_price":"$34.18",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"Costco Co.",
+            "num_shares":"4,333,363",
+            "portfolio_weight":"0.51",
+            "recent_activity":" ",
+            "reported_price":"$152.51",
+            "ticker":"COST"
+        },
+        {
+            "name":"Axalta Coating Systems Ltd.",
+            "num_shares":"23,324,000",
+            "portfolio_weight":"0.51",
+            "recent_activity":" ",
+            "reported_price":"$28.27",
+            "ticker":"AXTA"
+        },
+        {
+            "name":"M&T Bank Corp.",
+            "num_shares":"5,382,040",
+            "portfolio_weight":"0.49",
+            "recent_activity":" ",
+            "reported_price":"$116.10",
+            "ticker":"MTB"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"4,934,756",
+            "portfolio_weight":"0.39",
+            "recent_activity":" ",
+            "reported_price":"$101.77",
+            "ticker":"MA"
+        },
+        {
+            "name":"Kinder Morgan",
+            "num_shares":"20,000,000",
+            "portfolio_weight":"0.36",
+            "recent_activity":"Reduce 24.62%",
+            "reported_price":"$23.13",
+            "ticker":"KMI"
+        },
+        {
+            "name":"Torchmark Corp.",
+            "num_shares":"6,353,727",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$63.89",
+            "ticker":"TMK"
+        },
+        {
+            "name":"WABCO Holdings Inc.",
+            "num_shares":"3,368,394",
+            "portfolio_weight":"0.30",
+            "recent_activity":"Add 4.06%",
+            "reported_price":"$113.53",
+            "ticker":"WBC"
+        },
+        {
+            "name":"Restaurant Brands International",
+            "num_shares":"8,438,225",
+            "portfolio_weight":"0.29",
+            "recent_activity":" ",
+            "reported_price":"$44.58",
+            "ticker":"QSR"
+        },
+        {
+            "name":"Liberty Sirius XM Series A",
+            "num_shares":"10,058,800",
+            "portfolio_weight":"0.27",
+            "recent_activity":"Add 0.59%",
+            "reported_price":"$33.98",
+            "ticker":"LSXMA"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"10,585,502",
+            "portfolio_weight":"0.24",
+            "recent_activity":" ",
+            "reported_price":"$29.62",
+            "ticker":"GE"
+        },
+        {
+            "name":"Delta Air Lines Inc.",
+            "num_shares":"6,333,923",
+            "portfolio_weight":"0.19",
+            "recent_activity":"Buy ",
+            "reported_price":"$39.36",
+            "ticker":"DAL"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"7,346,968",
+            "portfolio_weight":"0.19",
+            "recent_activity":" ",
+            "reported_price":"$33.04",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"United Continental Holdings",
+            "num_shares":"4,533,013",
+            "portfolio_weight":"0.18",
+            "recent_activity":"Buy ",
+            "reported_price":"$52.47",
+            "ticker":"UAL"
+        },
+        {
+            "name":"Twenty-First Century Fox",
+            "num_shares":"8,951,869",
+            "portfolio_weight":"0.17",
+            "recent_activity":" ",
+            "reported_price":"$24.22",
+            "ticker":"FOXA"
+        },
+        {
+            "name":"Sanofi Aventis",
+            "num_shares":"3,905,875",
+            "portfolio_weight":"0.12",
+            "recent_activity":" ",
+            "reported_price":"$38.19",
+            "ticker":"SNY"
+        },
+        {
+            "name":"Verisk Analytics Inc.",
+            "num_shares":"1,563,434",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$81.28",
+            "ticker":"VRSK"
+        },
+        {
+            "name":"Liberty Media Group CL C",
+            "num_shares":"3,189,041",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Reduce 36.22%",
+            "reported_price":"$28.14",
+            "ticker":"LMCK"
+        },
+        {
+            "name":"Liberty LiLAC Group A",
+            "num_shares":"2,714,854",
+            "portfolio_weight":"0.06",
+            "recent_activity":" ",
+            "reported_price":"$27.59",
+            "ticker":"LILA"
+        },
+        {
+            "name":"Graham Holdings Co.",
+            "num_shares":"107,575",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$481.37",
+            "ticker":"GHC"
+        },
+        {
+            "name":"Liberty Media Group",
+            "num_shares":"1,296,013",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Reduce 48.16%",
+            "reported_price":"$28.65",
+            "ticker":"LMCA"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"1,284,020",
+            "portfolio_weight":"0.03",
+            "recent_activity":" ",
+            "reported_price":"$28.05",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"NOW Inc.",
+            "num_shares":"1,825,569",
+            "portfolio_weight":"0.03",
+            "recent_activity":" ",
+            "reported_price":"$21.43",
+            "ticker":"DNOW"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"327,100",
+            "portfolio_weight":"0.03",
+            "recent_activity":" ",
+            "reported_price":"$118.13",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"578,000",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$43.90",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"315,400",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$89.75",
+            "ticker":"PG"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"59,400",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$109.36",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Lee Enterprises",
+            "num_shares":"88,863",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$3.75",
+            "ticker":"LEE"
+        }
+    ]
+}

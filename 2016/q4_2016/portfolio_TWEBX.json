@@ -1,0 +1,339 @@
+{
+    "company":"Tweedy Browne Value",
+    "investor":"Tweedy Browne Co.",
+    "num_stocks":"41",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"TWEBX",
+    "portfolio_value":"$460,176,000",
+    "stocks":[
+        {
+            "name":"Wells Fargo",
+            "num_shares":"437,085",
+            "portfolio_weight":"5.23",
+            "recent_activity":" ",
+            "reported_price":"$55.11",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Total SA",
+            "num_shares":"411,111",
+            "portfolio_weight":"4.59",
+            "recent_activity":" ",
+            "reported_price":"$51.39",
+            "ticker":"TOT"
+        },
+        {
+            "name":"Heineken Holding NV",
+            "num_shares":"297,000",
+            "portfolio_weight":"4.50",
+            "recent_activity":" ",
+            "reported_price":"$69.76",
+            "ticker":"HKHHF"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"80",
+            "portfolio_weight":"4.24",
+            "recent_activity":" ",
+            "reported_price":"$244125.00",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"393,000",
+            "portfolio_weight":"4.05",
+            "recent_activity":" ",
+            "reported_price":"$47.38",
+            "ticker":"BK"
+        },
+        {
+            "name":"Novartis AG",
+            "num_shares":"254,363",
+            "portfolio_weight":"4.03",
+            "recent_activity":" ",
+            "reported_price":"$72.91",
+            "ticker":"NVS"
+        },
+        {
+            "name":"Roche Holdings AG DIV RT",
+            "num_shares":"79,800",
+            "portfolio_weight":"3.97",
+            "recent_activity":" ",
+            "reported_price":"$228.86",
+            "ticker":"RHHVF"
+        },
+        {
+            "name":"Royal Dutch Shell PLC",
+            "num_shares":"650,619",
+            "portfolio_weight":"3.88",
+            "recent_activity":" ",
+            "reported_price":"$27.41",
+            "ticker":"RDS.A"
+        },
+        {
+            "name":"Nestle",
+            "num_shares":"238,000",
+            "portfolio_weight":"3.71",
+            "recent_activity":" ",
+            "reported_price":"$71.74",
+            "ticker":"NSRGY"
+        },
+        {
+            "name":"3M Co.",
+            "num_shares":"94,535",
+            "portfolio_weight":"3.67",
+            "recent_activity":" ",
+            "reported_price":"$178.57",
+            "ticker":"MMM"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"527,475",
+            "portfolio_weight":"3.46",
+            "recent_activity":" ",
+            "reported_price":"$30.22",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Comcast Corp. CL A Spl ",
+            "num_shares":"230,068",
+            "portfolio_weight":"3.45",
+            "recent_activity":" ",
+            "reported_price":"$69.05",
+            "ticker":"CMCSK"
+        },
+        {
+            "name":"Diageo plc",
+            "num_shares":"143,583",
+            "portfolio_weight":"3.24",
+            "recent_activity":" ",
+            "reported_price":"$103.94",
+            "ticker":"DEO"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"128,400",
+            "portfolio_weight":"3.21",
+            "recent_activity":"Reduce 6.82%",
+            "reported_price":"$115.21",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"286,520",
+            "portfolio_weight":"2.84",
+            "recent_activity":" ",
+            "reported_price":"$45.67",
+            "ticker":"DVN"
+        },
+        {
+            "name":"National Western Life Insurance",
+            "num_shares":"36,818",
+            "portfolio_weight":"2.49",
+            "recent_activity":" ",
+            "reported_price":"$310.80",
+            "ticker":"NWLI"
+        },
+        {
+            "name":"Zurich Insurance Group AG",
+            "num_shares":"38,415",
+            "portfolio_weight":"2.30",
+            "recent_activity":" ",
+            "reported_price":"$275.88",
+            "ticker":"ZFSVF"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"101,925",
+            "portfolio_weight":"2.29",
+            "recent_activity":" ",
+            "reported_price":"$103.25",
+            "ticker":"MA"
+        },
+        {
+            "name":"Hyundai Motor Co. ",
+            "num_shares":"86,700",
+            "portfolio_weight":"2.28",
+            "recent_activity":" ",
+            "reported_price":"$120.88",
+            "ticker":"HYMLF"
+        },
+        {
+            "name":"MRC Global Inc.",
+            "num_shares":"488,706",
+            "portfolio_weight":"2.15",
+            "recent_activity":" ",
+            "reported_price":"$20.26",
+            "ticker":"MRC"
+        },
+        {
+            "name":"HSBC Holdings plc",
+            "num_shares":"1,214,061",
+            "portfolio_weight":"2.14",
+            "recent_activity":" ",
+            "reported_price":"$8.12",
+            "ticker":"HSBC"
+        },
+        {
+            "name":"Henkel KGAA",
+            "num_shares":"84,400",
+            "portfolio_weight":"1.91",
+            "recent_activity":" ",
+            "reported_price":"$104.40",
+            "ticker":"HENKY"
+        },
+        {
+            "name":"Kia Motors Corp.",
+            "num_shares":"260,000",
+            "portfolio_weight":"1.84",
+            "recent_activity":"Add 154.60%",
+            "reported_price":"$32.50",
+            "ticker":"KIMTF"
+        },
+        {
+            "name":"Unilever PLC",
+            "num_shares":"205,000",
+            "portfolio_weight":"1.81",
+            "recent_activity":" ",
+            "reported_price":"$40.70",
+            "ticker":"UL"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"151,709",
+            "portfolio_weight":"1.78",
+            "recent_activity":"Reduce 34.04%",
+            "reported_price":"$54.09",
+            "ticker":"HAL"
+        },
+        {
+            "name":"ConocoPhillips",
+            "num_shares":"161,695",
+            "portfolio_weight":"1.76",
+            "recent_activity":" ",
+            "reported_price":"$50.14",
+            "ticker":"COP"
+        },
+        {
+            "name":"Axel Springer AG",
+            "num_shares":"164,718",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$48.65",
+            "ticker":"AXELF"
+        },
+        {
+            "name":"United Overseas Bank Ltd.",
+            "num_shares":"550,917",
+            "portfolio_weight":"1.69",
+            "recent_activity":" ",
+            "reported_price":"$14.12",
+            "ticker":"UOVEY"
+        },
+        {
+            "name":"Unilever NV",
+            "num_shares":"183,946",
+            "portfolio_weight":"1.64",
+            "recent_activity":" ",
+            "reported_price":"$41.06",
+            "ticker":"UN"
+        },
+        {
+            "name":"Baxter International Inc.",
+            "num_shares":"170,490",
+            "portfolio_weight":"1.64",
+            "recent_activity":" ",
+            "reported_price":"$44.34",
+            "ticker":"BAX"
+        },
+        {
+            "name":"Emerson Electric",
+            "num_shares":"129,850",
+            "portfolio_weight":"1.57",
+            "recent_activity":" ",
+            "reported_price":"$55.75",
+            "ticker":"EMR"
+        },
+        {
+            "name":"Antofagasta plc",
+            "num_shares":"846,500",
+            "portfolio_weight":"1.53",
+            "recent_activity":" ",
+            "reported_price":"$8.34",
+            "ticker":"ANFGF"
+        },
+        {
+            "name":"CNP Assurances",
+            "num_shares":"360,300",
+            "portfolio_weight":"1.45",
+            "recent_activity":" ",
+            "reported_price":"$18.56",
+            "ticker":"CNPAF"
+        },
+        {
+            "name":"Muenchener Rueckversicherungs Gesellschaft AG",
+            "num_shares":"29,300",
+            "portfolio_weight":"1.21",
+            "recent_activity":" ",
+            "reported_price":"$189.49",
+            "ticker":"MURGF"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"30,626",
+            "portfolio_weight":"1.08",
+            "recent_activity":" ",
+            "reported_price":"$162.97",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"6,150",
+            "portfolio_weight":"1.06",
+            "recent_activity":" ",
+            "reported_price":"$792.52",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Shire plc",
+            "num_shares":"79,744",
+            "portfolio_weight":"1.03",
+            "recent_activity":" ",
+            "reported_price":"$59.43",
+            "ticker":"SHPG"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"6,166",
+            "portfolio_weight":"1.03",
+            "recent_activity":" ",
+            "reported_price":"$771.81",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Philip Morris Intl.",
+            "num_shares":"51,335",
+            "portfolio_weight":"1.02",
+            "recent_activity":" ",
+            "reported_price":"$91.50",
+            "ticker":"PM"
+        },
+        {
+            "name":"Standard Chartered PLC",
+            "num_shares":"500,000",
+            "portfolio_weight":"0.89",
+            "recent_activity":" ",
+            "reported_price":"$8.20",
+            "ticker":"SCBFF"
+        },
+        {
+            "name":"Honda Motor Co. Ltd.",
+            "num_shares":"87,000",
+            "portfolio_weight":"0.55",
+            "recent_activity":" ",
+            "reported_price":"$29.28",
+            "ticker":"HMC"
+        }
+    ]
+}

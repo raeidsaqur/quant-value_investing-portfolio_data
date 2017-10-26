@@ -1,0 +1,459 @@
+{
+    "company":"Oaktree Capital Management",
+    "investor":"Howard Marks",
+    "num_stocks":"56",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"oc",
+    "portfolio_value":"$3,343,170,000",
+    "stocks":[
+        {
+            "name":"Vistra Energy Corp.",
+            "num_shares":"50,320,153",
+            "portfolio_weight":"25.27",
+            "recent_activity":"Buy ",
+            "reported_price":"$16.79",
+            "ticker":"VST"
+        },
+        {
+            "name":"Tribune Media Co.",
+            "num_shares":"14,184,998",
+            "portfolio_weight":"17.30",
+            "recent_activity":" ",
+            "reported_price":"$40.77",
+            "ticker":"TRCO"
+        },
+        {
+            "name":"Star Bulk Carriers Corp.",
+            "num_shares":"32,439,506",
+            "portfolio_weight":"9.54",
+            "recent_activity":" ",
+            "reported_price":"$9.83",
+            "ticker":"SBLK"
+        },
+        {
+            "name":"Ally Financial Inc.",
+            "num_shares":"10,381,462",
+            "portfolio_weight":"6.49",
+            "recent_activity":" ",
+            "reported_price":"$20.90",
+            "ticker":"ALLY"
+        },
+        {
+            "name":"Taiwan Semiconductor S.A.",
+            "num_shares":"3,835,125",
+            "portfolio_weight":"4.01",
+            "recent_activity":"Add 0.80%",
+            "reported_price":"$34.93",
+            "ticker":"TSM"
+        },
+        {
+            "name":"First BanCorp.",
+            "num_shares":"20,001,066",
+            "portfolio_weight":"3.46",
+            "recent_activity":" ",
+            "reported_price":"$5.79",
+            "ticker":"FBP"
+        },
+        {
+            "name":"Alibaba Group Holdings",
+            "num_shares":"647,279",
+            "portfolio_weight":"2.73",
+            "recent_activity":"Add 0.64%",
+            "reported_price":"$140.82",
+            "ticker":"BABA"
+        },
+        {
+            "name":"Gener8 Maritime Inc.",
+            "num_shares":"13,052,534",
+            "portfolio_weight":"2.22",
+            "recent_activity":" ",
+            "reported_price":"$5.69",
+            "ticker":"GNRT"
+        },
+        {
+            "name":"Energy XXI Gulf Coast Inc.",
+            "num_shares":"3,910,545",
+            "portfolio_weight":"2.17",
+            "recent_activity":" ",
+            "reported_price":"$18.57",
+            "ticker":"EXXI"
+        },
+        {
+            "name":"Dynegy Inc.",
+            "num_shares":"8,424,322",
+            "portfolio_weight":"2.08",
+            "recent_activity":" ",
+            "reported_price":"$8.27",
+            "ticker":"DYN"
+        },
+        {
+            "name":"Cemex",
+            "num_shares":"7,320,811",
+            "portfolio_weight":"2.06",
+            "recent_activity":"Add 6.12%",
+            "reported_price":"$9.42",
+            "ticker":"CX"
+        },
+        {
+            "name":"NMI Holdings",
+            "num_shares":"5,816,443",
+            "portfolio_weight":"1.99",
+            "recent_activity":" ",
+            "reported_price":"$11.45",
+            "ticker":"NMIH"
+        },
+        {
+            "name":"ICICI Bank Ltd.",
+            "num_shares":"7,275,866",
+            "portfolio_weight":"1.95",
+            "recent_activity":"Add 9.97%",
+            "reported_price":"$8.96",
+            "ticker":"IBN"
+        },
+        {
+            "name":"Altaba Inc.",
+            "num_shares":"1,061,588",
+            "portfolio_weight":"1.73",
+            "recent_activity":"Buy ",
+            "reported_price":"$54.48",
+            "ticker":"AABA"
+        },
+        {
+            "name":"SunOpta Inc.",
+            "num_shares":"4,392,699",
+            "portfolio_weight":"1.34",
+            "recent_activity":"Add 46.42%",
+            "reported_price":"$10.20",
+            "ticker":"STKL"
+        },
+        {
+            "name":"Century Communities Inc.",
+            "num_shares":"1,469,003",
+            "portfolio_weight":"1.09",
+            "recent_activity":" ",
+            "reported_price":"$24.80",
+            "ticker":"CCS"
+        },
+        {
+            "name":"Nationstar Mortgage Holdings",
+            "num_shares":"1,809,291",
+            "portfolio_weight":"0.97",
+            "recent_activity":"Add 12.39%",
+            "reported_price":"$17.89",
+            "ticker":"NSM"
+        },
+        {
+            "name":"AngloGold Ashanti Ltd.",
+            "num_shares":"3,077,225",
+            "portfolio_weight":"0.89",
+            "recent_activity":"Add 12.06%",
+            "reported_price":"$9.71",
+            "ticker":"AU"
+        },
+        {
+            "name":"BRF S.A.",
+            "num_shares":"2,488,561",
+            "portfolio_weight":"0.88",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.78",
+            "ticker":"BRFS"
+        },
+        {
+            "name":"Ambev S.A.",
+            "num_shares":"5,195,776",
+            "portfolio_weight":"0.85",
+            "recent_activity":"Add 0.75%",
+            "reported_price":"$5.49",
+            "ticker":"ABEV"
+        },
+        {
+            "name":"America Movil SAB de CV",
+            "num_shares":"1,612,339",
+            "portfolio_weight":"0.77",
+            "recent_activity":"Reduce 35.56%",
+            "reported_price":"$15.91",
+            "ticker":"AMX"
+        },
+        {
+            "name":"CNOOC Ltd.",
+            "num_shares":"212,425",
+            "portfolio_weight":"0.69",
+            "recent_activity":"Add 0.69%",
+            "reported_price":"$109.34",
+            "ticker":"CEO"
+        },
+        {
+            "name":"Liberty Braves Group C",
+            "num_shares":"968,078",
+            "portfolio_weight":"0.69",
+            "recent_activity":" ",
+            "reported_price":"$23.97",
+            "ticker":"BATRK"
+        },
+        {
+            "name":"Gerdau S.A.",
+            "num_shares":"7,271,848",
+            "portfolio_weight":"0.66",
+            "recent_activity":"Add 16.18%",
+            "reported_price":"$3.05",
+            "ticker":"GGB"
+        },
+        {
+            "name":"Azul S.A. ",
+            "num_shares":"985,641",
+            "portfolio_weight":"0.62",
+            "recent_activity":"Buy ",
+            "reported_price":"$21.07",
+            "ticker":"AZUL"
+        },
+        {
+            "name":"Vishay Intertechnology",
+            "num_shares":"1,145,367",
+            "portfolio_weight":"0.57",
+            "recent_activity":" ",
+            "reported_price":"$16.60",
+            "ticker":"VSH"
+        },
+        {
+            "name":"CIT Group",
+            "num_shares":"340,600",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$48.70",
+            "ticker":"CIT"
+        },
+        {
+            "name":"Bonanza Creek Energy",
+            "num_shares":"525,900",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.71",
+            "ticker":"BCEI"
+        },
+        {
+            "name":"Townsquare Media Inc.",
+            "num_shares":"1,595,224",
+            "portfolio_weight":"0.49",
+            "recent_activity":" ",
+            "reported_price":"$10.24",
+            "ticker":"TSQ"
+        },
+        {
+            "name":"Liberty Ventures",
+            "num_shares":"300,000",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Reduce 49.52%",
+            "reported_price":"$52.29",
+            "ticker":"LVNTA"
+        },
+        {
+            "name":"MagnaChip Semiconductor Corp.",
+            "num_shares":"1,615,000",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Add 28.66%",
+            "reported_price":"$9.80",
+            "ticker":"MX"
+        },
+        {
+            "name":"Matlin & Partners Acquisition Corp.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"0.45",
+            "recent_activity":" ",
+            "reported_price":"$10.03",
+            "ticker":"MPACU"
+        },
+        {
+            "name":"MGIC Investment",
+            "num_shares":"1,265,000",
+            "portfolio_weight":"0.42",
+            "recent_activity":"Reduce 72.30%",
+            "reported_price":"$11.20",
+            "ticker":"MTG"
+        },
+        {
+            "name":"Verso Corp.",
+            "num_shares":"2,921,971",
+            "portfolio_weight":"0.41",
+            "recent_activity":"Reduce 3.11%",
+            "reported_price":"$4.69",
+            "ticker":"VRS"
+        },
+        {
+            "name":"StoneMor Partners LP",
+            "num_shares":"1,250,000",
+            "portfolio_weight":"0.35",
+            "recent_activity":" ",
+            "reported_price":"$9.45",
+            "ticker":"STON"
+        },
+        {
+            "name":"Vale SA",
+            "num_shares":"1,337,000",
+            "portfolio_weight":"0.35",
+            "recent_activity":"Add 7.22%",
+            "reported_price":"$8.75",
+            "ticker":"VALE"
+        },
+        {
+            "name":"Bellatrix Exploration Ltd.",
+            "num_shares":"3,750,000",
+            "portfolio_weight":"0.32",
+            "recent_activity":" ",
+            "reported_price":"$2.85",
+            "ticker":"BXE"
+        },
+        {
+            "name":"Ultra Petroleum Corp.",
+            "num_shares":"823,044",
+            "portfolio_weight":"0.27",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.85",
+            "ticker":"UPL"
+        },
+        {
+            "name":"Contango Oil & Gas Co.",
+            "num_shares":"1,296,813",
+            "portfolio_weight":"0.26",
+            "recent_activity":" ",
+            "reported_price":"$6.64",
+            "ticker":"MCF"
+        },
+        {
+            "name":"SMART Global Holdings",
+            "num_shares":"468,185",
+            "portfolio_weight":"0.23",
+            "recent_activity":"Buy ",
+            "reported_price":"$16.19",
+            "ticker":"SGH"
+        },
+        {
+            "name":"VEON Ltd.",
+            "num_shares":"1,678,900",
+            "portfolio_weight":"0.20",
+            "recent_activity":" ",
+            "reported_price":"$3.91",
+            "ticker":"VEON"
+        },
+        {
+            "name":"Energy Transfer Partners LP",
+            "num_shares":"267,000",
+            "portfolio_weight":"0.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$20.39",
+            "ticker":"ETP"
+        },
+        {
+            "name":"EXCO Resources Inc.",
+            "num_shares":"2,051,578",
+            "portfolio_weight":"0.16",
+            "recent_activity":" ",
+            "reported_price":"$2.65",
+            "ticker":"XCO"
+        },
+        {
+            "name":"Warrior Met Coal LLC",
+            "num_shares":"243,100",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$17.13",
+            "ticker":"HCC"
+        },
+        {
+            "name":"Eagle Bulk Shipping",
+            "num_shares":"785,363",
+            "portfolio_weight":"0.11",
+            "recent_activity":" ",
+            "reported_price":"$4.73",
+            "ticker":"EGLE"
+        },
+        {
+            "name":"Nacco Industries",
+            "num_shares":"46,370",
+            "portfolio_weight":"0.10",
+            "recent_activity":"Reduce 52.68%",
+            "reported_price":"$70.84",
+            "ticker":"NC"
+        },
+        {
+            "name":"Par Pacific Holdings",
+            "num_shares":"190,862",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$18.04",
+            "ticker":"PARR"
+        },
+        {
+            "name":"Extraction Oil & Gas LLC",
+            "num_shares":"202,787",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$13.45",
+            "ticker":"XOG"
+        },
+        {
+            "name":"Midstates Petroleum Co.",
+            "num_shares":"204,107",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Add 274.18%",
+            "reported_price":"$12.67",
+            "ticker":"MPO"
+        },
+        {
+            "name":"Capital Product Partners LP",
+            "num_shares":"819,228",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$3.40",
+            "ticker":"CPLP"
+        },
+        {
+            "name":"SandRidge Energy Inc.",
+            "num_shares":"135,000",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$17.21",
+            "ticker":"SD"
+        },
+        {
+            "name":"Mobile Telesystems",
+            "num_shares":"298,500",
+            "portfolio_weight":"0.07",
+            "recent_activity":" ",
+            "reported_price":"$8.38",
+            "ticker":"MBT"
+        },
+        {
+            "name":"Petroleo Brasileiro",
+            "num_shares":"246,161",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.99",
+            "ticker":"PBR"
+        },
+        {
+            "name":"Yandex N.V.",
+            "num_shares":"65,500",
+            "portfolio_weight":"0.05",
+            "recent_activity":" ",
+            "reported_price":"$26.24",
+            "ticker":"YNDX"
+        },
+        {
+            "name":"Infosys Ltd.",
+            "num_shares":"30,624",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 1.79%",
+            "reported_price":"$14.37",
+            "ticker":"INFY"
+        },
+        {
+            "name":"Sanchez Energy Corp.",
+            "num_shares":"36,079",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Reduce 7.91%",
+            "reported_price":"$7.15",
+            "ticker":"SN"
+        }
+    ]
+}

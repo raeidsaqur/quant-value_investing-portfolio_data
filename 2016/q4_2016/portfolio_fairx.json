@@ -1,0 +1,75 @@
+{
+    "company":"Fairholme Capital",
+    "investor":"Bruce Berkowitz",
+    "num_stocks":"8",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"fairx",
+    "portfolio_value":"$982,572,000",
+    "stocks":[
+        {
+            "name":"St. Joe Co.",
+            "num_shares":"24,429,257",
+            "portfolio_weight":"47.24",
+            "recent_activity":"Reduce 0.07%",
+            "reported_price":"$19.00",
+            "ticker":"JOE"
+        },
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"27,716,348",
+            "portfolio_weight":"26.21",
+            "recent_activity":"Reduce 0.44%",
+            "reported_price":"$9.29",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"3,433,750",
+            "portfolio_weight":"14.93",
+            "recent_activity":" ",
+            "reported_price":"$42.71",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Lands End Inc.",
+            "num_shares":"3,344,727",
+            "portfolio_weight":"5.16",
+            "recent_activity":"Reduce 0.24%",
+            "reported_price":"$15.15",
+            "ticker":"LE"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"20,333,775",
+            "portfolio_weight":"3.52",
+            "recent_activity":"Add 0.55%",
+            "reported_price":"$1.70",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"Sears Hldgs WTS",
+            "num_shares":"6,718,568",
+            "portfolio_weight":"2.43",
+            "recent_activity":"Reduce 0.17%",
+            "reported_price":"$3.55",
+            "ticker":"SHLD.WS"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"776,850",
+            "portfolio_weight":"0.37",
+            "recent_activity":" ",
+            "reported_price":"$4.70",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"66,000",
+            "portfolio_weight":"0.16",
+            "recent_activity":" ",
+            "reported_price":"$23.24",
+            "ticker":"LUK"
+        }
+    ]
+}

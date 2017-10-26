@@ -1,0 +1,75 @@
+{
+    "company":"Trian Fund Management",
+    "investor":"Nelson Peltz",
+    "num_stocks":"8",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"TF",
+    "portfolio_value":"$11,094,100,000",
+    "stocks":[
+        {
+            "name":"Sysco Corp.",
+            "num_shares":"43,973,115",
+            "portfolio_weight":"21.95",
+            "recent_activity":"Add 0.02%",
+            "reported_price":"$55.37",
+            "ticker":"SYY"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"67,419,115",
+            "portfolio_weight":"19.20",
+            "recent_activity":"Reduce 7.17%",
+            "reported_price":"$31.60",
+            "ticker":"GE"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"44,231,954",
+            "portfolio_weight":"17.67",
+            "recent_activity":"Reduce 7.91%",
+            "reported_price":"$44.33",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"32,372,656",
+            "portfolio_weight":"13.83",
+            "recent_activity":"Add 0.00%",
+            "reported_price":"$47.38",
+            "ticker":"BK"
+        },
+        {
+            "name":"Du Pont (E.I.)",
+            "num_shares":"14,833,257",
+            "portfolio_weight":"9.81",
+            "recent_activity":"Reduce 15.00%",
+            "reported_price":"$73.40",
+            "ticker":"DD"
+        },
+        {
+            "name":"Pentair plc",
+            "num_shares":"14,337,040",
+            "portfolio_weight":"7.25",
+            "recent_activity":" ",
+            "reported_price":"$56.07",
+            "ticker":"PNR"
+        },
+        {
+            "name":"Wendy's Co.",
+            "num_shares":"44,535,921",
+            "portfolio_weight":"5.43",
+            "recent_activity":"Add 9.18%",
+            "reported_price":"$13.52",
+            "ticker":"WEN"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"6,416,284",
+            "portfolio_weight":"4.86",
+            "recent_activity":"Buy ",
+            "reported_price":"$84.08",
+            "ticker":"PG"
+        }
+    ]
+}

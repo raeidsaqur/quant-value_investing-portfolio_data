@@ -1,0 +1,43 @@
+{
+    "company":"Daily Journal Corp.",
+    "investor":"Charlie Munger",
+    "num_stocks":"4",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"DJCO",
+    "portfolio_value":"$112,983,000",
+    "stocks":[
+        {
+            "name":"Wells Fargo",
+            "num_shares":"1,591,800",
+            "portfolio_weight":"62.39",
+            "recent_activity":" ",
+            "reported_price":"$44.28",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"2,300,000",
+            "portfolio_weight":"31.86",
+            "recent_activity":" ",
+            "reported_price":"$15.65",
+            "ticker":"BAC"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"140,000",
+            "portfolio_weight":"5.31",
+            "recent_activity":" ",
+            "reported_price":"$42.89",
+            "ticker":"USB"
+        },
+        {
+            "name":"POSCO",
+            "num_shares":"9,745",
+            "portfolio_weight":"0.44",
+            "recent_activity":" ",
+            "reported_price":"$51.10",
+            "ticker":"PKX"
+        }
+    ]
+}

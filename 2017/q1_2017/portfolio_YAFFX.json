@@ -1,0 +1,163 @@
+{
+    "company":"Yacktman Focused Fund",
+    "investor":"Donald Yacktman",
+    "num_stocks":"19",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"YAFFX",
+    "portfolio_value":"$2,734,335,000",
+    "stocks":[
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"4,800,000",
+            "portfolio_weight":"15.30",
+            "recent_activity":" ",
+            "reported_price":"$87.15",
+            "ticker":"PG"
+        },
+        {
+            "name":"Twenty-First Century Fox CL B",
+            "num_shares":"13,300,000",
+            "portfolio_weight":"13.56",
+            "recent_activity":" ",
+            "reported_price":"$27.87",
+            "ticker":"FOX"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"2,700,000",
+            "portfolio_weight":"11.40",
+            "recent_activity":" ",
+            "reported_price":"$115.49",
+            "ticker":"PEP"
+        },
+        {
+            "name":"Twenty-First Century Fox",
+            "num_shares":"8,200,000",
+            "portfolio_weight":"8.50",
+            "recent_activity":" ",
+            "reported_price":"$28.34",
+            "ticker":"FOXA"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"4,276,000",
+            "portfolio_weight":"7.84",
+            "recent_activity":"Reduce 11.84%",
+            "reported_price":"$50.14",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Johnson & Johnson",
+            "num_shares":"1,600,000",
+            "portfolio_weight":"7.74",
+            "recent_activity":"Reduce 5.88%",
+            "reported_price":"$132.29",
+            "ticker":"JNJ"
+        },
+        {
+            "name":"Coca Cola Co.",
+            "num_shares":"4,700,000",
+            "portfolio_weight":"7.71",
+            "recent_activity":"Reduce 2.08%",
+            "reported_price":"$44.85",
+            "ticker":"KO"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"6,400,000",
+            "portfolio_weight":"7.33",
+            "recent_activity":"Reduce 1.54%",
+            "reported_price":"$31.30",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"2,100,000",
+            "portfolio_weight":"5.29",
+            "recent_activity":"Reduce 6.67%",
+            "reported_price":"$68.93",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Sysco Corp.",
+            "num_shares":"2,550,000",
+            "portfolio_weight":"4.69",
+            "recent_activity":" ",
+            "reported_price":"$50.33",
+            "ticker":"SYY"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"900,000",
+            "portfolio_weight":"1.71",
+            "recent_activity":" ",
+            "reported_price":"$51.92",
+            "ticker":"USB"
+        },
+        {
+            "name":"Hengan International Group Co Ltd.",
+            "num_shares":"5,872,300",
+            "portfolio_weight":"1.58",
+            "recent_activity":" ",
+            "reported_price":"$7.38",
+            "ticker":"HEGIF"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"500,000",
+            "portfolio_weight":"1.48",
+            "recent_activity":" ",
+            "reported_price":"$80.73",
+            "ticker":"XOM"
+        },
+        {
+            "name":"ConocoPhillips",
+            "num_shares":"900,000",
+            "portfolio_weight":"1.45",
+            "recent_activity":" ",
+            "reported_price":"$43.96",
+            "ticker":"COP"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"700,000",
+            "portfolio_weight":"1.31",
+            "recent_activity":" ",
+            "reported_price":"$51.02",
+            "ticker":"BK"
+        },
+        {
+            "name":"Aggreko Plc",
+            "num_shares":"2,800,000",
+            "portfolio_weight":"1.23",
+            "recent_activity":" ",
+            "reported_price":"$11.98",
+            "ticker":"ARGKF"
+        },
+        {
+            "name":"Cognizant Technology Solutions",
+            "num_shares":"330,000",
+            "portfolio_weight":"0.80",
+            "recent_activity":"Buy ",
+            "reported_price":"$66.40",
+            "ticker":"CTSH"
+        },
+        {
+            "name":"Avon Products",
+            "num_shares":"5,400,000",
+            "portfolio_weight":"0.75",
+            "recent_activity":" ",
+            "reported_price":"$3.80",
+            "ticker":"AVP"
+        },
+        {
+            "name":"Infosys Ltd.",
+            "num_shares":"612,120",
+            "portfolio_weight":"0.34",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.02",
+            "ticker":"INFY"
+        }
+    ]
+}

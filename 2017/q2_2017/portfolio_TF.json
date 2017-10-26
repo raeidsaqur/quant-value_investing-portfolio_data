@@ -1,0 +1,75 @@
+{
+    "company":"Trian Fund Management",
+    "investor":"Nelson Peltz",
+    "num_stocks":"8",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"TF",
+    "portfolio_value":"$13,267,227,000",
+    "stocks":[
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"37,612,012",
+            "portfolio_weight":"24.71",
+            "recent_activity":"Add 2.43%",
+            "reported_price":"$87.15",
+            "ticker":"PG"
+        },
+        {
+            "name":"Sysco Corp.",
+            "num_shares":"43,974,585",
+            "portfolio_weight":"16.68",
+            "recent_activity":"Add 0.00%",
+            "reported_price":"$50.33",
+            "ticker":"SYY"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"70,851,055",
+            "portfolio_weight":"14.42",
+            "recent_activity":"Add 2.72%",
+            "reported_price":"$27.01",
+            "ticker":"GE"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"42,504,623",
+            "portfolio_weight":"13.84",
+            "recent_activity":"Reduce 3.91%",
+            "reported_price":"$43.19",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"32,375,489",
+            "portfolio_weight":"12.45",
+            "recent_activity":"Add 0.01%",
+            "reported_price":"$51.02",
+            "ticker":"BK"
+        },
+        {
+            "name":"Pentair plc",
+            "num_shares":"15,200,931",
+            "portfolio_weight":"7.62",
+            "recent_activity":"Add 6.02%",
+            "reported_price":"$66.54",
+            "ticker":"PNR"
+        },
+        {
+            "name":"Du Pont (E.I.)",
+            "num_shares":"9,390,689",
+            "portfolio_weight":"5.71",
+            "recent_activity":" ",
+            "reported_price":"$80.71",
+            "ticker":"DD"
+        },
+        {
+            "name":"Wendy's Co.",
+            "num_shares":"39,035,921",
+            "portfolio_weight":"4.56",
+            "recent_activity":"Reduce 12.35%",
+            "reported_price":"$15.51",
+            "ticker":"WEN"
+        }
+    ]
+}

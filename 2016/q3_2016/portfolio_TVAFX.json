@@ -1,0 +1,403 @@
+{
+    "company":"Thornburg Value",
+    "investor":"Thornburg Investment Management",
+    "num_stocks":"49",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"TVAFX",
+    "portfolio_value":"$802,846,000",
+    "stocks":[
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"261,740",
+            "portfolio_weight":"4.82",
+            "recent_activity":" ",
+            "reported_price":"$147.76",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"497,651",
+            "portfolio_weight":"4.53",
+            "recent_activity":" ",
+            "reported_price":"$73.02",
+            "ticker":"WMT"
+        },
+        {
+            "name":"ITC Holdings Corp.",
+            "num_shares":"730,883",
+            "portfolio_weight":"4.26",
+            "recent_activity":"Reduce 17.30%",
+            "reported_price":"$46.82",
+            "ticker":"ITC"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"539,040",
+            "portfolio_weight":"4.17",
+            "recent_activity":" ",
+            "reported_price":"$62.14",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Medtronic plc",
+            "num_shares":"334,565",
+            "portfolio_weight":"3.62",
+            "recent_activity":" ",
+            "reported_price":"$86.77",
+            "ticker":"MDT"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"243,800",
+            "portfolio_weight":"3.47",
+            "recent_activity":" ",
+            "reported_price":"$114.28",
+            "ticker":"FB"
+        },
+        {
+            "name":"International Flav/Frag",
+            "num_shares":"214,596",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Add 19.55%",
+            "reported_price":"$126.07",
+            "ticker":"IFF"
+        },
+        {
+            "name":"Enterprise Products Partners LP",
+            "num_shares":"898,614",
+            "portfolio_weight":"3.27",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.26",
+            "ticker":"EPD"
+        },
+        {
+            "name":"Activision Blizzard Inc.",
+            "num_shares":"633,355",
+            "portfolio_weight":"3.13",
+            "recent_activity":" ",
+            "reported_price":"$39.63",
+            "ticker":"ATVI"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"33,858",
+            "portfolio_weight":"2.92",
+            "recent_activity":"Add 10.36%",
+            "reported_price":"$692.10",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"493,807",
+            "portfolio_weight":"2.80",
+            "recent_activity":" ",
+            "reported_price":"$45.51",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"HP Inc.",
+            "num_shares":"1,691,303",
+            "portfolio_weight":"2.64",
+            "recent_activity":" ",
+            "reported_price":"$12.55",
+            "ticker":"HPQ"
+        },
+        {
+            "name":"Aramark",
+            "num_shares":"591,376",
+            "portfolio_weight":"2.46",
+            "recent_activity":"Add 12.60%",
+            "reported_price":"$33.42",
+            "ticker":"ARMK"
+        },
+        {
+            "name":"Oaktree Capital Group LLC Cl A",
+            "num_shares":"441,634",
+            "portfolio_weight":"2.46",
+            "recent_activity":" ",
+            "reported_price":"$44.76",
+            "ticker":"OAK"
+        },
+        {
+            "name":"PennyMac Mortgage Investment Trust",
+            "num_shares":"1,207,530",
+            "portfolio_weight":"2.44",
+            "recent_activity":" ",
+            "reported_price":"$16.23",
+            "ticker":"PMT"
+        },
+        {
+            "name":"Grand Canyon Education",
+            "num_shares":"485,413",
+            "portfolio_weight":"2.41",
+            "recent_activity":"Reduce 10.13%",
+            "reported_price":"$39.92",
+            "ticker":"LOPE"
+        },
+        {
+            "name":"Citizens Financial Group Inc.",
+            "num_shares":"952,585",
+            "portfolio_weight":"2.37",
+            "recent_activity":"Reduce 6.27%",
+            "reported_price":"$19.98",
+            "ticker":"CFG"
+        },
+        {
+            "name":"TRI Pointe Group",
+            "num_shares":"1,565,471",
+            "portfolio_weight":"2.30",
+            "recent_activity":" ",
+            "reported_price":"$11.82",
+            "ticker":"TPH"
+        },
+        {
+            "name":"GlaxoSmithKline PLC",
+            "num_shares":"858,903",
+            "portfolio_weight":"2.29",
+            "recent_activity":"Reduce 8.88%",
+            "reported_price":"$21.36",
+            "ticker":"GSK"
+        },
+        {
+            "name":"Chevron Corp.",
+            "num_shares":"162,875",
+            "portfolio_weight":"2.13",
+            "recent_activity":"Reduce 19.72%",
+            "reported_price":"$104.83",
+            "ticker":"CVX"
+        },
+        {
+            "name":"Kweichow Moutai Co",
+            "num_shares":"380,902",
+            "portfolio_weight":"2.09",
+            "recent_activity":" ",
+            "reported_price":"$43.95",
+            "ticker":"600519"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"384,400",
+            "portfolio_weight":"2.03",
+            "recent_activity":" ",
+            "reported_price":"$42.39",
+            "ticker":"C"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"166,700",
+            "portfolio_weight":"1.99",
+            "recent_activity":" ",
+            "reported_price":"$95.60",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Apollo Global Management",
+            "num_shares":"1,036,419",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$15.15",
+            "ticker":"APO"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"187,660",
+            "portfolio_weight":"1.95",
+            "recent_activity":"Reduce 9.43%",
+            "reported_price":"$83.42",
+            "ticker":"GILD"
+        },
+        {
+            "name":"Envision Healthcare Holdings",
+            "num_shares":"592,105",
+            "portfolio_weight":"1.87",
+            "recent_activity":" ",
+            "reported_price":"$25.37",
+            "ticker":"EVHC"
+        },
+        {
+            "name":"Vivendi Universal S.A.",
+            "num_shares":"799,969",
+            "portfolio_weight":"1.87",
+            "recent_activity":" ",
+            "reported_price":"$18.75",
+            "ticker":"VIVEF"
+        },
+        {
+            "name":"Rentokil Initial plc",
+            "num_shares":"5,730,668",
+            "portfolio_weight":"1.84",
+            "recent_activity":" ",
+            "reported_price":"$2.57",
+            "ticker":"RTKOY"
+        },
+        {
+            "name":"Mead Johnson Nutrition Co.",
+            "num_shares":"161,839",
+            "portfolio_weight":"1.83",
+            "recent_activity":"Reduce 7.21%",
+            "reported_price":"$90.75",
+            "ticker":"MJN"
+        },
+        {
+            "name":"Assured Guaranty Ltd.",
+            "num_shares":"568,300",
+            "portfolio_weight":"1.80",
+            "recent_activity":" ",
+            "reported_price":"$25.37",
+            "ticker":"AGO"
+        },
+        {
+            "name":"Phibro Animal Health Corp.",
+            "num_shares":"719,411",
+            "portfolio_weight":"1.67",
+            "recent_activity":"Add 7.58%",
+            "reported_price":"$18.66",
+            "ticker":"PAHC"
+        },
+        {
+            "name":"China Mobile Ltd.",
+            "num_shares":"1,004,500",
+            "portfolio_weight":"1.43",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.44",
+            "ticker":"CHL"
+        },
+        {
+            "name":"CDW Corp.",
+            "num_shares":"273,801",
+            "portfolio_weight":"1.37",
+            "recent_activity":" ",
+            "reported_price":"$40.08",
+            "ticker":"CDWC"
+        },
+        {
+            "name":"Nokia Corp.",
+            "num_shares":"1,819,095",
+            "portfolio_weight":"1.28",
+            "recent_activity":" ",
+            "reported_price":"$5.67",
+            "ticker":"NOK"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"336,565",
+            "portfolio_weight":"1.18",
+            "recent_activity":"Reduce 19.12%",
+            "reported_price":"$28.23",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"T-Mobile US Inc.",
+            "num_shares":"218,519",
+            "portfolio_weight":"1.18",
+            "recent_activity":"Reduce 38.44%",
+            "reported_price":"$43.27",
+            "ticker":"TMUS"
+        },
+        {
+            "name":"United Parcel Service",
+            "num_shares":"87,480",
+            "portfolio_weight":"1.17",
+            "recent_activity":"Buy ",
+            "reported_price":"$107.72",
+            "ticker":"UPS"
+        },
+        {
+            "name":"Zayo Group Holdings Inc.",
+            "num_shares":"334,579",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Reduce 49.16%",
+            "reported_price":"$27.93",
+            "ticker":"ZAYO"
+        },
+        {
+            "name":"Covanta Holding Corp.",
+            "num_shares":"565,245",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Reduce 49.92%",
+            "reported_price":"$16.45",
+            "ticker":"CVA"
+        },
+        {
+            "name":"Seattle Genetics Inc.",
+            "num_shares":"222,746",
+            "portfolio_weight":"1.12",
+            "recent_activity":"Reduce 48.10%",
+            "reported_price":"$40.41",
+            "ticker":"SGEN"
+        },
+        {
+            "name":"AutoZone Inc.",
+            "num_shares":"11,178",
+            "portfolio_weight":"1.11",
+            "recent_activity":" ",
+            "reported_price":"$793.88",
+            "ticker":"AZO"
+        },
+        {
+            "name":"Staples Inc.",
+            "num_shares":"792,100",
+            "portfolio_weight":"0.85",
+            "recent_activity":" ",
+            "reported_price":"$8.62",
+            "ticker":"SPLS"
+        },
+        {
+            "name":"Expedia Inc.",
+            "num_shares":"62,543",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$106.29",
+            "ticker":"EXPE"
+        },
+        {
+            "name":"SolarEdge Technologies Inc.",
+            "num_shares":"322,388",
+            "portfolio_weight":"0.79",
+            "recent_activity":"Buy ",
+            "reported_price":"$19.60",
+            "ticker":"SEDG"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"78,829",
+            "portfolio_weight":"0.74",
+            "recent_activity":"Reduce 36.14%",
+            "reported_price":"$75.80",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"Office Depot",
+            "num_shares":"1,357,000",
+            "portfolio_weight":"0.56",
+            "recent_activity":" ",
+            "reported_price":"$3.31",
+            "ticker":"ODP"
+        },
+        {
+            "name":"Tesla Motors",
+            "num_shares":"19,788",
+            "portfolio_weight":"0.52",
+            "recent_activity":"Buy ",
+            "reported_price":"$212.30",
+            "ticker":"TSLA"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"153,398",
+            "portfolio_weight":"0.51",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.48",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Marin Software Inc.",
+            "num_shares":"1,006,735",
+            "portfolio_weight":"0.29",
+            "recent_activity":" ",
+            "reported_price":"$2.35",
+            "ticker":"MRIN"
+        }
+    ]
+}

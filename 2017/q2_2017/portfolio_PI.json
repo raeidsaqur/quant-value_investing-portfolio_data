@@ -1,0 +1,59 @@
+{
+    "company":"Pabrai Investments",
+    "investor":"Mohnish Pabrai",
+    "num_stocks":"6",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"PI",
+    "portfolio_value":"$404,505,000",
+    "stocks":[
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"13,109,310",
+            "portfolio_weight":"34.45",
+            "recent_activity":"Add 1.45%",
+            "reported_price":"$10.63",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"6,079,051",
+            "portfolio_weight":"26.13",
+            "recent_activity":"Add 0.42%",
+            "reported_price":"$17.39",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"66,228",
+            "portfolio_weight":"14.88",
+            "recent_activity":" ",
+            "reported_price":"$908.72",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"999,935",
+            "portfolio_weight":"11.48",
+            "recent_activity":"Add 22.06%",
+            "reported_price":"$46.43",
+            "ticker":"AER"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"398,138",
+            "portfolio_weight":"8.44",
+            "recent_activity":" ",
+            "reported_price":"$85.71",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"300,975",
+            "portfolio_weight":"4.62",
+            "recent_activity":" ",
+            "reported_price":"$62.14",
+            "ticker":"LUV"
+        }
+    ]
+}

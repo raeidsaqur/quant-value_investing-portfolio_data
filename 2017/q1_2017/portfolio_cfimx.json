@@ -1,0 +1,203 @@
+{
+    "company":"Clipper",
+    "investor":"Christopher Davis",
+    "num_stocks":"24",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"cfimx",
+    "portfolio_value":"$1,056,288,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"362",
+            "portfolio_weight":"8.56",
+            "recent_activity":"Reduce 12.35%",
+            "reported_price":"$249850.83",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"89,396",
+            "portfolio_weight":"7.50",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$886.54",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"1,192,422",
+            "portfolio_weight":"6.28",
+            "recent_activity":" ",
+            "reported_price":"$55.66",
+            "ticker":"WFC"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"590,265",
+            "portfolio_weight":"6.27",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$112.21",
+            "ticker":"UTX"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"1,348,743",
+            "portfolio_weight":"6.03",
+            "recent_activity":" ",
+            "reported_price":"$47.23",
+            "ticker":"BK"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"793,176",
+            "portfolio_weight":"5.94",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$79.11",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Markel Corp.",
+            "num_shares":"58,067",
+            "portfolio_weight":"5.36",
+            "recent_activity":" ",
+            "reported_price":"$975.86",
+            "ticker":"MKL"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"1,077,109",
+            "portfolio_weight":"5.24",
+            "recent_activity":"Add 4.20%",
+            "reported_price":"$51.39",
+            "ticker":"APA"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"623,902",
+            "portfolio_weight":"5.19",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$87.84",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Johnson Controls Intl. plc",
+            "num_shares":"1,252,396",
+            "portfolio_weight":"4.99",
+            "recent_activity":" ",
+            "reported_price":"$42.12",
+            "ticker":"JCI"
+        },
+        {
+            "name":"LafargeHolcim Ltd.",
+            "num_shares":"812,924",
+            "portfolio_weight":"4.56",
+            "recent_activity":"Add 15.21%",
+            "reported_price":"$59.21",
+            "ticker":"HCMLF"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"847,299",
+            "portfolio_weight":"4.13",
+            "recent_activity":" ",
+            "reported_price":"$51.50",
+            "ticker":"USB"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"350,066",
+            "portfolio_weight":"3.75",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$113.20",
+            "ticker":"MON"
+        },
+        {
+            "name":"Safran SA",
+            "num_shares":"527,268",
+            "portfolio_weight":"3.73",
+            "recent_activity":" ",
+            "reported_price":"$74.71",
+            "ticker":"SAFRY"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"239,054",
+            "portfolio_weight":"3.71",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$164.01",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"42,960",
+            "portfolio_weight":"3.45",
+            "recent_activity":"Reduce 12.31%",
+            "reported_price":"$847.79",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"42,982",
+            "portfolio_weight":"3.38",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$829.56",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"EnCana Corp.",
+            "num_shares":"2,945,633",
+            "portfolio_weight":"3.27",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$11.71",
+            "ticker":"ECA"
+        },
+        {
+            "name":"Occidental Petroleum",
+            "num_shares":"428,843",
+            "portfolio_weight":"2.57",
+            "recent_activity":"Reduce 24.15%",
+            "reported_price":"$63.36",
+            "ticker":"OXY"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"650,773",
+            "portfolio_weight":"2.16",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$35.04",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"CarMax Inc.",
+            "num_shares":"297,342",
+            "portfolio_weight":"1.67",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$59.22",
+            "ticker":"KMX"
+        },
+        {
+            "name":"Adient plc",
+            "num_shares":"228,819",
+            "portfolio_weight":"1.57",
+            "recent_activity":" ",
+            "reported_price":"$72.67",
+            "ticker":"ADNT"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"414,336",
+            "portfolio_weight":"0.43",
+            "recent_activity":"Reduce 9.86%",
+            "reported_price":"$11.03",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"113,705",
+            "portfolio_weight":"0.25",
+            "recent_activity":"Reduce 12.32%",
+            "reported_price":"$23.04",
+            "ticker":"LILAK"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "company":"Fairholme Capital",
+    "investor":"Bruce Berkowitz",
+    "num_stocks":"12",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"fairx",
+    "portfolio_value":"$1,248,571,000",
+    "stocks":[
+        {
+            "name":"St. Joe Co.",
+            "num_shares":"24,445,297",
+            "portfolio_weight":"35.99",
+            "recent_activity":"Reduce 0.02%",
+            "reported_price":"$18.38",
+            "ticker":"JOE"
+        },
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"27,839,448",
+            "portfolio_weight":"25.55",
+            "recent_activity":"Reduce 0.09%",
+            "reported_price":"$11.46",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"3,433,750",
+            "portfolio_weight":"13.94",
+            "recent_activity":" ",
+            "reported_price":"$50.68",
+            "ticker":"SRG"
+        },
+        {
+            "name":"American Intl. Grp. WTS",
+            "num_shares":"4,368,490",
+            "portfolio_weight":"7.42",
+            "recent_activity":"Reduce 17.89%",
+            "reported_price":"$21.20",
+            "ticker":"AIG.WS"
+        },
+        {
+            "name":"Bank of America WTS A",
+            "num_shares":"13,023,864",
+            "portfolio_weight":"4.82",
+            "recent_activity":"Reduce 17.54%",
+            "reported_price":"$4.62",
+            "ticker":"BAC.WS.A"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"20,222,179",
+            "portfolio_weight":"3.98",
+            "recent_activity":"Add 1.49%",
+            "reported_price":"$2.46",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"Lands End Inc.",
+            "num_shares":"3,352,627",
+            "portfolio_weight":"3.89",
+            "recent_activity":"Add 11.78%",
+            "reported_price":"$14.50",
+            "ticker":"LE"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"1,713,203",
+            "portfolio_weight":"2.15",
+            "recent_activity":"Reduce 86.79%",
+            "reported_price":"$15.65",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Sears Hldgs WTS",
+            "num_shares":"6,730,093",
+            "portfolio_weight":"1.84",
+            "recent_activity":"Reduce 0.03%",
+            "reported_price":"$3.42",
+            "ticker":"SHLD.WS"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"776,850",
+            "portfolio_weight":"0.31",
+            "recent_activity":" ",
+            "reported_price":"$4.93",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Leucadia National Corp.",
+            "num_shares":"66,000",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$19.05",
+            "ticker":"LUK"
+        },
+        {
+            "name":"Bank of America WTS B",
+            "num_shares":"1,455,701",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$0.10",
+            "ticker":"BAC.WS.B"
+        }
+    ]
+}

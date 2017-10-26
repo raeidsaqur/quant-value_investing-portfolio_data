@@ -1,0 +1,123 @@
+{
+    "company":"SQ Advisors",
+    "investor":"Lou Simpson",
+    "num_stocks":"14",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"SQ",
+    "portfolio_value":"$2,362,517,000",
+    "stocks":[
+        {
+            "name":"Brookfield Asset Management Inc.",
+            "num_shares":"11,961,690",
+            "portfolio_weight":"16.73",
+            "recent_activity":"Reduce 7.57%",
+            "reported_price":"$33.05",
+            "ticker":"BAM"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"2,432,311",
+            "portfolio_weight":"14.91",
+            "recent_activity":"Reduce 8.39%",
+            "reported_price":"$144.79",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Ametek Inc.",
+            "num_shares":"7,456,694",
+            "portfolio_weight":"14.59",
+            "recent_activity":"Reduce 6.10%",
+            "reported_price":"$46.23",
+            "ticker":"AME"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"11,560,900",
+            "portfolio_weight":"12.39",
+            "recent_activity":"Reduce 5.86%",
+            "reported_price":"$25.31",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"5,820,464",
+            "portfolio_weight":"11.66",
+            "recent_activity":"Reduce 6.15%",
+            "reported_price":"$47.33",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"8,473,721",
+            "portfolio_weight":"10.28",
+            "recent_activity":"Reduce 5.48%",
+            "reported_price":"$28.67",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"4,588,604",
+            "portfolio_weight":"5.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.23",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"WABCO Holdings Inc.",
+            "num_shares":"1,399,310",
+            "portfolio_weight":"5.42",
+            "recent_activity":"Reduce 6.85%",
+            "reported_price":"$91.57",
+            "ticker":"WBC"
+        },
+        {
+            "name":"Crown Holdings",
+            "num_shares":"1,464,961",
+            "portfolio_weight":"3.14",
+            "recent_activity":"Reduce 50.53%",
+            "reported_price":"$50.67",
+            "ticker":"CCK"
+        },
+        {
+            "name":"U.S. Bancorp",
+            "num_shares":"1,548,005",
+            "portfolio_weight":"2.64",
+            "recent_activity":"Reduce 21.08%",
+            "reported_price":"$40.33",
+            "ticker":"USB"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"2,427,903",
+            "portfolio_weight":"2.07",
+            "recent_activity":"Reduce 6.31%",
+            "reported_price":"$20.13",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"212,129",
+            "portfolio_weight":"0.29",
+            "recent_activity":"Reduce 6.48%",
+            "reported_price":"$32.49",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"Brookfield Business Partners LP",
+            "num_shares":"243,059",
+            "portfolio_weight":"0.20",
+            "recent_activity":"Buy ",
+            "reported_price":"$19.06",
+            "ticker":"BBU"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"21",
+            "portfolio_weight":"0.19",
+            "recent_activity":" ",
+            "reported_price":"$216952.38",
+            "ticker":"BRK.A"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "company":"Icahn Capital Management",
+    "investor":"Carl Icahn",
+    "num_stocks":"16",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"ic",
+    "portfolio_value":"$19,937,172,000",
+    "stocks":[
+        {
+            "name":"Icahn Enterprises",
+            "num_shares":"140,524,155",
+            "portfolio_weight":"36.12",
+            "recent_activity":"Add 8.10%",
+            "reported_price":"$51.24",
+            "ticker":"IEP"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"45,644,982",
+            "portfolio_weight":"14.29",
+            "recent_activity":" ",
+            "reported_price":"$62.43",
+            "ticker":"AIG"
+        },
+        {
+            "name":"Cheniere Energy Inc.",
+            "num_shares":"32,680,490",
+            "portfolio_weight":"7.75",
+            "recent_activity":" ",
+            "reported_price":"$47.27",
+            "ticker":"LNG"
+        },
+        {
+            "name":"CVR Energy Inc.",
+            "num_shares":"71,198,718",
+            "portfolio_weight":"7.17",
+            "recent_activity":" ",
+            "reported_price":"$20.08",
+            "ticker":"CVI"
+        },
+        {
+            "name":"PayPal Holdings Inc.",
+            "num_shares":"31,574,653",
+            "portfolio_weight":"6.81",
+            "recent_activity":"Reduce 5.46%",
+            "reported_price":"$43.02",
+            "ticker":"PYPL"
+        },
+        {
+            "name":"Herbalife Ltd.",
+            "num_shares":"22,872,324",
+            "portfolio_weight":"6.67",
+            "recent_activity":"Add 1.65%",
+            "reported_price":"$58.14",
+            "ticker":"HLF"
+        },
+        {
+            "name":"Freeport-McMoran Inc.",
+            "num_shares":"91,236,296",
+            "portfolio_weight":"6.11",
+            "recent_activity":" ",
+            "reported_price":"$13.36",
+            "ticker":"FCX"
+        },
+        {
+            "name":"Xerox Corp.",
+            "num_shares":"24,757,506",
+            "portfolio_weight":"3.65",
+            "recent_activity":" ",
+            "reported_price":"$29.36",
+            "ticker":"XRX"
+        },
+        {
+            "name":"Hertz Global Hldgs Inc.",
+            "num_shares":"29,263,869",
+            "portfolio_weight":"2.57",
+            "recent_activity":" ",
+            "reported_price":"$17.54",
+            "ticker":"HTZ"
+        },
+        {
+            "name":"American Railcar Ind.",
+            "num_shares":"11,871,268",
+            "portfolio_weight":"2.45",
+            "recent_activity":" ",
+            "reported_price":"$41.10",
+            "ticker":"ARII"
+        },
+        {
+            "name":"Navistar International Corp.",
+            "num_shares":"16,729,960",
+            "portfolio_weight":"2.07",
+            "recent_activity":"Add 2.81%",
+            "reported_price":"$24.62",
+            "ticker":"NAV"
+        },
+        {
+            "name":"Conduent Inc.",
+            "num_shares":"19,806,000",
+            "portfolio_weight":"1.67",
+            "recent_activity":"Buy ",
+            "reported_price":"$16.78",
+            "ticker":"CNDT"
+        },
+        {
+            "name":"HERC Holdings Inc.",
+            "num_shares":"4,312,860",
+            "portfolio_weight":"1.06",
+            "recent_activity":" ",
+            "reported_price":"$48.89",
+            "ticker":"HRI"
+        },
+        {
+            "name":"Welbilt Inc.",
+            "num_shares":"10,582,660",
+            "portfolio_weight":"1.04",
+            "recent_activity":" ",
+            "reported_price":"$19.63",
+            "ticker":"WBT"
+        },
+        {
+            "name":"Manitowoc Co.",
+            "num_shares":"10,582,660",
+            "portfolio_weight":"0.30",
+            "recent_activity":" ",
+            "reported_price":"$5.70",
+            "ticker":"MTW"
+        },
+        {
+            "name":"CVR Refining LP",
+            "num_shares":"5,750,000",
+            "portfolio_weight":"0.27",
+            "recent_activity":" ",
+            "reported_price":"$9.45",
+            "ticker":"CVRR"
+        }
+    ]
+}

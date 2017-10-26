@@ -1,0 +1,243 @@
+{
+    "company":"Akre Capital Management",
+    "investor":"Chuck Akre",
+    "num_stocks":"29",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"AC",
+    "portfolio_value":"$6,014,514,000",
+    "stocks":[
+        {
+            "name":"American Tower Corp.",
+            "num_shares":"6,699,098",
+            "portfolio_weight":"13.54",
+            "recent_activity":"Reduce 0.04%",
+            "reported_price":"$121.54",
+            "ticker":"AMT"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"5,679,831",
+            "portfolio_weight":"10.58",
+            "recent_activity":"Add 21.87%",
+            "reported_price":"$112.04",
+            "ticker":"MCO"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"5,329,183",
+            "portfolio_weight":"9.97",
+            "recent_activity":"Add 13.35%",
+            "reported_price":"$112.47",
+            "ticker":"MA"
+        },
+        {
+            "name":"Markel Corp.",
+            "num_shares":"513,914",
+            "portfolio_weight":"8.34",
+            "recent_activity":"Reduce 0.00%",
+            "reported_price":"$975.86",
+            "ticker":"MKL"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"4,889,020",
+            "portfolio_weight":"7.22",
+            "recent_activity":"Add 34.98%",
+            "reported_price":"$88.87",
+            "ticker":"V"
+        },
+        {
+            "name":"Dollar Tree Inc.",
+            "num_shares":"4,195,913",
+            "portfolio_weight":"5.47",
+            "recent_activity":"Add 0.22%",
+            "reported_price":"$78.46",
+            "ticker":"DLTR"
+        },
+        {
+            "name":"Roper Industries",
+            "num_shares":"1,562,410",
+            "portfolio_weight":"5.36",
+            "recent_activity":"Add 0.18%",
+            "reported_price":"$206.49",
+            "ticker":"ROP"
+        },
+        {
+            "name":"CarMax Inc.",
+            "num_shares":"5,157,481",
+            "portfolio_weight":"5.08",
+            "recent_activity":" ",
+            "reported_price":"$59.22",
+            "ticker":"KMX"
+        },
+        {
+            "name":"SBA Communications Corp.",
+            "num_shares":"2,465,000",
+            "portfolio_weight":"4.93",
+            "recent_activity":" ",
+            "reported_price":"$120.37",
+            "ticker":"SBAC"
+        },
+        {
+            "name":"Enstar Group Ltd.",
+            "num_shares":"1,446,269",
+            "portfolio_weight":"4.60",
+            "recent_activity":"Reduce 0.10%",
+            "reported_price":"$191.30",
+            "ticker":"ESGR"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"825,009",
+            "portfolio_weight":"3.70",
+            "recent_activity":"Add 0.14%",
+            "reported_price":"$269.84",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Verisk Analytics Inc.",
+            "num_shares":"2,590,486",
+            "portfolio_weight":"3.49",
+            "recent_activity":"Add 0.23%",
+            "reported_price":"$81.14",
+            "ticker":"VRSK"
+        },
+        {
+            "name":"Colfax Corp.",
+            "num_shares":"4,697,300",
+            "portfolio_weight":"3.07",
+            "recent_activity":"Reduce 0.06%",
+            "reported_price":"$39.26",
+            "ticker":"CFX"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"1,655,300",
+            "portfolio_weight":"2.35",
+            "recent_activity":" ",
+            "reported_price":"$85.53",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Ubiquiti Networks",
+            "num_shares":"2,680,000",
+            "portfolio_weight":"2.24",
+            "recent_activity":" ",
+            "reported_price":"$50.26",
+            "ticker":"UBNT"
+        },
+        {
+            "name":"TD Ameritrade Holding Corp.",
+            "num_shares":"2,967,500",
+            "portfolio_weight":"1.92",
+            "recent_activity":" ",
+            "reported_price":"$38.86",
+            "ticker":"AMTD"
+        },
+        {
+            "name":"Dollar General",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$69.73",
+            "ticker":"DG"
+        },
+        {
+            "name":"LKQ Corp.",
+            "num_shares":"3,550,000",
+            "portfolio_weight":"1.73",
+            "recent_activity":" ",
+            "reported_price":"$29.27",
+            "ticker":"LKQ"
+        },
+        {
+            "name":"Monro Muffler Brake Inc.",
+            "num_shares":"1,597,630",
+            "portfolio_weight":"1.38",
+            "recent_activity":"Add 4.93%",
+            "reported_price":"$52.10",
+            "ticker":"MNRO"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"384,249",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Add 0.09%",
+            "reported_price":"$166.68",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Fortive Corp.",
+            "num_shares":"750,000",
+            "portfolio_weight":"0.75",
+            "recent_activity":" ",
+            "reported_price":"$60.22",
+            "ticker":"FTV"
+        },
+        {
+            "name":"Diamond Hill Investment Group Inc.",
+            "num_shares":"145,500",
+            "portfolio_weight":"0.47",
+            "recent_activity":" ",
+            "reported_price":"$194.55",
+            "ticker":"DHIL"
+        },
+        {
+            "name":"Primo Water Corp.",
+            "num_shares":"1,679,313",
+            "portfolio_weight":"0.38",
+            "recent_activity":" ",
+            "reported_price":"$13.58",
+            "ticker":"PRMW"
+        },
+        {
+            "name":"Alarm.Com Holdings",
+            "num_shares":"400,000",
+            "portfolio_weight":"0.20",
+            "recent_activity":" ",
+            "reported_price":"$30.74",
+            "ticker":"ALRM"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"42",
+            "portfolio_weight":"0.17",
+            "recent_activity":"Reduce 19.23%",
+            "reported_price":"$249857.14",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Bank of America WTS A",
+            "num_shares":"732,890",
+            "portfolio_weight":"0.14",
+            "recent_activity":" ",
+            "reported_price":"$11.30",
+            "ticker":"BAC.WS.A"
+        },
+        {
+            "name":"Lamar Advertising Co.",
+            "num_shares":"48,530",
+            "portfolio_weight":"0.06",
+            "recent_activity":" ",
+            "reported_price":"$74.74",
+            "ticker":"LAMR"
+        },
+        {
+            "name":"WMIH Corp.",
+            "num_shares":"1,460,000",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$1.45",
+            "ticker":"WMIH"
+        },
+        {
+            "name":"CSX Corp.",
+            "num_shares":"4,899",
+            "portfolio_weight":"0.00",
+            "recent_activity":"Reduce 87.37%",
+            "reported_price":"$46.54",
+            "ticker":"CSX"
+        }
+    ]
+}

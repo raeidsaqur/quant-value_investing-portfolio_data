@@ -1,0 +1,291 @@
+{
+    "company":"Kahn Brothers Group",
+    "investor":"Kahn Brothers Advisors",
+    "num_stocks":"35",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"KB",
+    "portfolio_value":"$592,098,000",
+    "stocks":[
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"1,088,765",
+            "portfolio_weight":"10.93",
+            "recent_activity":"Reduce 1.77%",
+            "reported_price":"$59.43",
+            "ticker":"C"
+        },
+        {
+            "name":"Merck & Co.",
+            "num_shares":"952,741",
+            "portfolio_weight":"9.47",
+            "recent_activity":"Reduce 0.55%",
+            "reported_price":"$58.87",
+            "ticker":"MRK"
+        },
+        {
+            "name":"New York Times Cl. A",
+            "num_shares":"3,728,898",
+            "portfolio_weight":"8.38",
+            "recent_activity":"Reduce 0.25%",
+            "reported_price":"$13.30",
+            "ticker":"NYT"
+        },
+        {
+            "name":"BP plc",
+            "num_shares":"1,310,360",
+            "portfolio_weight":"8.27",
+            "recent_activity":"Add 0.43%",
+            "reported_price":"$37.38",
+            "ticker":"BP"
+        },
+        {
+            "name":"Hologic Inc.",
+            "num_shares":"1,197,404",
+            "portfolio_weight":"8.11",
+            "recent_activity":"Reduce 3.01%",
+            "reported_price":"$40.12",
+            "ticker":"HOLX"
+        },
+        {
+            "name":"MBIA Inc.",
+            "num_shares":"4,368,164",
+            "portfolio_weight":"7.89",
+            "recent_activity":"Add 0.53%",
+            "reported_price":"$10.70",
+            "ticker":"MBI"
+        },
+        {
+            "name":"New York Community Bancorp",
+            "num_shares":"2,231,263",
+            "portfolio_weight":"6.00",
+            "recent_activity":"Reduce 1.23%",
+            "reported_price":"$15.91",
+            "ticker":"NYCB"
+        },
+        {
+            "name":"Seaboard Corp.",
+            "num_shares":"8,370",
+            "portfolio_weight":"5.59",
+            "recent_activity":"Reduce 3.56%",
+            "reported_price":"$3951.97",
+            "ticker":"SEB"
+        },
+        {
+            "name":"GlaxoSmithKline PLC",
+            "num_shares":"833,315",
+            "portfolio_weight":"5.42",
+            "recent_activity":"Add 31.85%",
+            "reported_price":"$38.51",
+            "ticker":"GSK"
+        },
+        {
+            "name":"BlackBerry Ltd.",
+            "num_shares":"4,355,810",
+            "portfolio_weight":"5.07",
+            "recent_activity":"Add 0.29%",
+            "reported_price":"$6.89",
+            "ticker":"BBRY"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"860,290",
+            "portfolio_weight":"4.72",
+            "recent_activity":"Reduce 6.47%",
+            "reported_price":"$32.48",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Patterson UTI-Energy",
+            "num_shares":"980,351",
+            "portfolio_weight":"4.46",
+            "recent_activity":"Reduce 6.16%",
+            "reported_price":"$26.92",
+            "ticker":"PTEN"
+        },
+        {
+            "name":"Sterling Bancorp",
+            "num_shares":"1,012,364",
+            "portfolio_weight":"4.00",
+            "recent_activity":" ",
+            "reported_price":"$23.40",
+            "ticker":"STL"
+        },
+        {
+            "name":"Nam Tai Property Inc.",
+            "num_shares":"1,920,660",
+            "portfolio_weight":"2.40",
+            "recent_activity":"Reduce 40.00%",
+            "reported_price":"$7.40",
+            "ticker":"NTP"
+        },
+        {
+            "name":"Trinity Place Holdings",
+            "num_shares":"1,061,651",
+            "portfolio_weight":"1.66",
+            "recent_activity":" ",
+            "reported_price":"$9.27",
+            "ticker":"TPHS"
+        },
+        {
+            "name":"IDT Corp. CL B",
+            "num_shares":"461,917",
+            "portfolio_weight":"1.45",
+            "recent_activity":"Reduce 1.42%",
+            "reported_price":"$18.54",
+            "ticker":"IDT"
+        },
+        {
+            "name":"VOXX International Corp.",
+            "num_shares":"1,745,861",
+            "portfolio_weight":"1.39",
+            "recent_activity":"Add 1.01%",
+            "reported_price":"$4.70",
+            "ticker":"VOXX"
+        },
+        {
+            "name":"Straight Path Communications",
+            "num_shares":"213,356",
+            "portfolio_weight":"1.22",
+            "recent_activity":"Reduce 0.23%",
+            "reported_price":"$33.91",
+            "ticker":"STRP"
+        },
+        {
+            "name":"IDW Media Holdings",
+            "num_shares":"78,660",
+            "portfolio_weight":"0.66",
+            "recent_activity":"Reduce 0.48%",
+            "reported_price":"$49.99",
+            "ticker":"IDWM"
+        },
+        {
+            "name":"Navient Corp.",
+            "num_shares":"182,391",
+            "portfolio_weight":"0.51",
+            "recent_activity":"Reduce 1.46%",
+            "reported_price":"$16.43",
+            "ticker":"NAVI"
+        },
+        {
+            "name":"Genie Energy Ltd.",
+            "num_shares":"405,301",
+            "portfolio_weight":"0.39",
+            "recent_activity":"Reduce 0.10%",
+            "reported_price":"$5.75",
+            "ticker":"GNE"
+        },
+        {
+            "name":"Novartis AG",
+            "num_shares":"27,071",
+            "portfolio_weight":"0.33",
+            "recent_activity":"Reduce 2.07%",
+            "reported_price":"$72.85",
+            "ticker":"NVS"
+        },
+        {
+            "name":"Bristol-Myers Squibb",
+            "num_shares":"28,583",
+            "portfolio_weight":"0.28",
+            "recent_activity":" ",
+            "reported_price":"$58.43",
+            "ticker":"BMY"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"17,334",
+            "portfolio_weight":"0.26",
+            "recent_activity":"Reduce 0.57%",
+            "reported_price":"$90.28",
+            "ticker":"XOM"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"16,330",
+            "portfolio_weight":"0.19",
+            "recent_activity":"Reduce 5.29%",
+            "reported_price":"$69.08",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"5,883",
+            "portfolio_weight":"0.17",
+            "recent_activity":" ",
+            "reported_price":"$166.07",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Old Republic International",
+            "num_shares":"48,000",
+            "portfolio_weight":"0.15",
+            "recent_activity":" ",
+            "reported_price":"$19.00",
+            "ticker":"ORI"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"6,692",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Reduce 3.46%",
+            "reported_price":"$105.20",
+            "ticker":"MON"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"27,624",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$22.08",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Chevron Corp.",
+            "num_shares":"4,348",
+            "portfolio_weight":"0.09",
+            "recent_activity":" ",
+            "reported_price":"$117.76",
+            "ticker":"CVX"
+        },
+        {
+            "name":"SLM Corp.",
+            "num_shares":"44,550",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Reduce 15.38%",
+            "reported_price":"$11.02",
+            "ticker":"SLM"
+        },
+        {
+            "name":"Zedge Inc.",
+            "num_shares":"156,320",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$3.13",
+            "ticker":"ZDGE"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"15,000",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$31.60",
+            "ticker":"GE"
+        },
+        {
+            "name":"AT&T Inc.",
+            "num_shares":"5,099",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$42.56",
+            "ticker":"T"
+        },
+        {
+            "name":"Astoria Financial",
+            "num_shares":"11,185",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$18.69",
+            "ticker":"AF"
+        }
+    ]
+}

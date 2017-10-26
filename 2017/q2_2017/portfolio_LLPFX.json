@@ -1,0 +1,115 @@
+{
+    "company":"Longleaf Partners",
+    "investor":"Mason Hawkins",
+    "num_stocks":"13",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"LLPFX",
+    "portfolio_value":"$2,567,319,000",
+    "stocks":[
+        {
+            "name":"FedEx Corp.",
+            "num_shares":"1,752,682",
+            "portfolio_weight":"13.32",
+            "recent_activity":" ",
+            "reported_price":"$195.15",
+            "ticker":"FDX"
+        },
+        {
+            "name":"Level 3 Communications Inc.",
+            "num_shares":"5,958,138",
+            "portfolio_weight":"13.28",
+            "recent_activity":" ",
+            "reported_price":"$57.22",
+            "ticker":"LVLT"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"287,304",
+            "portfolio_weight":"9.28",
+            "recent_activity":" ",
+            "reported_price":"$829.56",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"CK Hutchison Hldgs Ltd.",
+            "num_shares":"18,489,500",
+            "portfolio_weight":"8.86",
+            "recent_activity":" ",
+            "reported_price":"$12.30",
+            "ticker":"CKHUY"
+        },
+        {
+            "name":"Wynn Resorts Ltd.",
+            "num_shares":"1,979,429",
+            "portfolio_weight":"8.84",
+            "recent_activity":"Reduce 16.01%",
+            "reported_price":"$114.61",
+            "ticker":"WYNN"
+        },
+        {
+            "name":"CONSOL Energy Inc.",
+            "num_shares":"11,536,742",
+            "portfolio_weight":"7.54",
+            "recent_activity":" ",
+            "reported_price":"$16.78",
+            "ticker":"CNX"
+        },
+        {
+            "name":"LafargeHolcim Ltd.",
+            "num_shares":"2,803,560",
+            "portfolio_weight":"6.47",
+            "recent_activity":"Reduce 10.31%",
+            "reported_price":"$59.21",
+            "ticker":"HCMLF"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"1,467,003",
+            "portfolio_weight":"6.41",
+            "recent_activity":"Reduce 2.87%",
+            "reported_price":"$112.21",
+            "ticker":"UTX"
+        },
+        {
+            "name":"CNH Industrial NV",
+            "num_shares":"16,741,515",
+            "portfolio_weight":"6.29",
+            "recent_activity":"Reduce 26.50%",
+            "reported_price":"$9.64",
+            "ticker":"CNHI"
+        },
+        {
+            "name":"Cheung Kong Property Hldgs",
+            "num_shares":"23,164,000",
+            "portfolio_weight":"6.08",
+            "recent_activity":" ",
+            "reported_price":"$6.74",
+            "ticker":"CHKGF"
+        },
+        {
+            "name":"Scripps Networks Interactive Inc.",
+            "num_shares":"1,807,655",
+            "portfolio_weight":"5.52",
+            "recent_activity":"Reduce 22.26%",
+            "reported_price":"$78.37",
+            "ticker":"SNI"
+        },
+        {
+            "name":"Chesapeake Energy",
+            "num_shares":"21,824,451",
+            "portfolio_weight":"5.05",
+            "recent_activity":" ",
+            "reported_price":"$5.94",
+            "ticker":"CHK"
+        },
+        {
+            "name":"T. Rowe Price Group",
+            "num_shares":"1,155,251",
+            "portfolio_weight":"3.07",
+            "recent_activity":" ",
+            "reported_price":"$68.15",
+            "ticker":"TROW"
+        }
+    ]
+}

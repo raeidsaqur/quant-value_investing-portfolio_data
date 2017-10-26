@@ -1,0 +1,379 @@
+{
+    "company":"ClearBridge Value Trust",
+    "investor":"Sam Peters",
+    "num_stocks":"46",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"lmvtx",
+    "portfolio_value":"$2,227,972,000",
+    "stocks":[
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"600,000",
+            "portfolio_weight":"3.67",
+            "recent_activity":"Reduce 64.71%",
+            "reported_price":"$136.45",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"AES Corp.",
+            "num_shares":"6,500,000",
+            "portfolio_weight":"3.64",
+            "recent_activity":"Reduce 2.99%",
+            "reported_price":"$12.48",
+            "ticker":"AES"
+        },
+        {
+            "name":"Merck & Co.",
+            "num_shares":"1,400,000",
+            "portfolio_weight":"3.62",
+            "recent_activity":" ",
+            "reported_price":"$57.61",
+            "ticker":"MRK"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"1,900,000",
+            "portfolio_weight":"3.49",
+            "recent_activity":"Reduce 5.00%",
+            "reported_price":"$40.93",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"2,600,000",
+            "portfolio_weight":"3.35",
+            "recent_activity":"Reduce 3.70%",
+            "reported_price":"$28.69",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Calpine Corp.",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"3.31",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$14.75",
+            "ticker":"CPN"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"1,700,000",
+            "portfolio_weight":"3.23",
+            "recent_activity":"Reduce 5.56%",
+            "reported_price":"$42.39",
+            "ticker":"C"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"100,000",
+            "portfolio_weight":"3.21",
+            "recent_activity":" ",
+            "reported_price":"$715.62",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"1,400,000",
+            "portfolio_weight":"2.97",
+            "recent_activity":" ",
+            "reported_price":"$47.33",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Synchrony Financial",
+            "num_shares":"2,600,000",
+            "portfolio_weight":"2.95",
+            "recent_activity":"Add 23.81%",
+            "reported_price":"$25.28",
+            "ticker":"SYF"
+        },
+        {
+            "name":"American Homes 4 Rent",
+            "num_shares":"3,100,000",
+            "portfolio_weight":"2.85",
+            "recent_activity":"Reduce 3.13%",
+            "reported_price":"$20.48",
+            "ticker":"AMH"
+        },
+        {
+            "name":"NXP Semiconductors NV",
+            "num_shares":"800,000",
+            "portfolio_weight":"2.81",
+            "recent_activity":" ",
+            "reported_price":"$78.34",
+            "ticker":"NXPI"
+        },
+        {
+            "name":"PulteGroup Inc.",
+            "num_shares":"3,100,000",
+            "portfolio_weight":"2.71",
+            "recent_activity":"Reduce 11.43%",
+            "reported_price":"$19.49",
+            "ticker":"PHM"
+        },
+        {
+            "name":"United Health Group Inc.",
+            "num_shares":"400,000",
+            "portfolio_weight":"2.54",
+            "recent_activity":"Reduce 11.11%",
+            "reported_price":"$141.20",
+            "ticker":"UNH"
+        },
+        {
+            "name":"Yahoo Inc.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"2.53",
+            "recent_activity":"Reduce 6.25%",
+            "reported_price":"$37.56",
+            "ticker":"YHOO"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"2.44",
+            "recent_activity":"Reduce 11.76%",
+            "reported_price":"$36.25",
+            "ticker":"DVN"
+        },
+        {
+            "name":"BIOGEN IDEC Inc.",
+            "num_shares":"220,000",
+            "portfolio_weight":"2.39",
+            "recent_activity":"Add 25.71%",
+            "reported_price":"$241.82",
+            "ticker":"BIIB"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"75,000",
+            "portfolio_weight":"2.33",
+            "recent_activity":"Buy ",
+            "reported_price":"$692.11",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Lowe's Cos.",
+            "num_shares":"650,000",
+            "portfolio_weight":"2.31",
+            "recent_activity":"Reduce 7.14%",
+            "reported_price":"$79.17",
+            "ticker":"LOW"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"675,000",
+            "portfolio_weight":"2.30",
+            "recent_activity":"Reduce 3.57%",
+            "reported_price":"$75.80",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"Rockwell Automation Inc.",
+            "num_shares":"400,000",
+            "portfolio_weight":"2.06",
+            "recent_activity":" ",
+            "reported_price":"$114.82",
+            "ticker":"ROK"
+        },
+        {
+            "name":"Colgate-Palmolive",
+            "num_shares":"600,000",
+            "portfolio_weight":"1.97",
+            "recent_activity":"Reduce 7.69%",
+            "reported_price":"$73.20",
+            "ticker":"CL"
+        },
+        {
+            "name":"Exelon Corp.",
+            "num_shares":"1,200,000",
+            "portfolio_weight":"1.96",
+            "recent_activity":"Add 20.00%",
+            "reported_price":"$36.36",
+            "ticker":"EXC"
+        },
+        {
+            "name":"Realogy Holdings Corp.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"1.95",
+            "recent_activity":"Add 25.00%",
+            "reported_price":"$29.02",
+            "ticker":"RLGY"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"800,000",
+            "portfolio_weight":"1.92",
+            "recent_activity":" ",
+            "reported_price":"$53.57",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Discover Financial Services",
+            "num_shares":"750,000",
+            "portfolio_weight":"1.80",
+            "recent_activity":"Reduce 25.00%",
+            "reported_price":"$53.59",
+            "ticker":"DFS"
+        },
+        {
+            "name":"Apache Corp.",
+            "num_shares":"700,000",
+            "portfolio_weight":"1.75",
+            "recent_activity":"Reduce 30.00%",
+            "reported_price":"$55.67",
+            "ticker":"APA"
+        },
+        {
+            "name":"United Continental Holdings",
+            "num_shares":"950,000",
+            "portfolio_weight":"1.75",
+            "recent_activity":" ",
+            "reported_price":"$41.04",
+            "ticker":"UAL"
+        },
+        {
+            "name":"Polo Ralph Lauren Corp.",
+            "num_shares":"425,000",
+            "portfolio_weight":"1.71",
+            "recent_activity":"Add 6.25%",
+            "reported_price":"$89.62",
+            "ticker":"RL"
+        },
+        {
+            "name":"C.H. Robinson Worldwide",
+            "num_shares":"500,000",
+            "portfolio_weight":"1.67",
+            "recent_activity":" ",
+            "reported_price":"$74.25",
+            "ticker":"CHRW"
+        },
+        {
+            "name":"CONSOL Energy Inc.",
+            "num_shares":"2,300,000",
+            "portfolio_weight":"1.66",
+            "recent_activity":"Reduce 4.17%",
+            "reported_price":"$16.09",
+            "ticker":"CNX"
+        },
+        {
+            "name":"American International Group",
+            "num_shares":"700,000",
+            "portfolio_weight":"1.66",
+            "recent_activity":"Reduce 41.67%",
+            "reported_price":"$52.89",
+            "ticker":"AIG"
+        },
+        {
+            "name":"Steel Dynamics",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"1.65",
+            "recent_activity":"Reduce 31.82%",
+            "reported_price":"$24.50",
+            "ticker":"STLD"
+        },
+        {
+            "name":"Perrigo Co.",
+            "num_shares":"400,000",
+            "portfolio_weight":"1.63",
+            "recent_activity":"Add 25.00%",
+            "reported_price":"$90.67",
+            "ticker":"PRGO"
+        },
+        {
+            "name":"Ameriprise Financial Inc.",
+            "num_shares":"400,000",
+            "portfolio_weight":"1.61",
+            "recent_activity":" ",
+            "reported_price":"$89.85",
+            "ticker":"AMP"
+        },
+        {
+            "name":"MetLife Inc.",
+            "num_shares":"900,000",
+            "portfolio_weight":"1.61",
+            "recent_activity":"Buy ",
+            "reported_price":"$39.83",
+            "ticker":"MET"
+        },
+        {
+            "name":"Boeing Co.",
+            "num_shares":"275,000",
+            "portfolio_weight":"1.60",
+            "recent_activity":"Reduce 8.33%",
+            "reported_price":"$129.87",
+            "ticker":"BA"
+        },
+        {
+            "name":"Alexion Pharmaceuticals Inc.",
+            "num_shares":"300,000",
+            "portfolio_weight":"1.57",
+            "recent_activity":"Add 50.00%",
+            "reported_price":"$116.76",
+            "ticker":"ALXN"
+        },
+        {
+            "name":"PACCAR Inc.",
+            "num_shares":"600,000",
+            "portfolio_weight":"1.40",
+            "recent_activity":" ",
+            "reported_price":"$51.87",
+            "ticker":"PCAR"
+        },
+        {
+            "name":"United Rentals",
+            "num_shares":"450,000",
+            "portfolio_weight":"1.36",
+            "recent_activity":" ",
+            "reported_price":"$67.10",
+            "ticker":"URI"
+        },
+        {
+            "name":"LyondellBasell Industries",
+            "num_shares":"400,000",
+            "portfolio_weight":"1.34",
+            "recent_activity":"Reduce 11.11%",
+            "reported_price":"$74.42",
+            "ticker":"LYB"
+        },
+        {
+            "name":"Jazz Technologies Inc.",
+            "num_shares":"200,000",
+            "portfolio_weight":"1.27",
+            "recent_activity":" ",
+            "reported_price":"$141.31",
+            "ticker":"JAZ"
+        },
+        {
+            "name":"CBS Corp.",
+            "num_shares":"500,000",
+            "portfolio_weight":"1.22",
+            "recent_activity":" ",
+            "reported_price":"$54.44",
+            "ticker":"CBS"
+        },
+        {
+            "name":"Mylan NV",
+            "num_shares":"600,000",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$43.24",
+            "ticker":"MYL"
+        },
+        {
+            "name":"Mosaic Co.",
+            "num_shares":"900,000",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$26.18",
+            "ticker":"MOS"
+        },
+        {
+            "name":"KKR & Co. L.P.",
+            "num_shares":"1,800,000",
+            "portfolio_weight":"1.00",
+            "recent_activity":" ",
+            "reported_price":"$12.34",
+            "ticker":"KKR"
+        }
+    ]
+}

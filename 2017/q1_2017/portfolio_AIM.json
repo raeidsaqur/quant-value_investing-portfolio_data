@@ -1,0 +1,171 @@
+{
+    "company":"Atlantic Investment Management",
+    "investor":"Alex Roepers",
+    "num_stocks":"20",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"AIM",
+    "portfolio_value":"$957,607,000",
+    "stocks":[
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"9,800,000",
+            "portfolio_weight":"20.86",
+            "recent_activity":"Add 17.14%",
+            "reported_price":"$20.38",
+            "ticker":"OI"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"3,773,756",
+            "portfolio_weight":"16.44",
+            "recent_activity":"Add 21.07%",
+            "reported_price":"$41.71",
+            "ticker":"COMM"
+        },
+        {
+            "name":"Diebold Inc.",
+            "num_shares":"5,108,702",
+            "portfolio_weight":"16.38",
+            "recent_activity":"Add 22.76%",
+            "reported_price":"$30.70",
+            "ticker":"DBD"
+        },
+        {
+            "name":"Eastman Chemical",
+            "num_shares":"1,563,430",
+            "portfolio_weight":"13.19",
+            "recent_activity":"Add 29.06%",
+            "reported_price":"$80.80",
+            "ticker":"EMN"
+        },
+        {
+            "name":"Harman Int'l Industries",
+            "num_shares":"1,030,435",
+            "portfolio_weight":"12.00",
+            "recent_activity":"Reduce 8.41%",
+            "reported_price":"$111.50",
+            "ticker":"HAR"
+        },
+        {
+            "name":"ARRIS International plc",
+            "num_shares":"2,737,358",
+            "portfolio_weight":"7.56",
+            "recent_activity":"Add 782.57%",
+            "reported_price":"$26.45",
+            "ticker":"ARRS"
+        },
+        {
+            "name":"Triumph Group Inc.",
+            "num_shares":"1,718,983",
+            "portfolio_weight":"4.62",
+            "recent_activity":"Reduce 28.95%",
+            "reported_price":"$25.75",
+            "ticker":"TGI"
+        },
+        {
+            "name":"Magna International Inc.",
+            "num_shares":"321,902",
+            "portfolio_weight":"1.45",
+            "recent_activity":"Add 59.79%",
+            "reported_price":"$43.16",
+            "ticker":"MGA"
+        },
+        {
+            "name":"Goodyear Tire & Rubber",
+            "num_shares":"330,000",
+            "portfolio_weight":"1.24",
+            "recent_activity":"Reduce 88.94%",
+            "reported_price":"$36.00",
+            "ticker":"GT"
+        },
+        {
+            "name":"Babcock & Wilcox Enterprises",
+            "num_shares":"1,040,000",
+            "portfolio_weight":"1.01",
+            "recent_activity":"Add 352.17%",
+            "reported_price":"$9.34",
+            "ticker":"BW"
+        },
+        {
+            "name":"Computer Sciences Corp.",
+            "num_shares":"138,000",
+            "portfolio_weight":"0.99",
+            "recent_activity":"Add 112.31%",
+            "reported_price":"$69.01",
+            "ticker":"CSC"
+        },
+        {
+            "name":"Steelcase Inc.",
+            "num_shares":"512,148",
+            "portfolio_weight":"0.90",
+            "recent_activity":"Add 12.66%",
+            "reported_price":"$16.75",
+            "ticker":"SCS"
+        },
+        {
+            "name":"Polo Ralph Lauren Corp.",
+            "num_shares":"89,709",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Buy ",
+            "reported_price":"$81.62",
+            "ticker":"RL"
+        },
+        {
+            "name":"Office Depot",
+            "num_shares":"1,233,821",
+            "portfolio_weight":"0.60",
+            "recent_activity":"Reduce 26.57%",
+            "reported_price":"$4.67",
+            "ticker":"ODP"
+        },
+        {
+            "name":"Belden Inc.",
+            "num_shares":"67,886",
+            "portfolio_weight":"0.49",
+            "recent_activity":"Buy ",
+            "reported_price":"$69.19",
+            "ticker":"BDC"
+        },
+        {
+            "name":"Micron Technology",
+            "num_shares":"153,122",
+            "portfolio_weight":"0.46",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.90",
+            "ticker":"MU"
+        },
+        {
+            "name":"LSC Communications Inc.",
+            "num_shares":"149,087",
+            "portfolio_weight":"0.39",
+            "recent_activity":"Buy ",
+            "reported_price":"$25.16",
+            "ticker":"LSKD"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"247,768",
+            "portfolio_weight":"0.30",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.45",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"International Game Technology",
+            "num_shares":"115,000",
+            "portfolio_weight":"0.28",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.70",
+            "ticker":"IGT"
+        },
+        {
+            "name":"ZTO Express",
+            "num_shares":"50,000",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$13.12",
+            "ticker":"ZTO"
+        }
+    ]
+}

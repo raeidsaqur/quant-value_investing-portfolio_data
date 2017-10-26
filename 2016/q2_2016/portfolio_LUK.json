@@ -1,0 +1,251 @@
+{
+    "company":"Leucadia National",
+    "investor":"Leucadia Nat. Corp.",
+    "num_stocks":"30",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"LUK",
+    "portfolio_value":"$782,461,000",
+    "stocks":[
+        {
+            "name":"HRG Group Inc.",
+            "num_shares":"46,600,000",
+            "portfolio_weight":"81.77",
+            "recent_activity":" ",
+            "reported_price":"$13.73",
+            "ticker":"HRG"
+        },
+        {
+            "name":"Baxter International Inc.",
+            "num_shares":"700,000",
+            "portfolio_weight":"4.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$45.22",
+            "ticker":"BAX"
+        },
+        {
+            "name":"EMC Corp.",
+            "num_shares":"754,469",
+            "portfolio_weight":"2.62",
+            "recent_activity":"Buy ",
+            "reported_price":"$27.17",
+            "ticker":"EMC"
+        },
+        {
+            "name":"Liberty Ventures",
+            "num_shares":"376,249",
+            "portfolio_weight":"1.78",
+            "recent_activity":"Buy ",
+            "reported_price":"$37.07",
+            "ticker":"LVNTA"
+        },
+        {
+            "name":"Westar Energy Inc.",
+            "num_shares":"188,900",
+            "portfolio_weight":"1.35",
+            "recent_activity":"Buy ",
+            "reported_price":"$56.09",
+            "ticker":"WR"
+        },
+        {
+            "name":"Syngenta",
+            "num_shares":"107,766",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$76.80",
+            "ticker":"SYT"
+        },
+        {
+            "name":"ITC Holdings Corp.",
+            "num_shares":"138,905",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$46.82",
+            "ticker":"ITC"
+        },
+        {
+            "name":"Rite Aid Corp.",
+            "num_shares":"857,991",
+            "portfolio_weight":"0.82",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.49",
+            "ticker":"RAD"
+        },
+        {
+            "name":"Liberty Sirius XM Series A",
+            "num_shares":"202,429",
+            "portfolio_weight":"0.81",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.36",
+            "ticker":"LSXMA"
+        },
+        {
+            "name":"Under Armour CL C",
+            "num_shares":"114,782",
+            "portfolio_weight":"0.53",
+            "recent_activity":"Buy ",
+            "reported_price":"$36.39",
+            "ticker":"UA.C"
+        },
+        {
+            "name":"BHP Billiton Ltd.",
+            "num_shares":"160,703",
+            "portfolio_weight":"0.52",
+            "recent_activity":"Buy ",
+            "reported_price":"$25.38",
+            "ticker":"BHP"
+        },
+        {
+            "name":"Northstar Asset Management Grp",
+            "num_shares":"352,875",
+            "portfolio_weight":"0.46",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.21",
+            "ticker":"NSAM"
+        },
+        {
+            "name":"Alere Inc.",
+            "num_shares":"79,457",
+            "portfolio_weight":"0.42",
+            "recent_activity":"Buy ",
+            "reported_price":"$41.68",
+            "ticker":"ALR"
+        },
+        {
+            "name":"Liberty Media Group",
+            "num_shares":"153,761",
+            "portfolio_weight":"0.38",
+            "recent_activity":"Buy ",
+            "reported_price":"$19.13",
+            "ticker":"LMCA"
+        },
+        {
+            "name":"Media General",
+            "num_shares":"139,182",
+            "portfolio_weight":"0.31",
+            "recent_activity":"Buy ",
+            "reported_price":"$17.19",
+            "ticker":"MEG"
+        },
+        {
+            "name":"Sina Corp.",
+            "num_shares":"45,641",
+            "portfolio_weight":"0.30",
+            "recent_activity":"Buy ",
+            "reported_price":"$51.86",
+            "ticker":"SINA"
+        },
+        {
+            "name":"Terex Corp.",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.26",
+            "recent_activity":"Buy ",
+            "reported_price":"$20.31",
+            "ticker":"TEX"
+        },
+        {
+            "name":"Momo Inc.",
+            "num_shares":"201,797",
+            "portfolio_weight":"0.26",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.11",
+            "ticker":"MOMO"
+        },
+        {
+            "name":"Liberty TripAdvisor Hldgs",
+            "num_shares":"82,297",
+            "portfolio_weight":"0.23",
+            "recent_activity":"Buy ",
+            "reported_price":"$21.88",
+            "ticker":"LTRPA"
+        },
+        {
+            "name":"St Jude Medical",
+            "num_shares":"20,000",
+            "portfolio_weight":"0.20",
+            "recent_activity":"Add 325.53%",
+            "reported_price":"$78.00",
+            "ticker":"STJ"
+        },
+        {
+            "name":"Ingram Micro Inc.",
+            "num_shares":"41,449",
+            "portfolio_weight":"0.18",
+            "recent_activity":"Buy ",
+            "reported_price":"$34.77",
+            "ticker":"IM"
+        },
+        {
+            "name":"American Capital Ltd.",
+            "num_shares":"75,000",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.84",
+            "ticker":"ACAS"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"37,700",
+            "portfolio_weight":"0.14",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.05",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"CVR Energy Inc.",
+            "num_shares":"64,994",
+            "portfolio_weight":"0.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.51",
+            "ticker":"CVI"
+        },
+        {
+            "name":"Xura Inc.",
+            "num_shares":"40,000",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$24.43",
+            "ticker":"MESG"
+        },
+        {
+            "name":"YY Inc.",
+            "num_shares":"27,500",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$33.85",
+            "ticker":"YY"
+        },
+        {
+            "name":"NorthStar Realty Finance Corp.",
+            "num_shares":"45,100",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.42",
+            "ticker":"NRF"
+        },
+        {
+            "name":"Liberty Media Group CL C",
+            "num_shares":"22,500",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.93",
+            "ticker":"LMCK"
+        },
+        {
+            "name":"Trina Solar Ltd.",
+            "num_shares":"55,000",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.73",
+            "ticker":"TSL"
+        },
+        {
+            "name":"21Vianet Group Inc.",
+            "num_shares":"8,100",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$10.25",
+            "ticker":"VNET"
+        }
+    ]
+}

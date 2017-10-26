@@ -1,0 +1,339 @@
+{
+    "company":"Blue Ridge Capital",
+    "investor":"John Griffin",
+    "num_stocks":"41",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"br",
+    "portfolio_value":"$7,691,734,000",
+    "stocks":[
+        {
+            "name":"Autodesk Inc.",
+            "num_shares":"5,701,900",
+            "portfolio_weight":"6.41",
+            "recent_activity":"Reduce 21.24%",
+            "reported_price":"$86.47",
+            "ticker":"ADSK"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"1,909,900",
+            "portfolio_weight":"5.93",
+            "recent_activity":"Add 24.06%",
+            "reported_price":"$238.92",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"2,802,600",
+            "portfolio_weight":"5.18",
+            "recent_activity":"Reduce 17.90%",
+            "reported_price":"$142.05",
+            "ticker":"FB"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"15,622,500",
+            "portfolio_weight":"4.79",
+            "recent_activity":"Add 11.96%",
+            "reported_price":"$23.59",
+            "ticker":"BAC"
+        },
+        {
+            "name":"CDK Global Inc.",
+            "num_shares":"5,086,100",
+            "portfolio_weight":"4.30",
+            "recent_activity":"Reduce 8.37%",
+            "reported_price":"$65.01",
+            "ticker":"CDK"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"1,006,800",
+            "portfolio_weight":"4.28",
+            "recent_activity":"Reduce 33.36%",
+            "reported_price":"$327.32",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Amazon Corp.",
+            "num_shares":"362,100",
+            "portfolio_weight":"4.17",
+            "recent_activity":"Add 0.11%",
+            "reported_price":"$886.54",
+            "ticker":"AMZN"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"5,570,400",
+            "portfolio_weight":"4.03",
+            "recent_activity":"Add 0.19%",
+            "reported_price":"$55.66",
+            "ticker":"WFC"
+        },
+        {
+            "name":"TransDigm Group Inc.",
+            "num_shares":"1,390,400",
+            "portfolio_weight":"3.98",
+            "recent_activity":"Add 18.07%",
+            "reported_price":"$220.16",
+            "ticker":"TDG"
+        },
+        {
+            "name":"NIKE Inc.",
+            "num_shares":"5,335,000",
+            "portfolio_weight":"3.87",
+            "recent_activity":"Add 6.99%",
+            "reported_price":"$55.73",
+            "ticker":"NKE"
+        },
+        {
+            "name":"HD Supply Holdings",
+            "num_shares":"7,199,700",
+            "portfolio_weight":"3.85",
+            "recent_activity":"Add 0.24%",
+            "reported_price":"$41.13",
+            "ticker":"HDS"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"305,200",
+            "portfolio_weight":"3.36",
+            "recent_activity":"Add 0.16%",
+            "reported_price":"$847.80",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"FleetCor Technologies Inc.",
+            "num_shares":"1,577,500",
+            "portfolio_weight":"3.11",
+            "recent_activity":"Add 0.14%",
+            "reported_price":"$151.43",
+            "ticker":"FLT"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"3,966,800",
+            "portfolio_weight":"3.09",
+            "recent_activity":"Reduce 28.77%",
+            "reported_price":"$59.82",
+            "ticker":"C"
+        },
+        {
+            "name":"CSX Corp.",
+            "num_shares":"4,837,000",
+            "portfolio_weight":"2.93",
+            "recent_activity":"Buy ",
+            "reported_price":"$46.55",
+            "ticker":"CSX"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"5,513,000",
+            "portfolio_weight":"2.51",
+            "recent_activity":" ",
+            "reported_price":"$35.04",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"1,681,000",
+            "portfolio_weight":"2.46",
+            "recent_activity":"Add 0.17%",
+            "reported_price":"$112.47",
+            "ticker":"MA"
+        },
+        {
+            "name":"Visa Inc.",
+            "num_shares":"2,133,100",
+            "portfolio_weight":"2.46",
+            "recent_activity":"Reduce 11.28%",
+            "reported_price":"$88.87",
+            "ticker":"V"
+        },
+        {
+            "name":"Platform Specialty Products Corp.",
+            "num_shares":"12,785,000",
+            "portfolio_weight":"2.16",
+            "recent_activity":" ",
+            "reported_price":"$13.02",
+            "ticker":"PAH"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"3,800,000",
+            "portfolio_weight":"2.16",
+            "recent_activity":"Reduce 2.38%",
+            "reported_price":"$43.67",
+            "ticker":"ST"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"3,780,000",
+            "portfolio_weight":"2.05",
+            "recent_activity":" ",
+            "reported_price":"$41.71",
+            "ticker":"COMM"
+        },
+        {
+            "name":"Kraft Heinz Co.",
+            "num_shares":"1,665,000",
+            "portfolio_weight":"1.97",
+            "recent_activity":" ",
+            "reported_price":"$90.81",
+            "ticker":"KHC"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"1,760,000",
+            "portfolio_weight":"1.96",
+            "recent_activity":" ",
+            "reported_price":"$85.53",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Ulta Beauty Inc.",
+            "num_shares":"518,000",
+            "portfolio_weight":"1.92",
+            "recent_activity":"Reduce 7.25%",
+            "reported_price":"$285.23",
+            "ticker":"ULTA"
+        },
+        {
+            "name":"WR Grace & Co.",
+            "num_shares":"1,980,000",
+            "portfolio_weight":"1.79",
+            "recent_activity":"Reduce 26.53%",
+            "reported_price":"$69.71",
+            "ticker":"GRA"
+        },
+        {
+            "name":"Pioneer Natural Resources",
+            "num_shares":"636,200",
+            "portfolio_weight":"1.54",
+            "recent_activity":"Add 0.22%",
+            "reported_price":"$186.23",
+            "ticker":"PXD"
+        },
+        {
+            "name":"Whiting Petroleum Corp.",
+            "num_shares":"11,699,500",
+            "portfolio_weight":"1.44",
+            "recent_activity":"Add 0.22%",
+            "reported_price":"$9.46",
+            "ticker":"WLL"
+        },
+        {
+            "name":"Liberty LiLAC Group C",
+            "num_shares":"4,780,000",
+            "portfolio_weight":"1.43",
+            "recent_activity":"Add 19.13%",
+            "reported_price":"$23.04",
+            "ticker":"LILAK"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"2,620,000",
+            "portfolio_weight":"1.42",
+            "recent_activity":" ",
+            "reported_price":"$41.72",
+            "ticker":"DVN"
+        },
+        {
+            "name":"Goldman Sachs Group",
+            "num_shares":"460,000",
+            "portfolio_weight":"1.37",
+            "recent_activity":" ",
+            "reported_price":"$229.72",
+            "ticker":"GS"
+        },
+        {
+            "name":"Oasis Petroleum Inc.",
+            "num_shares":"6,870,000",
+            "portfolio_weight":"1.27",
+            "recent_activity":" ",
+            "reported_price":"$14.26",
+            "ticker":"OAS"
+        },
+        {
+            "name":"Alnylam Pharmaceuticals",
+            "num_shares":"1,590,000",
+            "portfolio_weight":"1.06",
+            "recent_activity":"Add 20.45%",
+            "reported_price":"$51.25",
+            "ticker":"ALNY"
+        },
+        {
+            "name":"Lamb Weston Hldgs Inc.",
+            "num_shares":"1,800,000",
+            "portfolio_weight":"0.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$42.06",
+            "ticker":"LW"
+        },
+        {
+            "name":"Amaya Inc.",
+            "num_shares":"4,369,700",
+            "portfolio_weight":"0.96",
+            "recent_activity":" ",
+            "reported_price":"$16.97",
+            "ticker":"AYA"
+        },
+        {
+            "name":"Range Resources Corp.",
+            "num_shares":"2,040,000",
+            "portfolio_weight":"0.77",
+            "recent_activity":" ",
+            "reported_price":"$29.10",
+            "ticker":"RRC"
+        },
+        {
+            "name":"The Medicines Company",
+            "num_shares":"1,100,000",
+            "portfolio_weight":"0.70",
+            "recent_activity":"Buy ",
+            "reported_price":"$48.90",
+            "ticker":"MDCO"
+        },
+        {
+            "name":"BioMarin Pharmaceutical Inc.",
+            "num_shares":"595,000",
+            "portfolio_weight":"0.68",
+            "recent_activity":" ",
+            "reported_price":"$87.78",
+            "ticker":"BMRN"
+        },
+        {
+            "name":"TransUnion",
+            "num_shares":"1,300,000",
+            "portfolio_weight":"0.65",
+            "recent_activity":"Reduce 50.38%",
+            "reported_price":"$38.35",
+            "ticker":"TRU"
+        },
+        {
+            "name":"Middleby Corp.",
+            "num_shares":"230,024",
+            "portfolio_weight":"0.41",
+            "recent_activity":" ",
+            "reported_price":"$136.45",
+            "ticker":"MIDD"
+        },
+        {
+            "name":"MacroGenics Inc.",
+            "num_shares":"1,360,000",
+            "portfolio_weight":"0.33",
+            "recent_activity":" ",
+            "reported_price":"$18.60",
+            "ticker":"MGNX"
+        },
+        {
+            "name":"Och Ziff Capital Mgmt Grp LLC",
+            "num_shares":"8,840,000",
+            "portfolio_weight":"0.26",
+            "recent_activity":" ",
+            "reported_price":"$2.26",
+            "ticker":"OZM"
+        }
+    ]
+}

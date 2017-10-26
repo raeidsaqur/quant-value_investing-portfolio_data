@@ -1,0 +1,155 @@
+{
+    "company":"Atlantic Investment Management",
+    "investor":"Alex Roepers",
+    "num_stocks":"18",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"AIM",
+    "portfolio_value":"$809,375,000",
+    "stocks":[
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"8,365,905",
+            "portfolio_weight":"18.00",
+            "recent_activity":"Reduce 15.02%",
+            "reported_price":"$17.41",
+            "ticker":"OI"
+        },
+        {
+            "name":"Harman Int'l Industries",
+            "num_shares":"1,125,026",
+            "portfolio_weight":"15.45",
+            "recent_activity":"Reduce 30.07%",
+            "reported_price":"$111.16",
+            "ticker":"HAR"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"3,117,127",
+            "portfolio_weight":"14.33",
+            "recent_activity":"Add 878.23%",
+            "reported_price":"$37.20",
+            "ticker":"COMM"
+        },
+        {
+            "name":"Diebold Inc.",
+            "num_shares":"4,161,677",
+            "portfolio_weight":"12.93",
+            "recent_activity":"Add 1051.78%",
+            "reported_price":"$25.15",
+            "ticker":"DBD"
+        },
+        {
+            "name":"Goodyear Tire & Rubber",
+            "num_shares":"2,984,730",
+            "portfolio_weight":"11.38",
+            "recent_activity":"Reduce 21.38%",
+            "reported_price":"$30.87",
+            "ticker":"GT"
+        },
+        {
+            "name":"Eastman Chemical",
+            "num_shares":"1,211,395",
+            "portfolio_weight":"11.26",
+            "recent_activity":"Reduce 37.97%",
+            "reported_price":"$75.21",
+            "ticker":"EMN"
+        },
+        {
+            "name":"Triumph Group Inc.",
+            "num_shares":"2,419,525",
+            "portfolio_weight":"7.92",
+            "recent_activity":"Reduce 21.95%",
+            "reported_price":"$26.50",
+            "ticker":"TGI"
+        },
+        {
+            "name":"ARRIS International plc",
+            "num_shares":"310,157",
+            "portfolio_weight":"1.15",
+            "recent_activity":"Buy ",
+            "reported_price":"$30.13",
+            "ticker":"ARRS"
+        },
+        {
+            "name":"Magna International Inc.",
+            "num_shares":"201,457",
+            "portfolio_weight":"1.08",
+            "recent_activity":"Add 26.70%",
+            "reported_price":"$43.40",
+            "ticker":"MGA"
+        },
+        {
+            "name":"Asbury Automotive Group Inc.",
+            "num_shares":"137,881",
+            "portfolio_weight":"1.05",
+            "recent_activity":"Add 8.68%",
+            "reported_price":"$61.70",
+            "ticker":"ABG"
+        },
+        {
+            "name":"Steelcase Inc.",
+            "num_shares":"454,614",
+            "portfolio_weight":"1.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$17.90",
+            "ticker":"SCS"
+        },
+        {
+            "name":"Office Depot",
+            "num_shares":"1,680,297",
+            "portfolio_weight":"0.94",
+            "recent_activity":"Reduce 0.64%",
+            "reported_price":"$4.52",
+            "ticker":"ODP"
+        },
+        {
+            "name":"Staples Inc.",
+            "num_shares":"745,236",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$9.05",
+            "ticker":"SPLS"
+        },
+        {
+            "name":"Verifone Systems Inc.",
+            "num_shares":"347,836",
+            "portfolio_weight":"0.76",
+            "recent_activity":"Reduce 15.27%",
+            "reported_price":"$17.73",
+            "ticker":"PAY"
+        },
+        {
+            "name":"Computer Sciences Corp.",
+            "num_shares":"65,000",
+            "portfolio_weight":"0.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$59.42",
+            "ticker":"CSC"
+        },
+        {
+            "name":"Oshkosh Corp.",
+            "num_shares":"60,000",
+            "portfolio_weight":"0.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$64.62",
+            "ticker":"OSK"
+        },
+        {
+            "name":"Cooper Tire & Rubber Co.",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.85",
+            "ticker":"CTB"
+        },
+        {
+            "name":"Babcock & Wilcox Enterprises",
+            "num_shares":"230,000",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Buy ",
+            "reported_price":"$16.59",
+            "ticker":"BW"
+        }
+    ]
+}

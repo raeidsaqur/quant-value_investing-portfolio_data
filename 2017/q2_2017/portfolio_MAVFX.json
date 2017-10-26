@@ -1,0 +1,283 @@
+{
+    "company":"Matrix Advisors Value",
+    "investor":"David Katz",
+    "num_stocks":"34",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"MAVFX",
+    "portfolio_value":"$58,355,000",
+    "stocks":[
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"31,000",
+            "portfolio_weight":"4.85",
+            "recent_activity":" ",
+            "reported_price":"$91.39",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"46,000",
+            "portfolio_weight":"4.37",
+            "recent_activity":" ",
+            "reported_price":"$55.41",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"35,000",
+            "portfolio_weight":"4.14",
+            "recent_activity":" ",
+            "reported_price":"$68.94",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Eaton Corp.",
+            "num_shares":"29,700",
+            "portfolio_weight":"3.96",
+            "recent_activity":"Reduce 4.81%",
+            "reported_price":"$77.85",
+            "ticker":"ETN"
+        },
+        {
+            "name":"Zimmer Biomet Holdings",
+            "num_shares":"17,900",
+            "portfolio_weight":"3.94",
+            "recent_activity":"Reduce 3.24%",
+            "reported_price":"$128.38",
+            "ticker":"ZBH"
+        },
+        {
+            "name":"CVS Health Corp.",
+            "num_shares":"28,500",
+            "portfolio_weight":"3.93",
+            "recent_activity":" ",
+            "reported_price":"$80.46",
+            "ticker":"CVS"
+        },
+        {
+            "name":"MetLife Inc.",
+            "num_shares":"41,600",
+            "portfolio_weight":"3.92",
+            "recent_activity":" ",
+            "reported_price":"$54.95",
+            "ticker":"MET"
+        },
+        {
+            "name":"TE Connectivity",
+            "num_shares":"26,400",
+            "portfolio_weight":"3.56",
+            "recent_activity":" ",
+            "reported_price":"$78.67",
+            "ticker":"TEL"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"66,000",
+            "portfolio_weight":"3.54",
+            "recent_activity":"Reduce 1.49%",
+            "reported_price":"$31.30",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"2,250",
+            "portfolio_weight":"3.50",
+            "recent_activity":" ",
+            "reported_price":"$908.89",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Johnson Controls Intl. plc",
+            "num_shares":"45,499",
+            "portfolio_weight":"3.38",
+            "recent_activity":"Reduce 4.21%",
+            "reported_price":"$43.36",
+            "ticker":"JCI"
+        },
+        {
+            "name":"Chubb Limited",
+            "num_shares":"13,500",
+            "portfolio_weight":"3.36",
+            "recent_activity":" ",
+            "reported_price":"$145.41",
+            "ticker":"CB"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"15,800",
+            "portfolio_weight":"3.31",
+            "recent_activity":"Reduce 2.47%",
+            "reported_price":"$122.09",
+            "ticker":"UTX"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"33,000",
+            "portfolio_weight":"3.12",
+            "recent_activity":" ",
+            "reported_price":"$55.21",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"AbbVie Inc.",
+            "num_shares":"25,000",
+            "portfolio_weight":"3.11",
+            "recent_activity":" ",
+            "reported_price":"$72.52",
+            "ticker":"ABBV"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"10,300",
+            "portfolio_weight":"3.08",
+            "recent_activity":"Reduce 0.96%",
+            "reported_price":"$174.47",
+            "ticker":"TMO"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"25,000",
+            "portfolio_weight":"3.03",
+            "recent_activity":"Reduce 20.63%",
+            "reported_price":"$70.80",
+            "ticker":"GILD"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"20,200",
+            "portfolio_weight":"3.02",
+            "recent_activity":" ",
+            "reported_price":"$87.13",
+            "ticker":"PG"
+        },
+        {
+            "name":"Occidental Petroleum",
+            "num_shares":"27,000",
+            "portfolio_weight":"2.77",
+            "recent_activity":"Add 3.85%",
+            "reported_price":"$59.85",
+            "ticker":"OXY"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"24,400",
+            "portfolio_weight":"2.75",
+            "recent_activity":"Add 16.75%",
+            "reported_price":"$65.82",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"19,300",
+            "portfolio_weight":"2.73",
+            "recent_activity":" ",
+            "reported_price":"$82.64",
+            "ticker":"COF"
+        },
+        {
+            "name":"Chevron Corp.",
+            "num_shares":"14,500",
+            "portfolio_weight":"2.59",
+            "recent_activity":" ",
+            "reported_price":"$104.34",
+            "ticker":"CVX"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"17,900",
+            "portfolio_weight":"2.58",
+            "recent_activity":" ",
+            "reported_price":"$84.25",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Harley-Davidson",
+            "num_shares":"27,500",
+            "portfolio_weight":"2.55",
+            "recent_activity":"Add 10.00%",
+            "reported_price":"$54.04",
+            "ticker":"HOG"
+        },
+        {
+            "name":"Viacom Inc.",
+            "num_shares":"42,500",
+            "portfolio_weight":"2.45",
+            "recent_activity":"Add 23.19%",
+            "reported_price":"$33.58",
+            "ticker":"VIAB"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"12,200",
+            "portfolio_weight":"2.41",
+            "recent_activity":" ",
+            "reported_price":"$115.49",
+            "ticker":"PEP"
+        },
+        {
+            "name":"State Street Corp.",
+            "num_shares":"15,600",
+            "portfolio_weight":"2.40",
+            "recent_activity":" ",
+            "reported_price":"$89.74",
+            "ticker":"STT"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"39,800",
+            "portfolio_weight":"2.18",
+            "recent_activity":"Reduce 13.10%",
+            "reported_price":"$31.96",
+            "ticker":"DVN"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"27,000",
+            "portfolio_weight":"2.06",
+            "recent_activity":" ",
+            "reported_price":"$44.56",
+            "ticker":"MS"
+        },
+        {
+            "name":"BB&T Corp.",
+            "num_shares":"26,500",
+            "portfolio_weight":"2.06",
+            "recent_activity":" ",
+            "reported_price":"$45.40",
+            "ticker":"BBT"
+        },
+        {
+            "name":"General Electric",
+            "num_shares":"40,400",
+            "portfolio_weight":"1.87",
+            "recent_activity":"Buy ",
+            "reported_price":"$27.00",
+            "ticker":"GE"
+        },
+        {
+            "name":"ConocoPhillips",
+            "num_shares":"22,500",
+            "portfolio_weight":"1.69",
+            "recent_activity":"Reduce 16.36%",
+            "reported_price":"$43.96",
+            "ticker":"COP"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"5,500",
+            "portfolio_weight":"1.36",
+            "recent_activity":" ",
+            "reported_price":"$144.00",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Scripps Networks Interactive Inc.",
+            "num_shares":"3,600",
+            "portfolio_weight":"0.42",
+            "recent_activity":"Buy ",
+            "reported_price":"$68.33",
+            "ticker":"SNI"
+        }
+    ]
+}

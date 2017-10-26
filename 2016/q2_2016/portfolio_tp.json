@@ -1,0 +1,323 @@
+{
+    "company":"Third Point",
+    "investor":"Daniel Loeb",
+    "num_stocks":"39",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"tp",
+    "portfolio_value":"$10,376,923,000",
+    "stocks":[
+        {
+            "name":"Baxter International Inc.",
+            "num_shares":"51,901,767",
+            "portfolio_weight":"22.62",
+            "recent_activity":"Reduce 3.62%",
+            "reported_price":"$45.22",
+            "ticker":"BAX"
+        },
+        {
+            "name":"Allergan Plc",
+            "num_shares":"4,900,000",
+            "portfolio_weight":"10.91",
+            "recent_activity":"Reduce 2.00%",
+            "reported_price":"$231.09",
+            "ticker":"AGN"
+        },
+        {
+            "name":"Dow Chemical",
+            "num_shares":"20,000,000",
+            "portfolio_weight":"9.58",
+            "recent_activity":"Reduce 20.00%",
+            "reported_price":"$49.71",
+            "ticker":"DOW"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"3,750,000",
+            "portfolio_weight":"4.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$114.28",
+            "ticker":"FB"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"3,850,000",
+            "portfolio_weight":"3.75",
+            "recent_activity":"Add 4.05%",
+            "reported_price":"$101.00",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Constellation Brands",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"3.19",
+            "recent_activity":"Add 13.31%",
+            "reported_price":"$165.40",
+            "ticker":"STZ"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"1,450,000",
+            "portfolio_weight":"3.19",
+            "recent_activity":"Buy ",
+            "reported_price":"$228.64",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Chubb Limited",
+            "num_shares":"2,350,000",
+            "portfolio_weight":"2.96",
+            "recent_activity":"Reduce 2.08%",
+            "reported_price":"$130.71",
+            "ticker":"CB"
+        },
+        {
+            "name":"TransDigm Group Inc.",
+            "num_shares":"1,131,000",
+            "portfolio_weight":"2.87",
+            "recent_activity":"Add 13.10%",
+            "reported_price":"$263.69",
+            "ticker":"TDG"
+        },
+        {
+            "name":"Mohawk Industries",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"2.74",
+            "recent_activity":"Reduce 25.00%",
+            "reported_price":"$189.76",
+            "ticker":"MHK"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"400,000",
+            "portfolio_weight":"2.71",
+            "recent_activity":"Reduce 42.86%",
+            "reported_price":"$703.53",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Anheuser-Busch InBev",
+            "num_shares":"1,900,000",
+            "portfolio_weight":"2.41",
+            "recent_activity":"Add 8.57%",
+            "reported_price":"$131.68",
+            "ticker":"BUD"
+        },
+        {
+            "name":"Lowe's Cos.",
+            "num_shares":"3,000,000",
+            "portfolio_weight":"2.29",
+            "recent_activity":" ",
+            "reported_price":"$79.17",
+            "ticker":"LOW"
+        },
+        {
+            "name":"Yum! Brands Inc.",
+            "num_shares":"2,500,000",
+            "portfolio_weight":"2.00",
+            "recent_activity":"Reduce 54.55%",
+            "reported_price":"$82.92",
+            "ticker":"YUM"
+        },
+        {
+            "name":"Monsanto Co.",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"1.99",
+            "recent_activity":"Buy ",
+            "reported_price":"$103.41",
+            "ticker":"MON"
+        },
+        {
+            "name":"Sealed Air Corp.",
+            "num_shares":"4,500,000",
+            "portfolio_weight":"1.99",
+            "recent_activity":"Reduce 10.00%",
+            "reported_price":"$45.97",
+            "ticker":"SEE"
+        },
+        {
+            "name":"Sherwin-Williams",
+            "num_shares":"700,000",
+            "portfolio_weight":"1.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$293.67",
+            "ticker":"SHW"
+        },
+        {
+            "name":"Sotheby's",
+            "num_shares":"6,660,925",
+            "portfolio_weight":"1.76",
+            "recent_activity":" ",
+            "reported_price":"$27.40",
+            "ticker":"BID"
+        },
+        {
+            "name":"Shire plc",
+            "num_shares":"950,000",
+            "portfolio_weight":"1.69",
+            "recent_activity":"Buy ",
+            "reported_price":"$184.08",
+            "ticker":"SHPG"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"1,600,000",
+            "portfolio_weight":"1.65",
+            "recent_activity":"Buy ",
+            "reported_price":"$107.26",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"EMC Corp.",
+            "num_shares":"6,000,000",
+            "portfolio_weight":"1.57",
+            "recent_activity":"Reduce 14.29%",
+            "reported_price":"$27.17",
+            "ticker":"EMC"
+        },
+        {
+            "name":"Ametek Inc.",
+            "num_shares":"2,700,000",
+            "portfolio_weight":"1.20",
+            "recent_activity":"Buy ",
+            "reported_price":"$46.23",
+            "ticker":"AME"
+        },
+        {
+            "name":"Activision Blizzard Inc.",
+            "num_shares":"3,000,000",
+            "portfolio_weight":"1.15",
+            "recent_activity":"Buy ",
+            "reported_price":"$39.63",
+            "ticker":"ATVI"
+        },
+        {
+            "name":"Union Pacific",
+            "num_shares":"1,350,000",
+            "portfolio_weight":"1.14",
+            "recent_activity":"Buy ",
+            "reported_price":"$87.25",
+            "ticker":"UNP"
+        },
+        {
+            "name":"Molson Coors Brewing Co.",
+            "num_shares":"1,000,000",
+            "portfolio_weight":"0.97",
+            "recent_activity":"Reduce 53.49%",
+            "reported_price":"$101.13",
+            "ticker":"TAP"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"12,650,000",
+            "portfolio_weight":"0.97",
+            "recent_activity":"Add 8.26%",
+            "reported_price":"$7.98",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Coca-Cola European Partners Plc",
+            "num_shares":"2,700,000",
+            "portfolio_weight":"0.93",
+            "recent_activity":"Buy ",
+            "reported_price":"$35.69",
+            "ticker":"CCE"
+        },
+        {
+            "name":"Harris Corp.",
+            "num_shares":"1,000,000",
+            "portfolio_weight":"0.80",
+            "recent_activity":"Buy ",
+            "reported_price":"$83.44",
+            "ticker":"HRS"
+        },
+        {
+            "name":"Whiting Petroleum Corp.",
+            "num_shares":"8,200,000",
+            "portfolio_weight":"0.73",
+            "recent_activity":"Buy ",
+            "reported_price":"$9.26",
+            "ticker":"WLL"
+        },
+        {
+            "name":"Marathon Oil Corp.",
+            "num_shares":"4,000,000",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.01",
+            "ticker":"MRO"
+        },
+        {
+            "name":"Green Brick Partners",
+            "num_shares":"8,083,022",
+            "portfolio_weight":"0.57",
+            "recent_activity":" ",
+            "reported_price":"$7.27",
+            "ticker":"GRBK"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"0.56",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.06",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"Grupo Supervielle S.A.",
+            "num_shares":"4,500,000",
+            "portfolio_weight":"0.55",
+            "recent_activity":"Buy ",
+            "reported_price":"$12.79",
+            "ticker":"SUPV"
+        },
+        {
+            "name":"General Dynamics",
+            "num_shares":"355,100",
+            "portfolio_weight":"0.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$139.24",
+            "ticker":"GD"
+        },
+        {
+            "name":"Tesoro Corp.",
+            "num_shares":"650,000",
+            "portfolio_weight":"0.47",
+            "recent_activity":"Buy ",
+            "reported_price":"$74.92",
+            "ticker":"TSO"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"1,150,000",
+            "portfolio_weight":"0.40",
+            "recent_activity":"Buy ",
+            "reported_price":"$36.25",
+            "ticker":"DVN"
+        },
+        {
+            "name":"Apigee Corp.",
+            "num_shares":"3,166,551",
+            "portfolio_weight":"0.37",
+            "recent_activity":" ",
+            "reported_price":"$12.22",
+            "ticker":"APIC"
+        },
+        {
+            "name":"Enphase Energy Inc.",
+            "num_shares":"6,248,987",
+            "portfolio_weight":"0.12",
+            "recent_activity":" ",
+            "reported_price":"$1.99",
+            "ticker":"ENPH"
+        },
+        {
+            "name":"Citigroup WTS A",
+            "num_shares":"20,000,000",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$0.06",
+            "ticker":"C.WS.A"
+        }
+    ]
+}

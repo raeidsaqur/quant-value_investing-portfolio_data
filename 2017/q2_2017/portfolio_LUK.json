@@ -1,0 +1,419 @@
+{
+    "company":"Leucadia National",
+    "investor":"Leucadia Nat. Corp.",
+    "num_stocks":"51",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"LUK",
+    "portfolio_value":"$1,151,618,000",
+    "stocks":[
+        {
+            "name":"HRG Group Inc.",
+            "num_shares":"46,600,000",
+            "portfolio_weight":"71.66",
+            "recent_activity":" ",
+            "reported_price":"$17.71",
+            "ticker":"HRG"
+        },
+        {
+            "name":"Altaba Inc.",
+            "num_shares":"706,047",
+            "portfolio_weight":"3.34",
+            "recent_activity":"Buy ",
+            "reported_price":"$54.48",
+            "ticker":"AABA"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"337,704",
+            "portfolio_weight":"2.94",
+            "recent_activity":"Add 70.92%",
+            "reported_price":"$100.41",
+            "ticker":"TWX"
+        },
+        {
+            "name":"Fiesta Restaurant Group",
+            "num_shares":"1,356,295",
+            "portfolio_weight":"2.43",
+            "recent_activity":"Add 34.69%",
+            "reported_price":"$20.65",
+            "ticker":"FRGI"
+        },
+        {
+            "name":"Reynolds American Inc.",
+            "num_shares":"355,941",
+            "portfolio_weight":"2.02",
+            "recent_activity":"Add 9.81%",
+            "reported_price":"$65.30",
+            "ticker":"RAI"
+        },
+        {
+            "name":"NXP Semiconductors NV",
+            "num_shares":"203,700",
+            "portfolio_weight":"1.94",
+            "recent_activity":"Add 3.88%",
+            "reported_price":"$109.45",
+            "ticker":"NXPI"
+        },
+        {
+            "name":"Lonestar Resources US Inc.",
+            "num_shares":"3,978,488",
+            "portfolio_weight":"1.49",
+            "recent_activity":" ",
+            "reported_price":"$4.30",
+            "ticker":"LONE"
+        },
+        {
+            "name":"Huntsman Corp.",
+            "num_shares":"660,625",
+            "portfolio_weight":"1.48",
+            "recent_activity":"Buy ",
+            "reported_price":"$25.79",
+            "ticker":"HUN"
+        },
+        {
+            "name":"Liberty Sirius XM Series A",
+            "num_shares":"316,010",
+            "portfolio_weight":"1.15",
+            "recent_activity":"Reduce 4.28%",
+            "reported_price":"$41.98",
+            "ticker":"LSXMA"
+        },
+        {
+            "name":"Bard (C.R.) Inc.",
+            "num_shares":"41,708",
+            "portfolio_weight":"1.14",
+            "recent_activity":"Buy ",
+            "reported_price":"$316.10",
+            "ticker":"BCR"
+        },
+        {
+            "name":"Dell Technologies Inc.",
+            "num_shares":"174,438",
+            "portfolio_weight":"0.93",
+            "recent_activity":"Add 15.66%",
+            "reported_price":"$61.11",
+            "ticker":"DVMT"
+        },
+        {
+            "name":"Tribune Media Co.",
+            "num_shares":"261,620",
+            "portfolio_weight":"0.93",
+            "recent_activity":"Buy ",
+            "reported_price":"$40.77",
+            "ticker":"TRCO"
+        },
+        {
+            "name":"Liberty Ventures",
+            "num_shares":"190,318",
+            "portfolio_weight":"0.86",
+            "recent_activity":"Reduce 70.41%",
+            "reported_price":"$52.29",
+            "ticker":"LVNTA"
+        },
+        {
+            "name":"Liberty Broadband Corp. CL A",
+            "num_shares":"112,076",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$85.79",
+            "ticker":"LBRDA"
+        },
+        {
+            "name":"BHP Billiton Ltd.",
+            "num_shares":"300,601",
+            "portfolio_weight":"0.80",
+            "recent_activity":"Add 38.27%",
+            "reported_price":"$30.76",
+            "ticker":"BHP"
+        },
+        {
+            "name":"Lions Gate Ent. Corp. CL B",
+            "num_shares":"295,301",
+            "portfolio_weight":"0.67",
+            "recent_activity":" ",
+            "reported_price":"$26.28",
+            "ticker":"LGF.B"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"373,678",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Reduce 4.48%",
+            "reported_price":"$16.64",
+            "ticker":"HPE"
+        },
+        {
+            "name":"Liberty SiriusXM Series C",
+            "num_shares":"138,529",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Reduce 13.69%",
+            "reported_price":"$41.70",
+            "ticker":"LSXMK"
+        },
+        {
+            "name":"Landcadia Holdings Inc. WTS",
+            "num_shares":"7,000,000",
+            "portfolio_weight":"0.44",
+            "recent_activity":" ",
+            "reported_price":"$0.73",
+            "ticker":"LCAHW"
+        },
+        {
+            "name":"The Spectranetics Corp.",
+            "num_shares":"130,000",
+            "portfolio_weight":"0.43",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.40",
+            "ticker":"SPNC"
+        },
+        {
+            "name":"IAC/InterActive Corp.",
+            "num_shares":"45,000",
+            "portfolio_weight":"0.40",
+            "recent_activity":"Buy ",
+            "reported_price":"$103.24",
+            "ticker":"IAC"
+        },
+        {
+            "name":"New York REIT Inc.",
+            "num_shares":"462,191",
+            "portfolio_weight":"0.35",
+            "recent_activity":"Reduce 15.97%",
+            "reported_price":"$8.64",
+            "ticker":"NYRT"
+        },
+        {
+            "name":"Ryanair Holdings PLC",
+            "num_shares":"28,597",
+            "portfolio_weight":"0.27",
+            "recent_activity":"Reduce 23.13%",
+            "reported_price":"$108.96",
+            "ticker":"RYAAY"
+        },
+        {
+            "name":"Level 3 Communications Inc.",
+            "num_shares":"47,633",
+            "portfolio_weight":"0.25",
+            "recent_activity":"Reduce 28.16%",
+            "reported_price":"$59.31",
+            "ticker":"LVLT"
+        },
+        {
+            "name":"TEGNA Inc.",
+            "num_shares":"131,641",
+            "portfolio_weight":"0.17",
+            "recent_activity":"Buy ",
+            "reported_price":"$14.48",
+            "ticker":"TGNA"
+        },
+        {
+            "name":"Simmons First National Corp.",
+            "num_shares":"33,000",
+            "portfolio_weight":"0.15",
+            "recent_activity":" ",
+            "reported_price":"$53.12",
+            "ticker":"SFNC"
+        },
+        {
+            "name":"Star Bulk Carriers Corp.",
+            "num_shares":"174,589",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Add 491.51%",
+            "reported_price":"$9.83",
+            "ticker":"SBLK"
+        },
+        {
+            "name":"News Corp. CL B",
+            "num_shares":"118,228",
+            "portfolio_weight":"0.15",
+            "recent_activity":" ",
+            "reported_price":"$14.15",
+            "ticker":"NWS"
+        },
+        {
+            "name":"Mobile Telesystems",
+            "num_shares":"200,460",
+            "portfolio_weight":"0.15",
+            "recent_activity":"Buy ",
+            "reported_price":"$8.38",
+            "ticker":"MBT"
+        },
+        {
+            "name":"Mobileye N.V.",
+            "num_shares":"25,000",
+            "portfolio_weight":"0.14",
+            "recent_activity":"Reduce 83.42%",
+            "reported_price":"$62.80",
+            "ticker":"MBLY"
+        },
+        {
+            "name":"Visteon Corp.",
+            "num_shares":"15,000",
+            "portfolio_weight":"0.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$102.07",
+            "ticker":"VC"
+        },
+        {
+            "name":"Angie's List Inc.",
+            "num_shares":"105,000",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$12.79",
+            "ticker":"ANGI"
+        },
+        {
+            "name":"Liberty Broadband Corp. CL C",
+            "num_shares":"16,162",
+            "portfolio_weight":"0.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$86.75",
+            "ticker":"LBRDK"
+        },
+        {
+            "name":"Cloud Peak Energy Inc.",
+            "num_shares":"312,229",
+            "portfolio_weight":"0.10",
+            "recent_activity":"Buy ",
+            "reported_price":"$3.53",
+            "ticker":"CLD"
+        },
+        {
+            "name":"ENSCO PLC",
+            "num_shares":"210,000",
+            "portfolio_weight":"0.09",
+            "recent_activity":"Buy ",
+            "reported_price":"$5.16",
+            "ticker":"ESV"
+        },
+        {
+            "name":"MGM Resorts International",
+            "num_shares":"30,000",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.30",
+            "ticker":"MGM"
+        },
+        {
+            "name":"Viad Corp.",
+            "num_shares":"19,000",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$47.32",
+            "ticker":"VVI"
+        },
+        {
+            "name":"Petroleo Brasileiro",
+            "num_shares":"120,000",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.99",
+            "ticker":"PBR"
+        },
+        {
+            "name":"Lamb Weston Hldgs Inc.",
+            "num_shares":"20,000",
+            "portfolio_weight":"0.08",
+            "recent_activity":"Reduce 11.72%",
+            "reported_price":"$44.05",
+            "ticker":"LW"
+        },
+        {
+            "name":"Pandora Media Inc.",
+            "num_shares":"75,000",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$8.92",
+            "ticker":"P"
+        },
+        {
+            "name":"Westar Energy Inc.",
+            "num_shares":"12,565",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Reduce 95.85%",
+            "reported_price":"$53.48",
+            "ticker":"WR"
+        },
+        {
+            "name":"DXC Technology Co.",
+            "num_shares":"9,289",
+            "portfolio_weight":"0.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$76.76",
+            "ticker":"DXC"
+        },
+        {
+            "name":"Arch Coal",
+            "num_shares":"7,706",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Buy ",
+            "reported_price":"$68.26",
+            "ticker":"ACI"
+        },
+        {
+            "name":"Herbalife Ltd.",
+            "num_shares":"7,471",
+            "portfolio_weight":"0.05",
+            "recent_activity":"Reduce 16.91%",
+            "reported_price":"$71.34",
+            "ticker":"HLF"
+        },
+        {
+            "name":"Emerald Expositions Events Inc.",
+            "num_shares":"20,689",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Buy ",
+            "reported_price":"$21.90",
+            "ticker":"EEX"
+        },
+        {
+            "name":"CVR Partners LP",
+            "num_shares":"100,000",
+            "portfolio_weight":"0.03",
+            "recent_activity":"Buy ",
+            "reported_price":"$3.49",
+            "ticker":"UAN"
+        },
+        {
+            "name":"Meridian Bioscience",
+            "num_shares":"12,513",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$15.74",
+            "ticker":"VIVO"
+        },
+        {
+            "name":"Buckle Inc.",
+            "num_shares":"10,158",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$17.82",
+            "ticker":"BKE"
+        },
+        {
+            "name":"Tailored Brands",
+            "num_shares":"16,260",
+            "portfolio_weight":"0.02",
+            "recent_activity":"Buy ",
+            "reported_price":"$11.13",
+            "ticker":"TLRD"
+        },
+        {
+            "name":"Cypress Semiconductor",
+            "num_shares":"12,344",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$13.69",
+            "ticker":"CY"
+        },
+        {
+            "name":"Invacare Corp.",
+            "num_shares":"12,204",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$13.19",
+            "ticker":"IVC"
+        }
+    ]
+}

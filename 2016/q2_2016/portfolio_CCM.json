@@ -1,0 +1,147 @@
+{
+    "company":"Brave Warrior Advisors",
+    "investor":"Glenn Greenberg",
+    "num_stocks":"17",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"CCM",
+    "portfolio_value":"$1,787,685,000",
+    "stocks":[
+        {
+            "name":"Antero Resources",
+            "num_shares":"9,285,336",
+            "portfolio_weight":"13.49",
+            "recent_activity":"Add 120.81%",
+            "reported_price":"$25.98",
+            "ticker":"AR"
+        },
+        {
+            "name":"Brookfield Asset Management Inc.",
+            "num_shares":"7,133,576",
+            "portfolio_weight":"13.20",
+            "recent_activity":"Add 2.93%",
+            "reported_price":"$33.07",
+            "ticker":"BAM"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"9,299,975",
+            "portfolio_weight":"13.17",
+            "recent_activity":"Reduce 2.66%",
+            "reported_price":"$25.31",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Cimpress N.V.",
+            "num_shares":"2,542,574",
+            "portfolio_weight":"13.15",
+            "recent_activity":"Reduce 25.08%",
+            "reported_price":"$92.48",
+            "ticker":"CMPR"
+        },
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"6,620,387",
+            "portfolio_weight":"10.61",
+            "recent_activity":"Add 28.69%",
+            "reported_price":"$28.65",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Primerica, Inc.",
+            "num_shares":"3,272,256",
+            "portfolio_weight":"10.48",
+            "recent_activity":"Reduce 1.20%",
+            "reported_price":"$57.24",
+            "ticker":"PRI"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"2,815,045",
+            "portfolio_weight":"9.79",
+            "recent_activity":"Reduce 40.41%",
+            "reported_price":"$62.14",
+            "ticker":"JPM"
+        },
+        {
+            "name":"JJPMorgan Chase WTS",
+            "num_shares":"4,567,863",
+            "portfolio_weight":"5.17",
+            "recent_activity":"Reduce 1.62%",
+            "reported_price":"$20.25",
+            "ticker":"JPM.WS"
+        },
+        {
+            "name":"Axalta Coating Systems Ltd.",
+            "num_shares":"3,021,244",
+            "portfolio_weight":"4.48",
+            "recent_activity":"Reduce 37.39%",
+            "reported_price":"$26.53",
+            "ticker":"AXTA"
+        },
+        {
+            "name":"Halliburton Co.",
+            "num_shares":"1,619,013",
+            "portfolio_weight":"4.10",
+            "recent_activity":"Reduce 74.95%",
+            "reported_price":"$45.29",
+            "ticker":"HAL"
+        },
+        {
+            "name":"Liberty Global Inc.",
+            "num_shares":"1,269,488",
+            "portfolio_weight":"2.06",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.06",
+            "ticker":"LBTYA"
+        },
+        {
+            "name":"Brookfield Business Partners LP",
+            "num_shares":"135,022",
+            "portfolio_weight":"0.14",
+            "recent_activity":"Buy ",
+            "reported_price":"$19.09",
+            "ticker":"BBU"
+        },
+        {
+            "name":"Liberty LiLAC Group A",
+            "num_shares":"36,070",
+            "portfolio_weight":"0.07",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.27",
+            "ticker":"LILA"
+        },
+        {
+            "name":"Comcast Corp.",
+            "num_shares":"15,547",
+            "portfolio_weight":"0.06",
+            "recent_activity":" ",
+            "reported_price":"$65.22",
+            "ticker":"CMCSA"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"14,532",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$13.28",
+            "ticker":"BAC"
+        },
+        {
+            "name":"AT&T Inc.",
+            "num_shares":"4,994",
+            "portfolio_weight":"0.01",
+            "recent_activity":"Buy ",
+            "reported_price":"$43.25",
+            "ticker":"T"
+        },
+        {
+            "name":"Tidewater Inc.",
+            "num_shares":"19,625",
+            "portfolio_weight":"0.00",
+            "recent_activity":" ",
+            "reported_price":"$4.43",
+            "ticker":"TDW"
+        }
+    ]
+}

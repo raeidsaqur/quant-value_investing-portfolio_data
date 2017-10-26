@@ -1,0 +1,67 @@
+{
+    "company":"Pabrai Investments",
+    "investor":"Mohnish Pabrai",
+    "num_stocks":"7",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"PI",
+    "portfolio_value":"$347,088,000",
+    "stocks":[
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"11,971,930",
+            "portfolio_weight":"31.46",
+            "recent_activity":"Reduce 13.07%",
+            "reported_price":"$9.12",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"5,578,837",
+            "portfolio_weight":"27.58",
+            "recent_activity":"Reduce 6.78%",
+            "reported_price":"$17.16",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"69,188",
+            "portfolio_weight":"15.39",
+            "recent_activity":" ",
+            "reported_price":"$771.82",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"AerCap Holdings N.V.",
+            "num_shares":"671,685",
+            "portfolio_weight":"8.05",
+            "recent_activity":"Add 7.61%",
+            "reported_price":"$41.61",
+            "ticker":"AER"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"398,138",
+            "portfolio_weight":"6.69",
+            "recent_activity":"Reduce 41.03%",
+            "reported_price":"$58.33",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"529,113",
+            "portfolio_weight":"6.51",
+            "recent_activity":" ",
+            "reported_price":"$42.71",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Southwest Airlines",
+            "num_shares":"300,975",
+            "portfolio_weight":"4.32",
+            "recent_activity":"Reduce 41.24%",
+            "reported_price":"$49.84",
+            "ticker":"LUV"
+        }
+    ]
+}

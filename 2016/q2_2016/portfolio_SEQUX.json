@@ -1,0 +1,275 @@
+{
+    "company":"Sequoia",
+    "investor":"David Poppe",
+    "num_stocks":"33",
+    "period":"Q1 2016",
+    "portfolio_date":"31 Mar 2016",
+    "portfolio_id":"SEQUX",
+    "portfolio_value":"$4,608,891,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"2,396",
+            "portfolio_weight":"11.10",
+            "recent_activity":"Reduce 15.57%",
+            "reported_price":"$213449.92",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"TJX Companies Inc.",
+            "num_shares":"5,845,283",
+            "portfolio_weight":"9.94",
+            "recent_activity":"Reduce 11.16%",
+            "reported_price":"$78.35",
+            "ticker":"TJX"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"2,340,800",
+            "portfolio_weight":"7.21",
+            "recent_activity":"Reduce 6.73%",
+            "reported_price":"$141.88",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Fastenal",
+            "num_shares":"6,398,049",
+            "portfolio_weight":"6.80",
+            "recent_activity":"Reduce 26.56%",
+            "reported_price":"$49.00",
+            "ticker":"FAST"
+        },
+        {
+            "name":"O'Reilly Automotive",
+            "num_shares":"1,091,186",
+            "portfolio_weight":"6.48",
+            "recent_activity":"Reduce 33.88%",
+            "reported_price":"$273.66",
+            "ticker":"ORLY"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"11,114,082",
+            "portfolio_weight":"6.34",
+            "recent_activity":"Reduce 13.19%",
+            "reported_price":"$26.30",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"2,974,202",
+            "portfolio_weight":"6.10",
+            "recent_activity":" ",
+            "reported_price":"$94.50",
+            "ticker":"MA"
+        },
+        {
+            "name":"IDEXX Laboratories",
+            "num_shares":"3,140,671",
+            "portfolio_weight":"5.34",
+            "recent_activity":" ",
+            "reported_price":"$78.32",
+            "ticker":"IDXX"
+        },
+        {
+            "name":"Mohawk Industries",
+            "num_shares":"1,140,822",
+            "portfolio_weight":"4.73",
+            "recent_activity":" ",
+            "reported_price":"$190.90",
+            "ticker":"MHK"
+        },
+        {
+            "name":"Rolls Royce Holdings plc",
+            "num_shares":"18,684,157",
+            "portfolio_weight":"3.97",
+            "recent_activity":" ",
+            "reported_price":"$9.80",
+            "ticker":"RYCEF"
+        },
+        {
+            "name":"Constellation Software Inc.",
+            "num_shares":"422,445",
+            "portfolio_weight":"3.75",
+            "recent_activity":" ",
+            "reported_price":"$409.46",
+            "ticker":"CNSWF"
+        },
+        {
+            "name":"DENTSPLY International Inc.",
+            "num_shares":"2,268,809",
+            "portfolio_weight":"3.03",
+            "recent_activity":"Buy ",
+            "reported_price":"$61.63",
+            "ticker":"XRAY"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"161,444",
+            "portfolio_weight":"2.67",
+            "recent_activity":" ",
+            "reported_price":"$762.90",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"161,887",
+            "portfolio_weight":"2.62",
+            "recent_activity":" ",
+            "reported_price":"$744.95",
+            "ticker":"GOOG"
+        },
+        {
+            "name":"Waters Corp.",
+            "num_shares":"837,403",
+            "portfolio_weight":"2.40",
+            "recent_activity":" ",
+            "reported_price":"$131.92",
+            "ticker":"WAT"
+        },
+        {
+            "name":"Jacobs Engineering Group",
+            "num_shares":"2,220,000",
+            "portfolio_weight":"2.10",
+            "recent_activity":" ",
+            "reported_price":"$43.55",
+            "ticker":"JEC"
+        },
+        {
+            "name":"Praxair Inc.",
+            "num_shares":"685,147",
+            "portfolio_weight":"1.70",
+            "recent_activity":" ",
+            "reported_price":"$114.45",
+            "ticker":"PX"
+        },
+        {
+            "name":"Omnicom Group",
+            "num_shares":"928,976",
+            "portfolio_weight":"1.68",
+            "recent_activity":" ",
+            "reported_price":"$83.23",
+            "ticker":"OMC"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"761,755",
+            "portfolio_weight":"1.57",
+            "recent_activity":" ",
+            "reported_price":"$94.86",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Croda International",
+            "num_shares":"1,526,978",
+            "portfolio_weight":"1.45",
+            "recent_activity":" ",
+            "reported_price":"$43.65",
+            "ticker":"COIHF"
+        },
+        {
+            "name":"Tiffany & Co.",
+            "num_shares":"848,646",
+            "portfolio_weight":"1.35",
+            "recent_activity":" ",
+            "reported_price":"$73.38",
+            "ticker":"TIF"
+        },
+        {
+            "name":"Hiscox Ltd.",
+            "num_shares":"4,325,462",
+            "portfolio_weight":"1.31",
+            "recent_activity":" ",
+            "reported_price":"$13.92",
+            "ticker":"HCXLF"
+        },
+        {
+            "name":"Perrigo Co.",
+            "num_shares":"459,618",
+            "portfolio_weight":"1.28",
+            "recent_activity":" ",
+            "reported_price":"$127.93",
+            "ticker":"PRGO"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"860,077",
+            "portfolio_weight":"1.28",
+            "recent_activity":"Reduce 3.37%",
+            "reported_price":"$68.49",
+            "ticker":"WMT"
+        },
+        {
+            "name":"Compagnie Financiere Richemont SA",
+            "num_shares":"872,711",
+            "portfolio_weight":"1.25",
+            "recent_activity":" ",
+            "reported_price":"$66.09",
+            "ticker":"CFRHF"
+        },
+        {
+            "name":"Emcor Group",
+            "num_shares":"771,762",
+            "portfolio_weight":"0.81",
+            "recent_activity":" ",
+            "reported_price":"$48.60",
+            "ticker":"EME"
+        },
+        {
+            "name":"Cabela's Inc.",
+            "num_shares":"709,744",
+            "portfolio_weight":"0.75",
+            "recent_activity":"Reduce 44.79%",
+            "reported_price":"$48.69",
+            "ticker":"CAB"
+        },
+        {
+            "name":"Trimble Navigation Ltd.",
+            "num_shares":"1,270,183",
+            "portfolio_weight":"0.68",
+            "recent_activity":" ",
+            "reported_price":"$24.80",
+            "ticker":"TRMB"
+        },
+        {
+            "name":"Costco Co.",
+            "num_shares":"39,463",
+            "portfolio_weight":"0.13",
+            "recent_activity":" ",
+            "reported_price":"$157.59",
+            "ticker":"COST"
+        },
+        {
+            "name":"Canadian Natural Resources",
+            "num_shares":"178,592",
+            "portfolio_weight":"0.10",
+            "recent_activity":" ",
+            "reported_price":"$27.00",
+            "ticker":"CNQ"
+        },
+        {
+            "name":"Verisk Analytics Inc.",
+            "num_shares":"20,893",
+            "portfolio_weight":"0.04",
+            "recent_activity":" ",
+            "reported_price":"$79.93",
+            "ticker":"VRSK"
+        },
+        {
+            "name":"Expeditors Int'l",
+            "num_shares":"35,650",
+            "portfolio_weight":"0.04",
+            "recent_activity":"Reduce 28.20%",
+            "reported_price":"$48.81",
+            "ticker":"EXPD"
+        },
+        {
+            "name":"Zoetis Inc.",
+            "num_shares":"19,931",
+            "portfolio_weight":"0.02",
+            "recent_activity":" ",
+            "reported_price":"$44.35",
+            "ticker":"ZTS"
+        }
+    ]
+}

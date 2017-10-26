@@ -1,0 +1,307 @@
+{
+    "company":"Third Point",
+    "investor":"Daniel Loeb",
+    "num_stocks":"37",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"tp",
+    "portfolio_value":"$10,145,003,000",
+    "stocks":[
+        {
+            "name":"Baxter International Inc.",
+            "num_shares":"46,000,000",
+            "portfolio_weight":"23.51",
+            "recent_activity":"Reduce 11.37%",
+            "reported_price":"$51.86",
+            "ticker":"BAX"
+        },
+        {
+            "name":"Dow Chemical",
+            "num_shares":"15,700,000",
+            "portfolio_weight":"9.83",
+            "recent_activity":"Reduce 7.65%",
+            "reported_price":"$63.54",
+            "ticker":"DOW"
+        },
+        {
+            "name":"Constellation Brands",
+            "num_shares":"3,000,000",
+            "portfolio_weight":"4.79",
+            "recent_activity":" ",
+            "reported_price":"$162.07",
+            "ticker":"STZ"
+        },
+        {
+            "name":"Facebook Inc.",
+            "num_shares":"3,000,000",
+            "portfolio_weight":"4.20",
+            "recent_activity":"Reduce 14.29%",
+            "reported_price":"$142.05",
+            "ticker":"FB"
+        },
+        {
+            "name":"Alphabet Inc.",
+            "num_shares":"455,000",
+            "portfolio_weight":"3.80",
+            "recent_activity":"Add 7.06%",
+            "reported_price":"$847.80",
+            "ticker":"GOOGL"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"3,500,000",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Add 16.67%",
+            "reported_price":"$97.71",
+            "ticker":"TWX"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"3,750,000",
+            "portfolio_weight":"3.25",
+            "recent_activity":"Reduce 28.57%",
+            "reported_price":"$87.84",
+            "ticker":"JPM"
+        },
+        {
+            "name":"T-Mobile US Inc.",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"3.18",
+            "recent_activity":"Buy ",
+            "reported_price":"$64.59",
+            "ticker":"TMUS"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"13,500,000",
+            "portfolio_weight":"3.14",
+            "recent_activity":"Reduce 22.86%",
+            "reported_price":"$23.59",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Sotheby's",
+            "num_shares":"6,661,604",
+            "portfolio_weight":"2.99",
+            "recent_activity":" ",
+            "reported_price":"$45.48",
+            "ticker":"BID"
+        },
+        {
+            "name":"Sherwin-Williams",
+            "num_shares":"900,000",
+            "portfolio_weight":"2.75",
+            "recent_activity":"Reduce 10.00%",
+            "reported_price":"$310.19",
+            "ticker":"SHW"
+        },
+        {
+            "name":"Danaher Corp.",
+            "num_shares":"3,100,000",
+            "portfolio_weight":"2.61",
+            "recent_activity":"Reduce 4.62%",
+            "reported_price":"$85.53",
+            "ticker":"DHR"
+        },
+        {
+            "name":"Charter Communications",
+            "num_shares":"800,000",
+            "portfolio_weight":"2.58",
+            "recent_activity":"Reduce 5.88%",
+            "reported_price":"$327.32",
+            "ticker":"CHTR"
+        },
+        {
+            "name":"Salesforce.com",
+            "num_shares":"3,000,000",
+            "portfolio_weight":"2.44",
+            "recent_activity":"Buy ",
+            "reported_price":"$82.49",
+            "ticker":"CRM"
+        },
+        {
+            "name":"General Dynamics",
+            "num_shares":"1,250,000",
+            "portfolio_weight":"2.31",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$187.20",
+            "ticker":"GD"
+        },
+        {
+            "name":"Mohawk Industries",
+            "num_shares":"950,000",
+            "portfolio_weight":"2.15",
+            "recent_activity":"Reduce 20.83%",
+            "reported_price":"$229.49",
+            "ticker":"MHK"
+        },
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"3,500,000",
+            "portfolio_weight":"1.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$57.34",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"Zayo Group Holdings Inc.",
+            "num_shares":"6,000,000",
+            "portfolio_weight":"1.95",
+            "recent_activity":"Reduce 14.29%",
+            "reported_price":"$32.90",
+            "ticker":"ZAYO"
+        },
+        {
+            "name":"S&P Global Inc.",
+            "num_shares":"1,500,000",
+            "portfolio_weight":"1.93",
+            "recent_activity":"Reduce 6.25%",
+            "reported_price":"$130.74",
+            "ticker":"SPGI"
+        },
+        {
+            "name":"Humana Inc.",
+            "num_shares":"925,000",
+            "portfolio_weight":"1.88",
+            "recent_activity":"Reduce 61.46%",
+            "reported_price":"$206.14",
+            "ticker":"HUM"
+        },
+        {
+            "name":"Anthem Inc.",
+            "num_shares":"1,150,000",
+            "portfolio_weight":"1.87",
+            "recent_activity":"Add 15.00%",
+            "reported_price":"$165.38",
+            "ticker":"ANTM"
+        },
+        {
+            "name":"Honeywell Int'l Inc.",
+            "num_shares":"1,375,000",
+            "portfolio_weight":"1.69",
+            "recent_activity":" ",
+            "reported_price":"$124.87",
+            "ticker":"HON"
+        },
+        {
+            "name":"Dell Technologies Inc.",
+            "num_shares":"2,500,000",
+            "portfolio_weight":"1.58",
+            "recent_activity":"Reduce 3.85%",
+            "reported_price":"$64.08",
+            "ticker":"DVMT"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"6,000,000",
+            "portfolio_weight":"1.40",
+            "recent_activity":"Buy ",
+            "reported_price":"$23.70",
+            "ticker":"HPE"
+        },
+        {
+            "name":"Rice Energy Inc.",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"1.17",
+            "recent_activity":"Add 88.68%",
+            "reported_price":"$23.70",
+            "ticker":"RICE"
+        },
+        {
+            "name":"Celanese Corp.",
+            "num_shares":"1,250,000",
+            "portfolio_weight":"1.11",
+            "recent_activity":"Buy ",
+            "reported_price":"$89.85",
+            "ticker":"CE"
+        },
+        {
+            "name":"Pioneer Natural Resources",
+            "num_shares":"500,000",
+            "portfolio_weight":"0.92",
+            "recent_activity":"Buy ",
+            "reported_price":"$186.23",
+            "ticker":"PXD"
+        },
+        {
+            "name":"Alcoa Corp.",
+            "num_shares":"2,500,000",
+            "portfolio_weight":"0.85",
+            "recent_activity":"Buy ",
+            "reported_price":"$34.40",
+            "ticker":"AA"
+        },
+        {
+            "name":"RSP Permian Inc.",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"0.82",
+            "recent_activity":"Buy ",
+            "reported_price":"$41.43",
+            "ticker":"RSPP"
+        },
+        {
+            "name":"Parsley Energy Inc.",
+            "num_shares":"2,500,000",
+            "portfolio_weight":"0.80",
+            "recent_activity":"Buy ",
+            "reported_price":"$32.51",
+            "ticker":"PE"
+        },
+        {
+            "name":"Green Brick Partners",
+            "num_shares":"8,083,022",
+            "portfolio_weight":"0.79",
+            "recent_activity":" ",
+            "reported_price":"$9.95",
+            "ticker":"GRBK"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"7,000,000",
+            "portfolio_weight":"0.79",
+            "recent_activity":"Reduce 41.42%",
+            "reported_price":"$11.45",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Snap Inc.",
+            "num_shares":"2,250,000",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$22.53",
+            "ticker":"SNAP"
+        },
+        {
+            "name":"Halcon Resources Corp.",
+            "num_shares":"5,170,000",
+            "portfolio_weight":"0.39",
+            "recent_activity":"Buy ",
+            "reported_price":"$7.64",
+            "ticker":"HK"
+        },
+        {
+            "name":"Kadmon Holdings",
+            "num_shares":"9,407,745",
+            "portfolio_weight":"0.34",
+            "recent_activity":"Add 18.79%",
+            "reported_price":"$3.62",
+            "ticker":"KDMN"
+        },
+        {
+            "name":"Enerplus Corp.",
+            "num_shares":"3,200,000",
+            "portfolio_weight":"0.25",
+            "recent_activity":"Buy ",
+            "reported_price":"$8.05",
+            "ticker":"ERF"
+        },
+        {
+            "name":"Enphase Energy Inc.",
+            "num_shares":"6,248,987",
+            "portfolio_weight":"0.08",
+            "recent_activity":" ",
+            "reported_price":"$1.37",
+            "ticker":"ENPH"
+        }
+    ]
+}

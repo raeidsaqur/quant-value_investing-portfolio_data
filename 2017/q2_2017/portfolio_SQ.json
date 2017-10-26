@@ -1,0 +1,123 @@
+{
+    "company":"SQ Advisors",
+    "investor":"Lou Simpson",
+    "num_stocks":"14",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"SQ",
+    "portfolio_value":"$2,746,287,000",
+    "stocks":[
+        {
+            "name":"Liberty Global Inc. C",
+            "num_shares":"9,797,776",
+            "portfolio_weight":"11.12",
+            "recent_activity":"Add 15.57%",
+            "reported_price":"$31.18",
+            "ticker":"LBTYK"
+        },
+        {
+            "name":"Brookfield Asset Management Inc.",
+            "num_shares":"7,732,296",
+            "portfolio_weight":"11.04",
+            "recent_activity":"Reduce 0.84%",
+            "reported_price":"$39.21",
+            "ticker":"BAM"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"6,210,430",
+            "portfolio_weight":"9.71",
+            "recent_activity":"Reduce 1.36%",
+            "reported_price":"$42.96",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"1,341,189",
+            "portfolio_weight":"8.27",
+            "recent_activity":"Reduce 9.90%",
+            "reported_price":"$169.37",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Axalta Coating Systems Ltd.",
+            "num_shares":"6,731,791",
+            "portfolio_weight":"7.85",
+            "recent_activity":"Add 10.16%",
+            "reported_price":"$32.04",
+            "ticker":"AXTA"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"4,913,537",
+            "portfolio_weight":"6.71",
+            "recent_activity":"Add 1.41%",
+            "reported_price":"$37.51",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"1,239,850",
+            "portfolio_weight":"6.50",
+            "recent_activity":"Add 0.28%",
+            "reported_price":"$144.02",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Tyler Technologies Inc.",
+            "num_shares":"891,535",
+            "portfolio_weight":"5.70",
+            "recent_activity":"Add 1.35%",
+            "reported_price":"$175.67",
+            "ticker":"TYL"
+        },
+        {
+            "name":"SBA Communications Corp.",
+            "num_shares":"1,147,471",
+            "portfolio_weight":"5.64",
+            "recent_activity":"Reduce 1.05%",
+            "reported_price":"$134.90",
+            "ticker":"SBAC"
+        },
+        {
+            "name":"Sensata Technologies Holding",
+            "num_shares":"3,620,786",
+            "portfolio_weight":"5.63",
+            "recent_activity":"Add 16.59%",
+            "reported_price":"$42.72",
+            "ticker":"ST"
+        },
+        {
+            "name":"Ametek Inc.",
+            "num_shares":"2,549,652",
+            "portfolio_weight":"5.62",
+            "recent_activity":"Reduce 26.55%",
+            "reported_price":"$60.57",
+            "ticker":"AME"
+        },
+        {
+            "name":"Cable ONE Inc.",
+            "num_shares":"216,016",
+            "portfolio_weight":"5.59",
+            "recent_activity":"Reduce 1.38%",
+            "reported_price":"$710.90",
+            "ticker":"CABO"
+        },
+        {
+            "name":"WABCO Holdings Inc.",
+            "num_shares":"1,176,757",
+            "portfolio_weight":"5.46",
+            "recent_activity":"Reduce 1.71%",
+            "reported_price":"$127.51",
+            "ticker":"WBC"
+        },
+        {
+            "name":"Hexcel Corp.",
+            "num_shares":"2,670,192",
+            "portfolio_weight":"5.13",
+            "recent_activity":"Add 36.07%",
+            "reported_price":"$52.79",
+            "ticker":"HXL"
+        }
+    ]
+}

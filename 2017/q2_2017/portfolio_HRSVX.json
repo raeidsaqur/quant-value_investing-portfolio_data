@@ -1,0 +1,371 @@
+{
+    "company":"Heartland Select Value",
+    "investor":"Bill Nasgovitz",
+    "num_stocks":"45",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"HRSVX",
+    "portfolio_value":"$236,282,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"65,000",
+            "portfolio_weight":"4.66",
+            "recent_activity":"Buy ",
+            "reported_price":"$169.37",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"190,000",
+            "portfolio_weight":"4.46",
+            "recent_activity":"Add 8.57%",
+            "reported_price":"$55.41",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Exxon Mobil Corp.",
+            "num_shares":"130,000",
+            "portfolio_weight":"4.44",
+            "recent_activity":" ",
+            "reported_price":"$80.73",
+            "ticker":"XOM"
+        },
+        {
+            "name":"Exelon Corp.",
+            "num_shares":"250,000",
+            "portfolio_weight":"3.82",
+            "recent_activity":"Add 8.70%",
+            "reported_price":"$36.07",
+            "ticker":"EXC"
+        },
+        {
+            "name":"Equity Commonwealth",
+            "num_shares":"275,000",
+            "portfolio_weight":"3.68",
+            "recent_activity":"Add 22.22%",
+            "reported_price":"$31.60",
+            "ticker":"EQC"
+        },
+        {
+            "name":"Wal-Mart Stores",
+            "num_shares":"115,000",
+            "portfolio_weight":"3.68",
+            "recent_activity":" ",
+            "reported_price":"$75.68",
+            "ticker":"WMT"
+        },
+        {
+            "name":"CA Inc.",
+            "num_shares":"250,000",
+            "portfolio_weight":"3.65",
+            "recent_activity":" ",
+            "reported_price":"$34.47",
+            "ticker":"CA"
+        },
+        {
+            "name":"Entergy Corp.",
+            "num_shares":"100,000",
+            "portfolio_weight":"3.25",
+            "recent_activity":" ",
+            "reported_price":"$76.77",
+            "ticker":"ETR"
+        },
+        {
+            "name":"Bank of New York",
+            "num_shares":"145,000",
+            "portfolio_weight":"3.13",
+            "recent_activity":"Reduce 6.45%",
+            "reported_price":"$51.02",
+            "ticker":"BK"
+        },
+        {
+            "name":"Quest Diagnostics",
+            "num_shares":"65,000",
+            "portfolio_weight":"3.06",
+            "recent_activity":"Reduce 27.78%",
+            "reported_price":"$111.15",
+            "ticker":"DGX"
+        },
+        {
+            "name":"PNC Financial Services",
+            "num_shares":"55,000",
+            "portfolio_weight":"2.91",
+            "recent_activity":"Reduce 15.38%",
+            "reported_price":"$124.87",
+            "ticker":"PNC"
+        },
+        {
+            "name":"Triple-S Management Corp.",
+            "num_shares":"403,713",
+            "portfolio_weight":"2.89",
+            "recent_activity":"Reduce 10.29%",
+            "reported_price":"$16.91",
+            "ticker":"GTS"
+        },
+        {
+            "name":"BB&T Corp.",
+            "num_shares":"150,000",
+            "portfolio_weight":"2.88",
+            "recent_activity":"Reduce 3.23%",
+            "reported_price":"$45.41",
+            "ticker":"BBT"
+        },
+        {
+            "name":"Emerson Electric",
+            "num_shares":"110,000",
+            "portfolio_weight":"2.78",
+            "recent_activity":" ",
+            "reported_price":"$59.62",
+            "ticker":"EMR"
+        },
+        {
+            "name":"Oracle Corp.",
+            "num_shares":"130,000",
+            "portfolio_weight":"2.76",
+            "recent_activity":" ",
+            "reported_price":"$50.14",
+            "ticker":"ORCL"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"200,000",
+            "portfolio_weight":"2.65",
+            "recent_activity":" ",
+            "reported_price":"$31.30",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Express Scripts",
+            "num_shares":"95,000",
+            "portfolio_weight":"2.57",
+            "recent_activity":"Add 5.56%",
+            "reported_price":"$63.84",
+            "ticker":"ESRX"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"65,000",
+            "portfolio_weight":"2.32",
+            "recent_activity":"Reduce 38.10%",
+            "reported_price":"$84.25",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Kirby Corp.",
+            "num_shares":"80,000",
+            "portfolio_weight":"2.26",
+            "recent_activity":" ",
+            "reported_price":"$66.85",
+            "ticker":"KEX"
+        },
+        {
+            "name":"Hess Corp.",
+            "num_shares":"120,000",
+            "portfolio_weight":"2.23",
+            "recent_activity":"Reduce 22.58%",
+            "reported_price":"$43.87",
+            "ticker":"HES"
+        },
+        {
+            "name":"Pfizer Inc.",
+            "num_shares":"150,000",
+            "portfolio_weight":"2.13",
+            "recent_activity":" ",
+            "reported_price":"$33.59",
+            "ticker":"PFE"
+        },
+        {
+            "name":"Robert Half International",
+            "num_shares":"105,000",
+            "portfolio_weight":"2.13",
+            "recent_activity":"Buy ",
+            "reported_price":"$47.93",
+            "ticker":"RHI"
+        },
+        {
+            "name":"Franklin Resources",
+            "num_shares":"110,000",
+            "portfolio_weight":"2.09",
+            "recent_activity":"Add 10.00%",
+            "reported_price":"$44.79",
+            "ticker":"BEN"
+        },
+        {
+            "name":"Baker Hughes",
+            "num_shares":"90,000",
+            "portfolio_weight":"2.08",
+            "recent_activity":"Reduce 25.00%",
+            "reported_price":"$54.51",
+            "ticker":"BHI"
+        },
+        {
+            "name":"Spirit Airlines",
+            "num_shares":"90,000",
+            "portfolio_weight":"1.97",
+            "recent_activity":"Add 80.00%",
+            "reported_price":"$51.66",
+            "ticker":"SAVE"
+        },
+        {
+            "name":"Zions Bancorp",
+            "num_shares":"100,000",
+            "portfolio_weight":"1.86",
+            "recent_activity":" ",
+            "reported_price":"$43.91",
+            "ticker":"ZION"
+        },
+        {
+            "name":"Newpark Resources Inc.",
+            "num_shares":"560,000",
+            "portfolio_weight":"1.74",
+            "recent_activity":" ",
+            "reported_price":"$7.35",
+            "ticker":"NR"
+        },
+        {
+            "name":"Corning Inc.",
+            "num_shares":"135,000",
+            "portfolio_weight":"1.72",
+            "recent_activity":"Reduce 32.50%",
+            "reported_price":"$30.05",
+            "ticker":"GLW"
+        },
+        {
+            "name":"PulteGroup Inc.",
+            "num_shares":"160,000",
+            "portfolio_weight":"1.66",
+            "recent_activity":" ",
+            "reported_price":"$24.53",
+            "ticker":"PHM"
+        },
+        {
+            "name":"Principal Financial Group",
+            "num_shares":"60,000",
+            "portfolio_weight":"1.63",
+            "recent_activity":"Reduce 33.33%",
+            "reported_price":"$64.07",
+            "ticker":"PFG"
+        },
+        {
+            "name":"Oshkosh Corp.",
+            "num_shares":"55,000",
+            "portfolio_weight":"1.60",
+            "recent_activity":" ",
+            "reported_price":"$68.87",
+            "ticker":"OSK"
+        },
+        {
+            "name":"Kennametal Inc.",
+            "num_shares":"100,000",
+            "portfolio_weight":"1.58",
+            "recent_activity":"Reduce 20.00%",
+            "reported_price":"$37.42",
+            "ticker":"KMT"
+        },
+        {
+            "name":"Invacare Corp.",
+            "num_shares":"250,000",
+            "portfolio_weight":"1.40",
+            "recent_activity":" ",
+            "reported_price":"$13.20",
+            "ticker":"IVC"
+        },
+        {
+            "name":"Schnitzer Steel Industries Inc.",
+            "num_shares":"130,000",
+            "portfolio_weight":"1.39",
+            "recent_activity":"Add 30.00%",
+            "reported_price":"$25.20",
+            "ticker":"SCHN"
+        },
+        {
+            "name":"Sanofi Aventis",
+            "num_shares":"65,000",
+            "portfolio_weight":"1.32",
+            "recent_activity":" ",
+            "reported_price":"$47.91",
+            "ticker":"SNY"
+        },
+        {
+            "name":"Abbott Labs",
+            "num_shares":"60,000",
+            "portfolio_weight":"1.23",
+            "recent_activity":"Buy ",
+            "reported_price":"$48.62",
+            "ticker":"ABT"
+        },
+        {
+            "name":"Borg Warner Inc.",
+            "num_shares":"65,000",
+            "portfolio_weight":"1.17",
+            "recent_activity":" ",
+            "reported_price":"$42.35",
+            "ticker":"BWA"
+        },
+        {
+            "name":"Bunge Ltd.",
+            "num_shares":"35,000",
+            "portfolio_weight":"1.11",
+            "recent_activity":" ",
+            "reported_price":"$74.60",
+            "ticker":"BG"
+        },
+        {
+            "name":"Potash Corp. of Saskatchewan Inc.",
+            "num_shares":"160,000",
+            "portfolio_weight":"1.10",
+            "recent_activity":"Reduce 33.33%",
+            "reported_price":"$16.30",
+            "ticker":"POT"
+        },
+        {
+            "name":"Adtran Inc.",
+            "num_shares":"125,000",
+            "portfolio_weight":"1.09",
+            "recent_activity":"Reduce 28.57%",
+            "reported_price":"$20.65",
+            "ticker":"ADTN"
+        },
+        {
+            "name":"Boise Cascade Company",
+            "num_shares":"85,000",
+            "portfolio_weight":"1.09",
+            "recent_activity":"Reduce 32.00%",
+            "reported_price":"$30.40",
+            "ticker":"BCC"
+        },
+        {
+            "name":"Photronics Inc.",
+            "num_shares":"200,000",
+            "portfolio_weight":"0.80",
+            "recent_activity":"Reduce 52.94%",
+            "reported_price":"$9.40",
+            "ticker":"PLAB"
+        },
+        {
+            "name":"American Eagle Outfitters",
+            "num_shares":"150,000",
+            "portfolio_weight":"0.77",
+            "recent_activity":"Reduce 57.24%",
+            "reported_price":"$12.05",
+            "ticker":"AEO"
+        },
+        {
+            "name":"MDU Resources",
+            "num_shares":"65,000",
+            "portfolio_weight":"0.72",
+            "recent_activity":"Reduce 50.00%",
+            "reported_price":"$26.20",
+            "ticker":"MDU"
+        },
+        {
+            "name":"Fluor Corp.",
+            "num_shares":"30,000",
+            "portfolio_weight":"0.58",
+            "recent_activity":"Reduce 70.00%",
+            "reported_price":"$45.77",
+            "ticker":"FLR"
+        }
+    ]
+}

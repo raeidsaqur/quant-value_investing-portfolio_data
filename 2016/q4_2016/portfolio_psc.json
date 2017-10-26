@@ -1,0 +1,75 @@
+{
+    "company":"Pershing Square Capital Management",
+    "investor":"Bill Ackman",
+    "num_stocks":"8",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"psc",
+    "portfolio_value":"$5,913,210,000",
+    "stocks":[
+        {
+            "name":"Restaurant Brands International",
+            "num_shares":"39,150,551",
+            "portfolio_weight":"31.56",
+            "recent_activity":" ",
+            "reported_price":"$47.66",
+            "ticker":"QSR"
+        },
+        {
+            "name":"Chipotle Mexican Grill Inc.",
+            "num_shares":"2,882,463",
+            "portfolio_weight":"18.39",
+            "recent_activity":"Add 420.10%",
+            "reported_price":"$377.32",
+            "ticker":"CMG"
+        },
+        {
+            "name":"Mondelez International",
+            "num_shares":"22,942,225",
+            "portfolio_weight":"17.20",
+            "recent_activity":" ",
+            "reported_price":"$44.33",
+            "ticker":"MDLZ"
+        },
+        {
+            "name":"Air Products & Chemicals",
+            "num_shares":"3,870,760",
+            "portfolio_weight":"9.41",
+            "recent_activity":"Reduce 3.84%",
+            "reported_price":"$143.82",
+            "ticker":"APD"
+        },
+        {
+            "name":"Howard Hughes Corp.",
+            "num_shares":"3,568,017",
+            "portfolio_weight":"6.88",
+            "recent_activity":" ",
+            "reported_price":"$114.10",
+            "ticker":"HHC"
+        },
+        {
+            "name":"Platform Specialty Products Corp.",
+            "num_shares":"40,451,506",
+            "portfolio_weight":"6.71",
+            "recent_activity":"Reduce 5.35%",
+            "reported_price":"$9.81",
+            "ticker":"PAH"
+        },
+        {
+            "name":"Nomad Foods Ltd",
+            "num_shares":"33,333,334",
+            "portfolio_weight":"5.39",
+            "recent_activity":" ",
+            "reported_price":"$9.57",
+            "ticker":"NOMD"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"18,114,432",
+            "portfolio_weight":"4.45",
+            "recent_activity":"Reduce 16.10%",
+            "reported_price":"$14.52",
+            "ticker":"VRX"
+        }
+    ]
+}

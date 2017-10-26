@@ -1,0 +1,99 @@
+{
+    "company":"RBS Partners",
+    "investor":"Eddie Lampert",
+    "num_stocks":"11",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"EL",
+    "portfolio_value":"$1,018,150,000",
+    "stocks":[
+        {
+            "name":"Sears Holdings Corp.",
+            "num_shares":"22,336,105",
+            "portfolio_weight":"29.86",
+            "recent_activity":" ",
+            "reported_price":"$13.61",
+            "ticker":"SHLD"
+        },
+        {
+            "name":"AutoNation Inc.",
+            "num_shares":"6,093,287",
+            "portfolio_weight":"28.12",
+            "recent_activity":" ",
+            "reported_price":"$46.98",
+            "ticker":"AN"
+        },
+        {
+            "name":"Lands End Inc.",
+            "num_shares":"6,718,592",
+            "portfolio_weight":"10.84",
+            "recent_activity":" ",
+            "reported_price":"$16.42",
+            "ticker":"LE"
+        },
+        {
+            "name":"International Bus. Machines",
+            "num_shares":"569,471",
+            "portfolio_weight":"8.49",
+            "recent_activity":"Reduce 11.02%",
+            "reported_price":"$151.78",
+            "ticker":"IBM"
+        },
+        {
+            "name":"Gap Inc.",
+            "num_shares":"3,428,815",
+            "portfolio_weight":"7.15",
+            "recent_activity":"Add 5.30%",
+            "reported_price":"$21.22",
+            "ticker":"GPS"
+        },
+        {
+            "name":"Sears Canada Inc.",
+            "num_shares":"23,504,516",
+            "portfolio_weight":"6.86",
+            "recent_activity":" ",
+            "reported_price":"$2.97",
+            "ticker":"SRSC"
+        },
+        {
+            "name":"Sears Hometown & Outlet Stores",
+            "num_shares":"4,771,352",
+            "portfolio_weight":"3.16",
+            "recent_activity":" ",
+            "reported_price":"$6.74",
+            "ticker":"SHOS"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"436,078",
+            "portfolio_weight":"2.13",
+            "recent_activity":"Reduce 1.86%",
+            "reported_price":"$49.84",
+            "ticker":"SRG"
+        },
+        {
+            "name":"Sears Hldgs WTS",
+            "num_shares":"4,331,951",
+            "portfolio_weight":"1.70",
+            "recent_activity":" ",
+            "reported_price":"$4.00",
+            "ticker":"SHLD.WS"
+        },
+        {
+            "name":"Seagate Technology",
+            "num_shares":"484,622",
+            "portfolio_weight":"1.16",
+            "recent_activity":"Buy ",
+            "reported_price":"$24.36",
+            "ticker":"STX"
+        },
+        {
+            "name":"Fossil Inc.",
+            "num_shares":"194,442",
+            "portfolio_weight":"0.54",
+            "recent_activity":"Buy ",
+            "reported_price":"$28.53",
+            "ticker":"FOSL"
+        }
+    ]
+}

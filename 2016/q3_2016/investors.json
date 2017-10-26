@@ -1,0 +1,388 @@
+{
+    "investors":[
+        {
+            "company":"Akre Capital Management",
+            "investor_id":"AC",
+            "name":"Chuck Akre",
+            "updated":"updated 15 Nov 2016"
+        },
+        {
+            "company":"ValueAct Capital ",
+            "investor_id":"VA",
+            "name":"Jeffrey Ubben",
+            "updated":"updated 15 Nov 2016"
+        },
+        {
+            "company":"MFP Investors",
+            "investor_id":"MFP",
+            "name":"Michael Price",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Pershing Square Capital Management",
+            "investor_id":"psc",
+            "name":"Bill Ackman",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"RBS Partners",
+            "investor_id":"EL",
+            "name":"Eddie Lampert",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Bill & Melinda Gates Foundation Trust",
+            "investor_id":"GFT",
+            "name":"Michael Larson",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Gardner Russo & Gardner",
+            "investor_id":"GR",
+            "name":"Thomas Russo",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Lone Pine Capital",
+            "investor_id":"LPC",
+            "name":"Stephen Mandel",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Trian Fund Management",
+            "investor_id":"TF",
+            "name":"Nelson Peltz",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Fairholme Capital",
+            "investor_id":"fairx",
+            "name":"Bruce Berkowitz",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Atlantic Investment Management",
+            "investor_id":"AIM",
+            "name":"Alex Roepers",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Wedgewood Partners",
+            "investor_id":"WP",
+            "name":"David Rolfe",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Maverick Capital",
+            "investor_id":"mc",
+            "name":"Lee Ainslie",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Icahn Capital Management",
+            "investor_id":"ic",
+            "name":"Carl Icahn",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Greenlight Capital",
+            "investor_id":"GLRE",
+            "name":"David Einhorn",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Appaloosa Management",
+            "investor_id":"AM",
+            "name":"David Tepper",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Abrams Capital Management",
+            "investor_id":"abc",
+            "name":"David Abrams",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Berkshire Hathaway",
+            "investor_id":"brk",
+            "name":"Warren Buffett",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Baupost Group",
+            "investor_id":"BAUPOST",
+            "name":"Seth Klarman",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Leucadia National",
+            "investor_id":"LUK",
+            "name":"Leucadia Nat. Corp.",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Oaktree Capital Management",
+            "investor_id":"oc",
+            "name":"Howard Marks",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Blue Ridge Capital",
+            "investor_id":"br",
+            "name":"John Griffin",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Hayman Capital Management",
+            "investor_id":"hc",
+            "name":"Kyle Bass",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Brave Warrior Advisors",
+            "investor_id":"CCM",
+            "name":"Glenn Greenberg",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Scion Asset Management",
+            "investor_id":"sa",
+            "name":"Michael Burry",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Omega Advisors",
+            "investor_id":"oa",
+            "name":"Leon Cooperman",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Muhlenkamp",
+            "investor_id":"muhlx",
+            "name":"Ronald Muhlenkamp",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Arlington Value Capital",
+            "investor_id":"AV",
+            "name":"Allan Mecham",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"SQ Advisors",
+            "investor_id":"SQ",
+            "name":"Lou Simpson",
+            "updated":"updated 14 Nov 2016"
+        },
+        {
+            "company":"Third Point",
+            "investor_id":"tp",
+            "name":"Daniel Loeb",
+            "updated":"updated 10 Nov 2016"
+        },
+        {
+            "company":"Pabrai Investments",
+            "investor_id":"PI",
+            "name":"Mohnish Pabrai",
+            "updated":"updated 10 Nov 2016"
+        },
+        {
+            "company":"Fairfax Financial Holdings",
+            "investor_id":"FFH",
+            "name":"Prem Watsa",
+            "updated":"updated 10 Nov 2016"
+        },
+        {
+            "company":"Century Management Advisers",
+            "investor_id":"CMAFX",
+            "name":"Arnold Van Den Berg",
+            "updated":"updated 09 Nov 2016"
+        },
+        {
+            "company":"Daily Journal Corp.",
+            "investor_id":"DJCO",
+            "name":"Charlie Munger",
+            "updated":"updated 08 Nov 2016"
+        },
+        {
+            "company":"Cantillon Capital Management",
+            "investor_id":"cc",
+            "name":"William Von Mueffling",
+            "updated":"updated 07 Nov 2016"
+        },
+        {
+            "company":"Markel Asset Management",
+            "investor_id":"MKL",
+            "name":"Thomas Gayner",
+            "updated":"updated 04 Nov 2016"
+        },
+        {
+            "company":"Aquamarine Capital",
+            "investor_id":"aq",
+            "name":"Guy Spier",
+            "updated":"updated 03 Nov 2016"
+        },
+        {
+            "company":"Sound Shore",
+            "investor_id":"SSHFX",
+            "name":"Harry Burn",
+            "updated":"updated 02 Nov 2016"
+        },
+        {
+            "company":"Kahn Brothers Group",
+            "investor_id":"KB",
+            "name":"Kahn Brothers Advisors",
+            "updated":"updated 01 Nov 2016"
+        },
+        {
+            "company":"Heartland Select Value",
+            "investor_id":"HRSVX",
+            "name":"Bill Nasgovitz",
+            "updated":"updated 01 Nov 2016"
+        },
+        {
+            "company":"Chou Associates",
+            "investor_id":"ca",
+            "name":"Francis Chou",
+            "updated":"updated 31 Oct 2016"
+        },
+        {
+            "company":"Matrix Advisors Value",
+            "investor_id":"MAVFX",
+            "name":"David Katz",
+            "updated":"updated 24 Oct 2016"
+        },
+        {
+            "company":"Tweedy Browne Value",
+            "investor_id":"TWEBX",
+            "name":"Tweedy Browne Co.",
+            "updated":"updated 18 Oct 2016"
+        },
+        {
+            "company":"Dodge & Cox",
+            "investor_id":"DODGX",
+            "name":"Dodge & Cox Team",
+            "updated":"updated 17 Oct 2016"
+        },
+        {
+            "company":"Hancock Classic Value",
+            "investor_id":"pzfvx",
+            "name":"Richard Pzena",
+            "updated":"updated 17 Oct 2016"
+        },
+        {
+            "company":"Yacktman Focused Fund",
+            "investor_id":"YAFFX",
+            "name":"Donald Yacktman",
+            "updated":"updated 14 Oct 2016"
+        },
+        {
+            "company":"ClearBridge Value Trust",
+            "investor_id":"lmvtx",
+            "name":"Sam Peters",
+            "updated":"updated 14 Oct 2016"
+        },
+        {
+            "company":"Hillman Focused",
+            "investor_id":"hcmax",
+            "name":"Mark Hillman",
+            "updated":"updated 10 Oct 2016"
+        },
+        {
+            "company":"Weitz Value",
+            "investor_id":"WVALX",
+            "name":"Wallace Weitz",
+            "updated":"updated 10 Oct 2016"
+        },
+        {
+            "company":"Ariel Focus",
+            "investor_id":"ARFFX",
+            "name":"Charles Bobrinskoy",
+            "updated":"updated 07 Oct 2016"
+        },
+        {
+            "company":"Ariel Appreciation",
+            "investor_id":"CAAPX",
+            "name":"John Rogers",
+            "updated":"updated 07 Oct 2016"
+        },
+        {
+            "company":"FPA Crescent Fund",
+            "investor_id":"FPACX",
+            "name":"Steven Romick",
+            "updated":"updated 07 Oct 2016"
+        },
+        {
+            "company":"FPA Capital",
+            "investor_id":"FPPTX",
+            "name":"Robert Rodriguez",
+            "updated":"updated 07 Oct 2016"
+        },
+        {
+            "company":"Mairs & Power Growth",
+            "investor_id":"MPGFX",
+            "name":"Mairs & Power",
+            "updated":"updated 05 Oct 2016"
+        },
+        {
+            "company":"Jensen",
+            "investor_id":"jensx",
+            "name":"Robert Zagunis",
+            "updated":"updated 05 Oct 2016"
+        },
+        {
+            "company":"First Eagle U.S. Value",
+            "investor_id":"FEVAX",
+            "name":"Jean-Marie Eveillard",
+            "updated":"updated 29 Sep 2016"
+        },
+        {
+            "company":"Torray",
+            "investor_id":"TORYX",
+            "name":"Robert Torray",
+            "updated":"updated 07 Sep 2016"
+        },
+        {
+            "company":"Olstein Value",
+            "investor_id":"OFALX",
+            "name":"Robert Olstein",
+            "updated":"updated 06 Sep 2016"
+        },
+        {
+            "company":"Meridian Contrarian Fund",
+            "investor_id":"MVALX",
+            "name":"Meridian Funds",
+            "updated":"updated 01 Sep 2016"
+        },
+        {
+            "company":"Clipper",
+            "investor_id":"cfimx",
+            "name":"Christopher Davis",
+            "updated":"updated 01 Sep 2016"
+        },
+        {
+            "company":"Sequoia",
+            "investor_id":"SEQUX",
+            "name":"David Poppe",
+            "updated":"updated 24 Aug 2016"
+        },
+        {
+            "company":"Thornburg Value",
+            "investor_id":"TVAFX",
+            "name":"Thornburg Investment Management",
+            "updated":"updated 22 Aug 2016"
+        },
+        {
+            "company":"Oakmark Select",
+            "investor_id":"oaklx",
+            "name":"Bill Nygren",
+            "updated":"updated 19 Aug 2016"
+        },
+        {
+            "company":"Longleaf Partners",
+            "investor_id":"LLPFX",
+            "name":"Mason Hawkins",
+            "updated":"updated 19 Aug 2016"
+        }
+    ]
+}

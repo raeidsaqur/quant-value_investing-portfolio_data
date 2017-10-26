@@ -1,0 +1,147 @@
+{
+    "company":"Abrams Capital Management",
+    "investor":"David Abrams",
+    "num_stocks":"17",
+    "period":"Q1 2017",
+    "portfolio_date":"31 Mar 2017",
+    "portfolio_id":"abc",
+    "portfolio_value":"$2,609,044,000",
+    "stocks":[
+        {
+            "name":"Western Union Co.",
+            "num_shares":"21,608,707",
+            "portfolio_weight":"16.85",
+            "recent_activity":" ",
+            "reported_price":"$20.35",
+            "ticker":"WU"
+        },
+        {
+            "name":"Franklin Resources",
+            "num_shares":"7,945,023",
+            "portfolio_weight":"12.83",
+            "recent_activity":" ",
+            "reported_price":"$42.14",
+            "ticker":"BEN"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"4,980,000",
+            "portfolio_weight":"12.57",
+            "recent_activity":" ",
+            "reported_price":"$65.86",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Time Warner Inc.",
+            "num_shares":"3,050,000",
+            "portfolio_weight":"11.42",
+            "recent_activity":" ",
+            "reported_price":"$97.71",
+            "ticker":"TWX"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"3,342,343",
+            "portfolio_weight":"7.13",
+            "recent_activity":" ",
+            "reported_price":"$55.66",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Willis Towers Watson Public Ltd",
+            "num_shares":"1,183,287",
+            "portfolio_weight":"5.94",
+            "recent_activity":" ",
+            "reported_price":"$130.89",
+            "ticker":"WLTW"
+        },
+        {
+            "name":"Welbilt Inc.",
+            "num_shares":"7,541,066",
+            "portfolio_weight":"5.67",
+            "recent_activity":"Reduce 33.00%",
+            "reported_price":"$19.63",
+            "ticker":"WBT"
+        },
+        {
+            "name":"Colony NorthStar Inc.",
+            "num_shares":"10,908,145",
+            "portfolio_weight":"5.40",
+            "recent_activity":"Buy ",
+            "reported_price":"$12.91",
+            "ticker":"CLNS"
+        },
+        {
+            "name":"AMERCO",
+            "num_shares":"269,692",
+            "portfolio_weight":"3.94",
+            "recent_activity":"Add 162.19%",
+            "reported_price":"$381.19",
+            "ticker":"UHAL"
+        },
+        {
+            "name":"Barnes & Noble",
+            "num_shares":"10,418,775",
+            "portfolio_weight":"3.69",
+            "recent_activity":" ",
+            "reported_price":"$9.25",
+            "ticker":"BKS"
+        },
+        {
+            "name":"Quality Care Properties Inc.",
+            "num_shares":"5,000,000",
+            "portfolio_weight":"3.61",
+            "recent_activity":"Add 12.13%",
+            "reported_price":"$18.86",
+            "ticker":"QCP"
+        },
+        {
+            "name":"Barnes & Noble Education Inc.",
+            "num_shares":"8,771,492",
+            "portfolio_weight":"3.22",
+            "recent_activity":" ",
+            "reported_price":"$9.59",
+            "ticker":"BNED"
+        },
+        {
+            "name":"VEON Ltd.",
+            "num_shares":"18,770,950",
+            "portfolio_weight":"2.94",
+            "recent_activity":" ",
+            "reported_price":"$4.08",
+            "ticker":"VEON"
+        },
+        {
+            "name":"Och Ziff Capital Mgmt Grp LLC",
+            "num_shares":"22,238,592",
+            "portfolio_weight":"1.93",
+            "recent_activity":"Add 17.35%",
+            "reported_price":"$2.26",
+            "ticker":"OZM"
+        },
+        {
+            "name":"Keryx Biopharmaceuticals Inc.",
+            "num_shares":"5,719,176",
+            "portfolio_weight":"1.35",
+            "recent_activity":" ",
+            "reported_price":"$6.16",
+            "ticker":"KERX"
+        },
+        {
+            "name":"Clear Channel Outdoor Holdings",
+            "num_shares":"3,354,390",
+            "portfolio_weight":"0.78",
+            "recent_activity":" ",
+            "reported_price":"$6.05",
+            "ticker":"CCO"
+        },
+        {
+            "name":"Global Eagle Entertainment",
+            "num_shares":"5,884,041",
+            "portfolio_weight":"0.72",
+            "recent_activity":"Add 17.68%",
+            "reported_price":"$3.19",
+            "ticker":"ENT"
+        }
+    ]
+}

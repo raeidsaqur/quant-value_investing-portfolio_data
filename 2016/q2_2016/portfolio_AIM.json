@@ -1,0 +1,155 @@
+{
+    "company":"Atlantic Investment Management",
+    "investor":"Alex Roepers",
+    "num_stocks":"18",
+    "period":"Q2 2016",
+    "portfolio_date":"30 Jun 2016",
+    "portfolio_id":"AIM",
+    "portfolio_value":"$772,268,000",
+    "stocks":[
+        {
+            "name":"Owens-Illinois Inc.",
+            "num_shares":"10,358,635",
+            "portfolio_weight":"24.16",
+            "recent_activity":"Reduce 14.84%",
+            "reported_price":"$18.01",
+            "ticker":"OI"
+        },
+        {
+            "name":"Harman Int'l Industries",
+            "num_shares":"2,114,706",
+            "portfolio_weight":"19.67",
+            "recent_activity":"Add 201.41%",
+            "reported_price":"$71.82",
+            "ticker":"HAR"
+        },
+        {
+            "name":"Goodyear Tire & Rubber",
+            "num_shares":"4,354,707",
+            "portfolio_weight":"14.47",
+            "recent_activity":"Add 10.18%",
+            "reported_price":"$25.66",
+            "ticker":"GT"
+        },
+        {
+            "name":"Triumph Group Inc.",
+            "num_shares":"2,885,383",
+            "portfolio_weight":"13.26",
+            "recent_activity":"Reduce 26.23%",
+            "reported_price":"$35.50",
+            "ticker":"TGI"
+        },
+        {
+            "name":"Eastman Chemical",
+            "num_shares":"1,432,161",
+            "portfolio_weight":"12.59",
+            "recent_activity":"Reduce 5.09%",
+            "reported_price":"$67.90",
+            "ticker":"EMN"
+        },
+        {
+            "name":"Ingram Micro Inc.",
+            "num_shares":"1,299,148",
+            "portfolio_weight":"5.85",
+            "recent_activity":"Reduce 64.97%",
+            "reported_price":"$34.78",
+            "ticker":"IM"
+        },
+        {
+            "name":"Spirit AeroSystems Holdings Inc.",
+            "num_shares":"236,956",
+            "portfolio_weight":"1.32",
+            "recent_activity":"Buy ",
+            "reported_price":"$43.00",
+            "ticker":"SPR"
+        },
+        {
+            "name":"Robert Half International",
+            "num_shares":"250,913",
+            "portfolio_weight":"1.24",
+            "recent_activity":"Buy ",
+            "reported_price":"$38.16",
+            "ticker":"RHI"
+        },
+        {
+            "name":"Alaska Air Group",
+            "num_shares":"148,855",
+            "portfolio_weight":"1.12",
+            "recent_activity":"Buy ",
+            "reported_price":"$58.29",
+            "ticker":"ALK"
+        },
+        {
+            "name":"Cooper Tire & Rubber Co.",
+            "num_shares":"283,742",
+            "portfolio_weight":"1.10",
+            "recent_activity":"Buy ",
+            "reported_price":"$29.82",
+            "ticker":"CTB"
+        },
+        {
+            "name":"Tiffany & Co.",
+            "num_shares":"125,111",
+            "portfolio_weight":"0.98",
+            "recent_activity":"Buy ",
+            "reported_price":"$60.63",
+            "ticker":"TIF"
+        },
+        {
+            "name":"Asbury Automotive Group Inc.",
+            "num_shares":"122,164",
+            "portfolio_weight":"0.83",
+            "recent_activity":"Buy ",
+            "reported_price":"$52.74",
+            "ticker":"ABG"
+        },
+        {
+            "name":"Verifone Systems Inc.",
+            "num_shares":"330,000",
+            "portfolio_weight":"0.79",
+            "recent_activity":"Buy ",
+            "reported_price":"$18.54",
+            "ticker":"PAY"
+        },
+        {
+            "name":"Hewlett Packard Enterprise",
+            "num_shares":"307,746",
+            "portfolio_weight":"0.73",
+            "recent_activity":"Reduce 45.28%",
+            "reported_price":"$18.27",
+            "ticker":"HPE"
+        },
+        {
+            "name":"ITT Inc.",
+            "num_shares":"153,591",
+            "portfolio_weight":"0.64",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.98",
+            "ticker":"ITT"
+        },
+        {
+            "name":"CommScope Holding Co.",
+            "num_shares":"125,000",
+            "portfolio_weight":"0.50",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.03",
+            "ticker":"COMM"
+        },
+        {
+            "name":"IPG Photonics Corp.",
+            "num_shares":"37,000",
+            "portfolio_weight":"0.38",
+            "recent_activity":"Buy ",
+            "reported_price":"$80.00",
+            "ticker":"IPGP"
+        },
+        {
+            "name":"Group 1 Automotive",
+            "num_shares":"56,880",
+            "portfolio_weight":"0.36",
+            "recent_activity":"Buy ",
+            "reported_price":"$49.37",
+            "ticker":"GPI"
+        }
+    ]
+}

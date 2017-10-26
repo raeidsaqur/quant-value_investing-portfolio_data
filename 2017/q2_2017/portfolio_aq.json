@@ -1,0 +1,147 @@
+{
+    "company":"Aquamarine Capital",
+    "investor":"Guy Spier",
+    "num_stocks":"17",
+    "period":"Q2 2017",
+    "portfolio_date":"30 Jun 2017",
+    "portfolio_id":"aq",
+    "portfolio_value":"$163,822,000",
+    "stocks":[
+        {
+            "name":"Berkshire Hathaway CL B",
+            "num_shares":"140,600",
+            "portfolio_weight":"14.54",
+            "recent_activity":" ",
+            "reported_price":"$169.37",
+            "ticker":"BRK.B"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"272,430",
+            "portfolio_weight":"14.01",
+            "recent_activity":" ",
+            "reported_price":"$84.24",
+            "ticker":"AXP"
+        },
+        {
+            "name":"Fiat Chrysler Automobiles NV",
+            "num_shares":"2,000,000",
+            "portfolio_weight":"12.87",
+            "recent_activity":" ",
+            "reported_price":"$10.55",
+            "ticker":"FCAU"
+        },
+        {
+            "name":"General Motors WTS B",
+            "num_shares":"1,000,000",
+            "portfolio_weight":"10.57",
+            "recent_activity":" ",
+            "reported_price":"$17.31",
+            "ticker":"GM.WS.B"
+        },
+        {
+            "name":"Ferrari NV",
+            "num_shares":"200,000",
+            "portfolio_weight":"10.48",
+            "recent_activity":" ",
+            "reported_price":"$85.87",
+            "ticker":"RACE"
+        },
+        {
+            "name":"Bank of America Corp.",
+            "num_shares":"590,000",
+            "portfolio_weight":"8.74",
+            "recent_activity":" ",
+            "reported_price":"$24.26",
+            "ticker":"BAC"
+        },
+        {
+            "name":"Mastercard Inc.",
+            "num_shares":"65,750",
+            "portfolio_weight":"4.87",
+            "recent_activity":" ",
+            "reported_price":"$121.44",
+            "ticker":"MA"
+        },
+        {
+            "name":"Berkshire Hathaway CL A",
+            "num_shares":"30",
+            "portfolio_weight":"4.66",
+            "recent_activity":" ",
+            "reported_price":"$254700.00",
+            "ticker":"BRK.A"
+        },
+        {
+            "name":"Citigroup Inc.",
+            "num_shares":"106,000",
+            "portfolio_weight":"4.33",
+            "recent_activity":" ",
+            "reported_price":"$66.88",
+            "ticker":"C"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"115,000",
+            "portfolio_weight":"3.89",
+            "recent_activity":" ",
+            "reported_price":"$55.41",
+            "ticker":"WFC"
+        },
+        {
+            "name":"POSCO",
+            "num_shares":"70,000",
+            "portfolio_weight":"2.67",
+            "recent_activity":" ",
+            "reported_price":"$62.59",
+            "ticker":"PKX"
+        },
+        {
+            "name":"Bank of America WTS A",
+            "num_shares":"320,000",
+            "portfolio_weight":"2.35",
+            "recent_activity":" ",
+            "reported_price":"$12.04",
+            "ticker":"BAC.WS.A"
+        },
+        {
+            "name":"Moody's Corp.",
+            "num_shares":"25,000",
+            "portfolio_weight":"1.86",
+            "recent_activity":" ",
+            "reported_price":"$121.68",
+            "ticker":"MCO"
+        },
+        {
+            "name":"TerraForm Power Inc.",
+            "num_shares":"209,435",
+            "portfolio_weight":"1.53",
+            "recent_activity":"Buy ",
+            "reported_price":"$12.00",
+            "ticker":"TERP"
+        },
+        {
+            "name":"Wells Fargo WTS",
+            "num_shares":"110,000",
+            "portfolio_weight":"1.49",
+            "recent_activity":" ",
+            "reported_price":"$22.20",
+            "ticker":"WFC.WS"
+        },
+        {
+            "name":"Seritage Growth Properties",
+            "num_shares":"43,869",
+            "portfolio_weight":"1.12",
+            "recent_activity":"Reduce 75.63%",
+            "reported_price":"$41.94",
+            "ticker":"SRG"
+        },
+        {
+            "name":"EnLink Midstream LLC",
+            "num_shares":"719",
+            "portfolio_weight":"0.01",
+            "recent_activity":" ",
+            "reported_price":"$18.08",
+            "ticker":"ENLC"
+        }
+    ]
+}

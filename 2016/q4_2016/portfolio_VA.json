@@ -1,0 +1,123 @@
+{
+    "company":"ValueAct Capital ",
+    "investor":"Jeffrey Ubben",
+    "num_stocks":"14",
+    "period":"Q4 2016",
+    "portfolio_date":"31 Dec 2016",
+    "portfolio_id":"VA",
+    "portfolio_value":"$12,176,479,000",
+    "stocks":[
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"38,626,497",
+            "portfolio_weight":"19.71",
+            "recent_activity":"Add 0.00%",
+            "reported_price":"$62.14",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"Baker Hughes",
+            "num_shares":"27,407,820",
+            "portfolio_weight":"14.62",
+            "recent_activity":"Reduce 8.29%",
+            "reported_price":"$64.97",
+            "ticker":"BHI"
+        },
+        {
+            "name":"Twenty-First Century Fox CL B",
+            "num_shares":"53,326,334",
+            "portfolio_weight":"11.93",
+            "recent_activity":"Add 5.96%",
+            "reported_price":"$27.25",
+            "ticker":"FOX"
+        },
+        {
+            "name":"CBRE Group",
+            "num_shares":"41,873,250",
+            "portfolio_weight":"10.83",
+            "recent_activity":"Add 20.95%",
+            "reported_price":"$31.49",
+            "ticker":"CBG"
+        },
+        {
+            "name":"Alliance Data Systems",
+            "num_shares":"5,246,500",
+            "portfolio_weight":"9.85",
+            "recent_activity":"Add 4.93%",
+            "reported_price":"$228.50",
+            "ticker":"ADS"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"26,901,000",
+            "portfolio_weight":"9.33",
+            "recent_activity":"Reduce 35.80%",
+            "reported_price":"$42.25",
+            "ticker":"MS"
+        },
+        {
+            "name":"Willis Towers Watson Public Ltd",
+            "num_shares":"8,108,015",
+            "portfolio_weight":"8.14",
+            "recent_activity":" ",
+            "reported_price":"$122.28",
+            "ticker":"WLTW"
+        },
+        {
+            "name":"Trinity Industries",
+            "num_shares":"15,582,605",
+            "portfolio_weight":"3.55",
+            "recent_activity":"Add 25.45%",
+            "reported_price":"$27.76",
+            "ticker":"TRN"
+        },
+        {
+            "name":"Armstrong World Industries Inc.",
+            "num_shares":"9,200,000",
+            "portfolio_weight":"3.16",
+            "recent_activity":" ",
+            "reported_price":"$41.80",
+            "ticker":"AWI"
+        },
+        {
+            "name":"Seagate Technology",
+            "num_shares":"9,539,490",
+            "portfolio_weight":"2.99",
+            "recent_activity":" ",
+            "reported_price":"$38.17",
+            "ticker":"STX"
+        },
+        {
+            "name":"Allison Transmission Holdings",
+            "num_shares":"10,525,204",
+            "portfolio_weight":"2.91",
+            "recent_activity":"Reduce 44.97%",
+            "reported_price":"$33.69",
+            "ticker":"ALSN"
+        },
+        {
+            "name":"Valeant Pharmaceuticals Int'l",
+            "num_shares":"14,994,261",
+            "portfolio_weight":"1.79",
+            "recent_activity":" ",
+            "reported_price":"$14.52",
+            "ticker":"VRX"
+        },
+        {
+            "name":"Armstrong Flooring Inc.",
+            "num_shares":"4,600,000",
+            "portfolio_weight":"0.75",
+            "recent_activity":" ",
+            "reported_price":"$19.91",
+            "ticker":"AFI"
+        },
+        {
+            "name":"NetScout Systems",
+            "num_shares":"1,645,000",
+            "portfolio_weight":"0.43",
+            "recent_activity":"Buy ",
+            "reported_price":"$31.50",
+            "ticker":"NTCT"
+        }
+    ]
+}

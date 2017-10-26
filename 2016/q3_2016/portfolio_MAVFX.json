@@ -1,0 +1,307 @@
+{
+    "company":"Matrix Advisors Value",
+    "investor":"David Katz",
+    "num_stocks":"37",
+    "period":"Q3 2016",
+    "portfolio_date":"30 Sep 2016",
+    "portfolio_id":"MAVFX",
+    "portfolio_value":"$58,159,000",
+    "stocks":[
+        {
+            "name":"QUALCOMM Inc.",
+            "num_shares":"35,000",
+            "portfolio_weight":"4.12",
+            "recent_activity":"Reduce 2.78%",
+            "reported_price":"$68.51",
+            "ticker":"QCOM"
+        },
+        {
+            "name":"JPMorgan Chase & Co.",
+            "num_shares":"35,000",
+            "portfolio_weight":"4.01",
+            "recent_activity":"Reduce 2.23%",
+            "reported_price":"$66.60",
+            "ticker":"JPM"
+        },
+        {
+            "name":"Microsoft Corp.",
+            "num_shares":"37,500",
+            "portfolio_weight":"3.71",
+            "recent_activity":"Reduce 3.35%",
+            "reported_price":"$57.60",
+            "ticker":"MSFT"
+        },
+        {
+            "name":"TE Connectivity",
+            "num_shares":"32,600",
+            "portfolio_weight":"3.61",
+            "recent_activity":" ",
+            "reported_price":"$64.39",
+            "ticker":"TEL"
+        },
+        {
+            "name":"Eaton Corp.",
+            "num_shares":"31,200",
+            "portfolio_weight":"3.52",
+            "recent_activity":"Reduce 2.50%",
+            "reported_price":"$65.71",
+            "ticker":"ETN"
+        },
+        {
+            "name":"MetLife Inc.",
+            "num_shares":"45,900",
+            "portfolio_weight":"3.51",
+            "recent_activity":" ",
+            "reported_price":"$44.42",
+            "ticker":"MET"
+        },
+        {
+            "name":"Cisco Systems",
+            "num_shares":"64,000",
+            "portfolio_weight":"3.49",
+            "recent_activity":"Reduce 7.91%",
+            "reported_price":"$31.72",
+            "ticker":"CSCO"
+        },
+        {
+            "name":"Wells Fargo",
+            "num_shares":"44,900",
+            "portfolio_weight":"3.42",
+            "recent_activity":" ",
+            "reported_price":"$44.28",
+            "ticker":"WFC"
+        },
+        {
+            "name":"Gilead Sciences",
+            "num_shares":"24,800",
+            "portfolio_weight":"3.37",
+            "recent_activity":"Add 11.71%",
+            "reported_price":"$79.11",
+            "ticker":"GILD"
+        },
+        {
+            "name":"Charles Schwab",
+            "num_shares":"62,000",
+            "portfolio_weight":"3.36",
+            "recent_activity":"Add 1.14%",
+            "reported_price":"$31.56",
+            "ticker":"SCHW"
+        },
+        {
+            "name":"Zimmer Biomet Holdings",
+            "num_shares":"14,600",
+            "portfolio_weight":"3.26",
+            "recent_activity":"Reduce 6.41%",
+            "reported_price":"$130.00",
+            "ticker":"ZBH"
+        },
+        {
+            "name":"Morgan Stanley",
+            "num_shares":"59,000",
+            "portfolio_weight":"3.25",
+            "recent_activity":" ",
+            "reported_price":"$32.07",
+            "ticker":"MS"
+        },
+        {
+            "name":"Devon Energy Corp.",
+            "num_shares":"41,500",
+            "portfolio_weight":"3.15",
+            "recent_activity":"Reduce 8.79%",
+            "reported_price":"$44.12",
+            "ticker":"DVN"
+        },
+        {
+            "name":"State Street Corp.",
+            "num_shares":"26,000",
+            "portfolio_weight":"3.11",
+            "recent_activity":"Reduce 2.62%",
+            "reported_price":"$69.62",
+            "ticker":"STT"
+        },
+        {
+            "name":"Capital One Financial",
+            "num_shares":"24,700",
+            "portfolio_weight":"3.05",
+            "recent_activity":"Reduce 1.98%",
+            "reported_price":"$71.82",
+            "ticker":"COF"
+        },
+        {
+            "name":"United Technologies",
+            "num_shares":"17,000",
+            "portfolio_weight":"2.97",
+            "recent_activity":"Reduce 2.30%",
+            "reported_price":"$101.59",
+            "ticker":"UTX"
+        },
+        {
+            "name":"Schlumberger Ltd.",
+            "num_shares":"21,700",
+            "portfolio_weight":"2.93",
+            "recent_activity":" ",
+            "reported_price":"$78.62",
+            "ticker":"SLB"
+        },
+        {
+            "name":"Procter & Gamble",
+            "num_shares":"19,000",
+            "portfolio_weight":"2.93",
+            "recent_activity":" ",
+            "reported_price":"$89.74",
+            "ticker":"PG"
+        },
+        {
+            "name":"Teva Pharmaceutical Industries Ltd.",
+            "num_shares":"36,500",
+            "portfolio_weight":"2.89",
+            "recent_activity":"Add 8.96%",
+            "reported_price":"$46.00",
+            "ticker":"TEVA"
+        },
+        {
+            "name":"Johnson Controls Intl. plc",
+            "num_shares":"35,768",
+            "portfolio_weight":"2.86",
+            "recent_activity":"Reduce 16.43%",
+            "reported_price":"$46.52",
+            "ticker":"JCI"
+        },
+        {
+            "name":"Occidental Petroleum",
+            "num_shares":"22,700",
+            "portfolio_weight":"2.85",
+            "recent_activity":" ",
+            "reported_price":"$72.91",
+            "ticker":"OXY"
+        },
+        {
+            "name":"Chevron Corp.",
+            "num_shares":"15,700",
+            "portfolio_weight":"2.78",
+            "recent_activity":"Reduce 4.27%",
+            "reported_price":"$102.93",
+            "ticker":"CVX"
+        },
+        {
+            "name":"Caterpillar Inc.",
+            "num_shares":"18,100",
+            "portfolio_weight":"2.76",
+            "recent_activity":"Reduce 7.18%",
+            "reported_price":"$88.78",
+            "ticker":"CAT"
+        },
+        {
+            "name":"Symantec Corp.",
+            "num_shares":"63,000",
+            "portfolio_weight":"2.72",
+            "recent_activity":"Reduce 3.82%",
+            "reported_price":"$25.10",
+            "ticker":"SYMC"
+        },
+        {
+            "name":"Thermo Fisher Scientific",
+            "num_shares":"9,600",
+            "portfolio_weight":"2.63",
+            "recent_activity":"Reduce 4.00%",
+            "reported_price":"$159.06",
+            "ticker":"TMO"
+        },
+        {
+            "name":"CVS Health Corp.",
+            "num_shares":"17,000",
+            "portfolio_weight":"2.60",
+            "recent_activity":"Add 49.12%",
+            "reported_price":"$89.00",
+            "ticker":"CVS"
+        },
+        {
+            "name":"Viacom Inc.",
+            "num_shares":"34,500",
+            "portfolio_weight":"2.26",
+            "recent_activity":"Reduce 2.82%",
+            "reported_price":"$38.09",
+            "ticker":"VIAB"
+        },
+        {
+            "name":"ConocoPhillips",
+            "num_shares":"28,700",
+            "portfolio_weight":"2.15",
+            "recent_activity":" ",
+            "reported_price":"$43.48",
+            "ticker":"COP"
+        },
+        {
+            "name":"American Express",
+            "num_shares":"19,200",
+            "portfolio_weight":"2.11",
+            "recent_activity":" ",
+            "reported_price":"$64.06",
+            "ticker":"AXP"
+        },
+        {
+            "name":"PepsiCo Inc.",
+            "num_shares":"10,200",
+            "portfolio_weight":"1.91",
+            "recent_activity":"Reduce 3.77%",
+            "reported_price":"$108.73",
+            "ticker":"PEP"
+        },
+        {
+            "name":"Harley-Davidson",
+            "num_shares":"20,400",
+            "portfolio_weight":"1.84",
+            "recent_activity":" ",
+            "reported_price":"$52.60",
+            "ticker":"HOG"
+        },
+        {
+            "name":"BB&T Corp.",
+            "num_shares":"26,500",
+            "portfolio_weight":"1.72",
+            "recent_activity":" ",
+            "reported_price":"$37.74",
+            "ticker":"BBT"
+        },
+        {
+            "name":"Chubb Limited",
+            "num_shares":"7,000",
+            "portfolio_weight":"1.51",
+            "recent_activity":" ",
+            "reported_price":"$125.71",
+            "ticker":"CB"
+        },
+        {
+            "name":"HP Inc.",
+            "num_shares":"46,000",
+            "portfolio_weight":"1.23",
+            "recent_activity":"Reduce 19.30%",
+            "reported_price":"$15.52",
+            "ticker":"HPQ"
+        },
+        {
+            "name":"AbbVie Inc.",
+            "num_shares":"9,700",
+            "portfolio_weight":"1.05",
+            "recent_activity":"Add 56.45%",
+            "reported_price":"$63.09",
+            "ticker":"ABBV"
+        },
+        {
+            "name":"Apple Inc.",
+            "num_shares":"3,800",
+            "portfolio_weight":"0.74",
+            "recent_activity":"Add 8.57%",
+            "reported_price":"$113.16",
+            "ticker":"AAPL"
+        },
+        {
+            "name":"Alphabet Inc. CL C",
+            "num_shares":"450",
+            "portfolio_weight":"0.60",
+            "recent_activity":"Add 125.00%",
+            "reported_price":"$777.78",
+            "ticker":"GOOG"
+        }
+    ]
+}
